@@ -20,7 +20,13 @@ do
   fi
 
    echo -e "merge ${filename} $second"
-   /usr/bin/tv_merge -i $filename -m $second -o "epg.xmltv"
+   tv_merge -i $filename -m $second -o "epg.xmltv"
    i=$((i+1))
 
 done;
+
+#v2
+mv "epg_grab_0.xml" "epg_grab.xml"
+tv_merge -i "epg_grab_1.xml" -m "epg_grab.xml" -o "epg_grab.xml"
+tv_merge -i "epg_grab_2.xml" -m "epg_grab.xml" -o "epg_grab.xml"
+tv_merge -i "epg_grab_3.xml" -m "epg_grab.xml" -o "epg_grab.xml"

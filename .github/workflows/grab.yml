@@ -17,7 +17,8 @@ jobs:
     - name: Gen ch files
       run: |
         sudo apt-get update
-        sudo apt-get install libxml2-utils xmlstarlet -y
+        source ./scripts/multi.sh
+        install_xmltv()
         ./scripts/generate_ch_files.sh
     - name: Commit files
       run: |
@@ -31,19 +32,25 @@ jobs:
         github_token: ${{ secrets.GITHUB_TOKEN }}
   grab_v2:
     needs: split
+    strategy:
+      matrix:
+        ch: [0, 1, 2, 3]
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
       with:
         ref: master
     - name: Run grabber
-      run: ./scripts/multi.sh
+      run: |
+        source ./scripts/multi.sh
+        install_xmltv()
+        tv_grab_si --output "epg_grab_${{ matrix.ch }}.xml" --config-file "set${{ matrix.ch }}.conf"
     - name: Commit files
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git remote add origin2 https://${{ secrets.GH_TOKEN }}@github.com/sagudev/grab.git
-        git add --all && (git commit -m "Grab v2 ${{ matrix.ch }}" || echo "No changes to commit")
+        git add --all && (git commit -m "Grab v2 set${{ matrix.ch }}" || echo "No changes to commit")
         until (git pull --rebase && git push origin2 HEAD:master)
         do
           echo "Try again"
@@ -80,8 +87,10 @@ jobs:
     - name: Merge
       run: |
         sudo apt-get update
-        sudo apt-get install libxml2-utils xmlstarlet xmltv dos2unix zip -y
+        source ./scripts/multi.sh
+        install_xmltv()
         ./scripts/merge.sh
+        merge()
     - name: Pack
       run: |
         tar zcvf epg.tar.gz epg.xmltv && zip -r epg.zip epg.xmltv

@@ -30,3 +30,14 @@ do
   echo '</settings>' >> "$f.xml"
   xmllint "$f.xml" --format --output "$f.xml"
 done
+
+# v2
+echo "none" | tv_grab_si --configure
+cp  ~/.xmltv/tv_grab_si.conf set0.conf
+cp  ~/.xmltv/tv_grab_si.conf set1.conf
+cp  ~/.xmltv/tv_grab_si.conf set2.conf
+cp  ~/.xmltv/tv_grab_si.conf set3.conf
+sed '0,50{s/!/=/}' set0.conf
+sed '50,100{s/!/=/}' set1.conf
+sed '100,150{s/!/=/}' set2.conf
+sed '150,$s{s/!/=/}' set3.conf
