@@ -60,7 +60,7 @@ perl Makefile.PL --yes
 make
 sudo make install
 cd ..
-rm xmltv
+rm xmltv -rf
 echo "all" | tv_grab_si --configure
 tv_grab_si --output "epg_grab.xmltv"
 ## Download data from ITAK (if failed do not merge)

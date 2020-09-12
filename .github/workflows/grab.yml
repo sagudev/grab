@@ -29,6 +29,25 @@ jobs:
       uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
+  grab_v2:
+    needs: split
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        ref: master
+    - name: Run grabber
+      run: ./scripts/multi.sh
+    - name: Commit files
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git remote add origin2 https://${{ secrets.GH_TOKEN }}@github.com/sagudev/grab.git
+        git add --all && (git commit -m "Grab v2 ${{ matrix.ch }}" || echo "No changes to commit")
+        until (git pull --rebase && git push origin2 HEAD:master)
+        do
+          echo "Try again"
+        done
   grab_wg:
     needs: split
     strategy:
@@ -47,25 +66,6 @@ jobs:
         git config --local user.name "GitHub Action"
         git remote add origin2 https://${{ secrets.GH_TOKEN }}@github.com/sagudev/grab.git
         git add --all && (git commit -m "Webgrab ${{ matrix.ch }}" || echo "No changes to commit")
-        until (git pull --rebase && git push origin2 HEAD:master)
-        do
-          echo "Try again"
-        done
-  grab_v2:
-    needs: split
-    runs-on: ubuntu-latest
-    steps:
-    - uses: actions/checkout@v2
-      with:
-        ref: master
-    - name: Run grabber
-      run: ./scripts/multi.sh
-    - name: Commit files
-      run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git remote add origin2 https://${{ secrets.GH_TOKEN }}@github.com/sagudev/grab.git
-        git add --all && (git commit -m "Grab v2 ${{ matrix.ch }}" || echo "No changes to commit")
         until (git pull --rebase && git push origin2 HEAD:master)
         do
           echo "Try again"
