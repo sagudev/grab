@@ -62,7 +62,7 @@ function install_xmltv() {
     wget -q https://github.com/sagudev/xmltv/releases/download/siol0/xmltv-siol0.tar.gz -O /tmp/xmltv.xml.gz
     cd /tmp
     tar -xvzf ./xmltv.xml.gz
-    cd ~/xmltv
+    cd $GITHUB_WORKSPACE
     export PATH="/tmp/xmltv/bin:$PATH"
     # download src
     #git clone https://github.com/sagudev/xmltv.git
