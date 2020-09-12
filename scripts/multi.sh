@@ -104,4 +104,4 @@ done < ./itak.conf
 tv_sort --by-channel --output "epg_grab_s.xml"  "epg_grab.xml"
 tv_sort --by-channel --output "epg_b_s.xml"  "epg_b.xml"
 /usr/bin/tv_merge -i "epg_grab_s.xml" -m "epg_b_s.xml" -o "epg_v2.xmltv"
-rm epg_grab* epg_b*.xml
+rm epg_grab* epg_b*.xml -rf
