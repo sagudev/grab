@@ -59,16 +59,16 @@ sudo apt install -y git libxml2-utils xmlstarlet xmltv dos2unix zip libarchive-z
     make \
     perl \
     perl-tk
+
 ### download src
 git clone https://github.com/sagudev/xmltv.git
 cd xmltv
-### build
+
+### build and install
 perl Makefile.PL --yes
 make
-### install
 sudo make install
 cd ..
-rm xmltv -rf
 
 ## Grab using tv_grab_si
 echo "all" | tv_grab_si --configure
@@ -104,4 +104,7 @@ done < ./itak.conf
 tv_sort --by-channel --output "epg_grab_s.xml"  "epg_grab.xml"
 tv_sort --by-channel --output "epg_b_s.xml"  "epg_b.xml"
 /usr/bin/tv_merge -i "epg_grab_s.xml" -m "epg_b_s.xml" -o "epg_v2.xmltv"
+
+# clean
 rm epg_grab* epg_b*.xml -rf
+rm xmltv -rf
