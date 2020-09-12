@@ -43,7 +43,7 @@ jobs:
       run: |
         source ./scripts/multi.sh
         install_xmltv
-        tv_grab_si --output "epg_grab_${{ matrix.ch }}.xml" --config-file "set${{ matrix.ch }}.conf"
+        tv_grab_si --output "epg_grab_${{ matrix.ch }}.xml" --config-file "./ch/set${{ matrix.ch }}.conf"
     - name: Commit files
       run: |
         git config --local user.email "action@github.com"
