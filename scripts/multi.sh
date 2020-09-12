@@ -59,20 +59,21 @@ function install_xmltv() {
         perl \
         perl-tk
 
-    wget -q https://github.com/sagudev/xmltv/releases/download/siol0/xmltv-siol0.tar.gz -O /tmp/xmltv.xml.gz
-    cd /tmp
-    tar -xvzf ./xmltv.xml.gz
-    cd $GITHUB_WORKSPACE
-    export PATH="/tmp/xmltv/bin:$PATH"
+    #wget -q https://github.com/sagudev/xmltv/releases/download/siol0/xmltv-siol0.tar.gz -O /tmp/xmltv.xml.gz
+    #cd /tmp
+    #tar -xvzf ./xmltv.xml.gz
+    #cd $GITHUB_WORKSPACE
+    #export PATH="/tmp/xmltv/bin:$PATH"
     # download src
-    #git clone https://github.com/sagudev/xmltv.git
-    #cd xmltv
+    git clone https://github.com/sagudev/xmltv.git
+    cd xmltv
 
     # build and install
-    #perl Makefile.PL --yes
-    #make
-    #sudo make install
-    #cd ..
+    perl Makefile.PL --yes
+    make
+    sudo make install
+    cd ..
+    rm -rf xmltv
 }
 
 ## Grab using tv_grab_si
