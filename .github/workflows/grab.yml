@@ -1,0 +1,101 @@
+name: CI
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+  schedule:
+    # 5:05 everyday
+    - cron:  '5 3 * * *'
+
+jobs:
+  split:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Gen ch files
+      run: |
+        sudo apt-get update
+        sudo apt-get install libxml2-utils xmlstarlet -y
+        ./scripts/generate_ch_files.sh
+    - name: Commit files
+      run: |
+        git add .
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git commit -m "Push" -a || true
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+  grab_wg:
+    needs: split
+    strategy:
+      matrix:
+        ch: [slo00, slo01, slo02, slo03, slo04, slo05, slo06, slo07, slo08, slo09, slo10]
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        ref: master
+    - name: Run grabber
+      run: docker run --rm -v "${PWD}/ch/"${{ matrix.ch }}".xml:/config/WebGrab++.config.xml" -v "${PWD}:/data" synker/webgraboneshot:latest
+    - name: Commit files
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git remote add origin2 https://${{ secrets.GH_TOKEN }}@github.com/sagudev/grab.git
+        git add --all && (git commit -m "Webgrab ${{ matrix.ch }}" || echo "No changes to commit")
+        until (git pull --rebase && git push origin2 HEAD:master)
+        do
+          echo "Try again"
+        done
+  grab_v2:
+    needs: split
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        ref: master
+    - name: Run grabber
+      run: ./scripts/multi.sh
+    - name: Commit files
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git remote add origin2 https://${{ secrets.GH_TOKEN }}@github.com/sagudev/grab.git
+        git add --all && (git commit -m "Grab v2 ${{ matrix.ch }}" || echo "No changes to commit")
+        until (git pull --rebase && git push origin2 HEAD:master)
+        do
+          echo "Try again"
+        done
+  pack:
+    needs: [grab_v2, grab_wg]
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        ref: master
+    - name: Merge
+      run: |
+        sudo apt-get update
+        sudo apt-get install libxml2-utils xmlstarlet xmltv dos2unix zip -y
+        ./scripts/merge.sh
+    - name: Pack
+      run: |
+        tar zcvf epg.tar.gz epg.xmltv && zip -r epg.zip epg.xmltv
+        tar zcvf epg_v2.tar.gz epg_v2.xmltv && zip -r epg_v2.zip epg_v2.xmltv
+    - name: Commit files
+      run: |
+        git add .
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git commit -m "Push" -a || true
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+    - name: Deploy to gh-pages 
+      run: |
+        curl -X POST https://api.github.com/repos/sagudev/grab/pages/builds -H "Accept: application/vnd.github.mister-fantastic-preview+json" -u sagudev:${{ secrets.GH_TOKEN }}
