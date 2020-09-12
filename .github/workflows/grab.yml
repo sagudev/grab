@@ -17,8 +17,8 @@ jobs:
     - name: Gen ch files
       run: |
         source ./scripts/multi.sh
-        install_xmltv()
-        bash ./scripts/generate_ch_files.sh
+        install_xmltv
+        ./scripts/generate_ch_files.sh
     - name: Commit files
       run: |
         git add .
@@ -42,7 +42,7 @@ jobs:
     - name: Run grabber
       run: |
         source ./scripts/multi.sh
-        install_xmltv()
+        install_xmltv
         tv_grab_si --output "epg_grab_${{ matrix.ch }}.xml" --config-file "set${{ matrix.ch }}.conf"
     - name: Commit files
       run: |
@@ -86,9 +86,9 @@ jobs:
     - name: Merge
       run: |
         source ./scripts/multi.sh
-        install_xmltv()
+        install_xmltv
         ./scripts/merge.sh
-        merge()
+        merge
     - name: Pack
       run: |
         tar zcvf epg.tar.gz epg.xmltv && zip -r epg.zip epg.xmltv
