@@ -40,4 +40,4 @@ cp  ~/.xmltv/tv_grab_si.conf set3.conf
 sed -i -e '1,50{s/!/=/}' set0.conf
 sed -i -e '50,100{s/!/=/}' set1.conf
 sed -i -e '100,150{s/!/=/}' set2.conf
-sed -i -e '150,$s{s/!/=/}' set3.conf
+sed -i -e '150,$s {s/!/=/}' set3.conf
