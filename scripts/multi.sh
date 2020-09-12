@@ -101,8 +101,11 @@ while read -r itak_ch siol_id siol_name; do
 done < ./itak.conf
 
 # Sort and merge
+echo "Sorting epg_grab.xml"
 tv_sort --by-channel --output "epg_grab_s.xml"  "epg_grab.xml"
+echo "Sort epg_b.xml"
 tv_sort --by-channel --output "epg_b_s.xml"  "epg_b.xml"
+echo "Merging"
 /usr/bin/tv_merge -i "epg_grab_s.xml" -m "epg_b_s.xml" -o "epg_v2.xmltv"
 
 # clean
