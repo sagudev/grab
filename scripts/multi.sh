@@ -100,8 +100,8 @@ function merge() {
             id_r='id="'$siol_id'"'
             cn='channel="'$itak_ch'"'
             cn_r='channel="'$siol_id'"'
-            n='>'$itak_ch'</display-name>'
-            n_r='>'$siol_name'</display-name>'
+            n=">$itak_ch</display-name>"
+            n_r=">$siol_name</display-name>"
             ### do replace
             sed -i -e "s,${id},${id_r},g" -e "s,${cn},${cn_r},g" -e "s,${n},${n_r},g" "epg_b.xml"
         fi
