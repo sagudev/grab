@@ -18,7 +18,7 @@ jobs:
       run: |
         source ./scripts/multi.sh
         install_xmltv()
-        ./scripts/generate_ch_files.sh
+        bash ./scripts/generate_ch_files.sh
     - name: Commit files
       run: |
         git add .
