@@ -26,5 +26,11 @@ https://github.com/sagudev/grab/blob/master/epg.tar.gz?raw=true
 
 https://sagudev.github.io/grab/epg.tar.gz (priporočeno)
 
+## v2 (beta)
+
+https://sagudev.github.io/grab/epg_v2.tar.gz
+
+pa usi linki k so gor samo epg -> epg_v2
+
 ## Zahvale
 Posebne zahvale avtorju Fazzani/grab na katerem temelji ta repozitorij.
