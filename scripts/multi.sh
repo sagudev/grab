@@ -114,6 +114,10 @@ function merge() {
     tv_sort --by-channel --output "epg_b_s.xml"  "epg_b.xml"
     echo "Merging"
     tv_merge -i "epg_grab_s.xml" -m "epg_b_s.xml" -o "epg_v2.xmltv"
+    # after merge same data is wrong
+    echo "Normalize"
+    xmlstarlet tr normalize.xsl epg_v2.xmltv > epg_v2_n.xml
+    mv -f epg_v2.xml epg_v2.xml
 }
 
 function clr() {
