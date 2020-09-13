@@ -88,7 +88,7 @@ function merge() {
     ## Extract data
     ### tar files are sometimes corrupted so we are using 7z to extract
     sudo apt install p7zip-full p7zip-rar -y
-    7z e epg_b.xml.gz
+    7z e epg_b.xml.gz -y
 
     ## Eq. data
     ### Itak id|siol_id|siol name
