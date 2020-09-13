@@ -119,5 +119,5 @@ function merge() {
 
 function clr() {
     # clean
-    #rm epg_grab* epg_b*.xml -rf
+    rm epg_grab* epg_b*.xml -rf
 }
