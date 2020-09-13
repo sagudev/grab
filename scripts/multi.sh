@@ -117,7 +117,7 @@ function merge() {
     # after merge same data is wrong
     echo "Normalize"
     xmlstarlet tr normalize.xsl epg_v2.xmltv > epg_v2_n.xml
-    mv -f epg_v2.xml epg_v2.xml
+    mv -f epg_v2_n.xml epg_v2.xml
 }
 
 function clr() {
