@@ -30,3 +30,8 @@ mv "epg_grab_0.xml" "epg_grab.xml"
 tv_merge -i "epg_grab_1.xml" -m "epg_grab.xml" -o "epg_grab.xml"
 tv_merge -i "epg_grab_2.xml" -m "epg_grab.xml" -o "epg_grab.xml"
 tv_merge -i "epg_grab_3.xml" -m "epg_grab.xml" -o "epg_grab.xml"
+
+# after merge same data is wrong
+echo "Normalize"
+xmlstarlet tr normalize.xsl epg_grab.xml > epg_grab_n.xml
+mv -f epg_grab_n.xml epg_grab.xml
