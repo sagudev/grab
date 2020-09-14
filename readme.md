@@ -32,5 +32,11 @@ https://sagudev.github.io/grab/epg_v2.tar.gz
 
 pa usi linki k so gor samo epg -> epg_v2
 
+## ostali
+
+epg_v2_2 ma merge order drugačen
+
+epg_grab ma pa samo data od mojga greberja
+
 ## Zahvale
 Posebne zahvale avtorju Fazzani/grab na katerem temelji ta repozitorij.
