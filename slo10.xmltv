@@ -1714,19 +1714,22 @@
   <programme start="20200921171000 +0200" stop="20200921174500 +0200" channel="ZDF">
     <title lang="sl">Pozdravljena, Nemčija</title>
   </programme>
-  <programme start="20200921174500 +0200" stop="20200921180000 +0200" channel="ZDF">
+  <programme start="20200921174500 +0200" stop="20200921180500 +0200" channel="ZDF">
     <title lang="sl">Ljudje danes</title>
   </programme>
-  <programme start="20200921180000 +0200" stop="20200921190000 +0200" channel="ZDF">
+  <programme start="20200921180500 +0200" stop="20200921190000 +0200" channel="ZDF">
     <title lang="sl">Preiskovalna enota München</title>
   </programme>
-  <programme start="20200921190000 +0200" stop="20200921192000 +0200" channel="ZDF">
+  <programme start="20200921190000 +0200" stop="20200921191900 +0200" channel="ZDF">
     <title lang="sl">Danes</title>
   </programme>
-  <programme start="20200921192000 +0200" stop="20200921192500 +0200" channel="ZDF">
+  <programme start="20200921191900 +0200" stop="20200921192000 +0200" channel="ZDF">
     <title lang="sl">Vreme</title>
   </programme>
-  <programme start="20200921192500 +0200" stop="20200921201500 +0200" channel="ZDF">
+  <programme start="20200921192000 +0200" stop="20200921194000 +0200" channel="ZDF">
+    <title lang="sl">ZDF Specialno</title>
+  </programme>
+  <programme start="20200921194000 +0200" stop="20200921201500 +0200" channel="ZDF">
     <title lang="sl">Potrošniški magazin</title>
   </programme>
   <programme start="20200921201500 +0200" stop="20200921214500 +0200" channel="ZDF">
@@ -2515,11 +2518,8 @@
   <programme start="20200924084500 +0200" stop="20200924103000 +0200" channel="Šport TV 1">
     <title lang="sl">Nogomet (M): Sassuolo - Cagliari, Serie A</title>
   </programme>
-  <programme start="20200924103000 +0200" stop="20200924113000 +0200" channel="Šport TV 1">
-    <title lang="sl">Motokros: MXGP, VN Emilije Romanije, 1. dirka</title>
-  </programme>
-  <programme start="20200924113000 +0200" stop="20200924123000 +0200" channel="Šport TV 1">
-    <title lang="sl">Motokros: MXGP, VN Emilije Romanije, 2. dirka</title>
+  <programme start="20200924103000 +0200" stop="20200924123000 +0200" channel="Šport TV 1">
+    <title lang="sl">Hokej (M): Dallas - Tampa Bay, NHL Playoffs, tretja tekma finala</title>
   </programme>
   <programme start="20200924123000 +0200" stop="20200924141500 +0200" channel="Šport TV 1">
     <title lang="sl">Nogomet (M): Genoa - Crotone, Serie A</title>
@@ -2681,7 +2681,7 @@
     <title lang="sl">Speedway: Dackarna - Indianerna, Švedsko prvenstvo, četrtfinale</title>
   </programme>
   <programme start="20200924084500 +0200" stop="20200924103000 +0200" channel="Šport TV 2">
-    <title lang="sl">Nogomet (M): Milan - Bologna, Serie A</title>
+    <title lang="sl">Košarka (M): Baskonia - Valencia, Španska liga</title>
   </programme>
   <programme start="20200924103000 +0200" stop="20200924113000 +0200" channel="Šport TV 2">
     <title lang="sl">Rally: WRC, Turčija, vrhunci</title>
@@ -2702,7 +2702,7 @@
     <title lang="sl">Nogomet (M): Sassuolo - Cagliari, Serie A</title>
   </programme>
   <programme start="20200924193000 +0200" stop="20200924213000 +0200" channel="Šport TV 2">
-    <title lang="sl">Nogomet (M): Genoa - Crotone, Serie A</title>
+    <title lang="sl">Hokej (M): Dallas - Tampa Bay, NHL Playoffs, tretja tekma finala</title>
   </programme>
   <programme start="20200924213000 +0200" stop="20200924231500 +0200" channel="Šport TV 2">
     <title lang="sl">Nogomet (M): Hellas Verona - Roma, Serie A</title>
@@ -2726,7 +2726,7 @@
     <title lang="sl">Nogomet (M): Clermont - Toulouse, Ligue 2</title>
   </programme>
   <programme start="20200921110000 +0200" stop="20200921130000 +0200" channel="Šport TV 3">
-    <title lang="sl">Nogomet (M): Juventus - Sampdoria, Serie A</title>
+    <title lang="sl">Nogomet (M): Varaždin - Osijek, Hrvaška liga</title>
   </programme>
   <programme start="20200921130000 +0200" stop="20200921140000 +0200" channel="Šport TV 3">
     <title lang="sl">Rally: WRC, Turčija, 4. HP</title>
@@ -2741,10 +2741,10 @@
     <title lang="sl">Rally: WRC, Turčija, 12. HP</title>
   </programme>
   <programme start="20200921173000 +0200" stop="20200921193000 +0200" channel="Šport TV 3">
-    <title lang="sl">Nogomet (M): Marseille - Lille, Ligue 1</title>
+    <title lang="sl">Nogomet (M): Dinamo - Slaven, Hrvaška liga</title>
   </programme>
   <programme start="20200921193000 +0200" stop="20200921211500 +0200" channel="Šport TV 3">
-    <title lang="sl">Nogomet (M): Metz - Reims, Ligue 1</title>
+    <title lang="sl">Košarka (M): Baskonia - Valencia, Španska liga</title>
   </programme>
   <programme start="20200921211500 +0200" stop="20200921221500 +0200" channel="Šport TV 3">
     <title lang="sl">Rally: WRC, Turčija, vrhunci</title>
@@ -2759,7 +2759,7 @@
     <title lang="sl">Nogomet (M): Slavia Praha - Teplice, Češka liga</title>
   </programme>
   <programme start="20200922030000 +0200" stop="20200922050000 +0200" channel="Šport TV 3">
-    <title lang="sl">Nogomet (M): Sparta Praha - Fastav Zlin, Češka liga</title>
+    <title lang="sl">Nogomet (M): Dinamo - Slaven, Hrvaška liga</title>
   </programme>
   <programme start="20200922050000 +0200" stop="20200922064500 +0200" channel="Šport TV 3">
     <title lang="sl">Nogomet (M): Metz - Reims, Ligue 1</title>
@@ -2779,11 +2779,8 @@
   <programme start="20200922133000 +0200" stop="20200922151500 +0200" channel="Šport TV 3">
     <title lang="sl">Nogomet (M): Auxerre - Troyes, Ligue 2</title>
   </programme>
-  <programme start="20200922151500 +0200" stop="20200922161500 +0200" channel="Šport TV 3">
-    <title lang="sl">Motokros: MX2, VN Emilije Romanije, 1. dirka</title>
-  </programme>
-  <programme start="20200922161500 +0200" stop="20200922171500 +0200" channel="Šport TV 3">
-    <title lang="sl">Motokros: MX2, VN Emilije Romanije, 2. dirka</title>
+  <programme start="20200922151500 +0200" stop="20200922171500 +0200" channel="Šport TV 3">
+    <title lang="sl">Hokej (M): Tampa Bay - Dallas, NHL Playoffs, druga tekma finala</title>
   </programme>
   <programme start="20200922171500 +0200" stop="20200922190000 +0200" channel="Šport TV 3">
     <title lang="sl">Nogomet (M): Rennes - Monaco, Ligue 1</title>
@@ -2804,7 +2801,7 @@
     <title lang="sl">Speedway: Indianerna - Dackarna, Švedsko prvenstvo, četrtfinale</title>
   </programme>
   <programme start="20200923011500 +0200" stop="20200923030000 +0200" channel="Šport TV 3">
-    <title lang="sl">Nogomet (M): Lyon - Nimes, Ligue 1</title>
+    <title lang="sl">Košarka (M): Baskonia - Valencia, Španska liga</title>
   </programme>
   <programme start="20200923030000 +0200" stop="20200923040000 +0200" channel="Šport TV 3">
     <title lang="sl">Nogomet (M): Serie A, vrhunci 1. kola</title>
@@ -2849,16 +2846,16 @@
     <title lang="sl">Gorski teki: Ultra-Trail World Tour</title>
   </programme>
   <programme start="20200923193000 +0200" stop="20200923213000 +0200" channel="Šport TV 3">
-    <title lang="sl">Nogomet (M): Rennes - Monaco, Ligue 1</title>
+    <title lang="sl">Nogomet (M): Varaždin - Osijek, Hrvaška liga</title>
   </programme>
   <programme start="20200923213000 +0200" stop="20200923231500 +0200" channel="Šport TV 3">
-    <title lang="sl">Nogomet (M): Marseille - Lille, Ligue 1</title>
+    <title lang="sl">Nogomet (M): Dinamo - Slaven, Hrvaška liga</title>
   </programme>
   <programme start="20200923231500 +0200" stop="20200924011500 +0200" channel="Šport TV 3">
     <title lang="sl">Speedway: Dackarna - Indianerna, Švedsko prvenstvo, četrtfinale</title>
   </programme>
   <programme start="20200924011500 +0200" stop="20200924030000 +0200" channel="Šport TV 3">
-    <title lang="sl">Nogomet (M): Lens - Bordeaux, Ligue 1</title>
+    <title lang="sl">Košarka (M) Real Madrid - Barcelona, Španski superpokal, finale</title>
   </programme>
   <programme start="20200924030000 +0200" stop="20200924050000 +0200" channel="Šport TV 3">
     <title lang="sl">Nogomet (M): Slavia Praha - Teplice, Češka liga</title>
@@ -2885,7 +2882,7 @@
     <title lang="sl">Nogomet (M): Lyon - Nimes, Ligue 1</title>
   </programme>
   <programme start="20200924151500 +0200" stop="20200924171500 +0200" channel="Šport TV 3">
-    <title lang="sl">Speedway: Dackarna - Indianerna, Švedsko prvenstvo, četrtfinale</title>
+    <title lang="sl">Hokej (M): Dallas - Tampa Bay, NHL Playoffs, tretja tekma finala</title>
   </programme>
   <programme start="20200924171500 +0200" stop="20200924190000 +0200" channel="Šport TV 3">
     <title lang="sl">Nogomet (M): Marseille - Lille, Ligue 1</title>
