@@ -37,7 +37,9 @@ cp  ~/.xmltv/tv_grab_si.conf set0.conf
 cp  ~/.xmltv/tv_grab_si.conf set1.conf
 cp  ~/.xmltv/tv_grab_si.conf set2.conf
 cp  ~/.xmltv/tv_grab_si.conf set3.conf
+cp  ~/.xmltv/tv_grab_si.conf set4.conf
 sed -i -e '1,50{s/!/=/}' set0.conf
 sed -i -e '51,100{s/!/=/}' set1.conf
 sed -i -e '101,150{s/!/=/}' set2.conf
-sed -i -e '151,300{s/!/=/}' set3.conf
+sed -i -e '151,200{s/!/=/}' set3.conf
+sed -i -e '201,300{s/!/=/}' set4.conf

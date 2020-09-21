@@ -33,7 +33,7 @@ jobs:
     needs: split
     strategy:
       matrix:
-        ch: [0, 1, 2, 3]
+        ch: [0, 1, 2, 3, 4]
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
