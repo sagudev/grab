@@ -602,10 +602,10 @@
   <programme start="20200922235000 +0200" stop="20200923002500 +0200" channel="Dr. Fit">
     <title lang="sl">Zbistri se!</title>
   </programme>
-  <programme start="20200923002500 +0200" stop="20200923005300 +0200" channel="Dr. Fit">
+  <programme start="20200923002500 +0200" stop="20200923005200 +0200" channel="Dr. Fit">
     <title lang="sl">Neozdravljivi</title>
   </programme>
-  <programme start="20200923005300 +0200" stop="20200923011400 +0200" channel="Dr. Fit">
+  <programme start="20200923005200 +0200" stop="20200923011400 +0200" channel="Dr. Fit">
     <title lang="sl">Bodite fit z Jeffom Halevyjem</title>
   </programme>
   <programme start="20200923011400 +0200" stop="20200923013600 +0200" channel="Dr. Fit">
@@ -806,10 +806,10 @@
   <programme start="20200924173000 +0200" stop="20200924182000 +0200" channel="Dr. Fit">
     <title lang="sl">Joga z Jaijem Sugrimom</title>
   </programme>
-  <programme start="20200924182000 +0200" stop="20200924191600 +0200" channel="Dr. Fit">
+  <programme start="20200924182000 +0200" stop="20200924191500 +0200" channel="Dr. Fit">
     <title lang="sl">Čudodelec jogi Cameron</title>
   </programme>
-  <programme start="20200924191600 +0200" stop="20200924200000 +0200" channel="Dr. Fit">
+  <programme start="20200924191500 +0200" stop="20200924200000 +0200" channel="Dr. Fit">
     <title lang="sl">Preobrazba telesa s Khloe Kardashian</title>
   </programme>
   <programme start="20200924200000 +0200" stop="20200924202900 +0200" channel="Dr. Fit">
@@ -3356,26 +3356,41 @@
   <programme start="20200921030000 +0200" stop="20200921050100 +0200" channel="Eurosport">
     <title lang="sl">Motošport: 24 ur Le Mansa</title>
   </programme>
-  <programme start="20200921050100 +0200" stop="20200921150500 +0200" channel="Eurosport">
+  <programme start="20200921050100 +0200" stop="20200921083300 +0200" channel="Eurosport">
     <title lang="sl">Kolesarstvo: Dirka po Franciji, 21. etapa: Mantes-la-Jolie / Paris - 122km</title>
   </programme>
-  <programme start="20200921150500 +0200" stop="20200921154000 +0200" channel="Eurosport">
-    <title lang="sl">Kolesarstvo: Dirka po Franciji, 20. etapa: Lure / La Planche des Belles Filles - 36, 2 km</title>
+  <programme start="20200921083300 +0200" stop="20200921103000 +0200" channel="Eurosport">
+    <title lang="sl">Snooker: Svetovno prvenstvo - Finale: K. Wilson (Eng) v R. O'Sullivan (Eng)</title>
   </programme>
-  <programme start="20200921154000 +0200" stop="20200921195700 +0200" channel="Eurosport">
-    <title lang="sl">Kolesarstvo: Dirka po Franciji, 21. etapa: Mantes-la-Jolie / Paris - 122km</title>
-  </programme>
-  <programme start="20200921195700 +0200" stop="20200921220500 +0200" channel="Eurosport">
+  <programme start="20200921103000 +0200" stop="20200921120000 +0200" channel="Eurosport">
     <title lang="sl">Motošport: 24 ur Le Mansa</title>
   </programme>
-  <programme start="20200921220500 +0200" stop="20200922000000 +0200" channel="Eurosport">
+  <programme start="20200921120000 +0200" stop="20200921140000 +0200" channel="Eurosport">
     <title lang="sl">Kolesarstvo: Dirka po Franciji, 21. etapa: Mantes-la-Jolie / Paris - 122km</title>
   </programme>
-  <programme start="20200922000000 +0200" stop="20200922012900 +0200" channel="Eurosport">
-    <title lang="sl">Motošport: 24 ur Le Mansa</title>
+  <programme start="20200921140000 +0200" stop="20200921153000 +0200" channel="Eurosport">
+    <title lang="sl">Snooker: Svetovno prvenstvo - Finale: K. Wilson (Eng) v R. O'Sullivan (Eng)</title>
+  </programme>
+  <programme start="20200921153000 +0200" stop="20200921183000 +0200" channel="Eurosport">
+    <title lang="sl">Snooker: Evropski Masters - 1. krog</title>
+  </programme>
+  <programme start="20200921183000 +0200" stop="20200921194100 +0200" channel="Eurosport">
+    <title lang="sl">Kolesarstvo: Tour de France</title>
+  </programme>
+  <programme start="20200921194100 +0200" stop="20200921200000 +0200" channel="Eurosport">
+    <title lang="sl">Snooker: Evropski Masters - 1. krog</title>
+  </programme>
+  <programme start="20200921200000 +0200" stop="20200921231200 +0200" channel="Eurosport">
+    <title lang="sl">Snooker: Evropski Masters - 1. krog</title>
+  </programme>
+  <programme start="20200921231200 +0200" stop="20200922003000 +0200" channel="Eurosport">
+    <title lang="sl">Tenis: Roland-Garros, Pariz (Fra), kvalifikacije</title>
+  </programme>
+  <programme start="20200922003000 +0200" stop="20200922012900 +0200" channel="Eurosport">
+    <title lang="sl">Kolesarstvo: Tour de France</title>
   </programme>
   <programme start="20200922012900 +0200" stop="20200922030000 +0200" channel="Eurosport">
-    <title lang="sl">Kolesarstvo: Dirka po Franciji, 21. etapa: Mantes-la-Jolie / Paris - 122km</title>
+    <title lang="sl">Snooker: Evropski Masters - 1. krog</title>
   </programme>
   <programme start="20200922030000 +0200" stop="20200922040000 +0200" channel="Eurosport">
     <title lang="sl">Tenis: Roland Garros v Parizu, kvalifikacije</title>
@@ -3521,38 +3536,35 @@
   <programme start="20200921070000 +0200" stop="20200921083000 +0200" channel="Eurosport 2">
     <title lang="sl">Motošport: Svetovno vzdržljivostno prvenstvo v Le Mansu, Francija</title>
   </programme>
-  <programme start="20200921083000 +0200" stop="20200921100000 +0200" channel="Eurosport 2">
+  <programme start="20200921083000 +0200" stop="20200921120000 +0200" channel="Eurosport 2">
     <title lang="sl">Tenis (M): Roland-Garros v Parizu, finale</title>
   </programme>
-  <programme start="20200921100000 +0200" stop="20200921120000 +0200" channel="Eurosport 2">
-    <title lang="sl">Tenis: Roland Garros v Parizu, kvalifikacije</title>
-  </programme>
   <programme start="20200921120000 +0200" stop="20200921140000 +0200" channel="Eurosport 2">
-    <title lang="sl">Tenis: Roland Garros v Parizu, kvalifikacije</title>
+    <title lang="sl">Tenis: Roland-Garros: Pariz (Fra) - Kvalifikacije: [2] P. Martinez (Esp) v D. Masur (Ger)</title>
   </programme>
   <programme start="20200921140000 +0200" stop="20200921160000 +0200" channel="Eurosport 2">
-    <title lang="sl">Tenis: Roland Garros v Parizu, kvalifikacije</title>
+    <title lang="sl">Tenis: Roland-Garros: Pariz (Fra) - Kvalifikacije: [4] P. Sousa (Por) v L. Rosol (Cze)</title>
   </programme>
   <programme start="20200921160000 +0200" stop="20200921180000 +0200" channel="Eurosport 2">
-    <title lang="sl">Tenis: Roland Garros v Parizu, kvalifikacije</title>
+    <title lang="sl">Tenis: Roland-Garros: Pariz (Fra) - Kvalifikacije: N. Rubin (Usa) v I. Karlovic (Cro) [19]</title>
   </programme>
   <programme start="20200921180000 +0200" stop="20200921200000 +0200" channel="Eurosport 2">
-    <title lang="sl">Tenis: Roland Garros v Parizu, kvalifikacije</title>
+    <title lang="sl">Tenis: Roland-Garros, Pariz (Fra), kvalifikacije</title>
   </programme>
   <programme start="20200921200000 +0200" stop="20200921210000 +0200" channel="Eurosport 2">
-    <title lang="sl">Tenis: Roland Garros v Parizu, kvalifikacije</title>
+    <title lang="sl">Tenis: Roland-Garros, Pariz (Fra), kvalifikacije</title>
   </programme>
   <programme start="20200921210000 +0200" stop="20200921220000 +0200" channel="Eurosport 2">
-    <title lang="sl">Kolesarstvo: Svetovna turneja, Francija, 21. etapa</title>
+    <title lang="sl">Kolesarstvo: Dirka po Franciji, 21. etapa: Mantes-la-Jolie / Paris - 122km</title>
   </programme>
-  <programme start="20200921220000 +0200" stop="20200922000000 +0200" channel="Eurosport 2">
-    <title lang="sl">Motošport: Svetovno vzdržljivostno prvenstvo v Le Mansu, Francija</title>
+  <programme start="20200921220000 +0200" stop="20200922000200 +0200" channel="Eurosport 2">
+    <title lang="sl">Motošport: 24 ur Le Mansa</title>
   </programme>
-  <programme start="20200922000000 +0200" stop="20200922013000 +0200" channel="Eurosport 2">
-    <title lang="sl">Snooker: 1. krog</title>
+  <programme start="20200922000200 +0200" stop="20200922013100 +0200" channel="Eurosport 2">
+    <title lang="sl">Snooker: Evropski Masters - 1. krog</title>
   </programme>
-  <programme start="20200922013000 +0200" stop="20200922030000 +0200" channel="Eurosport 2">
-    <title lang="sl">Tenis: Roland Garros v Parizu, kvalifikacije</title>
+  <programme start="20200922013100 +0200" stop="20200922030000 +0200" channel="Eurosport 2">
+    <title lang="sl">Tenis: Roland-Garros, Pariz (Fra), kvalifikacije</title>
   </programme>
   <programme start="20200922030000 +0200" stop="20200922050000 +0200" channel="Eurosport 2">
     <title lang="sl">Snooker: 1. krog</title>
@@ -4853,13 +4865,13 @@
   <programme start="20200922200000 +0200" stop="20200922210000 +0200" channel="FOX">
     <title lang="sl">Castle</title>
   </programme>
-  <programme start="20200922210000 +0200" stop="20200922225500 +0200" channel="FOX">
+  <programme start="20200922210000 +0200" stop="20200922230000 +0200" channel="FOX">
     <title lang="sl">Možje v črnem 3</title>
   </programme>
-  <programme start="20200922225500 +0200" stop="20200922235000 +0200" channel="FOX">
+  <programme start="20200922230000 +0200" stop="20200922235500 +0200" channel="FOX">
     <title lang="sl">911</title>
   </programme>
-  <programme start="20200922235000 +0200" stop="20200923004500 +0200" channel="FOX">
+  <programme start="20200922235500 +0200" stop="20200923004500 +0200" channel="FOX">
     <title lang="sl">Flash</title>
   </programme>
   <programme start="20200923004500 +0200" stop="20200923013500 +0200" channel="FOX">
@@ -4868,19 +4880,19 @@
   <programme start="20200923013500 +0200" stop="20200923020000 +0200" channel="FOX">
     <title lang="sl">Iz L. A.-ja v Vegas</title>
   </programme>
-  <programme start="20200923020000 +0200" stop="20200923025000 +0200" channel="FOX">
+  <programme start="20200923020000 +0200" stop="20200923030000 +0200" channel="FOX">
     <title lang="sl">Trust</title>
   </programme>
-  <programme start="20200923025000 +0200" stop="20200923034000 +0200" channel="FOX">
+  <programme start="20200923030000 +0200" stop="20200923034000 +0200" channel="FOX">
     <title lang="sl">Agenti SHIELD</title>
   </programme>
-  <programme start="20200923034000 +0200" stop="20200923043000 +0200" channel="FOX">
+  <programme start="20200923034000 +0200" stop="20200923042500 +0200" channel="FOX">
     <title lang="sl">Živi mrtveci</title>
   </programme>
-  <programme start="20200923043000 +0200" stop="20200923051500 +0200" channel="FOX">
+  <programme start="20200923042500 +0200" stop="20200923052000 +0200" channel="FOX">
     <title lang="sl">Trust</title>
   </programme>
-  <programme start="20200923051500 +0200" stop="20200923060000 +0200" channel="FOX">
+  <programme start="20200923052000 +0200" stop="20200923060000 +0200" channel="FOX">
     <title lang="sl">Agenti SHIELD</title>
   </programme>
   <programme start="20200923060000 +0200" stop="20200923062500 +0200" channel="FOX">
@@ -4907,16 +4919,16 @@
   <programme start="20200923105000 +0200" stop="20200923114500 +0200" channel="FOX">
     <title lang="sl">Castle</title>
   </programme>
-  <programme start="20200923114500 +0200" stop="20200923124000 +0200" channel="FOX">
+  <programme start="20200923114500 +0200" stop="20200923123500 +0200" channel="FOX">
     <title lang="sl">Castle</title>
   </programme>
-  <programme start="20200923124000 +0200" stop="20200923142500 +0200" channel="FOX">
+  <programme start="20200923123500 +0200" stop="20200923143000 +0200" channel="FOX">
     <title lang="sl">Možje v črnem 3</title>
   </programme>
-  <programme start="20200923142500 +0200" stop="20200923152000 +0200" channel="FOX">
+  <programme start="20200923143000 +0200" stop="20200923152500 +0200" channel="FOX">
     <title lang="sl">911</title>
   </programme>
-  <programme start="20200923152000 +0200" stop="20200923161500 +0200" channel="FOX">
+  <programme start="20200923152500 +0200" stop="20200923161500 +0200" channel="FOX">
     <title lang="sl">Flash</title>
   </programme>
   <programme start="20200923161500 +0200" stop="20200923171000 +0200" channel="FOX">
@@ -4925,10 +4937,10 @@
   <programme start="20200923171000 +0200" stop="20200923180500 +0200" channel="FOX">
     <title lang="sl">Kosti</title>
   </programme>
-  <programme start="20200923180500 +0200" stop="20200923183000 +0200" channel="FOX">
+  <programme start="20200923180500 +0200" stop="20200923183500 +0200" channel="FOX">
     <title lang="sl">Kevin lahko počaka</title>
   </programme>
-  <programme start="20200923183000 +0200" stop="20200923190000 +0200" channel="FOX">
+  <programme start="20200923183500 +0200" stop="20200923190000 +0200" channel="FOX">
     <title lang="sl">Kevin lahko počaka</title>
   </programme>
   <programme start="20200923190000 +0200" stop="20200923200000 +0200" channel="FOX">
@@ -4937,31 +4949,28 @@
   <programme start="20200923200000 +0200" stop="20200923210000 +0200" channel="FOX">
     <title lang="sl">Castle</title>
   </programme>
-  <programme start="20200923210000 +0200" stop="20200923232000 +0200" channel="FOX">
+  <programme start="20200923210000 +0200" stop="20200923234000 +0200" channel="FOX">
     <title lang="sl">Mumija se vrača</title>
   </programme>
-  <programme start="20200923232000 +0200" stop="20200923235000 +0200" channel="FOX">
-    <title lang="sl">Simpsonovi</title>
-  </programme>
-  <programme start="20200923235000 +0200" stop="20200924004500 +0200" channel="FOX">
+  <programme start="20200923234000 +0200" stop="20200924004000 +0200" channel="FOX">
     <title lang="sl">Flash</title>
   </programme>
-  <programme start="20200924004500 +0200" stop="20200924013500 +0200" channel="FOX">
+  <programme start="20200924004000 +0200" stop="20200924013000 +0200" channel="FOX">
     <title lang="sl">Kosti</title>
   </programme>
-  <programme start="20200924013500 +0200" stop="20200924020000 +0200" channel="FOX">
+  <programme start="20200924013000 +0200" stop="20200924015500 +0200" channel="FOX">
     <title lang="sl">Iz L. A.-ja v Vegas</title>
   </programme>
-  <programme start="20200924020000 +0200" stop="20200924025000 +0200" channel="FOX">
+  <programme start="20200924015500 +0200" stop="20200924025000 +0200" channel="FOX">
     <title lang="sl">Trust</title>
   </programme>
-  <programme start="20200924025000 +0200" stop="20200924034000 +0200" channel="FOX">
+  <programme start="20200924025000 +0200" stop="20200924033000 +0200" channel="FOX">
     <title lang="sl">Agenti SHIELD</title>
   </programme>
-  <programme start="20200924034000 +0200" stop="20200924043000 +0200" channel="FOX">
+  <programme start="20200924033000 +0200" stop="20200924042000 +0200" channel="FOX">
     <title lang="sl">Živi mrtveci</title>
   </programme>
-  <programme start="20200924043000 +0200" stop="20200924051500 +0200" channel="FOX">
+  <programme start="20200924042000 +0200" stop="20200924051500 +0200" channel="FOX">
     <title lang="sl">Trust</title>
   </programme>
   <programme start="20200924051500 +0200" stop="20200924060000 +0200" channel="FOX">
@@ -5435,25 +5444,25 @@
   <programme start="20200922060000 +0200" stop="20200922062000 +0200" channel="FOX Life">
     <title lang="sl">Ljubezen na prvi grižljaj</title>
   </programme>
-  <programme start="20200922062000 +0200" stop="20200922064500 +0200" channel="FOX Life">
+  <programme start="20200922062000 +0200" stop="20200922064000 +0200" channel="FOX Life">
     <title lang="sl">Ljubezen na prvi grižljaj</title>
   </programme>
-  <programme start="20200922064500 +0200" stop="20200922071000 +0200" channel="FOX Life">
+  <programme start="20200922064000 +0200" stop="20200922071000 +0200" channel="FOX Life">
     <title lang="sl">Raymonda imajo vsi radi</title>
   </programme>
   <programme start="20200922071000 +0200" stop="20200922073500 +0200" channel="FOX Life">
     <title lang="sl">Raymonda imajo vsi radi</title>
   </programme>
-  <programme start="20200922073500 +0200" stop="20200922082500 +0200" channel="FOX Life">
+  <programme start="20200922073500 +0200" stop="20200922083000 +0200" channel="FOX Life">
     <title lang="sl">Božja prošnja za prijateljstvo</title>
   </programme>
-  <programme start="20200922082500 +0200" stop="20200922091500 +0200" channel="FOX Life">
+  <programme start="20200922083000 +0200" stop="20200922092000 +0200" channel="FOX Life">
     <title lang="sl">Dinastija</title>
   </programme>
-  <programme start="20200922091500 +0200" stop="20200922101000 +0200" channel="FOX Life">
+  <programme start="20200922092000 +0200" stop="20200922101500 +0200" channel="FOX Life">
     <title lang="sl">Telo kot dokaz</title>
   </programme>
-  <programme start="20200922101000 +0200" stop="20200922110500 +0200" channel="FOX Life">
+  <programme start="20200922101500 +0200" stop="20200922110500 +0200" channel="FOX Life">
     <title lang="sl">Telo kot dokaz</title>
   </programme>
   <programme start="20200922110500 +0200" stop="20200922120000 +0200" channel="FOX Life">
@@ -5462,19 +5471,19 @@
   <programme start="20200922120000 +0200" stop="20200922125500 +0200" channel="FOX Life">
     <title lang="sl">Lepotica in pek</title>
   </programme>
-  <programme start="20200922125500 +0200" stop="20200922135000 +0200" channel="FOX Life">
+  <programme start="20200922125500 +0200" stop="20200922135500 +0200" channel="FOX Life">
     <title lang="sl">Dober boj</title>
   </programme>
-  <programme start="20200922135000 +0200" stop="20200922141500 +0200" channel="FOX Life">
+  <programme start="20200922135500 +0200" stop="20200922141500 +0200" channel="FOX Life">
     <title lang="sl">Ljubezen na prvi grižljaj</title>
   </programme>
   <programme start="20200922141500 +0200" stop="20200922144500 +0200" channel="FOX Life">
     <title lang="sl">Ljubezen na prvi grižljaj</title>
   </programme>
-  <programme start="20200922144500 +0200" stop="20200922151500 +0200" channel="FOX Life">
+  <programme start="20200922144500 +0200" stop="20200922151000 +0200" channel="FOX Life">
     <title lang="sl">Nisem popolna</title>
   </programme>
-  <programme start="20200922151500 +0200" stop="20200922154500 +0200" channel="FOX Life">
+  <programme start="20200922151000 +0200" stop="20200922154500 +0200" channel="FOX Life">
     <title lang="sl">Raymonda imajo vsi radi</title>
   </programme>
   <programme start="20200922154500 +0200" stop="20200922161000 +0200" channel="FOX Life">
@@ -5492,10 +5501,10 @@
   <programme start="20200922190000 +0200" stop="20200922200000 +0200" channel="FOX Life">
     <title lang="sl">Telo kot dokaz</title>
   </programme>
-  <programme start="20200922200000 +0200" stop="20200922210000 +0200" channel="FOX Life">
+  <programme start="20200922200000 +0200" stop="20200922205500 +0200" channel="FOX Life">
     <title lang="sl">Novi Amsterdam</title>
   </programme>
-  <programme start="20200922210000 +0200" stop="20200922220000 +0200" channel="FOX Life">
+  <programme start="20200922205500 +0200" stop="20200922220000 +0200" channel="FOX Life">
     <title lang="sl">Dober boj</title>
   </programme>
   <programme start="20200922220000 +0200" stop="20200922222500 +0200" channel="FOX Life">
@@ -5507,55 +5516,55 @@
   <programme start="20200922225500 +0200" stop="20200922235000 +0200" channel="FOX Life">
     <title lang="sl">Božja prošnja za prijateljstvo</title>
   </programme>
-  <programme start="20200922235000 +0200" stop="20200923004500 +0200" channel="FOX Life">
+  <programme start="20200922235000 +0200" stop="20200923004000 +0200" channel="FOX Life">
     <title lang="sl">Dinastija</title>
   </programme>
-  <programme start="20200923004500 +0200" stop="20200923014000 +0200" channel="FOX Life">
+  <programme start="20200923004000 +0200" stop="20200923013500 +0200" channel="FOX Life">
     <title lang="sl">Klub srečnih ločenk</title>
   </programme>
-  <programme start="20200923014000 +0200" stop="20200923023000 +0200" channel="FOX Life">
+  <programme start="20200923013500 +0200" stop="20200923022500 +0200" channel="FOX Life">
     <title lang="sl">Drzna dekleta</title>
   </programme>
-  <programme start="20200923023000 +0200" stop="20200923031500 +0200" channel="FOX Life">
+  <programme start="20200923022500 +0200" stop="20200923031000 +0200" channel="FOX Life">
     <title lang="sl">Novi Amsterdam</title>
   </programme>
-  <programme start="20200923031500 +0200" stop="20200923034000 +0200" channel="FOX Life">
+  <programme start="20200923031000 +0200" stop="20200923033500 +0200" channel="FOX Life">
     <title lang="sl">Raymonda imajo vsi radi</title>
   </programme>
-  <programme start="20200923034000 +0200" stop="20200923040500 +0200" channel="FOX Life">
+  <programme start="20200923033500 +0200" stop="20200923040000 +0200" channel="FOX Life">
     <title lang="sl">Raymonda imajo vsi radi</title>
   </programme>
-  <programme start="20200923040500 +0200" stop="20200923045000 +0200" channel="FOX Life">
+  <programme start="20200923040000 +0200" stop="20200923044500 +0200" channel="FOX Life">
     <title lang="sl">Klub srečnih ločenk</title>
   </programme>
-  <programme start="20200923045000 +0200" stop="20200923051500 +0200" channel="FOX Life">
+  <programme start="20200923044500 +0200" stop="20200923051000 +0200" channel="FOX Life">
     <title lang="sl">Ljubezen na prvi grižljaj</title>
   </programme>
-  <programme start="20200923051500 +0200" stop="20200923054000 +0200" channel="FOX Life">
+  <programme start="20200923051000 +0200" stop="20200923053500 +0200" channel="FOX Life">
     <title lang="sl">Ljubezen na prvi grižljaj</title>
   </programme>
-  <programme start="20200923054000 +0200" stop="20200923060000 +0200" channel="FOX Life">
+  <programme start="20200923053500 +0200" stop="20200923060000 +0200" channel="FOX Life">
     <title lang="sl">Nisem popolna</title>
   </programme>
   <programme start="20200923060000 +0200" stop="20200923062000 +0200" channel="FOX Life">
     <title lang="sl">Ljubezen na prvi grižljaj</title>
   </programme>
-  <programme start="20200923062000 +0200" stop="20200923064500 +0200" channel="FOX Life">
+  <programme start="20200923062000 +0200" stop="20200923064000 +0200" channel="FOX Life">
     <title lang="sl">Ljubezen na prvi grižljaj</title>
   </programme>
-  <programme start="20200923064500 +0200" stop="20200923071000 +0200" channel="FOX Life">
+  <programme start="20200923064000 +0200" stop="20200923071000 +0200" channel="FOX Life">
     <title lang="sl">Raymonda imajo vsi radi</title>
   </programme>
   <programme start="20200923071000 +0200" stop="20200923073500 +0200" channel="FOX Life">
     <title lang="sl">Raymonda imajo vsi radi</title>
   </programme>
-  <programme start="20200923073500 +0200" stop="20200923082500 +0200" channel="FOX Life">
+  <programme start="20200923073500 +0200" stop="20200923083000 +0200" channel="FOX Life">
     <title lang="sl">Božja prošnja za prijateljstvo</title>
   </programme>
-  <programme start="20200923082500 +0200" stop="20200923091500 +0200" channel="FOX Life">
+  <programme start="20200923083000 +0200" stop="20200923092000 +0200" channel="FOX Life">
     <title lang="sl">Dinastija</title>
   </programme>
-  <programme start="20200923091500 +0200" stop="20200923101000 +0200" channel="FOX Life">
+  <programme start="20200923092000 +0200" stop="20200923101000 +0200" channel="FOX Life">
     <title lang="sl">Telo kot dokaz</title>
   </programme>
   <programme start="20200923101000 +0200" stop="20200923110500 +0200" channel="FOX Life">
@@ -5564,31 +5573,31 @@
   <programme start="20200923110500 +0200" stop="20200923120000 +0200" channel="FOX Life">
     <title lang="sl">Novi Amsterdam</title>
   </programme>
-  <programme start="20200923120000 +0200" stop="20200923122500 +0200" channel="FOX Life">
+  <programme start="20200923120000 +0200" stop="20200923123000 +0200" channel="FOX Life">
     <title lang="sl">Vaški slavčki</title>
   </programme>
-  <programme start="20200923122500 +0200" stop="20200923125500 +0200" channel="FOX Life">
+  <programme start="20200923123000 +0200" stop="20200923125500 +0200" channel="FOX Life">
     <title lang="sl">Vaški slavčki</title>
   </programme>
-  <programme start="20200923125500 +0200" stop="20200923135000 +0200" channel="FOX Life">
+  <programme start="20200923125500 +0200" stop="20200923135500 +0200" channel="FOX Life">
     <title lang="sl">Dober boj</title>
   </programme>
-  <programme start="20200923135000 +0200" stop="20200923141500 +0200" channel="FOX Life">
+  <programme start="20200923135500 +0200" stop="20200923142000 +0200" channel="FOX Life">
     <title lang="sl">Ljubezen na prvi grižljaj</title>
   </programme>
-  <programme start="20200923141500 +0200" stop="20200923144500 +0200" channel="FOX Life">
+  <programme start="20200923142000 +0200" stop="20200923145000 +0200" channel="FOX Life">
     <title lang="sl">Ljubezen na prvi grižljaj</title>
   </programme>
-  <programme start="20200923144500 +0200" stop="20200923151500 +0200" channel="FOX Life">
+  <programme start="20200923145000 +0200" stop="20200923151500 +0200" channel="FOX Life">
     <title lang="sl">Nisem popolna</title>
   </programme>
   <programme start="20200923151500 +0200" stop="20200923154500 +0200" channel="FOX Life">
     <title lang="sl">Raymonda imajo vsi radi</title>
   </programme>
-  <programme start="20200923154500 +0200" stop="20200923161000 +0200" channel="FOX Life">
+  <programme start="20200923154500 +0200" stop="20200923161500 +0200" channel="FOX Life">
     <title lang="sl">Raymonda imajo vsi radi</title>
   </programme>
-  <programme start="20200923161000 +0200" stop="20200923170500 +0200" channel="FOX Life">
+  <programme start="20200923161500 +0200" stop="20200923170500 +0200" channel="FOX Life">
     <title lang="sl">Božja prošnja za prijateljstvo</title>
   </programme>
   <programme start="20200923170500 +0200" stop="20200923180000 +0200" channel="FOX Life">
@@ -5768,46 +5777,46 @@
   <programme start="20200922030500 +0200" stop="20200922060000 +0200" channel="FOX Movies">
     <title lang="sl">Brez besed</title>
   </programme>
-  <programme start="20200922060000 +0200" stop="20200922070000 +0200" channel="FOX Movies">
+  <programme start="20200922060000 +0200" stop="20200922072500 +0200" channel="FOX Movies">
     <title lang="sl">Deuce Bigalow: Moški žigolo</title>
   </programme>
-  <programme start="20200922070000 +0200" stop="20200922092500 +0200" channel="FOX Movies">
+  <programme start="20200922072500 +0200" stop="20200922094500 +0200" channel="FOX Movies">
     <title lang="sl">Spider-Man 2</title>
   </programme>
-  <programme start="20200922092500 +0200" stop="20200922111000 +0200" channel="FOX Movies">
+  <programme start="20200922094500 +0200" stop="20200922112500 +0200" channel="FOX Movies">
     <title lang="sl">Ledena doba 2</title>
   </programme>
-  <programme start="20200922111000 +0200" stop="20200922132000 +0200" channel="FOX Movies">
+  <programme start="20200922112500 +0200" stop="20200922133500 +0200" channel="FOX Movies">
     <title lang="sl">Prihrani zadnji ples</title>
   </programme>
-  <programme start="20200922132000 +0200" stop="20200922160000 +0200" channel="FOX Movies">
+  <programme start="20200922133500 +0200" stop="20200922161000 +0200" channel="FOX Movies">
     <title lang="sl">Ujemi me, če me moreš</title>
   </programme>
-  <programme start="20200922160000 +0200" stop="20200922180000 +0200" channel="FOX Movies">
+  <programme start="20200922161000 +0200" stop="20200922180500 +0200" channel="FOX Movies">
     <title lang="sl">Moja edina ljubezen</title>
   </programme>
-  <programme start="20200922180000 +0200" stop="20200922200500 +0200" channel="FOX Movies">
+  <programme start="20200922180500 +0200" stop="20200922201000 +0200" channel="FOX Movies">
     <title lang="sl">Maščevanje v visokih petah</title>
   </programme>
-  <programme start="20200922200500 +0200" stop="20200922203000 +0200" channel="FOX Movies">
+  <programme start="20200922201000 +0200" stop="20200922203500 +0200" channel="FOX Movies">
     <title lang="sl">Brez besed</title>
   </programme>
-  <programme start="20200922203000 +0200" stop="20200922210000 +0200" channel="FOX Movies">
+  <programme start="20200922203500 +0200" stop="20200922210500 +0200" channel="FOX Movies">
     <title lang="sl">Brez besed</title>
   </programme>
-  <programme start="20200922210000 +0200" stop="20200922234500 +0200" channel="FOX Movies">
+  <programme start="20200922210500 +0200" stop="20200922234500 +0200" channel="FOX Movies">
     <title lang="sl">Robin Hood</title>
   </programme>
-  <programme start="20200922234500 +0200" stop="20200923013000 +0200" channel="FOX Movies">
+  <programme start="20200922234500 +0200" stop="20200923013500 +0200" channel="FOX Movies">
     <title lang="sl">Mrtvi kavboj</title>
   </programme>
-  <programme start="20200923013000 +0200" stop="20200923031500 +0200" channel="FOX Movies">
+  <programme start="20200923013500 +0200" stop="20200923031000 +0200" channel="FOX Movies">
     <title lang="sl">Nevidno zlo: Izumrtje</title>
   </programme>
-  <programme start="20200923031500 +0200" stop="20200923033000 +0200" channel="FOX Movies">
+  <programme start="20200923031000 +0200" stop="20200923033500 +0200" channel="FOX Movies">
     <title lang="sl">Brez besed</title>
   </programme>
-  <programme start="20200923033000 +0200" stop="20200923060000 +0200" channel="FOX Movies">
+  <programme start="20200923033500 +0200" stop="20200923060000 +0200" channel="FOX Movies">
     <title lang="sl">Brez besed</title>
   </programme>
   <programme start="20200923060000 +0200" stop="20200923074500 +0200" channel="FOX Movies">
@@ -5828,34 +5837,34 @@
   <programme start="20200923125000 +0200" stop="20200923143500 +0200" channel="FOX Movies">
     <title lang="sl">Ljubezen do 10. zmenka</title>
   </programme>
-  <programme start="20200923143500 +0200" stop="20200923163000 +0200" channel="FOX Movies">
+  <programme start="20200923143500 +0200" stop="20200923163500 +0200" channel="FOX Movies">
     <title lang="sl">Zlohotnica</title>
   </programme>
-  <programme start="20200923163000 +0200" stop="20200923181500 +0200" channel="FOX Movies">
+  <programme start="20200923163500 +0200" stop="20200923181500 +0200" channel="FOX Movies">
     <title lang="sl">Božanski par</title>
   </programme>
   <programme start="20200923181500 +0200" stop="20200923200500 +0200" channel="FOX Movies">
     <title lang="sl">Kuža za božič</title>
   </programme>
-  <programme start="20200923200500 +0200" stop="20200923203000 +0200" channel="FOX Movies">
+  <programme start="20200923200500 +0200" stop="20200923203500 +0200" channel="FOX Movies">
     <title lang="sl">Brez besed</title>
   </programme>
-  <programme start="20200923203000 +0200" stop="20200923210000 +0200" channel="FOX Movies">
+  <programme start="20200923203500 +0200" stop="20200923210000 +0200" channel="FOX Movies">
     <title lang="sl">Brez besed</title>
   </programme>
-  <programme start="20200923210000 +0200" stop="20200923224500 +0200" channel="FOX Movies">
+  <programme start="20200923210000 +0200" stop="20200923224000 +0200" channel="FOX Movies">
     <title lang="sl">Diktator</title>
   </programme>
-  <programme start="20200923224500 +0200" stop="20200924003000 +0200" channel="FOX Movies">
+  <programme start="20200923224000 +0200" stop="20200924002500 +0200" channel="FOX Movies">
     <title lang="sl">Kickboksar: Maščevanje</title>
   </programme>
-  <programme start="20200924003000 +0200" stop="20200924021500 +0200" channel="FOX Movies">
+  <programme start="20200924002500 +0200" stop="20200924021500 +0200" channel="FOX Movies">
     <title lang="sl">Nevidno zlo: Drugi svet</title>
   </programme>
-  <programme start="20200924021500 +0200" stop="20200924023000 +0200" channel="FOX Movies">
+  <programme start="20200924021500 +0200" stop="20200924023500 +0200" channel="FOX Movies">
     <title lang="sl">Brez besed</title>
   </programme>
-  <programme start="20200924023000 +0200" stop="20200924060000 +0200" channel="FOX Movies">
+  <programme start="20200924023500 +0200" stop="20200924060000 +0200" channel="FOX Movies">
     <title lang="sl">Brez besed</title>
   </programme>
   <programme start="20200924060000 +0200" stop="20200924063000 +0200" channel="FOX Movies">
