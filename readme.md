@@ -40,7 +40,7 @@ epg_grab ma pa samo data od mojga greberja
 
 ## rerun text
 
-rerun
+do
 
 ## Zahvale
 Posebne zahvale avtorju Fazzani/grab na katerem temelji ta repozitorij.
