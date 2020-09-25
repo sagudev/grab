@@ -162,7 +162,7 @@
     <title lang="sl">PS profesionalci</title>
   </programme>
   <programme start="20200925220000 +0200" stop="20200925223000 +0200" channel="Sport1">
-    <title lang="sl">PS profesionalci</title>
+    <title lang="sl">FC Bayern od znotraj</title>
   </programme>
   <programme start="20200925223000 +0200" stop="20200925233000 +0200" channel="Sport1">
     <title lang="sl">Nogomet: Sky Sport News HD</title>
@@ -3518,10 +3518,10 @@
   <programme start="20200926191500 +0200" stop="20200926192500 +0200" channel="TV SLO 1">
     <title lang="sl">Sobotni dnevnikov izbor</title>
   </programme>
-  <programme start="20200926192500 +0200" stop="20200926194000 +0200" channel="TV SLO 1">
+  <programme start="20200926192500 +0200" stop="20200926194500 +0200" channel="TV SLO 1">
     <title lang="sl">Utrip</title>
   </programme>
-  <programme start="20200926194000 +0200" stop="20200926195500 +0200" channel="TV SLO 1">
+  <programme start="20200926194500 +0200" stop="20200926195500 +0200" channel="TV SLO 1">
     <title lang="sl">Šport</title>
   </programme>
   <programme start="20200926195500 +0200" stop="20200926200000 +0200" channel="TV SLO 1">
@@ -3887,13 +3887,16 @@
   <programme start="20200925005000 +0200" stop="20200925060000 +0200" channel="TV SLO 2">
     <title lang="sl">Info kanal</title>
   </programme>
-  <programme start="20200925060000 +0200" stop="20200925102000 +0200" channel="TV SLO 2">
+  <programme start="20200925060000 +0200" stop="20200925100000 +0200" channel="TV SLO 2">
     <title lang="sl">Napovedujemo</title>
   </programme>
-  <programme start="20200925102000 +0200" stop="20200925112000 +0200" channel="TV SLO 2">
+  <programme start="20200925100000 +0200" stop="20200925110000 +0200" channel="TV SLO 2">
     <title lang="sl">Videotrak</title>
   </programme>
-  <programme start="20200925112000 +0200" stop="20200925134500 +0200" channel="TV SLO 2">
+  <programme start="20200925110000 +0200" stop="20200925120000 +0200" channel="TV SLO 2">
+    <title lang="sl">Najnovejše o koronavirusu, prenos novinarske konference</title>
+  </programme>
+  <programme start="20200925120000 +0200" stop="20200925134500 +0200" channel="TV SLO 2">
     <title lang="sl">Dobro jutro</title>
   </programme>
   <programme start="20200925134500 +0200" stop="20200925142500 +0200" channel="TV SLO 2">
@@ -3929,11 +3932,8 @@
   <programme start="20200926000500 +0200" stop="20200926010500 +0200" channel="TV SLO 2">
     <title lang="sl">Videotrak</title>
   </programme>
-  <programme start="20200926010500 +0200" stop="20200926060000 +0200" channel="TV SLO 2">
+  <programme start="20200926010500 +0200" stop="20200926060500 +0200" channel="TV SLO 2">
     <title lang="sl">Info kanal</title>
-  </programme>
-  <programme start="20200926060000 +0200" stop="20200926060500 +0200" channel="TV SLO 2">
-    <title lang="sl">Napovedujemo</title>
   </programme>
   <programme start="20200926060500 +0200" stop="20200926070000 +0200" channel="TV SLO 2">
     <title lang="sl">Videotrak</title>
@@ -4176,7 +4176,7 @@
     <title lang="sl">Odmevi</title>
   </programme>
   <programme start="20200926090000 +0200" stop="20200926173000 +0200" channel="TV SLO 3">
-    <title lang="sl">Seje Državnega zbora in delovnih teles</title>
+    <title lang="sl">20. redna seja Državnega zbora, 21. 9. 2020 (poslanska vprašanja)</title>
   </programme>
   <programme start="20200926173000 +0200" stop="20200926180000 +0200" channel="TV SLO 3">
     <title lang="sl">Poročila ob petih</title>
@@ -4203,13 +4203,19 @@
     <title lang="sl">Vreme s slovenskim znakovnim jezikom</title>
   </programme>
   <programme start="20200926210000 +0200" stop="20200926223000 +0200" channel="TV SLO 3">
-    <title lang="sl">Seje Državnega zbora in delovnih teles</title>
+    <title lang="sl">Posnetki sej Državnega zbora in delovnih teles</title>
   </programme>
   <programme start="20200926223000 +0200" stop="20200927001000 +0200" channel="TV SLO 3">
     <title lang="sl">Tarča, Globus, Točka preloma</title>
   </programme>
-  <programme start="20200927001000 +0200" stop="20200927073000 +0200" channel="TV SLO 3">
+  <programme start="20200927001000 +0200" stop="20200927003500 +0200" channel="TV SLO 3">
     <title lang="sl">Dnevnik Slovencev v Italiji</title>
+  </programme>
+  <programme start="20200927003500 +0200" stop="20200927005500 +0200" channel="TV SLO 3">
+    <title lang="sl">Primorska kronika</title>
+  </programme>
+  <programme start="20200927005500 +0200" stop="20200927073000 +0200" channel="TV SLO 3">
+    <title lang="sl">Posnetki sej Državnega zbora in delovnih teles</title>
   </programme>
   <programme start="20200927073000 +0200" stop="20200927080000 +0200" channel="TV SLO 3">
     <title lang="sl">Primorska kronika</title>
@@ -4218,7 +4224,7 @@
     <title lang="sl">Mostovi - Hidak</title>
   </programme>
   <programme start="20200927083000 +0200" stop="20200927090000 +0200" channel="TV SLO 3">
-    <title lang="sl">Težišče - Súlypont</title>
+    <title lang="sl">Težišče - Súlypont: A Zrínyi-kultusz / Kult Zrinskih</title>
   </programme>
   <programme start="20200927090000 +0200" stop="20200927100000 +0200" channel="TV SLO 3">
     <title lang="sl">Mostovi - Hidak</title>
@@ -4245,15 +4251,15 @@
     <title lang="sl">Prvi dnevnik</title>
   </programme>
   <programme start="20200927135000 +0200" stop="20200927173000 +0200" channel="TV SLO 3">
-    <title lang="sl">Seje Državnega zbora in delovnih teles</title>
+    <title lang="sl">20. redna seja Državnega zbora, 23. 9. 2020 (glasovanje o rebalansu proračuna)</title>
   </programme>
   <programme start="20200927173000 +0200" stop="20200927180000 +0200" channel="TV SLO 3">
     <title lang="sl">Poročila ob petih</title>
   </programme>
-  <programme start="20200927180000 +0200" stop="20200927181500 +0200" channel="TV SLO 3">
+  <programme start="20200927180000 +0200" stop="20200927191000 +0200" channel="TV SLO 3">
     <title lang="sl">Poročila ob petih</title>
   </programme>
-  <programme start="20200927181500 +0200" stop="20200927200000 +0200" channel="TV SLO 3">
+  <programme start="20200927191000 +0200" stop="20200927200000 +0200" channel="TV SLO 3">
     <title lang="sl">Moje mnenje: Kultura in korona</title>
   </programme>
   <programme start="20200927200000 +0200" stop="20200927201500 +0200" channel="TV SLO 3">
@@ -4274,7 +4280,13 @@
   <programme start="20200927210000 +0200" stop="20200927220000 +0200" channel="TV SLO 3">
     <title lang="sl">Odkrito</title>
   </programme>
-  <programme start="20200927220000 +0200" stop="20200928083000 +0200" channel="TV SLO 3">
+  <programme start="20200927220000 +0200" stop="20200928003000 +0200" channel="TV SLO 3">
+    <title lang="sl">9. redna seja Odbora za zdravstvo, 10. 9. 2020 (zakon o nalezljivih boleznih)</title>
+  </programme>
+  <programme start="20200928003000 +0200" stop="20200928005500 +0200" channel="TV SLO 3">
+    <title lang="sl">Dnevnik Slovencev v Italiji</title>
+  </programme>
+  <programme start="20200928005500 +0200" stop="20200928083000 +0200" channel="TV SLO 3">
     <title lang="sl">Posnetki sej Državnega zbora in delovnih teles</title>
   </programme>
   <programme start="20200928083000 +0200" stop="20200928093000 +0200" channel="TV SLO 3">
@@ -4286,8 +4298,11 @@
   <programme start="20200928094000 +0200" stop="20200928094500 +0200" channel="TV SLO 3">
     <title lang="sl">Seje Državnega zbora in delovnih teles</title>
   </programme>
-  <programme start="20200928094500 +0200" stop="20200928104000 +0200" channel="TV SLO 3">
+  <programme start="20200928094500 +0200" stop="20200928103000 +0200" channel="TV SLO 3">
     <title lang="sl">Odkrito</title>
+  </programme>
+  <programme start="20200928103000 +0200" stop="20200928104000 +0200" channel="TV SLO 3">
+    <title lang="sl">Poročila</title>
   </programme>
   <programme start="20200928104000 +0200" stop="20200928131500 +0200" channel="TV SLO 3">
     <title lang="sl">Seje Državnega zbora in delovnih teles</title>
@@ -4298,17 +4313,17 @@
   <programme start="20200928133000 +0200" stop="20200928140000 +0200" channel="TV SLO 3">
     <title lang="sl">Prvi dnevnik</title>
   </programme>
-  <programme start="20200928140000 +0200" stop="20200928141000 +0200" channel="TV SLO 3">
+  <programme start="20200928140000 +0200" stop="20200928143000 +0200" channel="TV SLO 3">
     <title lang="sl">Seja Komisije Državnega sveta za državno ureditev in seja Komisije Državnega sveta za socialno varstvo, delo, zdravstvo in invalide</title>
-  </programme>
-  <programme start="20200928141000 +0200" stop="20200928143000 +0200" channel="TV SLO 3">
-    <title lang="sl">Politično s Tanjo Gobec</title>
   </programme>
   <programme start="20200928143000 +0200" stop="20200928150000 +0200" channel="TV SLO 3">
     <title lang="sl">Prvi dnevnik</title>
   </programme>
-  <programme start="20200928150000 +0200" stop="20200928173000 +0200" channel="TV SLO 3">
+  <programme start="20200928150000 +0200" stop="20200928170000 +0200" channel="TV SLO 3">
     <title lang="sl">Seje Državnega zbora in delovnih teles</title>
+  </programme>
+  <programme start="20200928170000 +0200" stop="20200928173000 +0200" channel="TV SLO 3">
+    <title lang="sl">Politično s Tanjo Gobec</title>
   </programme>
   <programme start="20200928173000 +0200" stop="20200928175000 +0200" channel="TV SLO 3">
     <title lang="sl">Poročila ob petih</title>
@@ -4336,6 +4351,12 @@
   </programme>
   <programme start="20200928220000 +0200" stop="20200928230000 +0200" channel="TV SLO 3">
     <title lang="sl">Tednik</title>
+  </programme>
+  <programme start="20200928230000 +0200" stop="20200928233000 +0200" channel="TV SLO 3">
+    <title lang="sl">Odmevi</title>
+  </programme>
+  <programme start="20200928233000 +0200" stop="20200928235500 +0200" channel="TV SLO 3">
+    <title lang="sl">Dnevnik Slovencev v Italiji</title>
   </programme>
   <programme start="20200925000000 +0200" stop="20200925004500 +0200" channel="TV Sarajevo">
     <title lang="sl">Polis</title>
