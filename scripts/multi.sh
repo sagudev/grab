@@ -6,6 +6,7 @@
 
 function install_xmltv() {
     # Download deps
+    sudo apt update
     sudo apt install -y git libxml2-utils xmlstarlet dos2unix zip libarchive-zip-perl \
         libcgi-pm-perl \
         libdata-dump-perl \
