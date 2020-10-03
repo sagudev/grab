@@ -43574,9 +43574,13 @@
     <title lang="sl">Državni zbor: 18. nujna seja Odbora za obrambo (3. 9. 2020)</title>
     <category lang="sl">Informativni</category>
   </programme>
-  <programme start="20201003141500 +0200" stop="20201003170000 +0200" channel="nova24tv2">
-    <title lang="sl">Neposredno</title>
+  <programme start="20201003141500 +0200" stop="20201003142500 +0200" channel="nova24tv2">
+    <title lang="sl">Neposredno: Sindikat kmetov o odkupnih cenah slovenskih kmetijskih pridelkov (27. 8. 2020)</title>
     <category lang="sl">Kulturno-umetniški</category>
+  </programme>
+  <programme start="20201003142500 +0200" stop="20201003170000 +0200" channel="nova24tv2">
+    <title lang="sl">Državni zbor: 9. redna seja Odbora za zdravstvo (10. 9. 2020)</title>
+    <category lang="sl">Informativni</category>
   </programme>
   <programme start="20201003170000 +0200" stop="20201003175000 +0200" channel="nova24tv2">
     <title lang="sl">Vaše zdravje, naša skrb</title>
@@ -43591,11 +43595,19 @@
     <category lang="sl">Propagandni program</category>
   </programme>
   <programme start="20201003183000 +0200" stop="20201003201000 +0200" channel="nova24tv2">
-    <title lang="sl">Državni zbor</title>
-    <category lang="sl">Informativni</category>
+    <title lang="sl">Neposredno: Aktualne težave ljudi s Parkinsonovo boleznijo (9. 9. 2020)</title>
+    <category lang="sl">Kulturno-umetniški</category>
   </programme>
-  <programme start="20201003201000 +0200" stop="20201004000000 +0200" channel="nova24tv2">
-    <title lang="sl">Neposredno</title>
+  <programme start="20201003201000 +0200" stop="20201003212500 +0200" channel="nova24tv2">
+    <title lang="sl">Neposredno: Po razpadu skupne države (2. 9. 2020)</title>
+    <category lang="sl">Kulturno-umetniški</category>
+  </programme>
+  <programme start="20201003212500 +0200" stop="20201003224500 +0200" channel="nova24tv2">
+    <title lang="sl">Neposredno: 171. obletnica slovenske narodne zastave (7. 4. 2019)</title>
+    <category lang="sl">Kulturno-umetniški</category>
+  </programme>
+  <programme start="20201003224500 +0200" stop="20201004000000 +0200" channel="nova24tv2">
+    <title lang="sl">Neposredno: Valentin Vodnik med Ilirijo in Slovenijo (19. 12. 2019)</title>
     <category lang="sl">Kulturno-umetniški</category>
   </programme>
   <programme start="20201003001000 +0200" stop="20201003002500 +0200" channel="ntv">
@@ -52360,6 +52372,54 @@
       <value>7.0/10</value>
     </star-rating>
   </programme>
+  <programme start="20201003072000 +0200" stop="20201003080100 +0200" channel="rai2">
+    <title lang="sl">Čarovnice: Čarobna generacija</title>
+    <sub-title lang="sl">Charmed: Generation Hex</sub-title>
+    <credits>
+      <director>John T. Kretchmer</director>
+      <actor>Holly Marie Combs</actor>
+      <actor>Alyssa Milano</actor>
+      <actor>Brian Krause</actor>
+      <actor>Rose McGowan</actor>
+      <actor>Dorian Gregory</actor>
+      <actor>Shannen Doherty</actor>
+      <actor>Julian McMahon</actor>
+      <actor>Kristopher Simmons</actor>
+      <actor>Jason Simmons</actor>
+      <actor>Drew Fuller</actor>
+    </credits>
+    <category lang="sl">Nanizanka</category>
+    <category lang="sl">Znanstvena fantastika</category>
+    <icon src="https://vimg.siol.tv/sioltv/epg/999/RAI2/20/8/8/883383.jpg" />
+    <episode-num system="xmltv_ns">7 . 16 . </episode-num>
+    <star-rating>
+      <value>7.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20201003080100 +0200" stop="20201003084000 +0200" channel="rai2">
+    <title lang="sl">Čarovnice: Lov na resnico</title>
+    <sub-title lang="sl">Charmed: The Torn Identity</sub-title>
+    <credits>
+      <director>John T. Kretchmer</director>
+      <actor>Holly Marie Combs</actor>
+      <actor>Alyssa Milano</actor>
+      <actor>Brian Krause</actor>
+      <actor>Rose McGowan</actor>
+      <actor>Dorian Gregory</actor>
+      <actor>Shannen Doherty</actor>
+      <actor>Julian McMahon</actor>
+      <actor>Kristopher Simmons</actor>
+      <actor>Jason Simmons</actor>
+      <actor>Drew Fuller</actor>
+    </credits>
+    <category lang="sl">Nanizanka</category>
+    <category lang="sl">Znanstvena fantastika</category>
+    <icon src="https://vimg.siol.tv/sioltv/epg/999/RAI2/20/8/8/883383.jpg" />
+    <episode-num system="xmltv_ns">7 . 17 . </episode-num>
+    <star-rating>
+      <value>7.1/10</value>
+    </star-rating>
+  </programme>
   <programme start="20201003084000 +0200" stop="20201003092000 +0200" channel="rai2">
     <title lang="sl">Gospa zunanja ministrica: Nekaj boljšega</title>
     <sub-title lang="sl">Madam Secretary: Something Better</sub-title>
@@ -59136,51 +59196,27 @@
     <desc lang="sl">Čudež pri Kobaridu ali Caporetto, eden največjih porazov v zgodovini Italije.Dokumentarna pripoved je osredotočena na 12. soško ofenzivo, imenovano tudi Preboj oziroma Čudež pri Kobaridu, ki se je začela 24. oktobra 1917 s prebojem skupne 14. nemško-avstro-ogrske armade pri Tolminu in Bovcu in se meseca novembra končala s katastrofalnim porazom in umikom italijanske vojske vse do reke Piave. Domači in tuji zgodovinarji skupaj z ostalimi sogovorniki presojajo enega največjih vojaških gorskih spopadov vseh časov s stoletne distance, odstirajo mite in ozadja ter razkrivajo manj znane podrobnosti takratnega bojevanja ter taktiko infiltracije in zametke pozneje slovitega nemškega blitzkriega – bliskovite vojne, preizkušene tudi v Zgornjem Posočju. Številne domače in tuje institucije, organizacije in društva še danes po 100 letih z različnimi dogodki in slovesnostmi obeležujejo spomin na Čudež pri Kobaridu, kot ga je v svoji knjigi poimenoval avstrijski general Alfred Krauss.Pri nastanku filma scenarista in režiserja Valentina Pečenka so poleg Kobariškega muzeja, Tolminskega muzeja, Muzeja novejše zgodovine Slovenije, Filmarchiva Austria, Furlanske kinoteke (Cineteca del Friuli), Istituta Luce ter domačih in tujih zbiralcev sodelovale tudi druge slovenske, italijanske, avstrijske, nemške in druge ustanove, občine, združenja in društva. Film so sooblikovali snemalci Pavel Jurca, Andrej Heferle in Mišo Čadež, montažerka Snežana Tadić, avtor in izvajalec glasbe Jani Golob, mojster zvokovne obdelave Marjan Drobnič, oblikovalec grafične podobe Matjaž Celič in drugi. Producent in organizator je bil Vojko Fakin.</desc>
     <category lang="sl">Film</category>
   </programme>
-  <programme start="20201003133000 +0200" stop="20201003134500 +0200" channel="slo2">
-    <title lang="sl">Tenis - odprto prvenstvo Francije: Aljaž Bedene : Stefanos Cicipas, 3. kolo</title>
-    <desc lang="sl">Pariški pesek jeseni? Težko predstavljivo. A je pač takšno leto.Teniški turnir za grand slam na igriščih Rolanda Garrosa so morali z maja prestaviti na september. Prvič pod streho osrednjega igrišča, z nekaj gledalci na tribunah, predvsem pa s tenisa željnimi igralci. Čaka nas še en športni vrhunec leta.</desc>
-    <category lang="sl">Šport</category>
-  </programme>
-  <programme start="20201003134500 +0200" stop="20201003143500 +0200" channel="slo2">
+  <programme start="20201003134000 +0200" stop="20201003143500 +0200" channel="slo2">
     <title lang="sl">Avtomobilnost</title>
     <desc lang="sl">Oddaja o prometni varnosti, sodobnih tehnologijah, ekologiji, avtomobilih, motociklih, torej o mobilnosti v najširšem pomenu besede.Avtomobilnost bo v tej sezoni spet aktualna in drzno izzivalna. Letošnjo zimo in pomlad bomo s strokovnjaki različnih področji iskali odgovore na izzive sodobne osebne multimodalnostne mobilnosti v pretežno urbanih okoljih, se z avtom popeljali v lepe spomine in čase, ko smo se znali odpeljati po lepih lokalnih cestah do tudi Googlu skritih domačih naravnih kotičkov. Pogledali bomo v prihodnost slovenske vozniške umetne inteligence, nadaljevali z našimi preventivnimi pobudami, testirali bomo nove zanimive avtomobile, govorili s tistimi, ki so jih zasnovali, izdelali, in tistimi, ki jih morajo prodati. S pomladjo pa prihaja pred gledalce TV Slovenija in bralce spletnega portala MMC RTV SLO še nekaj prav posebnih vsebin in novosti, ki pa naj za zdaj ostanejo še presenečenje.</desc>
     <category lang="sl">Izobraževalni</category>
   </programme>
   <programme start="20201003143500 +0200" stop="20201003162500 +0200" channel="slo2">
-    <title lang="sl">Ljubljeni</title>
-    <sub-title lang="sl">Benzinho / Loveling</sub-title>
-    <desc lang="sl">Subtilna čustvena zgodba, polna topline, z izjemno odigrano glavno žensko vlogo.Irena v svojem skromnem, a topline in sreče polnem domu skupaj z možem vzgaja štiri razigrane sinove. Ob materinskih obveznostih se končno trudi opraviti maturo in finančno podpira še svojo sestro Sonio, ki se je k njej zatekla pred nasilnim možem. Ko najstarejši sin, šestnajstletni Fernando, nekega dne oznani, da bo zapustil dom in se pridružil nemškemu rokometnemu moštvu, se Irena zave, kako težko je sprejeti dejstvo, da so otroci odrasli in stopajo na svojo pot, daleč stran od varnega materinega zavetja. Še posebej ker ima za slovo na voljo le slabe tri tedne.</desc>
-    <credits>
-      <director>Gustavo Pizzi</director>
-      <actor>Karine Teles</actor>
-      <actor>Otávio Müller</actor>
-      <actor>Adriana Esteves</actor>
-      <actor>Konstantinos Sarris</actor>
-      <actor>Luan Teles</actor>
-      <actor>César Troncoso</actor>
-      <actor>Vicente Demori</actor>
-      <actor>Francisco Teles Pizzi</actor>
-      <actor>Arthur Teles Pizzi</actor>
-      <actor>Mateus Solano</actor>
-    </credits>
-    <category lang="sl">Film</category>
-    <category lang="sl">Drama</category>
-    <icon src="https://vimg.siol.tv/sioltv/epg/999/SLO2/20/8/0/802254.jpg" />
-    <star-rating>
-      <value>7.2/10</value>
-    </star-rating>
+    <title lang="sl">Tenis - odprto prvenstvo Francije: Aljaž Bedene : Stefanos Cicipas, 3. kolo</title>
+    <desc lang="sl">Pariški pesek jeseni? Težko predstavljivo. A je pač takšno leto.Teniški turnir za grand slam na igriščih Rolanda Garrosa so morali z maja prestaviti na september. Prvič pod streho osrednjega igrišča, z nekaj gledalci na tribunah, predvsem pa s tenisa željnimi igralci. Čaka nas še en športni vrhunec leta.</desc>
+    <category lang="sl">Šport</category>
   </programme>
   <programme start="20201003162500 +0200" stop="20201003174500 +0200" channel="slo2">
     <title lang="sl">Simfonični orkester RTV Slovenija, Kana Mitsui, Igor Mitrovič, Per Rundberg in Rossen Milanov (Juhant, Beethoven)</title>
     <desc lang="sl">Prvi koncert Simfoničnega orkestra RTV Slovenija je eden izmed koncertov, ki so v letošnjem letu posvečeni predvsem glasbi Ludwiga van Beethovna.Koncert se je začel z izvedbo Beethovnovega koncerta za tri soliste, violino, violončelo in klavir ob spremljavi orkestra. Sledila je krstna izvedba dela Tris študenta kompozicije Jošta Juhanta, ki je v svoji novi skladbi uporabil motive iz predhodno predstavljenega Beethovnovega »trojnega« koncerta. Večer je zaokrožila skladateljeva usodna Peta simfonija.</desc>
     <category lang="sl">Kulturno-umetniški</category>
   </programme>
-  <programme start="20201003174500 +0200" stop="20201003190500 +0200" channel="slo2">
+  <programme start="20201003180000 +0200" stop="20201003191500 +0200" channel="slo2">
     <title lang="sl">Zadnji ledeni lovci</title>
     <desc lang="sl">Življenje sodobne generacije lovcev iz inuitske skupnosti vzhodne Grenlandije, ki je najbrž zadnja v njihovi 4000-letni zgodovini.V ospredju sta Emanuel Boassen in Tobias Ignatiussen, dva polno zaposlena lovca, ki se preživljata izključno z lastnim ulovom. Zaradi globalizacije lahko tam, kjer so njuni predniki lovili plen s kajakom in harpuno, uporabljata izključno puško in gliser. V zadnjem stoletju se je namreč življenje skupnosti obrnilo na glavo. V tem času se je nekaj generacij vzhodno grenlandskih Inuitov soočilo s korenitimi spremembami, za katere je zahodna civilizacija potrebovala štiri tisoč let. Od življenja v popolni izolaciji do integracije v svetovno globalno vas. Sodobni tehnološki trendi kot so satelitska televizija, internet, hitra prehrana in modne smernice imajo tako kot kjerkoli drugje po svetu viden vpliv tudi na življenje v vzhodni Grenlandiji. Svet Inuitov se tako spreminja s svetlobno hitrostjo. Pri vsem tem ima globalizacija še toliko večji pomen, predvsem, ker se je življenje Inuitov poslabšalo leta 2009, ko je EU prepovedala kakršnokoli trgovanje z izdelki iz tjulnjev. Neusmiljena narava vzhodne Grenlandije je sooblikovala eno izmed najbolj specializiranih lovskih kultur na svetu, kulturo Ammassalik. Čeprav sodobno potrošniško udobje postaja del vsakdana v Ammassaliku, narava še vedno vlada in določa življenjske pogoje. Sodobni lovec ima za lov na voljo vso sodobno opremo, a če ne upošteva tradicije in ne razume narave, na koncu dneva pride domov praznih rok.Film je na začetku posvečen Eli Breceljnik, hčerki pokojnega režiserja, scenarista in producenta Jureta Breceljnika, ki se mu ekipa na koncu filma tudi ljubeče pokloni ob njegovem zadnjem filmskem delu v nizu dolgoletnega umetniškega ustvarjanja.</desc>
     <category lang="sl">Film</category>
   </programme>
-  <programme start="20201003190500 +0200" stop="20201003200500 +0200" channel="slo2">
+  <programme start="20201003191500 +0200" stop="20201003200500 +0200" channel="slo2">
     <title lang="sl">Videotrak</title>
     <desc lang="sl">Glasbeni videospoti so dnevni video-glasbeni časovni pas urbanega slovenskega 'mainstreama'.Glasba sega od popa in rocka, rapa, r'n'b-ja ter elektronike in vse tja do metala in alternative. Videospoti so predvajani po izboru uredništva Videotrak.</desc>
     <category lang="sl">Razvedrilni</category>
