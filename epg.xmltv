@@ -1,692 +1,234 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="Fashion TV">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/fashiontv_updated27919132425.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Fashion TV</display-name>
-  </channel>
-  <channel id="HRT 2">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/hrt2_updated241016104915.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">HRT 2</display-name>
-  </channel>
-  <channel id="Nick Jr">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/nick_jr_updated3720152027.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Nick Jr.</display-name>
-  </channel>
-  <channel id="Motorvision TV HD">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/motorvisiontv.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Motorvision TV HD</display-name>
-  </channel>
-  <channel id="Cinemax 2">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/cinemax2_updated9916111421.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Cinemax 2</display-name>
-  </channel>
-  <channel id="Arte">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/arte.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Arte</display-name>
-  </channel>
-  <channel id="Pink Zabava">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/pinkzabava.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Pink Zabava</display-name>
-  </channel>
-  <channel id="RTL II">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/rtl2.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">RTL II</display-name>
-  </channel>
-  <channel id="Gold TV">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/gold.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Gold TV</display-name>
-  </channel>
-  <channel id="Ptujska TV">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/ptujtv.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Ptujska TV</display-name>
-  </channel>
-  <channel id="Diva">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/universal_updated9916111843.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Diva</display-name>
-  </channel>
-  <channel id="BBC Earth">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/bbcearth.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">BBC Earth</display-name>
-  </channel>
-  <channel id="RTL Hrvaška">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/rtlhrvatska.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">RTL Hrvaška</display-name>
-  </channel>
-  <channel id="Tring Vizion+">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/tringvp.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Tring Vizion+</display-name>
-  </channel>
-  <channel id="Top TV">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/infotv.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Top TV</display-name>
-  </channel>
-  <channel id="MTV 1">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/mktv1.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">MTV 1</display-name>
-  </channel>
   <channel id="Lov in ribolov">
     <url>http://www.siol.net</url>
     <display-name lang="sl">Lov in ribolov</display-name>
-  </channel>
-  <channel id="ORF 1">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/orf1_updated25919154618.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">ORF 1</display-name>
-  </channel>
-  <channel id="Brio">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/brio.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Brio</display-name>
-  </channel>
-  <channel id="VH1">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/vh1.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">VH1</display-name>
-  </channel>
-  <channel id="Ginx">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/ginx_updated221019121313.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Ginx</display-name>
-  </channel>
-  <channel id="Klasik TV">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/klasiktv_updated201118102744.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Klasik TV</display-name>
-  </channel>
-  <channel id="RAI 3">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/rai3_updated20916143449.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">RAI 3</display-name>
-  </channel>
-  <channel id="Cartoon / TCM">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/cartoon.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Cartoon / TCM</display-name>
-  </channel>
-  <channel id="MTV Hits">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/mtvh.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">MTV Hits</display-name>
-  </channel>
-  <channel id="Epic Drama">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/epic_drama_updated151217073723.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Epic Drama</display-name>
-  </channel>
-  <channel id="RAI 2">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/rai2_updated20916143623.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">RAI 2</display-name>
-  </channel>
-  <channel id="NET TV">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/net_updated181218115252.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">NET TV</display-name>
-  </channel>
-  <channel id="Travel Channel">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/travel.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Travel Channel</display-name>
-  </channel>
-  <channel id="Pink Music">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/pinkmusic.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Pink Music</display-name>
-  </channel>
-  <channel id="DTX">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/dtx.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">DTX</display-name>
-  </channel>
-  <channel id="KOHAVISION">
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">KOHAVISION</display-name>
-  </channel>
-  <channel id="BN TV">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/bntv.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">BN TV</display-name>
-  </channel>
-  <channel id="Extreme TV">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/extreme.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Extreme TV</display-name>
-  </channel>
-  <channel id="AXN">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/axn.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">AXN</display-name>
-  </channel>
-  <channel id="CNN">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/cnn.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">CNN</display-name>
-  </channel>
-  <channel id="Dr. Fit">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/drfit_updated9419141628.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Dr. Fit</display-name>
-  </channel>
-  <channel id="SciFi">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/scifihd_updated24419092712.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">SciFi</display-name>
-  </channel>
-  <channel id="TV Sitel">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/sitel.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">TV Sitel</display-name>
-  </channel>
-  <channel id="RT Srbija">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/rts.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">RT Srbija</display-name>
-  </channel>
-  <channel id="HRT 3">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/hrt3_updated241016105155.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">HRT 3</display-name>
-  </channel>
-  <channel id="VH1 Classic">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/vh1cla_updated51020123319.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">VH1 Classic</display-name>
-  </channel>
-  <channel id="RTS 2">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/rts2.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">RTS 2</display-name>
-  </channel>
-  <channel id="Hayat">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/hayat.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Hayat</display-name>
-  </channel>
-  <channel id="Pink Folk">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/pinkfolk.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Pink Folk</display-name>
-  </channel>
-  <channel id="Sitel 3">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/sitel3.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Sitel 3</display-name>
-  </channel>
-  <channel id="Discovery Science">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/discsci_updated71117090734.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Discovery Science</display-name>
-  </channel>
-  <channel id="Pink Extra">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/pinkextra.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Pink Extra</display-name>
-  </channel>
-  <channel id="Pink Film">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/pinkfilm.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Pink Film</display-name>
-  </channel>
-  <channel id="TV SLO 3">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/slo3.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">TV SLO 3</display-name>
-  </channel>
-  <channel id="NTV IC Kakanj">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/kakanj.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">NTV IC Kakanj</display-name>
-  </channel>
-  <channel id="Eurosport">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/eurosport.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Eurosport</display-name>
-  </channel>
-  <channel id="Viasat History">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/history.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Viasat History</display-name>
-  </channel>
-  <channel id="Sport Klub 2">
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Sport Klub 2</display-name>
-  </channel>
-  <channel id="Outdoor">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/outdoor.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Outdoor</display-name>
-  </channel>
-  <channel id="Sport Klub 1">
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Sport Klub 1</display-name>
-  </channel>
-  <channel id="Sport1">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/dsf_updated25919162924.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Sport1</display-name>
-  </channel>
-  <channel id="Discovery Channel">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/discovery_updated16919122033.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Discovery Channel</display-name>
-  </channel>
-  <channel id="Nautical Channel">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/yachtsail.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Nautical Channel</display-name>
-  </channel>
-  <channel id="TV3 Medias">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/tv3medias_updated21920090029.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">TV3 Medias</display-name>
-  </channel>
-  <channel id="Cinestar">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/cinestartv_updated30120134057.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Cinestar</display-name>
-  </channel>
-  <channel id="Nova 24 TV 2">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/nova24tv2_updated27219114703.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Nova 24 TV 2</display-name>
-  </channel>
-  <channel id="Disney Channel">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/disney_updated25919165452.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Disney Channel</display-name>
-  </channel>
-  <channel id="Tring Tring">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/tringt.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Tring Tring</display-name>
-  </channel>
-  <channel id="SAT 1">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/sat1.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">SAT 1</display-name>
-  </channel>
-  <channel id="OTO">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/popoto.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">OTO</display-name>
-  </channel>
-  <channel id="Kino">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/popkino.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Kino</display-name>
-  </channel>
-  <channel id="Mezzo">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/mezzo.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Mezzo</display-name>
-  </channel>
-  <channel id="Tring Max">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/tringm.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Tring Max</display-name>
-  </channel>
-  <channel id="Da Vinci Learning">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/davincilear_updated8118113037.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Da Vinci Learning</display-name>
-  </channel>
-  <channel id="Al Jazeera Balkans">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/aljazeera.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Al Jazeera Balkans</display-name>
-  </channel>
-  <channel id="Pink Reality">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/pinkreality.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Pink Reality</display-name>
-  </channel>
-  <channel id="AMC">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/mgm.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">AMC</display-name>
-  </channel>
-  <channel id="Nickelodeon">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/nickleodeon.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Nickelodeon</display-name>
-  </channel>
-  <channel id="RTL 2 Hrvaška">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/rtlhrvatska2.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">RTL 2 Hrvaška</display-name>
-  </channel>
-  <channel id="Jabuka (OTV)">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/jabukatv.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Jabuka (OTV)</display-name>
-  </channel>
-  <channel id="Boomerang">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/boomerang_updated25919164802.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Boomerang</display-name>
-  </channel>
-  <channel id="Kanal 5">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/kanal5.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Kanal 5</display-name>
-  </channel>
-  <channel id="Comedy central">
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Comedy central</display-name>
-  </channel>
-  <channel id="Grand 2">
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Grand 2</display-name>
-  </channel>
-  <channel id="ZDF">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/zdf.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">ZDF</display-name>
-  </channel>
-  <channel id="Eurosport 2">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/eurosport2.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Eurosport 2</display-name>
-  </channel>
-  <channel id="Planet">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/planet_tv_updated3217132040.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Planet</display-name>
-  </channel>
-  <channel id="Discovery TLC">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/disctlc_updated25919150211.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Discovery TLC</display-name>
-  </channel>
-  <channel id="FOX">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/fox_updated19219114624.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">FOX</display-name>
-  </channel>
-  <channel id="BBC World">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/bbcworld_updated5719101444.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">BBC World</display-name>
-  </channel>
-  <channel id="TV SLO 2">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/slo2.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">TV SLO 2</display-name>
-  </channel>
-  <channel id="FTV">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/ftv.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">FTV</display-name>
-  </channel>
-  <channel id="N1">
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">N1</display-name>
-  </channel>
-  <channel id="TV Svet Plus Beograd">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/spbeograd.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">TV Svet Plus Beograd</display-name>
-  </channel>
-  <channel id="TV 1000">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/tv1000.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">TV 1000</display-name>
-  </channel>
-  <channel id="RTS 1">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/rts1.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">RTS 1</display-name>
-  </channel>
-  <channel id="HBO">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/hbo.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">HBO</display-name>
-  </channel>
-  <channel id="Pikaboo">
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Pikaboo</display-name>
-  </channel>
-  <channel id="RAI 1">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/rai1_updated20916143752.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">RAI 1</display-name>
-  </channel>
-  <channel id="Grand 1">
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Grand 1</display-name>
-  </channel>
-  <channel id="Cinemax">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/cinemax1_updated201016154659.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Cinemax</display-name>
-  </channel>
-  <channel id="ELTA TV">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/eltatv.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">ELTA TV</display-name>
-  </channel>
-  <channel id="Elta 2">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/alternativa.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Elta 2</display-name>
-  </channel>
-  <channel id="TV 1">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/tv1_updated7220121631.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">TV 1</display-name>
-  </channel>
-  <channel id="KCN">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/kcn.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">KCN</display-name>
-  </channel>
-  <channel id="AXN Spin">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/axnspin.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">AXN Spin</display-name>
-  </channel>
-  <channel id="Šport TV 2">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/sporttv2.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Šport TV 2</display-name>
-  </channel>
-  <channel id="Z1 Televizija">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/z1.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Z1 Televizija</display-name>
-  </channel>
-  <channel id="Trace Sport">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/tracesport.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Trace Sport</display-name>
-  </channel>
-  <channel id="Sport Klub 4">
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Sport Klub 4</display-name>
-  </channel>
-  <channel id="Duna TV">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/duna_updated31016144834.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Duna TV</display-name>
-  </channel>
-  <channel id="Super RTL">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/superrtl_updated25919164246.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Super RTL</display-name>
-  </channel>
-  <channel id="FOX Movies">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/foxmovies.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">FOX Movies</display-name>
-  </channel>
-  <channel id="PRVA Srbska TV">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/prvasrb.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">PRVA Srbska TV</display-name>
-  </channel>
-  <channel id="CineStar TV Premiere 2">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/cinestarpr2_updated281119133315.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">CineStar TV Premiere 2</display-name>
-  </channel>
-  <channel id="Animal Planet">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/animal_updated22319090212.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Animal Planet</display-name>
-  </channel>
-  <channel id="TV Koper Capodistria">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/koper.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">TV Koper Capodistria</display-name>
-  </channel>
-  <channel id="Jugoton">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/jugotontv.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Jugoton</display-name>
-  </channel>
-  <channel id="FOX Crime">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/foxcrime_updated141116162017.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">FOX Crime</display-name>
-  </channel>
-  <channel id="JimJam">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/jimjam_updated27718131838.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">JimJam</display-name>
-  </channel>
-  <channel id="Tele Maribor">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/telem.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Tele Maribor</display-name>
-  </channel>
-  <channel id="Pink Movies">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/pinkmovie.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Pink Movies</display-name>
-  </channel>
-  <channel id="Trace Urban">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/trace.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Trace Urban</display-name>
-  </channel>
-  <channel id="Šport TV 3">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/sporttv3.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Šport TV 3</display-name>
-  </channel>
-  <channel id="Šport TV 1">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/sporttv.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Šport TV 1</display-name>
-  </channel>
-  <channel id="TVE">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/tve.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">TVE</display-name>
-  </channel>
-  <channel id="MTV Dance">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/mtvdance_updated11620133716.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">MTV Dance</display-name>
-  </channel>
-  <channel id="Channel One Russia">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/russia1.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Channel One Russia</display-name>
-  </channel>
-  <channel id="Sportklub Golf">
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Sportklub Golf</display-name>
-  </channel>
-  <channel id="Pink 2">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/pink2_updated51020123554.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Pink 2</display-name>
-  </channel>
-  <channel id="Sport Klub 6">
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Sport Klub 6</display-name>
-  </channel>
-  <channel id="Planet PLUS">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/planetplus_updated31719112420.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Planet PLUS</display-name>
-  </channel>
-  <channel id="Pink Family">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/pinkfamily.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Pink Family</display-name>
   </channel>
   <channel id="KCN Music">
     <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/kcnm.png" />
     <url>http://www.siol.net</url>
     <display-name lang="sl">KCN Music</display-name>
   </channel>
-  <channel id="Zdrava TV">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/zdrava.png" />
+  <channel id="Pikaboo">
     <url>http://www.siol.net</url>
-    <display-name lang="sl">Zdrava TV</display-name>
+    <display-name lang="sl">Pikaboo</display-name>
+  </channel>
+  <channel id="CineStar TV Premiere 1">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/cinestarpr1_updated281119132716.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">CineStar TV Premiere 1</display-name>
+  </channel>
+  <channel id="24Kitchen">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/doq.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">24Kitchen</display-name>
+  </channel>
+  <channel id="Viasat Explore">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/viasat_explore_updated121217114309.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Viasat Explore</display-name>
+  </channel>
+  <channel id="Discovery Channel">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/discovery_updated16919122033.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Discovery Channel</display-name>
+  </channel>
+  <channel id="FOX Crime">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/foxcrime_updated141116162017.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">FOX Crime</display-name>
+  </channel>
+  <channel id="3sat">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/3sat_updated25919165224.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">3sat</display-name>
+  </channel>
+  <channel id="Disney XD">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/jetix.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Disney XD</display-name>
+  </channel>
+  <channel id="Outdoor">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/outdoor.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Outdoor</display-name>
+  </channel>
+  <channel id="Narodna TV">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/narodna.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Narodna TV</display-name>
+  </channel>
+  <channel id="Exodus TV">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/exodustv.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Exodus TV</display-name>
+  </channel>
+  <channel id="AMC">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/mgm.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">AMC</display-name>
+  </channel>
+  <channel id="Pink Plus">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/pinkplus.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Pink Plus</display-name>
+  </channel>
+  <channel id="Pink Folk">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/pinkfolk.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Pink Folk</display-name>
+  </channel>
+  <channel id="TV SLO 2">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/slo2.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">TV SLO 2</display-name>
+  </channel>
+  <channel id="TV Sitel">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/sitel.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">TV Sitel</display-name>
+  </channel>
+  <channel id="FOX">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/fox_updated19219114624.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">FOX</display-name>
+  </channel>
+  <channel id="HRT 1">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/hrt1_updated241016104810.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">HRT 1</display-name>
+  </channel>
+  <channel id="Cinemax">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/cinemax1_updated201016154659.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Cinemax</display-name>
+  </channel>
+  <channel id="BBC World">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/bbcworld_updated5719101444.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">BBC World</display-name>
+  </channel>
+  <channel id="Kanal A">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/akanal_updated30920122247.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Kanal A</display-name>
+  </channel>
+  <channel id="RTL 2 Hrvaška">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/rtlhrvatska2.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">RTL 2 Hrvaška</display-name>
+  </channel>
+  <channel id="CineStar TV Action &amp; Thriller">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/cinestaraction_updated281119132248.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">CineStar TV Action &amp; Thriller</display-name>
+  </channel>
+  <channel id="Nickelodeon">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/nickleodeon.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Nickelodeon</display-name>
+  </channel>
+  <channel id="Cinemax 2">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/cinemax2_updated9916111421.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Cinemax 2</display-name>
+  </channel>
+  <channel id="Pink Reality">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/pinkreality.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Pink Reality</display-name>
+  </channel>
+  <channel id="Jugoton">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/jugotontv.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Jugoton</display-name>
+  </channel>
+  <channel id="EWTN">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/ewtn.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">EWTN</display-name>
+  </channel>
+  <channel id="Pink Extra">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/pinkextra.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Pink Extra</display-name>
+  </channel>
+  <channel id="Al Jazeera Balkans">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/aljazeera.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Al Jazeera Balkans</display-name>
+  </channel>
+  <channel id="BBC Earth">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/bbcearth.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">BBC Earth</display-name>
+  </channel>
+  <channel id="Travel Channel">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/travel.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Travel Channel</display-name>
   </channel>
   <channel id="RTL">
     <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/rtl.png" />
     <url>http://www.siol.net</url>
     <display-name lang="sl">RTL</display-name>
   </channel>
-  <channel id="France 24 HD">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/france24_updated8916103917.png" />
+  <channel id="NET TV">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/net_updated181218115252.png" />
     <url>http://www.siol.net</url>
-    <display-name lang="sl">France 24 HD</display-name>
+    <display-name lang="sl">NET TV</display-name>
   </channel>
-  <channel id="RT Crna gora">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/rtcg.png" />
+  <channel id="Sportklub Golf">
     <url>http://www.siol.net</url>
-    <display-name lang="sl">RT Crna gora</display-name>
+    <display-name lang="sl">Sportklub Golf</display-name>
   </channel>
-  <channel id="Pink Kids">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/pinkkids.png" />
+  <channel id="RTS 2">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/rts2.png" />
     <url>http://www.siol.net</url>
-    <display-name lang="sl">Pink Kids</display-name>
+    <display-name lang="sl">RTS 2</display-name>
   </channel>
-  <channel id="TV Jadran">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/jadran.png" />
+  <channel id="Pink Family">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/pinkfamily.png" />
     <url>http://www.siol.net</url>
-    <display-name lang="sl">TV Jadran</display-name>
+    <display-name lang="sl">Pink Family</display-name>
   </channel>
-  <channel id="ARD">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/ard_updated25919165011.png" />
+  <channel id="Brio">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/brio.png" />
     <url>http://www.siol.net</url>
-    <display-name lang="sl">ARD</display-name>
+    <display-name lang="sl">Brio</display-name>
   </channel>
-  <channel id="RTRS">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/rtrs.png" />
+  <channel id="Nick Jr">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/nick_jr_updated3720152027.png" />
     <url>http://www.siol.net</url>
-    <display-name lang="sl">RTRS</display-name>
+    <display-name lang="sl">Nick Jr.</display-name>
   </channel>
-  <channel id="National Geographic Wild">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/natgeow.png" />
+  <channel id="Sport Klub 2">
     <url>http://www.siol.net</url>
-    <display-name lang="sl">National Geographic Wild</display-name>
+    <display-name lang="sl">Sport Klub 2</display-name>
   </channel>
-  <channel id="Kanal A">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/akanal_updated30920122247.png" />
+  <channel id="Planet PLUS">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/planetplus_updated31719112420.png" />
     <url>http://www.siol.net</url>
-    <display-name lang="sl">Kanal A</display-name>
+    <display-name lang="sl">Planet PLUS</display-name>
+  </channel>
+  <channel id="Grand 2">
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Grand 2</display-name>
+  </channel>
+  <channel id="RTL Hrvaška">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/rtlhrvatska.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">RTL Hrvaška</display-name>
+  </channel>
+  <channel id="History Channel">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/historych.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">History Channel</display-name>
+  </channel>
+  <channel id="Telma TV">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/telma_updated221019081413.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Telma TV</display-name>
   </channel>
   <channel id="Nova 24 TV">
     <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/nova24tv.png" />
@@ -698,30 +240,330 @@
     <url>http://www.siol.net</url>
     <display-name lang="sl">Russia Today</display-name>
   </channel>
-  <channel id="TV5MONDE">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/tv5.png" />
+  <channel id="FOX Movies">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/foxmovies.png" />
     <url>http://www.siol.net</url>
-    <display-name lang="sl">TV5MONDE</display-name>
+    <display-name lang="sl">FOX Movies</display-name>
   </channel>
-  <channel id="3sat">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/3sat_updated25919165224.png" />
+  <channel id="Sport Klub 1">
     <url>http://www.siol.net</url>
-    <display-name lang="sl">3sat</display-name>
+    <display-name lang="sl">Sport Klub 1</display-name>
   </channel>
-  <channel id="Kabel 1">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/kabel1.png" />
+  <channel id="FTV">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/ftv.png" />
     <url>http://www.siol.net</url>
-    <display-name lang="sl">Kabel 1</display-name>
+    <display-name lang="sl">FTV</display-name>
+  </channel>
+  <channel id="Arte">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/arte.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Arte</display-name>
+  </channel>
+  <channel id="Discovery HD Showcase">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/discoveryhd_updated25919145802.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Discovery HD Showcase</display-name>
+  </channel>
+  <channel id="TV Svet Plus Beograd">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/spbeograd.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">TV Svet Plus Beograd</display-name>
+  </channel>
+  <channel id="Viasat Nature">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/viasat_nature_updated151217095757.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Viasat Nature</display-name>
+  </channel>
+  <channel id="Animal Planet">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/animal_updated22319090212.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Animal Planet</display-name>
+  </channel>
+  <channel id="ORF 2">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/orf2_updated25919155505.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">ORF 2</display-name>
+  </channel>
+  <channel id="Tring Shiqip">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/trings.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Tring Shiqip</display-name>
+  </channel>
+  <channel id="ORF 1">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/orf1_updated25919154618.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">ORF 1</display-name>
+  </channel>
+  <channel id="Šport TV 3">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/sporttv3.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Šport TV 3</display-name>
+  </channel>
+  <channel id="Top TV">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/infotv.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Top TV</display-name>
+  </channel>
+  <channel id="Discovery ID Xtra">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/discidx_updated25919150558.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Discovery ID Xtra</display-name>
+  </channel>
+  <channel id="KCN">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/kcn.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">KCN</display-name>
+  </channel>
+  <channel id="Tring Vizion+">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/tringvp.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Tring Vizion+</display-name>
+  </channel>
+  <channel id="RT Srbija">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/rts.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">RT Srbija</display-name>
+  </channel>
+  <channel id="Pink World">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/pinkworld.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Pink World</display-name>
+  </channel>
+  <channel id="MTV Rocks">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/mtv2_updated51020122352.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">MTV Rocks</display-name>
+  </channel>
+  <channel id="National Geographic Wild">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/natgeow.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">National Geographic Wild</display-name>
+  </channel>
+  <channel id="OBN">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/obnbosna.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">OBN</display-name>
+  </channel>
+  <channel id="NTV IC Kakanj">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/kakanj.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">NTV IC Kakanj</display-name>
   </channel>
   <channel id="RTS Maribor">
     <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/rtsm_updated231017110533.png" />
     <url>http://www.siol.net</url>
     <display-name lang="sl">RTS Maribor</display-name>
   </channel>
-  <channel id="Telma TV">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/telma_updated221019081413.png" />
+  <channel id="Kabel 1">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/kabel1.png" />
     <url>http://www.siol.net</url>
-    <display-name lang="sl">Telma TV</display-name>
+    <display-name lang="sl">Kabel 1</display-name>
+  </channel>
+  <channel id="RAI 2">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/rai2_updated20916143623.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">RAI 2</display-name>
+  </channel>
+  <channel id="AXN Spin">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/axnspin.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">AXN Spin</display-name>
+  </channel>
+  <channel id="RTRS">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/rtrs.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">RTRS</display-name>
+  </channel>
+  <channel id="Tring Tring">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/tringt.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Tring Tring</display-name>
+  </channel>
+  <channel id="Tele Maribor">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/telem.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Tele Maribor</display-name>
+  </channel>
+  <channel id="POP TV">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/poptv.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">POP TV</display-name>
+  </channel>
+  <channel id="Tring 7">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/tring7.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Tring 7</display-name>
+  </channel>
+  <channel id="ZDF">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/zdf.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">ZDF</display-name>
+  </channel>
+  <channel id="CineStar TV Premiere 2">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/cinestarpr2_updated281119133315.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">CineStar TV Premiere 2</display-name>
+  </channel>
+  <channel id="SciFi">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/scifihd_updated24419092712.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">SciFi</display-name>
+  </channel>
+  <channel id="TV SLO 3">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/slo3.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">TV SLO 3</display-name>
+  </channel>
+  <channel id="TV 1">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/tv1_updated7220121631.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">TV 1</display-name>
+  </channel>
+  <channel id="MTV Hits">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/mtvh.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">MTV Hits</display-name>
+  </channel>
+  <channel id="Sundance TV">
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Sundance TV</display-name>
+  </channel>
+  <channel id="TV 1000">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/tv1000.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">TV 1000</display-name>
+  </channel>
+  <channel id="Eurosport">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/eurosport.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Eurosport</display-name>
+  </channel>
+  <channel id="CBS Reality">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/reality.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">CBS Reality</display-name>
+  </channel>
+  <channel id="Jabuka (OTV)">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/jabukatv.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Jabuka (OTV)</display-name>
+  </channel>
+  <channel id="Sport Klub 4">
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Sport Klub 4</display-name>
+  </channel>
+  <channel id="TV Veseljak">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/tvveseljak.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">TV Veseljak</display-name>
+  </channel>
+  <channel id="VOX">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/vox.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">VOX</display-name>
+  </channel>
+  <channel id="Pink Movies">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/pinkmovie.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Pink Movies</display-name>
+  </channel>
+  <channel id="Ginx">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/ginx_updated221019121313.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Ginx</display-name>
+  </channel>
+  <channel id="Duna TV">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/duna_updated31016144834.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Duna TV</display-name>
+  </channel>
+  <channel id="Happy TV">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/happy.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Happy TV</display-name>
+  </channel>
+  <channel id="Hayat">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/hayat.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Hayat</display-name>
+  </channel>
+  <channel id="MTV Dance">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/mtvdance_updated11620133716.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">MTV Dance</display-name>
+  </channel>
+  <channel id="TV5MONDE">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/tv5.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">TV5MONDE</display-name>
+  </channel>
+  <channel id="Channel One Russia">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/russia1.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Channel One Russia</display-name>
+  </channel>
+  <channel id="OTO">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/popoto.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">OTO</display-name>
+  </channel>
+  <channel id="Sport1">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/dsf_updated25919162924.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Sport1</display-name>
+  </channel>
+  <channel id="Sport Klub 3">
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Sport Klub 3</display-name>
+  </channel>
+  <channel id="Nova TV">
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Nova TV</display-name>
+  </channel>
+  <channel id="Epic Drama">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/epic_drama_updated151217073723.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Epic Drama</display-name>
+  </channel>
+  <channel id="Pro7">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/pro7.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Pro7</display-name>
+  </channel>
+  <channel id="MTV 2">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/mktv2.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">MTV 2</display-name>
+  </channel>
+  <channel id="Pink Kids">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/pinkkids.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Pink Kids</display-name>
+  </channel>
+  <channel id="Kino">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/popkino.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Kino</display-name>
+  </channel>
+  <channel id="Ptujska TV">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/ptujtv.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Ptujska TV</display-name>
+  </channel>
+  <channel id="TVE">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/tve.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">TVE</display-name>
+  </channel>
+  <channel id="TV Atlas">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/atlas.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">TV Atlas</display-name>
+  </channel>
+  <channel id="RAI 3">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/rai3_updated20916143449.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">RAI 3</display-name>
   </channel>
   <channel id="National Geographic">
     <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/natgeo_updated141116162148.png" />
@@ -733,261 +575,419 @@
     <url>http://www.siol.net</url>
     <display-name lang="sl">Woman</display-name>
   </channel>
-  <channel id="Nova TV">
+  <channel id="Kanal 5">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/kanal5.png" />
     <url>http://www.siol.net</url>
-    <display-name lang="sl">Nova TV</display-name>
-  </channel>
-  <channel id="Tring 7">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/tring7.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Tring 7</display-name>
-  </channel>
-  <channel id="EWTN">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/ewtn.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">EWTN</display-name>
-  </channel>
-  <channel id="MTV 2">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/mktv2.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">MTV 2</display-name>
-  </channel>
-  <channel id="OBN">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/obnbosna.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">OBN</display-name>
-  </channel>
-  <channel id="HBO 3">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/hbo3.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">HBO 3</display-name>
+    <display-name lang="sl">Kanal 5</display-name>
   </channel>
   <channel id="FOX Life">
     <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/foxlife.png" />
     <url>http://www.siol.net</url>
     <display-name lang="sl">FOX Life</display-name>
   </channel>
-  <channel id="History Channel">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/historych.png" />
+  <channel id="TV Koper Capodistria">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/koper.png" />
     <url>http://www.siol.net</url>
-    <display-name lang="sl">History Channel</display-name>
-  </channel>
-  <channel id="Discovery HD Showcase">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/discoveryhd_updated25919145802.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Discovery HD Showcase</display-name>
-  </channel>
-  <channel id="CineStar TV Premiere 1">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/cinestarpr1_updated281119132716.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">CineStar TV Premiere 1</display-name>
-  </channel>
-  <channel id="Baby TV">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/babytv.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Baby TV</display-name>
-  </channel>
-  <channel id="Pro7">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/pro7.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Pro7</display-name>
-  </channel>
-  <channel id="Narodna TV">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/narodna.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Narodna TV</display-name>
-  </channel>
-  <channel id="Sport Klub 3">
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Sport Klub 3</display-name>
-  </channel>
-  <channel id="CineStar TV Action &amp; Thriller">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/cinestaraction_updated281119132248.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">CineStar TV Action &amp; Thriller</display-name>
-  </channel>
-  <channel id="RTL Living">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/rtlplus.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">RTL Living</display-name>
-  </channel>
-  <channel id="POP TV">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/poptv.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">POP TV</display-name>
-  </channel>
-  <channel id="HRT 1">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/hrt1_updated241016104810.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">HRT 1</display-name>
-  </channel>
-  <channel id="Sundance TV">
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Sundance TV</display-name>
-  </channel>
-  <channel id="CBS Reality">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/reality.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">CBS Reality</display-name>
+    <display-name lang="sl">TV Koper Capodistria</display-name>
   </channel>
   <channel id="CMC">
     <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/cmc_updated27919111135.png" />
     <url>http://www.siol.net</url>
     <display-name lang="sl">CMC</display-name>
   </channel>
-  <channel id="HBO 2">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/hbo2.png" />
+  <channel id="ARD">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/ard_updated25919165011.png" />
     <url>http://www.siol.net</url>
-    <display-name lang="sl">HBO 2</display-name>
+    <display-name lang="sl">ARD</display-name>
   </channel>
-  <channel id="Discovery ID Xtra">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/discidx_updated25919150558.png" />
+  <channel id="Sport Klub 6">
     <url>http://www.siol.net</url>
-    <display-name lang="sl">Discovery ID Xtra</display-name>
+    <display-name lang="sl">Sport Klub 6</display-name>
   </channel>
-  <channel id="Sport Klub 5">
+  <channel id="HRT 2">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/hrt2_updated241016104915.png" />
     <url>http://www.siol.net</url>
-    <display-name lang="sl">Sport Klub 5</display-name>
+    <display-name lang="sl">HRT 2</display-name>
   </channel>
-  <channel id="ORF 2">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/orf2_updated25919155505.png" />
+  <channel id="Fashion TV">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/fashiontv_updated27919132425.png" />
     <url>http://www.siol.net</url>
-    <display-name lang="sl">ORF 2</display-name>
-  </channel>
-  <channel id="BK TV">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/bktv.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">BK TV</display-name>
-  </channel>
-  <channel id="Pink World">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/pinkworld.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Pink World</display-name>
-  </channel>
-  <channel id="TV Istra">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/istra_updated10720105011.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">TV Istra</display-name>
-  </channel>
-  <channel id="TV Sarajevo">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/sarajevo.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">TV Sarajevo</display-name>
-  </channel>
-  <channel id="24Kitchen">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/doq.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">24Kitchen</display-name>
-  </channel>
-  <channel id="Alsat Macedonia">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/alsatm.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Alsat Macedonia</display-name>
-  </channel>
-  <channel id="O2 TV">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/b92_updated11917125624.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">O2 TV</display-name>
-  </channel>
-  <channel id="Pink Plus">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/pinkplus.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Pink Plus</display-name>
-  </channel>
-  <channel id="NickToons">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/nicktoons_updated10720110923.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">NickToons</display-name>
-  </channel>
-  <channel id="TV Duga Novi sad">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/dugans.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">TV Duga Novi sad</display-name>
+    <display-name lang="sl">Fashion TV</display-name>
   </channel>
   <channel id="Minimax">
     <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/minimax.png" />
     <url>http://www.siol.net</url>
     <display-name lang="sl">Minimax</display-name>
   </channel>
-  <channel id="Vikom">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/vikom.png" />
+  <channel id="Baby TV">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/babytv.png" />
     <url>http://www.siol.net</url>
-    <display-name lang="sl">Vikom</display-name>
+    <display-name lang="sl">Baby TV</display-name>
   </channel>
-  <channel id="TV Veseljak">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/tvveseljak.png" />
+  <channel id="BK TV">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/bktv.png" />
     <url>http://www.siol.net</url>
-    <display-name lang="sl">TV Veseljak</display-name>
+    <display-name lang="sl">BK TV</display-name>
+  </channel>
+  <channel id="RT Crna gora">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/rtcg.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">RT Crna gora</display-name>
+  </channel>
+  <channel id="Trace Urban">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/trace.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Trace Urban</display-name>
+  </channel>
+  <channel id="RTL Living">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/rtlplus.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">RTL Living</display-name>
+  </channel>
+  <channel id="AXN">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/axn.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">AXN</display-name>
+  </channel>
+  <channel id="Viasat History">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/history.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Viasat History</display-name>
+  </channel>
+  <channel id="HBO 2">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/hbo2.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">HBO 2</display-name>
+  </channel>
+  <channel id="Trace Sport">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/tracesport.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Trace Sport</display-name>
+  </channel>
+  <channel id="TV Sarajevo">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/sarajevo.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">TV Sarajevo</display-name>
+  </channel>
+  <channel id="SAT 1">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/sat1.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">SAT 1</display-name>
+  </channel>
+  <channel id="Nautical Channel">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/yachtsail.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Nautical Channel</display-name>
+  </channel>
+  <channel id="TV Duga Novi sad">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/dugans.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">TV Duga Novi sad</display-name>
+  </channel>
+  <channel id="Comedy central">
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Comedy central</display-name>
+  </channel>
+  <channel id="Pink Film">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/pinkfilm.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Pink Film</display-name>
   </channel>
   <channel id="E!">
     <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/eeurope_updated10519095449.png" />
     <url>http://www.siol.net</url>
     <display-name lang="sl">E!</display-name>
   </channel>
-  <channel id="Mediaset Italia">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/mediainter.png" />
+  <channel id="VH1 Classic">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/vh1cla_updated51020123319.png" />
     <url>http://www.siol.net</url>
-    <display-name lang="sl">Mediaset Italia</display-name>
+    <display-name lang="sl">VH1 Classic</display-name>
+  </channel>
+  <channel id="HBO">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/hbo.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">HBO</display-name>
+  </channel>
+  <channel id="France 24 HD">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/france24_updated8916103917.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">France 24 HD</display-name>
+  </channel>
+  <channel id="NickToons">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/nicktoons_updated10720110923.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">NickToons</display-name>
+  </channel>
+  <channel id="Boomerang">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/boomerang_updated25919164802.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Boomerang</display-name>
+  </channel>
+  <channel id="TV Jadran">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/jadran.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">TV Jadran</display-name>
+  </channel>
+  <channel id="Motorvision TV HD">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/motorvisiontv.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Motorvision TV HD</display-name>
   </channel>
   <channel id="Planet 2">
     <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/planet2_updated31719110250.png" />
     <url>http://www.siol.net</url>
     <display-name lang="sl">Planet 2</display-name>
   </channel>
-  <channel id="MTV Rocks">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/mtv2_updated51020122352.png" />
+  <channel id="Cinestar">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/cinestartv_updated30120134057.png" />
     <url>http://www.siol.net</url>
-    <display-name lang="sl">MTV Rocks</display-name>
+    <display-name lang="sl">Cinestar</display-name>
   </channel>
-  <channel id="Viasat Nature">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/viasat_nature_updated151217095757.png" />
+  <channel id="Diva">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/universal_updated9916111843.png" />
     <url>http://www.siol.net</url>
-    <display-name lang="sl">Viasat Nature</display-name>
-  </channel>
-  <channel id="TV SLO 1">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/slo1.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">TV SLO 1</display-name>
-  </channel>
-  <channel id="Happy TV">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/happy.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Happy TV</display-name>
-  </channel>
-  <channel id="Viasat Explore">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/viasat_explore_updated121217114309.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Viasat Explore</display-name>
-  </channel>
-  <channel id="Exodus TV">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/exodustv.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Exodus TV</display-name>
-  </channel>
-  <channel id="VOX">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/vox.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">VOX</display-name>
-  </channel>
-  <channel id="Tring Shiqip">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/trings.png" />
-    <url>http://www.siol.net</url>
-    <display-name lang="sl">Tring Shiqip</display-name>
+    <display-name lang="sl">Diva</display-name>
   </channel>
   <channel id="PINK SI">
     <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/pinkslo.png" />
     <url>http://www.siol.net</url>
     <display-name lang="sl">PINK SI</display-name>
   </channel>
-  <channel id="TV Atlas">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/atlas.png" />
+  <channel id="HRT 3">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/hrt3_updated241016105155.png" />
     <url>http://www.siol.net</url>
-    <display-name lang="sl">TV Atlas</display-name>
+    <display-name lang="sl">HRT 3</display-name>
   </channel>
-  <channel id="Disney XD">
-    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/jetix.png" />
+  <channel id="Eurosport 2">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/eurosport2.png" />
     <url>http://www.siol.net</url>
-    <display-name lang="sl">Disney XD</display-name>
+    <display-name lang="sl">Eurosport 2</display-name>
+  </channel>
+  <channel id="PRVA Srbska TV">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/prvasrb.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">PRVA Srbska TV</display-name>
+  </channel>
+  <channel id="RAI 1">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/rai1_updated20916143752.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">RAI 1</display-name>
+  </channel>
+  <channel id="VH1">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/vh1.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">VH1</display-name>
+  </channel>
+  <channel id="Nova 24 TV 2">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/nova24tv2_updated27219114703.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Nova 24 TV 2</display-name>
+  </channel>
+  <channel id="N1">
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">N1</display-name>
+  </channel>
+  <channel id="TV SLO 1">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/slo1.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">TV SLO 1</display-name>
+  </channel>
+  <channel id="Tring Max">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/tringm.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Tring Max</display-name>
+  </channel>
+  <channel id="HBO 3">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/hbo3.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">HBO 3</display-name>
+  </channel>
+  <channel id="Elta 2">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/alternativa.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Elta 2</display-name>
+  </channel>
+  <channel id="TV3 Medias">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/tv3medias_updated21920090029.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">TV3 Medias</display-name>
+  </channel>
+  <channel id="Super RTL">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/superrtl_updated25919164246.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Super RTL</display-name>
+  </channel>
+  <channel id="O2 TV">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/b92_updated11917125624.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">O2 TV</display-name>
+  </channel>
+  <channel id="Z1 Televizija">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/z1.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Z1 Televizija</display-name>
+  </channel>
+  <channel id="DTX">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/dtx.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">DTX</display-name>
+  </channel>
+  <channel id="KOHAVISION">
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">KOHAVISION</display-name>
+  </channel>
+  <channel id="Cartoon / TCM">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/cartoon.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Cartoon / TCM</display-name>
+  </channel>
+  <channel id="Pink Music">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/pinkmusic.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Pink Music</display-name>
+  </channel>
+  <channel id="TV Istra">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/istra_updated10720105011.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">TV Istra</display-name>
+  </channel>
+  <channel id="RTS 1">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/rts1.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">RTS 1</display-name>
+  </channel>
+  <channel id="RTL II">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/rtl2.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">RTL II</display-name>
+  </channel>
+  <channel id="Klasik TV">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/klasiktv_updated201118102744.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Klasik TV</display-name>
+  </channel>
+  <channel id="Alsat Macedonia">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/alsatm.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Alsat Macedonia</display-name>
+  </channel>
+  <channel id="Planet">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/planet_tv_updated3217132040.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Planet</display-name>
+  </channel>
+  <channel id="CNN">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/cnn.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">CNN</display-name>
+  </channel>
+  <channel id="Pink Zabava">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/pinkzabava.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Pink Zabava</display-name>
+  </channel>
+  <channel id="Vikom">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/vikom.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Vikom</display-name>
+  </channel>
+  <channel id="MTV 1">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/mktv1.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">MTV 1</display-name>
+  </channel>
+  <channel id="Discovery Science">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/discsci_updated71117090734.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Discovery Science</display-name>
+  </channel>
+  <channel id="Discovery TLC">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/disctlc_updated25919150211.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Discovery TLC</display-name>
+  </channel>
+  <channel id="Pink 2">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/pink2_updated51020123554.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Pink 2</display-name>
+  </channel>
+  <channel id="Disney Channel">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/disney_updated25919165452.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Disney Channel</display-name>
+  </channel>
+  <channel id="Šport TV 2">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/sporttv2.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Šport TV 2</display-name>
+  </channel>
+  <channel id="Grand 1">
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Grand 1</display-name>
+  </channel>
+  <channel id="Zdrava TV">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/zdrava.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Zdrava TV</display-name>
+  </channel>
+  <channel id="Mediaset Italia">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/mediainter.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Mediaset Italia</display-name>
+  </channel>
+  <channel id="Da Vinci Learning">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/davincilear_updated8118113037.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Da Vinci Learning</display-name>
+  </channel>
+  <channel id="Sitel 3">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/sitel3.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Sitel 3</display-name>
+  </channel>
+  <channel id="Mezzo">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/mezzo.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Mezzo</display-name>
+  </channel>
+  <channel id="ELTA TV">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/eltatv.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">ELTA TV</display-name>
+  </channel>
+  <channel id="Gold TV">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/gold.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Gold TV</display-name>
+  </channel>
+  <channel id="BN TV">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/bntv.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">BN TV</display-name>
+  </channel>
+  <channel id="Šport TV 1">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/sporttv.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Šport TV 1</display-name>
+  </channel>
+  <channel id="Dr. Fit">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/drfit_updated9419141628.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Dr. Fit</display-name>
+  </channel>
+  <channel id="JimJam">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/jimjam_updated27718131838.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">JimJam</display-name>
+  </channel>
+  <channel id="Sport Klub 5">
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Sport Klub 5</display-name>
+  </channel>
+  <channel id="Extreme TV">
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/extreme.png" />
+    <url>http://www.siol.net</url>
+    <display-name lang="sl">Extreme TV</display-name>
   </channel>
   <programme channel="24Kitchen" start="20201007000000 +0200" stop="20201007003000 +0200">
     <title lang="sl">Dober tek: Za prijatelje</title>
@@ -4503,7 +4503,7 @@
     <title lang="sl">Vox pop</title>
   </programme>
   <programme channel="Arte" start="20201008071000 +0200" stop="20201008071500 +0200">
-    <title lang="sl">ARTE žurnal junior</title>
+    <title lang="sl">ARTE Žurnal Junior</title>
   </programme>
   <programme channel="Arte" start="20201008071500 +0200" stop="20201008080000 +0200">
     <title lang="sl">Geografska reportaža</title>
@@ -4524,7 +4524,7 @@
     <title lang="sl">Re: Zgrajeno na kosteh: Življenje z dediščino Gulagov</title>
   </programme>
   <programme channel="Arte" start="20201008125000 +0200" stop="20201008130000 +0200">
-    <title lang="sl">ARTE žurnal</title>
+    <title lang="sl">ARTE Žurnal</title>
   </programme>
   <programme channel="Arte" start="20201008130000 +0200" stop="20201008134500 +0200">
     <title lang="sl">Vabilo na potovanje</title>
@@ -4551,10 +4551,10 @@
     <title lang="sl">Univerzum: Kongo - V kraljestvu opic</title>
   </programme>
   <programme channel="Arte" start="20201008192000 +0200" stop="20201008194000 +0200">
-    <title lang="sl">ARTE žurnal</title>
+    <title lang="sl">ARTE Žurnal</title>
   </programme>
   <programme channel="Arte" start="20201008194000 +0200" stop="20201008201500 +0200">
-    <title lang="sl">Re: Na psu: Reševalci psov iz zlate obale</title>
+    <title lang="sl">Re: Na psu: Rešitevalci psov iz zlate obale</title>
   </programme>
   <programme channel="Arte" start="20201008201500 +0200" stop="20201008210000 +0200">
     <title lang="sl">Leto na Irskem: Pomlad</title>
@@ -4568,23 +4568,23 @@
   <programme channel="Arte" start="20201008222500 +0200" stop="20201008230500 +0200">
     <title lang="sl">DNK</title>
   </programme>
-  <programme channel="Arte" start="20201008230500 +0200" stop="20201008235000 +0200">
+  <programme channel="Arte" start="20201008230500 +0200" stop="20201008234500 +0200">
     <title lang="sl">DNK</title>
   </programme>
-  <programme channel="Arte" start="20201008235000 +0200" stop="20201009003000 +0200">
+  <programme channel="Arte" start="20201008234500 +0200" stop="20201009003000 +0200">
     <title lang="sl">DNK</title>
   </programme>
-  <programme channel="Arte" start="20201009003000 +0200" stop="20201009021000 +0200">
+  <programme channel="Arte" start="20201009003000 +0200" stop="20201009020500 +0200">
     <title lang="sl">Eva</title>
   </programme>
-  <programme channel="Arte" start="20201009021000 +0200" stop="20201009040000 +0200">
+  <programme channel="Arte" start="20201009020500 +0200" stop="20201009035500 +0200">
     <title lang="sl">Pijani od oblasti</title>
   </programme>
-  <programme channel="Arte" start="20201009040000 +0200" stop="20201009044800 +0200">
+  <programme channel="Arte" start="20201009035500 +0200" stop="20201009044200 +0200">
     <title lang="sl">28 minut</title>
   </programme>
-  <programme channel="Arte" start="20201009044800 +0200" stop="20201009050000 +0200">
-    <title lang="sl">50 odtenkov Grčije: #Tudi -mit</title>
+  <programme channel="Arte" start="20201009044200 +0200" stop="20201009050000 +0200">
+    <title lang="sl">50 odtenkov Grčije: #Tudi-mit</title>
   </programme>
   <programme channel="Arte" start="20201009050000 +0200" stop="20201009053000 +0200">
     <title lang="sl">Hiti</title>
@@ -8339,10 +8339,7 @@
   <programme channel="CNN" start="20201007200000 +0200" stop="20201007210000 +0200">
     <title lang="sl">Amanpour</title>
   </programme>
-  <programme channel="CNN" start="20201007210000 +0200" stop="20201007220000 +0200">
-    <title lang="sl">Poslovni svet z Richardom Questom</title>
-  </programme>
-  <programme channel="CNN" start="20201007220000 +0200" stop="20201007230000 +0200">
+  <programme channel="CNN" start="20201007210000 +0200" stop="20201007230000 +0200">
     <title lang="sl">Osrednje novice z Jakom Tapperjem</title>
   </programme>
   <programme channel="CNN" start="20201007230000 +0200" stop="20201008010000 +0200">
@@ -8378,11 +8375,8 @@
   <programme channel="CNN" start="20201008103000 +0200" stop="20201008110000 +0200">
     <title lang="sl">Noč pogovorov v Ameriki</title>
   </programme>
-  <programme channel="CNN" start="20201008110000 +0200" stop="20201008143000 +0200">
+  <programme channel="CNN" start="20201008110000 +0200" stop="20201008150000 +0200">
     <title lang="sl">Nov dan</title>
-  </programme>
-  <programme channel="CNN" start="20201008143000 +0200" stop="20201008150000 +0200">
-    <title lang="sl">Šport po svetu</title>
   </programme>
   <programme channel="CNN" start="20201008150000 +0200" stop="20201008160000 +0200">
     <title lang="sl">Prvi korak z Julio Chatterley</title>
@@ -17105,13 +17099,10 @@
   <programme channel="Eurosport" start="20201007115500 +0200" stop="20201007140000 +0200">
     <title lang="sl">Tenis: Roland-Garros: Pariz (Fra) - Četrtfinale: [7] P. Kvitová (Cze) v L. Siegemund (Ger)</title>
   </programme>
-  <programme channel="Eurosport" start="20201007140000 +0200" stop="20201007170000 +0200">
+  <programme channel="Eurosport" start="20201007140000 +0200" stop="20201007171800 +0200">
     <title lang="sl">Tenis: Roland-Garros: Pariz (Fra) - Četrtfinale: D. Collins (Usa) v S. Kenin (Usa) [4]</title>
   </programme>
-  <programme channel="Eurosport" start="20201007170000 +0200" stop="20201007171700 +0200">
-    <title lang="sl">Tenis: Teniška kocka</title>
-  </programme>
-  <programme channel="Eurosport" start="20201007171700 +0200" stop="20201007191500 +0200">
+  <programme channel="Eurosport" start="20201007171800 +0200" stop="20201007191500 +0200">
     <title lang="sl">Tenis: Roland-Garros: Pariz (Fra) - Četrtfinale: [13] A. Rublev (Rus) v S. Tsitsipas (Gre) [5]</title>
   </programme>
   <programme channel="Eurosport" start="20201007191500 +0200" stop="20201007221500 +0200">
@@ -17124,13 +17115,13 @@
     <title lang="sl">Kolesarstvo: Giro - 5. etapa: Mileto / Camigliatello Silano - 225 km</title>
   </programme>
   <programme channel="Eurosport" start="20201008000000 +0200" stop="20201008011500 +0200">
-    <title lang="sl">Tenis: Roland-Garros: Pariz (Fra) - Četrtfinale: [12] D. Schwartzman (Arg) v D. Thiem (Aut) [3]</title>
+    <title lang="sl">Tenis: Roland-Garros: Pariz (Fra) - Četrtfinale: [13] A. Rublev (Rus) v S. Tsitsipas (Gre) [5]</title>
   </programme>
   <programme channel="Eurosport" start="20201008011500 +0200" stop="20201008012900 +0200">
     <title lang="sl">Tenis: Teniška kocka</title>
   </programme>
   <programme channel="Eurosport" start="20201008012900 +0200" stop="20201008030000 +0200">
-    <title lang="sl">Tenis: Roland-Garros: Pariz (Fra) - Četrtfinale: I. Swiatek (Pol) v M. Trevisan (Ita)</title>
+    <title lang="sl">Tenis: Roland-Garros: Pariz (Fra) - Četrtfinale: [7] P. Kvitová (Cze) v L. Siegemund (Ger)</title>
   </programme>
   <programme channel="Eurosport" start="20201008030000 +0200" stop="20201008040000 +0200">
     <title lang="sl">Kolesarstvo: Pro Series, Belgija</title>
@@ -19850,49 +19841,46 @@
   <programme channel="FTV" start="20201008022500 +0200" stop="20201008031000 +0200">
     <title lang="sl">Sestre</title>
   </programme>
-  <programme channel="FTV" start="20201008031000 +0200" stop="20201008070000 +0200">
+  <programme channel="FTV" start="20201008031000 +0200" stop="20201008071000 +0200">
     <title lang="sl">Pregled programa za četrtek</title>
   </programme>
-  <programme channel="FTV" start="20201008070000 +0200" stop="20201008073000 +0200">
+  <programme channel="FTV" start="20201008071000 +0200" stop="20201008073500 +0200">
     <title lang="sl">Zgodbe iz Hercegovine</title>
   </programme>
-  <programme channel="FTV" start="20201008073000 +0200" stop="20201008080000 +0200">
+  <programme channel="FTV" start="20201008073500 +0200" stop="20201008080000 +0200">
     <title lang="sl">Lutkovna predstava</title>
   </programme>
   <programme channel="FTV" start="20201008080000 +0200" stop="20201008080500 +0200">
     <title lang="sl">Poročila</title>
   </programme>
-  <programme channel="FTV" start="20201008080500 +0200" stop="20201008085000 +0200">
+  <programme channel="FTV" start="20201008080500 +0200" stop="20201008085500 +0200">
     <title lang="sl">Pri ženski sreči</title>
   </programme>
-  <programme channel="FTV" start="20201008085000 +0200" stop="20201008090000 +0200">
+  <programme channel="FTV" start="20201008085500 +0200" stop="20201008090500 +0200">
     <title lang="sl">Planet BiH</title>
   </programme>
-  <programme channel="FTV" start="20201008090000 +0200" stop="20201008091000 +0200">
+  <programme channel="FTV" start="20201008090500 +0200" stop="20201008091500 +0200">
     <title lang="sl">Kaj ste počeli danes</title>
   </programme>
-  <programme channel="FTV" start="20201008091000 +0200" stop="20201008092000 +0200">
+  <programme channel="FTV" start="20201008091500 +0200" stop="20201008092500 +0200">
     <title lang="sl">Robovlaki</title>
   </programme>
-  <programme channel="FTV" start="20201008092000 +0200" stop="20201008092900 +0200">
+  <programme channel="FTV" start="20201008092500 +0200" stop="20201008094000 +0200">
     <title lang="sl">Viking Viki</title>
   </programme>
-  <programme channel="FTV" start="20201008092900 +0200" stop="20201008094000 +0200">
-    <title lang="sl">Wissper</title>
-  </programme>
-  <programme channel="FTV" start="20201008094000 +0200" stop="20201008095500 +0200">
+  <programme channel="FTV" start="20201008094000 +0200" stop="20201008095000 +0200">
     <title lang="sl">Robovlaki</title>
   </programme>
-  <programme channel="FTV" start="20201008095500 +0200" stop="20201008101000 +0200">
+  <programme channel="FTV" start="20201008095000 +0200" stop="20201008100500 +0200">
     <title lang="sl">Viking Viki</title>
   </programme>
-  <programme channel="FTV" start="20201008101000 +0200" stop="20201008101500 +0200">
+  <programme channel="FTV" start="20201008100500 +0200" stop="20201008101000 +0200">
     <title lang="sl">Poročila</title>
   </programme>
-  <programme channel="FTV" start="20201008101500 +0200" stop="20201008111000 +0200">
+  <programme channel="FTV" start="20201008101000 +0200" stop="20201008110500 +0200">
     <title lang="sl">Sestre</title>
   </programme>
-  <programme channel="FTV" start="20201008111000 +0200" stop="20201008120000 +0200">
+  <programme channel="FTV" start="20201008110500 +0200" stop="20201008120000 +0200">
     <title lang="sl">Ranjena ljubezen</title>
   </programme>
   <programme channel="FTV" start="20201008120000 +0200" stop="20201008121500 +0200">
@@ -19904,13 +19892,13 @@
   <programme channel="FTV" start="20201008130500 +0200" stop="20201008142000 +0200">
     <title lang="sl">Superpar</title>
   </programme>
-  <programme channel="FTV" start="20201008142000 +0200" stop="20201008151000 +0200">
+  <programme channel="FTV" start="20201008142000 +0200" stop="20201008152000 +0200">
     <title lang="sl">Odgovorite ljudem</title>
   </programme>
-  <programme channel="FTV" start="20201008151000 +0200" stop="20201008152000 +0200">
+  <programme channel="FTV" start="20201008152000 +0200" stop="20201008153000 +0200">
     <title lang="sl">Poročila</title>
   </programme>
-  <programme channel="FTV" start="20201008152000 +0200" stop="20201008162000 +0200">
+  <programme channel="FTV" start="20201008153000 +0200" stop="20201008162000 +0200">
     <title lang="sl">Neverjetna moč človeškega telesa</title>
   </programme>
   <programme channel="FTV" start="20201008162000 +0200" stop="20201008170000 +0200">
@@ -19928,31 +19916,34 @@
   <programme channel="FTV" start="20201008191000 +0200" stop="20201008193000 +0200">
     <title lang="sl">Otroški program</title>
   </programme>
-  <programme channel="FTV" start="20201008193000 +0200" stop="20201008201000 +0200">
+  <programme channel="FTV" start="20201008193000 +0200" stop="20201008201500 +0200">
     <title lang="sl">Dnevnik 2</title>
   </programme>
-  <programme channel="FTV" start="20201008201000 +0200" stop="20201008205000 +0200">
+  <programme channel="FTV" start="20201008201500 +0200" stop="20201008205000 +0200">
     <title lang="sl">Dokumentarni četrtek</title>
   </programme>
-  <programme channel="FTV" start="20201008205000 +0200" stop="20201008221000 +0200">
+  <programme channel="FTV" start="20201008205000 +0200" stop="20201008220500 +0200">
     <title lang="sl">Superpar</title>
   </programme>
-  <programme channel="FTV" start="20201008221000 +0200" stop="20201008225000 +0200">
+  <programme channel="FTV" start="20201008220500 +0200" stop="20201008225500 +0200">
     <title lang="sl">Ranjena ljubezen</title>
   </programme>
-  <programme channel="FTV" start="20201008225000 +0200" stop="20201009003000 +0200">
+  <programme channel="FTV" start="20201008225500 +0200" stop="20201009010500 +0200">
     <title lang="sl">Siriana</title>
   </programme>
-  <programme channel="FTV" start="20201009003000 +0200" stop="20201009004500 +0200">
+  <programme channel="FTV" start="20201009010500 +0200" stop="20201009012000 +0200">
     <title lang="sl">Dnevnik 3</title>
   </programme>
-  <programme channel="FTV" start="20201009004500 +0200" stop="20201009014000 +0200">
+  <programme channel="FTV" start="20201009012000 +0200" stop="20201009020500 +0200">
     <title lang="sl">Kako je seks spremenil svet</title>
   </programme>
-  <programme channel="FTV" start="20201009014000 +0200" stop="20201009023000 +0200">
+  <programme channel="FTV" start="20201009020500 +0200" stop="20201009025000 +0200">
     <title lang="sl">Sestre</title>
   </programme>
-  <programme channel="FTV" start="20201009023000 +0200" stop="20201009070000 +0200">
+  <programme channel="FTV" start="20201009025000 +0200" stop="20201009031000 +0200">
+    <title lang="sl">TV Justice</title>
+  </programme>
+  <programme channel="FTV" start="20201009031000 +0200" stop="20201009070000 +0200">
     <title lang="sl">Pregled programa za petek</title>
   </programme>
   <programme channel="FTV" start="20201009070000 +0200" stop="20201009073000 +0200">
@@ -26087,8 +26078,11 @@
   <programme channel="Hayat" start="20201009084500 +0200" stop="20201009090000 +0200">
     <title lang="sl">TV izložba</title>
   </programme>
-  <programme channel="Hayat" start="20201009090000 +0200" stop="20201009095500 +0200">
+  <programme channel="Hayat" start="20201009090000 +0200" stop="20201009095200 +0200">
     <title lang="sl">Prepovedano jabolko</title>
+  </programme>
+  <programme channel="Hayat" start="20201009095200 +0200" stop="20201009095500 +0200">
+    <title lang="sl">Moja dežela</title>
   </programme>
   <programme channel="Hayat" start="20201009095500 +0200" stop="20201009105000 +0200">
     <title lang="sl">Vedno tvoja</title>
@@ -26129,8 +26123,11 @@
   <programme channel="Hayat" start="20201009150500 +0200" stop="20201009160000 +0200">
     <title lang="sl">Otvoritvena slovesnost Olimpijskega muzeja v Sarajevu</title>
   </programme>
-  <programme channel="Hayat" start="20201009160000 +0200" stop="20201009170000 +0200">
+  <programme channel="Hayat" start="20201009160000 +0200" stop="20201009165700 +0200">
     <title lang="sl">Ženska</title>
+  </programme>
+  <programme channel="Hayat" start="20201009165700 +0200" stop="20201009170000 +0200">
+    <title lang="sl">Moja dežela</title>
   </programme>
   <programme channel="Hayat" start="20201009170000 +0200" stop="20201009180000 +0200">
     <title lang="sl">Dober dan BiH</title>
@@ -26159,8 +26156,11 @@
   <programme channel="Hayat" start="20201009200000 +0200" stop="20201009204500 +0200">
     <title lang="sl">Hotel Balkan</title>
   </programme>
-  <programme channel="Hayat" start="20201009204500 +0200" stop="20201009221500 +0200">
+  <programme channel="Hayat" start="20201009204500 +0200" stop="20201009221200 +0200">
     <title lang="sl">Glasba naroda</title>
+  </programme>
+  <programme channel="Hayat" start="20201009221200 +0200" stop="20201009221500 +0200">
+    <title lang="sl">Moja dežela</title>
   </programme>
   <programme channel="Hayat" start="20201009221500 +0200" stop="20201009231500 +0200">
     <title lang="sl">Lepotica in zver</title>
@@ -26184,21 +26184,21 @@
     <title lang="sl">Ertugrul</title>
   </programme>
   <programme channel="Hayat" start="20201010081500 +0200" stop="20201010090000 +0200">
-    <title lang="sl">Moja dežela</title>
+    <title lang="sl">Zimska kuhinja</title>
   </programme>
   <programme channel="Hayat" start="20201010090000 +0200" stop="20201010094500 +0200">
-    <title lang="sl">Moja dežela</title>
+    <title lang="sl">Zimska kuhinja</title>
   </programme>
   <programme channel="Hayat" start="20201010094500 +0200" stop="20201010101500 +0200">
     <title lang="sl">TV izložba</title>
   </programme>
-  <programme channel="Hayat" start="20201010101500 +0200" stop="20201010112000 +0200">
+  <programme channel="Hayat" start="20201010101500 +0200" stop="20201010111000 +0200">
     <title lang="sl">Sladek recept</title>
   </programme>
-  <programme channel="Hayat" start="20201010112000 +0200" stop="20201010121000 +0200">
-    <title lang="sl">Wow Hayat production show</title>
+  <programme channel="Hayat" start="20201010111000 +0200" stop="20201010120500 +0200">
+    <title lang="sl">Prepovedano jabolko</title>
   </programme>
-  <programme channel="Hayat" start="20201010121000 +0200" stop="20201010130000 +0200">
+  <programme channel="Hayat" start="20201010120500 +0200" stop="20201010130000 +0200">
     <title lang="sl">Prepovedano jabolko</title>
   </programme>
   <programme channel="Hayat" start="20201010130000 +0200" stop="20201010131000 +0200">
@@ -26216,11 +26216,8 @@
   <programme channel="Hayat" start="20201010150000 +0200" stop="20201010150500 +0200">
     <title lang="sl">Novice</title>
   </programme>
-  <programme channel="Hayat" start="20201010150500 +0200" stop="20201010155500 +0200">
-    <title lang="sl">Prepovedano jabolko</title>
-  </programme>
-  <programme channel="Hayat" start="20201010155500 +0200" stop="20201010162000 +0200">
-    <title lang="sl">Moja pot</title>
+  <programme channel="Hayat" start="20201010150500 +0200" stop="20201010162000 +0200">
+    <title lang="sl">Glasba naroda</title>
   </programme>
   <programme channel="Hayat" start="20201010162000 +0200" stop="20201010165000 +0200">
     <title lang="sl">Kronika občine Novi Grad</title>
@@ -26232,7 +26229,7 @@
     <title lang="sl">Izpolni mi željo</title>
   </programme>
   <programme channel="Hayat" start="20201010180000 +0200" stop="20201010185800 +0200">
-    <title lang="sl">Ustvarjanje filma</title>
+    <title lang="sl">Mesto povratka</title>
   </programme>
   <programme channel="Hayat" start="20201010185800 +0200" stop="20201010193000 +0200">
     <title lang="sl">Novice ob 7h</title>
@@ -26252,16 +26249,16 @@
   <programme channel="Hayat" start="20201010194500 +0200" stop="20201010200000 +0200">
     <title lang="sl">Obzorja</title>
   </programme>
-  <programme channel="Hayat" start="20201010200000 +0200" stop="20201010210000 +0200">
-    <title lang="sl">Kalup</title>
+  <programme channel="Hayat" start="20201010200000 +0200" stop="20201010204500 +0200">
+    <title lang="sl">Hotel Balkan</title>
   </programme>
-  <programme channel="Hayat" start="20201010210000 +0200" stop="20201010220000 +0200">
-    <title lang="sl">Sarajevski Big Band</title>
+  <programme channel="Hayat" start="20201010204500 +0200" stop="20201010214500 +0200">
+    <title lang="sl">Wow Hayat production show</title>
   </programme>
-  <programme channel="Hayat" start="20201010220000 +0200" stop="20201010230000 +0200">
+  <programme channel="Hayat" start="20201010214500 +0200" stop="20201010224000 +0200">
     <title lang="sl">Ertugrul</title>
   </programme>
-  <programme channel="Hayat" start="20201010230000 +0200" stop="20201010235000 +0200">
+  <programme channel="Hayat" start="20201010224000 +0200" stop="20201010233000 +0200">
     <title lang="sl">Ertugrul</title>
   </programme>
   <programme channel="History Channel" start="20201007005000 +0200" stop="20201007014500 +0200">
@@ -30713,8 +30710,11 @@
   <programme channel="MTV 1" start="20201008064500 +0200" stop="20201008091500 +0200">
     <title lang="sl">Makedonija zjutraj</title>
   </programme>
-  <programme channel="MTV 1" start="20201008091500 +0200" stop="20201008100000 +0200">
-    <title lang="sl">Makedonske ljudske pravljice</title>
+  <programme channel="MTV 1" start="20201008091500 +0200" stop="20201008093500 +0200">
+    <title lang="sl">Jablanica - narava, ki ne pozna meja</title>
+  </programme>
+  <programme channel="MTV 1" start="20201008093500 +0200" stop="20201008100000 +0200">
+    <title lang="sl">Makedonski uzus</title>
   </programme>
   <programme channel="MTV 1" start="20201008100000 +0200" stop="20201008102500 +0200">
     <title lang="sl">Poročila</title>
@@ -30731,13 +30731,10 @@
   <programme channel="MTV 1" start="20201008104500 +0200" stop="20201008111000 +0200">
     <title lang="sl">Raziskovalka Dora</title>
   </programme>
-  <programme channel="MTV 1" start="20201008111000 +0200" stop="20201008113000 +0200">
-    <title lang="sl">Gormiti</title>
-  </programme>
-  <programme channel="MTV 1" start="20201008113000 +0200" stop="20201008114000 +0200">
+  <programme channel="MTV 1" start="20201008111000 +0200" stop="20201008112500 +0200">
     <title lang="sl">Od A do Š</title>
   </programme>
-  <programme channel="MTV 1" start="20201008114000 +0200" stop="20201008121000 +0200">
+  <programme channel="MTV 1" start="20201008112500 +0200" stop="20201008121000 +0200">
     <title lang="sl">Mediateka</title>
   </programme>
   <programme channel="MTV 1" start="20201008121000 +0200" stop="20201008130000 +0200">
@@ -30767,14 +30764,17 @@
   <programme channel="MTV 1" start="20201008174000 +0200" stop="20201008174500 +0200">
     <title lang="sl">Vreme</title>
   </programme>
-  <programme channel="MTV 1" start="20201008174500 +0200" stop="20201008184000 +0200">
+  <programme channel="MTV 1" start="20201008174500 +0200" stop="20201008185000 +0200">
     <title lang="sl">Folk džuboks</title>
   </programme>
-  <programme channel="MTV 1" start="20201008184000 +0200" stop="20201008190500 +0200">
+  <programme channel="MTV 1" start="20201008185000 +0200" stop="20201008191500 +0200">
     <title lang="sl">Trishina pariška kuhinja</title>
   </programme>
-  <programme channel="MTV 1" start="20201008190500 +0200" stop="20201008193000 +0200">
-    <title lang="sl">Raziskovalka Dora</title>
+  <programme channel="MTV 1" start="20201008191500 +0200" stop="20201008192000 +0200">
+    <title lang="sl">Risanka</title>
+  </programme>
+  <programme channel="MTV 1" start="20201008192000 +0200" stop="20201008193000 +0200">
+    <title lang="sl">Mišo in Robin</title>
   </programme>
   <programme channel="MTV 1" start="20201008193000 +0200" stop="20201008200000 +0200">
     <title lang="sl">Dnevnik 2</title>
@@ -30785,55 +30785,46 @@
   <programme channel="MTV 1" start="20201008201000 +0200" stop="20201008201500 +0200">
     <title lang="sl">Vreme</title>
   </programme>
-  <programme channel="MTV 1" start="20201008201500 +0200" stop="20201008211500 +0200">
-    <title lang="sl">Objektiv</title>
-  </programme>
-  <programme channel="MTV 1" start="20201008211500 +0200" stop="20201008214500 +0200">
-    <title lang="sl">Penzion Prespav</title>
-  </programme>
-  <programme channel="MTV 1" start="20201008214500 +0200" stop="20201008220500 +0200">
+  <programme channel="MTV 1" start="20201008201500 +0200" stop="20201008203500 +0200">
     <title lang="sl">Nadaljevanka</title>
   </programme>
-  <programme channel="MTV 1" start="20201008220500 +0200" stop="20201008223000 +0200">
-    <title lang="sl">Nadaljevanka</title>
+  <programme channel="MTV 1" start="20201008203500 +0200" stop="20201008224000 +0200">
+    <title lang="sl">Nogomet (M): Makedonija - Kosovo, kvalifikacije za UEFA EURO</title>
   </programme>
-  <programme channel="MTV 1" start="20201008223000 +0200" stop="20201008224500 +0200">
+  <programme channel="MTV 1" start="20201008224000 +0200" stop="20201008225500 +0200">
     <title lang="sl">Dnevnik 3</title>
   </programme>
-  <programme channel="MTV 1" start="20201008224500 +0200" stop="20201008225500 +0200">
+  <programme channel="MTV 1" start="20201008225500 +0200" stop="20201008230500 +0200">
     <title lang="sl">Šport</title>
   </programme>
-  <programme channel="MTV 1" start="20201008225500 +0200" stop="20201008230000 +0200">
+  <programme channel="MTV 1" start="20201008230500 +0200" stop="20201008231000 +0200">
     <title lang="sl">Vreme</title>
   </programme>
-  <programme channel="MTV 1" start="20201008230000 +0200" stop="20201009004500 +0200">
+  <programme channel="MTV 1" start="20201008231000 +0200" stop="20201009005500 +0200">
     <title lang="sl">Ime</title>
   </programme>
-  <programme channel="MTV 1" start="20201009004500 +0200" stop="20201009011100 +0200">
+  <programme channel="MTV 1" start="20201009005500 +0200" stop="20201009012000 +0200">
     <title lang="sl">Trishina pariška kuhinja</title>
   </programme>
-  <programme channel="MTV 1" start="20201009011100 +0200" stop="20201009020600 +0200">
+  <programme channel="MTV 1" start="20201009012000 +0200" stop="20201009022100 +0200">
     <title lang="sl">Folk džuboks</title>
   </programme>
-  <programme channel="MTV 1" start="20201009020600 +0200" stop="20201009023600 +0200">
+  <programme channel="MTV 1" start="20201009022100 +0200" stop="20201009025100 +0200">
     <title lang="sl">Dnevnik 2</title>
   </programme>
-  <programme channel="MTV 1" start="20201009023600 +0200" stop="20201009024300 +0200">
+  <programme channel="MTV 1" start="20201009025100 +0200" stop="20201009025800 +0200">
     <title lang="sl">Šport</title>
   </programme>
-  <programme channel="MTV 1" start="20201009024300 +0200" stop="20201009024600 +0200">
+  <programme channel="MTV 1" start="20201009025800 +0200" stop="20201009030100 +0200">
     <title lang="sl">Vreme</title>
   </programme>
-  <programme channel="MTV 1" start="20201009024600 +0200" stop="20201009051600 +0200">
+  <programme channel="MTV 1" start="20201009030100 +0200" stop="20201009053100 +0200">
     <title lang="sl">Makedonija zjutraj</title>
   </programme>
-  <programme channel="MTV 1" start="20201009051600 +0200" stop="20201009053100 +0200">
-    <title lang="sl">Glasbeni intermezzo</title>
-  </programme>
-  <programme channel="MTV 1" start="20201009053100 +0200" stop="20201009061600 +0200">
+  <programme channel="MTV 1" start="20201009053100 +0200" stop="20201009062100 +0200">
     <title lang="sl">Kmetijstvo</title>
   </programme>
-  <programme channel="MTV 1" start="20201009061600 +0200" stop="20201009064500 +0200">
+  <programme channel="MTV 1" start="20201009062100 +0200" stop="20201009064500 +0200">
     <title lang="sl">Makedonske ljudske pravljice</title>
   </programme>
   <programme channel="MTV 1" start="20201009064500 +0200" stop="20201009091500 +0200">
@@ -30931,6 +30922,132 @@
   </programme>
   <programme channel="MTV 1" start="20201009232500 +0200" stop="20201009233000 +0200">
     <title lang="sl">Vreme</title>
+  </programme>
+  <programme channel="MTV 1" start="20201009233000 +0200" stop="20201010002000 +0200">
+    <title lang="sl">Nadaljevanka</title>
+  </programme>
+  <programme channel="MTV 1" start="20201010002000 +0200" stop="20201010010100 +0200">
+    <title lang="sl">Rad kuham</title>
+  </programme>
+  <programme channel="MTV 1" start="20201010010100 +0200" stop="20201010015100 +0200">
+    <title lang="sl">Pritisni Play</title>
+  </programme>
+  <programme channel="MTV 1" start="20201010015100 +0200" stop="20201010022100 +0200">
+    <title lang="sl">Dnevnik 2</title>
+  </programme>
+  <programme channel="MTV 1" start="20201010022100 +0200" stop="20201010022800 +0200">
+    <title lang="sl">Šport</title>
+  </programme>
+  <programme channel="MTV 1" start="20201010022800 +0200" stop="20201010023100 +0200">
+    <title lang="sl">Vreme</title>
+  </programme>
+  <programme channel="MTV 1" start="20201010023100 +0200" stop="20201010050100 +0200">
+    <title lang="sl">Makedonija zjutraj</title>
+  </programme>
+  <programme channel="MTV 1" start="20201010050100 +0200" stop="20201010052600 +0200">
+    <title lang="sl">Glasbeni intermezzo</title>
+  </programme>
+  <programme channel="MTV 1" start="20201010052600 +0200" stop="20201010062500 +0200">
+    <title lang="sl">Folk džuboks</title>
+  </programme>
+  <programme channel="MTV 1" start="20201010062500 +0200" stop="20201010064500 +0200">
+    <title lang="sl">Makedonske ljudske pravljice</title>
+  </programme>
+  <programme channel="MTV 1" start="20201010064500 +0200" stop="20201010070500 +0200">
+    <title lang="sl">Glasbeni intermezzo</title>
+  </programme>
+  <programme channel="MTV 1" start="20201010070500 +0200" stop="20201010072500 +0200">
+    <title lang="sl">Lalaloopsy</title>
+  </programme>
+  <programme channel="MTV 1" start="20201010072500 +0200" stop="20201010075000 +0200">
+    <title lang="sl">Pojdi, Diego, pojdi!</title>
+  </programme>
+  <programme channel="MTV 1" start="20201010075000 +0200" stop="20201010080000 +0200">
+    <title lang="sl">Bilo je nekoč</title>
+  </programme>
+  <programme channel="MTV 1" start="20201010080000 +0200" stop="20201010100000 +0200">
+    <title lang="sl">Makedonija zjutraj</title>
+  </programme>
+  <programme channel="MTV 1" start="20201010100000 +0200" stop="20201010102000 +0200">
+    <title lang="sl">Poročila</title>
+  </programme>
+  <programme channel="MTV 1" start="20201010102000 +0200" stop="20201010104500 +0200">
+    <title lang="sl">Moj otrok</title>
+  </programme>
+  <programme channel="MTV 1" start="20201010104500 +0200" stop="20201010105000 +0200">
+    <title lang="sl">Mišo in Robin</title>
+  </programme>
+  <programme channel="MTV 1" start="20201010105000 +0200" stop="20201010105500 +0200">
+    <title lang="sl">Risanka</title>
+  </programme>
+  <programme channel="MTV 1" start="20201010105500 +0200" stop="20201010111000 +0200">
+    <title lang="sl">Bibijin svet</title>
+  </programme>
+  <programme channel="MTV 1" start="20201010111000 +0200" stop="20201010113500 +0200">
+    <title lang="sl">Raziskovalka Dora</title>
+  </programme>
+  <programme channel="MTV 1" start="20201010113500 +0200" stop="20201010120500 +0200">
+    <title lang="sl">Družina 5+</title>
+  </programme>
+  <programme channel="MTV 1" start="20201010120500 +0200" stop="20201010123000 +0200">
+    <title lang="sl">Ekološko ravnovesje</title>
+  </programme>
+  <programme channel="MTV 1" start="20201010123000 +0200" stop="20201010130000 +0200">
+    <title lang="sl">Peti angel</title>
+  </programme>
+  <programme channel="MTV 1" start="20201010130000 +0200" stop="20201010132000 +0200">
+    <title lang="sl">Poročila</title>
+  </programme>
+  <programme channel="MTV 1" start="20201010132000 +0200" stop="20201010135000 +0200">
+    <title lang="sl">Makedonski uzus</title>
+  </programme>
+  <programme channel="MTV 1" start="20201010135000 +0200" stop="20201010142500 +0200">
+    <title lang="sl">Predor</title>
+  </programme>
+  <programme channel="MTV 1" start="20201010142500 +0200" stop="20201010145500 +0200">
+    <title lang="sl">Vitraž</title>
+  </programme>
+  <programme channel="MTV 1" start="20201010145500 +0200" stop="20201010170000 +0200">
+    <title lang="sl">Nogomet (M): Borec - Rabotnički, makedonska prva liga</title>
+  </programme>
+  <programme channel="MTV 1" start="20201010170000 +0200" stop="20201010173000 +0200">
+    <title lang="sl">Dnevnik 1</title>
+  </programme>
+  <programme channel="MTV 1" start="20201010173000 +0200" stop="20201010174000 +0200">
+    <title lang="sl">Šport</title>
+  </programme>
+  <programme channel="MTV 1" start="20201010174000 +0200" stop="20201010174500 +0200">
+    <title lang="sl">Vreme</title>
+  </programme>
+  <programme channel="MTV 1" start="20201010174500 +0200" stop="20201010183000 +0200">
+    <title lang="sl">Preprosto zapeljivo</title>
+  </programme>
+  <programme channel="MTV 1" start="20201010183000 +0200" stop="20201010190500 +0200">
+    <title lang="sl">Rad kuham</title>
+  </programme>
+  <programme channel="MTV 1" start="20201010190500 +0200" stop="20201010193000 +0200">
+    <title lang="sl">Raziskovalka Dora</title>
+  </programme>
+  <programme channel="MTV 1" start="20201010193000 +0200" stop="20201010200000 +0200">
+    <title lang="sl">Dnevnik 2</title>
+  </programme>
+  <programme channel="MTV 1" start="20201010200000 +0200" stop="20201010201000 +0200">
+    <title lang="sl">Šport</title>
+  </programme>
+  <programme channel="MTV 1" start="20201010201000 +0200" stop="20201010201500 +0200">
+    <title lang="sl">Vreme</title>
+  </programme>
+  <programme channel="MTV 1" start="20201010201500 +0200" stop="20201010215000 +0200">
+    <title lang="sl">Igrani film</title>
+  </programme>
+  <programme channel="MTV 1" start="20201010215000 +0200" stop="20201010233000 +0200">
+    <title lang="sl">Igrani film</title>
+  </programme>
+  <programme channel="MTV 1" start="20201010233000 +0200" stop="20201010234500 +0200">
+    <title lang="sl">Dnevnik 3</title>
+  </programme>
+  <programme channel="MTV 1" start="20201010234500 +0200" stop="20201010235500 +0200">
+    <title lang="sl">Šport</title>
   </programme>
   <programme channel="MTV 2" start="20201007000000 +0200" stop="20201007000500 +0200">
     <title lang="sl">Kratka poročila</title>
@@ -37214,11 +37331,17 @@
   <programme channel="Nova 24 TV 2" start="20201008060000 +0200" stop="20201008064000 +0200">
     <title lang="sl">Večerne novice</title>
   </programme>
-  <programme channel="Nova 24 TV 2" start="20201008064000 +0200" stop="20201008120000 +0200">
-    <title lang="sl">Neposredno</title>
+  <programme channel="Nova 24 TV 2" start="20201008064000 +0200" stop="20201008075000 +0200">
+    <title lang="sl">Neposredno: Spregovorimo o demenci (21. 9. 2020)</title>
+  </programme>
+  <programme channel="Nova 24 TV 2" start="20201008075000 +0200" stop="20201008100000 +0200">
+    <title lang="sl">Državni svet: 32. redna seja (16. 9. 2020)</title>
+  </programme>
+  <programme channel="Nova 24 TV 2" start="20201008100000 +0200" stop="20201008120000 +0200">
+    <title lang="sl">Državni svet: 32. redna seja (16. 9. 2020)</title>
   </programme>
   <programme channel="Nova 24 TV 2" start="20201008120000 +0200" stop="20201008170000 +0200">
-    <title lang="sl">Prenos iz Državnega zbora</title>
+    <title lang="sl">Prenos: 25. nujna seja Odbora DZ za gospodarstvo</title>
   </programme>
   <programme channel="Nova 24 TV 2" start="20201008170000 +0200" stop="20201008175000 +0200">
     <title lang="sl">Vaše zdravje, naša skrb</title>
@@ -37229,20 +37352,29 @@
   <programme channel="Nova 24 TV 2" start="20201008180000 +0200" stop="20201008183000 +0200">
     <title lang="sl">TV-prodaja</title>
   </programme>
-  <programme channel="Nova 24 TV 2" start="20201008183000 +0200" stop="20201008193000 +0200">
-    <title lang="sl">Državni zbor</title>
+  <programme channel="Nova 24 TV 2" start="20201008183000 +0200" stop="20201008185000 +0200">
+    <title lang="sl">Neposredno: Novinarska konferenca ministrov C5 za zunanje zadeve (15. 9. 2020)</title>
+  </programme>
+  <programme channel="Nova 24 TV 2" start="20201008185000 +0200" stop="20201008191500 +0200">
+    <title lang="sl">Neposredno: Novinarska konferenca slovenskega in francoskega ministra za zunanje zadeve (4. 9. 2020)</title>
+  </programme>
+  <programme channel="Nova 24 TV 2" start="20201008191500 +0200" stop="20201008193000 +0200">
+    <title lang="sl">Neposredno: Novinarska konferenca predsednika NSi in predsednika ELS (4. 9. 2020)</title>
   </programme>
   <programme channel="Nova 24 TV 2" start="20201008193000 +0200" stop="20201008201000 +0200">
     <title lang="sl">Večerne novice</title>
   </programme>
-  <programme channel="Nova 24 TV 2" start="20201008201000 +0200" stop="20201009000000 +0200">
-    <title lang="sl">Neposredno</title>
+  <programme channel="Nova 24 TV 2" start="20201008201000 +0200" stop="20201008224500 +0200">
+    <title lang="sl">Neposredno: Posvet o večletnem finančnem okviru 2021-2027 (18. 9. 2020)</title>
   </programme>
-  <programme channel="Nova 24 TV 2" start="20201009000000 +0200" stop="20201009004000 +0200">
+  <programme channel="Nova 24 TV 2" start="20201008224500 +0200" stop="20201008232500 +0200">
     <title lang="sl">Večerne novice</title>
   </programme>
-  <programme channel="Nova 24 TV 2" start="20201009004000 +0200" stop="20201009060000 +0200">
-    <title lang="sl">Državni zbor</title>
+  <programme channel="Nova 24 TV 2" start="20201008232500 +0200" stop="20201009000000 +0200">
+    <title lang="sl">Državni zbor: 20. redna seja (24. 9. 2020)</title>
+  </programme>
+  <programme channel="Nova 24 TV 2" start="20201009000000 +0200" stop="20201009060000 +0200">
+    <title lang="sl">Državni zbor: 20. redna seja (24. 9. 2020)</title>
   </programme>
   <programme channel="Nova 24 TV 2" start="20201009060000 +0200" stop="20201009064000 +0200">
     <title lang="sl">Večerne novice</title>
@@ -41525,82 +41657,70 @@
   <programme channel="Pink 2" start="20201007124400 +0200" stop="20201007130800 +0200">
     <title lang="sl">Ljubezen, navada, panika</title>
   </programme>
-  <programme channel="Pink 2" start="20201007130800 +0200" stop="20201007133100 +0200">
+  <programme channel="Pink 2" start="20201007130800 +0200" stop="20201007133300 +0200">
     <title lang="sl">Igraj, da bi se igrali</title>
   </programme>
-  <programme channel="Pink 2" start="20201007133100 +0200" stop="20201007133500 +0200">
+  <programme channel="Pink 2" start="20201007133300 +0200" stop="20201007133700 +0200">
     <title lang="sl">Želim povedati</title>
   </programme>
-  <programme channel="Pink 2" start="20201007133500 +0200" stop="20201007134000 +0200">
+  <programme channel="Pink 2" start="20201007133700 +0200" stop="20201007134300 +0200">
     <title lang="sl">Vremenska diagnoza</title>
   </programme>
-  <programme channel="Pink 2" start="20201007134000 +0200" stop="20201007135000 +0200">
+  <programme channel="Pink 2" start="20201007134300 +0200" stop="20201007135300 +0200">
     <title lang="sl">TikToker 2</title>
   </programme>
-  <programme channel="Pink 2" start="20201007135000 +0200" stop="20201007135800 +0200">
+  <programme channel="Pink 2" start="20201007135300 +0200" stop="20201007140100 +0200">
     <title lang="sl">Youtuber 2</title>
   </programme>
-  <programme channel="Pink 2" start="20201007135800 +0200" stop="20201007142000 +0200">
+  <programme channel="Pink 2" start="20201007140100 +0200" stop="20201007142300 +0200">
     <title lang="sl">Six Show</title>
   </programme>
-  <programme channel="Pink 2" start="20201007142000 +0200" stop="20201007143100 +0200">
+  <programme channel="Pink 2" start="20201007142300 +0200" stop="20201007143400 +0200">
     <title lang="sl">Retwitter 1</title>
   </programme>
-  <programme channel="Pink 2" start="20201007143100 +0200" stop="20201007144000 +0200">
+  <programme channel="Pink 2" start="20201007143400 +0200" stop="20201007144300 +0200">
     <title lang="sl">5 Gramov Instagrama</title>
   </programme>
-  <programme channel="Pink 2" start="20201007144000 +0200" stop="20201007145800 +0200">
+  <programme channel="Pink 2" start="20201007144300 +0200" stop="20201007150100 +0200">
     <title lang="sl">Rap &amp; Roll</title>
   </programme>
-  <programme channel="Pink 2" start="20201007145800 +0200" stop="20201007151300 +0200">
+  <programme channel="Pink 2" start="20201007150100 +0200" stop="20201007151500 +0200">
     <title lang="sl">Whatzuuuuup</title>
   </programme>
-  <programme channel="Pink 2" start="20201007151300 +0200" stop="20201007152500 +0200">
-    <title lang="sl">Retwitter 1</title>
-  </programme>
-  <programme channel="Pink 2" start="20201007152500 +0200" stop="20201007152900 +0200">
+  <programme channel="Pink 2" start="20201007151500 +0200" stop="20201007151900 +0200">
     <title lang="sl">Želim povedati</title>
   </programme>
-  <programme channel="Pink 2" start="20201007152900 +0200" stop="20201007154100 +0200">
-    <title lang="sl">TikToker 1</title>
-  </programme>
-  <programme channel="Pink 2" start="20201007154100 +0200" stop="20201007155000 +0200">
-    <title lang="sl">Youtuber 1</title>
-  </programme>
-  <programme channel="Pink 2" start="20201007155000 +0200" stop="20201007155500 +0200">
+  <programme channel="Pink 2" start="20201007151900 +0200" stop="20201007152400 +0200">
     <title lang="sl">Vremenska diagnoza</title>
   </programme>
-  <programme channel="Pink 2" start="20201007155500 +0200" stop="20201007160500 +0200">
+  <programme channel="Pink 2" start="20201007152400 +0200" stop="20201007153500 +0200">
     <title lang="sl">Urbane legende</title>
   </programme>
-  <programme channel="Pink 2" start="20201007160500 +0200" stop="20201007173500 +0200">
+  <programme channel="Pink 2" start="20201007153500 +0200" stop="20201007173100 +0200">
     <title lang="sl">Vstaja</title>
   </programme>
-  <programme channel="Pink 2" start="20201007173500 +0200" stop="20201007173900 +0200">
+  <programme channel="Pink 2" start="20201007173100 +0200" stop="20201007173500 +0200">
     <title lang="sl">Želim povedati</title>
   </programme>
-  <programme channel="Pink 2" start="20201007173900 +0200" stop="20201007174400 +0200">
+  <programme channel="Pink 2" start="20201007173500 +0200" stop="20201007174000 +0200">
     <title lang="sl">Vremenska diagnoza</title>
   </programme>
-  <programme channel="Pink 2" start="20201007174400 +0200" stop="20201007175600 +0200">
+  <programme channel="Pink 2" start="20201007174000 +0200" stop="20201007175200 +0200">
     <title lang="sl">TikToker 1</title>
   </programme>
-  <programme channel="Pink 2" start="20201007175600 +0200" stop="20201007180500 +0200">
+  <programme channel="Pink 2" start="20201007175200 +0200" stop="20201007180100 +0200">
     <title lang="sl">Youtuber 1</title>
   </programme>
-  <programme channel="Pink 2" start="20201007180500 +0200" stop="20201007181600 +0200">
-    <title lang="sl">Retwitter 1</title>
-  </programme>
-  <programme channel="Pink 2" start="20201007181600 +0200" stop="20201007182600 +0200">
+  <programme channel="Pink 2" start="20201007180100 +0200" stop="20201007181600 +0200">
     <title lang="sl">Whatzuuuuup</title>
   </programme>
-  <programme channel="Pink 2" start="20201007182600 +0200" stop="20201007184400 +0200">
+  <programme channel="Pink 2" start="20201007181600 +0200" stop="20201007183400 +0200">
     <title lang="sl">Rap &amp; Roll</title>
   </programme>
-  <programme channel="Pink 2" start="20201007184400 +0200" stop="20201007185300 +0200">
+  <programme channel="Pink 2" start="20201007183400 +0200" stop="20201007184300 +0200">
     <title lang="sl">5 Gramov Instagrama</title>
   </programme>
-  <programme channel="Pink 2" start="20201007185300 +0200" stop="20201007191300 +0200">
+  <programme channel="Pink 2" start="20201007184300 +0200" stop="20201007191300 +0200">
     <title lang="sl">Studio Jam</title>
   </programme>
   <programme channel="Pink 2" start="20201007191300 +0200" stop="20201007193600 +0200">
@@ -41615,43 +41735,43 @@
   <programme channel="Pink 2" start="20201007220000 +0200" stop="20201008001000 +0200">
     <title lang="sl">Film po izbiri gledalcev</title>
   </programme>
-  <programme channel="Pink 2" start="20201008001000 +0200" stop="20201008051300 +0200">
+  <programme channel="Pink 2" start="20201008001000 +0200" stop="20201008051500 +0200">
     <title lang="sl">Magnolija</title>
   </programme>
-  <programme channel="Pink 2" start="20201008051300 +0200" stop="20201008051700 +0200">
+  <programme channel="Pink 2" start="20201008051500 +0200" stop="20201008051900 +0200">
     <title lang="sl">Želim povedati</title>
   </programme>
-  <programme channel="Pink 2" start="20201008051700 +0200" stop="20201008052900 +0200">
+  <programme channel="Pink 2" start="20201008051900 +0200" stop="20201008053200 +0200">
     <title lang="sl">TikToker 1</title>
   </programme>
-  <programme channel="Pink 2" start="20201008052900 +0200" stop="20201008053800 +0200">
+  <programme channel="Pink 2" start="20201008053200 +0200" stop="20201008054000 +0200">
     <title lang="sl">Youtuber 1</title>
   </programme>
-  <programme channel="Pink 2" start="20201008053800 +0200" stop="20201008054800 +0200">
+  <programme channel="Pink 2" start="20201008054000 +0200" stop="20201008055100 +0200">
     <title lang="sl">Retwitter 1</title>
   </programme>
-  <programme channel="Pink 2" start="20201008054800 +0200" stop="20201008060300 +0200">
+  <programme channel="Pink 2" start="20201008055100 +0200" stop="20201008060700 +0200">
     <title lang="sl">Whatzuuuuup</title>
   </programme>
-  <programme channel="Pink 2" start="20201008060300 +0200" stop="20201008062100 +0200">
+  <programme channel="Pink 2" start="20201008060700 +0200" stop="20201008062500 +0200">
     <title lang="sl">Rap &amp; Roll</title>
   </programme>
-  <programme channel="Pink 2" start="20201008062100 +0200" stop="20201008063000 +0200">
+  <programme channel="Pink 2" start="20201008062500 +0200" stop="20201008063400 +0200">
     <title lang="sl">5 Gramov Instagrama</title>
   </programme>
-  <programme channel="Pink 2" start="20201008063000 +0200" stop="20201008065100 +0200">
+  <programme channel="Pink 2" start="20201008063400 +0200" stop="20201008065500 +0200">
     <title lang="sl">Six Show</title>
   </programme>
-  <programme channel="Pink 2" start="20201008065100 +0200" stop="20201008065500 +0200">
+  <programme channel="Pink 2" start="20201008065500 +0200" stop="20201008070000 +0200">
     <title lang="sl">Želim povedati</title>
   </programme>
-  <programme channel="Pink 2" start="20201008065500 +0200" stop="20201008070400 +0200">
+  <programme channel="Pink 2" start="20201008070000 +0200" stop="20201008071000 +0200">
     <title lang="sl">TikToker 2</title>
   </programme>
-  <programme channel="Pink 2" start="20201008070400 +0200" stop="20201008071200 +0200">
+  <programme channel="Pink 2" start="20201008071000 +0200" stop="20201008071800 +0200">
     <title lang="sl">Youtuber 2</title>
   </programme>
-  <programme channel="Pink 2" start="20201008071200 +0200" stop="20201008080000 +0200">
+  <programme channel="Pink 2" start="20201008071800 +0200" stop="20201008080000 +0200">
     <title lang="sl">Ljubezen, navada, panika</title>
   </programme>
   <programme channel="Pink 2" start="20201008080000 +0200" stop="20201008100000 +0200">
@@ -44360,28 +44480,13 @@
   <programme channel="Pink Reality" start="20201008050400 +0200" stop="20201008054700 +0200">
     <title lang="sl">Kmetija: Pregled dneva</title>
   </programme>
-  <programme channel="Pink Reality" start="20201008054700 +0200" stop="20201008074200 +0200">
+  <programme channel="Pink Reality" start="20201008054700 +0200" stop="20201008074400 +0200">
     <title lang="sl">Kmetija: Izločanje</title>
   </programme>
-  <programme channel="Pink Reality" start="20201008074200 +0200" stop="20201008083600 +0200">
+  <programme channel="Pink Reality" start="20201008074400 +0200" stop="20201008141300 +0200">
     <title lang="sl">Kmetija: Pregled dneva</title>
   </programme>
-  <programme channel="Pink Reality" start="20201008083600 +0200" stop="20201008092700 +0200">
-    <title lang="sl">Kmetija: Pregled dneva</title>
-  </programme>
-  <programme channel="Pink Reality" start="20201008092700 +0200" stop="20201008103800 +0200">
-    <title lang="sl">Kmetija: Pregled dneva</title>
-  </programme>
-  <programme channel="Pink Reality" start="20201008103800 +0200" stop="20201008121800 +0200">
-    <title lang="sl">Kmetija: Pregled dneva</title>
-  </programme>
-  <programme channel="Pink Reality" start="20201008121800 +0200" stop="20201008132700 +0200">
-    <title lang="sl">Kmetija: Pregled dneva</title>
-  </programme>
-  <programme channel="Pink Reality" start="20201008132700 +0200" stop="20201008141100 +0200">
-    <title lang="sl">Kmetija: Pregled dneva</title>
-  </programme>
-  <programme channel="Pink Reality" start="20201008141100 +0200" stop="20201008161000 +0200">
+  <programme channel="Pink Reality" start="20201008141300 +0200" stop="20201008161000 +0200">
     <title lang="sl">Kmetija: Izločanje</title>
   </programme>
   <programme channel="Pink Reality" start="20201008161000 +0200" stop="20201008170000 +0200">
@@ -44420,86 +44525,74 @@
   <programme channel="Pink Reality" start="20201009045700 +0200" stop="20201009055900 +0200">
     <title lang="sl">Kmetija: Pregled dneva</title>
   </programme>
-  <programme channel="Pink Reality" start="20201009055900 +0200" stop="20201009060400 +0200">
+  <programme channel="Pink Reality" start="20201009055900 +0200" stop="20201009063900 +0200">
     <title lang="sl">Kmetija: Pregled dneva</title>
   </programme>
-  <programme channel="Pink Reality" start="20201009060400 +0200" stop="20201009061000 +0200">
+  <programme channel="Pink Reality" start="20201009063900 +0200" stop="20201009074700 +0200">
     <title lang="sl">Kmetija: Izločanje</title>
   </programme>
-  <programme channel="Pink Reality" start="20201009061000 +0200" stop="20201009074600 +0200">
+  <programme channel="Pink Reality" start="20201009074700 +0200" stop="20201009092300 +0200">
     <title lang="sl">Kmetija: Pregled dneva</title>
   </programme>
-  <programme channel="Pink Reality" start="20201009074600 +0200" stop="20201009075000 +0200">
+  <programme channel="Pink Reality" start="20201009092300 +0200" stop="20201009102500 +0200">
     <title lang="sl">Kmetija: Pregled dneva</title>
   </programme>
-  <programme channel="Pink Reality" start="20201009075000 +0200" stop="20201009083700 +0200">
+  <programme channel="Pink Reality" start="20201009102500 +0200" stop="20201009111200 +0200">
     <title lang="sl">Kmetija: Pregled dneva</title>
   </programme>
-  <programme channel="Pink Reality" start="20201009083700 +0200" stop="20201009084800 +0200">
+  <programme channel="Pink Reality" start="20201009111200 +0200" stop="20201009120000 +0200">
     <title lang="sl">Kmetija: Pregled dneva</title>
   </programme>
-  <programme channel="Pink Reality" start="20201009084800 +0200" stop="20201009092500 +0200">
+  <programme channel="Pink Reality" start="20201009120000 +0200" stop="20201009124000 +0200">
     <title lang="sl">Kmetija: Pregled dneva</title>
   </programme>
-  <programme channel="Pink Reality" start="20201009092500 +0200" stop="20201009092800 +0200">
+  <programme channel="Pink Reality" start="20201009124000 +0200" stop="20201009135100 +0200">
     <title lang="sl">Kmetija: Pregled dneva</title>
   </programme>
-  <programme channel="Pink Reality" start="20201009092800 +0200" stop="20201009111400 +0200">
+  <programme channel="Pink Reality" start="20201009135100 +0200" stop="20201009153700 +0200">
     <title lang="sl">Kmetija: Izločanje</title>
   </programme>
-  <programme channel="Pink Reality" start="20201009111400 +0200" stop="20201009120100 +0200">
+  <programme channel="Pink Reality" start="20201009153700 +0200" stop="20201009162400 +0200">
     <title lang="sl">Kmetija: Pregled dneva</title>
   </programme>
-  <programme channel="Pink Reality" start="20201009120100 +0200" stop="20201009124900 +0200">
+  <programme channel="Pink Reality" start="20201009162400 +0200" stop="20201009171200 +0200">
     <title lang="sl">Kmetija: Pregled dneva</title>
   </programme>
-  <programme channel="Pink Reality" start="20201009124900 +0200" stop="20201009140000 +0200">
+  <programme channel="Pink Reality" start="20201009171200 +0200" stop="20201009182300 +0200">
     <title lang="sl">Kmetija: Pregled dneva</title>
   </programme>
-  <programme channel="Pink Reality" start="20201009140000 +0200" stop="20201009153600 +0200">
+  <programme channel="Pink Reality" start="20201009182300 +0200" stop="20201009195900 +0200">
     <title lang="sl">Kmetija: Pregled dneva</title>
   </programme>
-  <programme channel="Pink Reality" start="20201009153600 +0200" stop="20201009163800 +0200">
+  <programme channel="Pink Reality" start="20201009195900 +0200" stop="20201009210100 +0200">
     <title lang="sl">Kmetija: Pregled dneva</title>
   </programme>
-  <programme channel="Pink Reality" start="20201009163800 +0200" stop="20201009171800 +0200">
+  <programme channel="Pink Reality" start="20201009210100 +0200" stop="20201009214100 +0200">
     <title lang="sl">Kmetija: Pregled dneva</title>
   </programme>
-  <programme channel="Pink Reality" start="20201009171800 +0200" stop="20201009190400 +0200">
+  <programme channel="Pink Reality" start="20201009214100 +0200" stop="20201009232700 +0200">
     <title lang="sl">Kmetija: Izločanje</title>
   </programme>
-  <programme channel="Pink Reality" start="20201009190400 +0200" stop="20201009195100 +0200">
+  <programme channel="Pink Reality" start="20201009232700 +0200" stop="20201010001400 +0200">
     <title lang="sl">Kmetija: Pregled dneva</title>
   </programme>
-  <programme channel="Pink Reality" start="20201009195100 +0200" stop="20201009203900 +0200">
+  <programme channel="Pink Reality" start="20201010001400 +0200" stop="20201010010200 +0200">
     <title lang="sl">Kmetija: Pregled dneva</title>
   </programme>
-  <programme channel="Pink Reality" start="20201009203900 +0200" stop="20201009215000 +0200">
+  <programme channel="Pink Reality" start="20201010010200 +0200" stop="20201010021300 +0200">
     <title lang="sl">Kmetija: Pregled dneva</title>
   </programme>
-  <programme channel="Pink Reality" start="20201009215000 +0200" stop="20201009232700 +0200">
+  <programme channel="Pink Reality" start="20201010021300 +0200" stop="20201010035000 +0200">
     <title lang="sl">Kmetija: Pregled dneva</title>
   </programme>
-  <programme channel="Pink Reality" start="20201009232700 +0200" stop="20201010002800 +0200">
+  <programme channel="Pink Reality" start="20201010035000 +0200" stop="20201010045100 +0200">
     <title lang="sl">Kmetija: Pregled dneva</title>
   </programme>
-  <programme channel="Pink Reality" start="20201010002800 +0200" stop="20201010010800 +0200">
+  <programme channel="Pink Reality" start="20201010045100 +0200" stop="20201010053100 +0200">
     <title lang="sl">Kmetija: Pregled dneva</title>
   </programme>
-  <programme channel="Pink Reality" start="20201010010800 +0200" stop="20201010025500 +0200">
+  <programme channel="Pink Reality" start="20201010053100 +0200" stop="20201010071400 +0200">
     <title lang="sl">Kmetija: Izločanje</title>
-  </programme>
-  <programme channel="Pink Reality" start="20201010025500 +0200" stop="20201010034300 +0200">
-    <title lang="sl">Kmetija: Pregled dneva</title>
-  </programme>
-  <programme channel="Pink Reality" start="20201010034300 +0200" stop="20201010043000 +0200">
-    <title lang="sl">Kmetija: Pregled dneva</title>
-  </programme>
-  <programme channel="Pink Reality" start="20201010043000 +0200" stop="20201010054000 +0200">
-    <title lang="sl">Kmetija: Pregled dneva</title>
-  </programme>
-  <programme channel="Pink Reality" start="20201010054000 +0200" stop="20201010071400 +0200">
-    <title lang="sl">Kmetija: Pregled dneva</title>
   </programme>
   <programme channel="Pink Reality" start="20201010071400 +0200" stop="20201010081800 +0200">
     <title lang="sl">Kmetija: Pregled dneva</title>
@@ -44771,104 +44864,98 @@
   <programme channel="Pink Zabava" start="20201008040700 +0200" stop="20201008045500 +0200">
     <title lang="sl">Biljana za vas</title>
   </programme>
-  <programme channel="Pink Zabava" start="20201008045500 +0200" stop="20201008065500 +0200">
+  <programme channel="Pink Zabava" start="20201008045500 +0200" stop="20201008065800 +0200">
     <title lang="sl">Pinkove Zvezdice all stars</title>
   </programme>
-  <programme channel="Pink Zabava" start="20201008065500 +0200" stop="20201008074200 +0200">
+  <programme channel="Pink Zabava" start="20201008065800 +0200" stop="20201008074500 +0200">
     <title lang="sl">Po moje</title>
   </programme>
-  <programme channel="Pink Zabava" start="20201008074200 +0200" stop="20201008081100 +0200">
+  <programme channel="Pink Zabava" start="20201008074500 +0200" stop="20201008081500 +0200">
     <title lang="sl">Tikajmo se</title>
   </programme>
-  <programme channel="Pink Zabava" start="20201008081100 +0200" stop="20201008090100 +0200">
+  <programme channel="Pink Zabava" start="20201008081500 +0200" stop="20201008092100 +0200">
     <title lang="sl">VIP soba</title>
   </programme>
-  <programme channel="Pink Zabava" start="20201008090100 +0200" stop="20201008094600 +0200">
+  <programme channel="Pink Zabava" start="20201008092100 +0200" stop="20201008100700 +0200">
     <title lang="sl">Kursadžije</title>
   </programme>
-  <programme channel="Pink Zabava" start="20201008094600 +0200" stop="20201008104400 +0200">
+  <programme channel="Pink Zabava" start="20201008100700 +0200" stop="20201008110400 +0200">
     <title lang="sl">Šoping holičarke</title>
   </programme>
-  <programme channel="Pink Zabava" start="20201008104400 +0200" stop="20201008105900 +0200">
+  <programme channel="Pink Zabava" start="20201008110400 +0200" stop="20201008112600 +0200">
     <title lang="sl">Premiera</title>
   </programme>
-  <programme channel="Pink Zabava" start="20201008105900 +0200" stop="20201008115000 +0200">
+  <programme channel="Pink Zabava" start="20201008112600 +0200" stop="20201008121800 +0200">
     <title lang="sl">Vi sprašujete</title>
   </programme>
-  <programme channel="Pink Zabava" start="20201008115000 +0200" stop="20201008123800 +0200">
+  <programme channel="Pink Zabava" start="20201008121800 +0200" stop="20201008130700 +0200">
     <title lang="sl">Biljana za vas</title>
   </programme>
-  <programme channel="Pink Zabava" start="20201008123800 +0200" stop="20201008143800 +0200">
+  <programme channel="Pink Zabava" start="20201008130700 +0200" stop="20201008150800 +0200">
     <title lang="sl">Pinkove Zvezdice all stars</title>
   </programme>
-  <programme channel="Pink Zabava" start="20201008143800 +0200" stop="20201008152500 +0200">
+  <programme channel="Pink Zabava" start="20201008150800 +0200" stop="20201008155600 +0200">
     <title lang="sl">Po moje</title>
   </programme>
-  <programme channel="Pink Zabava" start="20201008152500 +0200" stop="20201008155400 +0200">
+  <programme channel="Pink Zabava" start="20201008155600 +0200" stop="20201008162700 +0200">
     <title lang="sl">Tikajmo se</title>
   </programme>
-  <programme channel="Pink Zabava" start="20201008155400 +0200" stop="20201008170100 +0200">
+  <programme channel="Pink Zabava" start="20201008162700 +0200" stop="20201008173300 +0200">
     <title lang="sl">VIP soba</title>
   </programme>
-  <programme channel="Pink Zabava" start="20201008170100 +0200" stop="20201008174600 +0200">
+  <programme channel="Pink Zabava" start="20201008173300 +0200" stop="20201008182000 +0200">
     <title lang="sl">Kursadžije</title>
   </programme>
-  <programme channel="Pink Zabava" start="20201008174600 +0200" stop="20201008184400 +0200">
+  <programme channel="Pink Zabava" start="20201008182000 +0200" stop="20201008191800 +0200">
     <title lang="sl">Šoping holičarke</title>
   </programme>
-  <programme channel="Pink Zabava" start="20201008184400 +0200" stop="20201008185900 +0200">
+  <programme channel="Pink Zabava" start="20201008191800 +0200" stop="20201008193700 +0200">
     <title lang="sl">Premiera</title>
   </programme>
-  <programme channel="Pink Zabava" start="20201008185900 +0200" stop="20201008195300 +0200">
+  <programme channel="Pink Zabava" start="20201008193700 +0200" stop="20201008203400 +0200">
     <title lang="sl">Vi sprašujete</title>
   </programme>
-  <programme channel="Pink Zabava" start="20201008195300 +0200" stop="20201008203500 +0200">
+  <programme channel="Pink Zabava" start="20201008203400 +0200" stop="20201008211500 +0200">
     <title lang="sl">Paparazzo lov</title>
   </programme>
-  <programme channel="Pink Zabava" start="20201008203500 +0200" stop="20201008212000 +0200">
+  <programme channel="Pink Zabava" start="20201008211500 +0200" stop="20201008220300 +0200">
     <title lang="sl">DNK</title>
   </programme>
-  <programme channel="Pink Zabava" start="20201008212000 +0200" stop="20201008230300 +0200">
+  <programme channel="Pink Zabava" start="20201008220300 +0200" stop="20201008234500 +0200">
     <title lang="sl">Avdicija</title>
   </programme>
-  <programme channel="Pink Zabava" start="20201008230300 +0200" stop="20201008233900 +0200">
+  <programme channel="Pink Zabava" start="20201008234500 +0200" stop="20201009002300 +0200">
     <title lang="sl">Tikajmo se</title>
   </programme>
-  <programme channel="Pink Zabava" start="20201008233900 +0200" stop="20201009004500 +0200">
+  <programme channel="Pink Zabava" start="20201009002300 +0200" stop="20201009012900 +0200">
     <title lang="sl">VIP soba</title>
   </programme>
-  <programme channel="Pink Zabava" start="20201009004500 +0200" stop="20201009013100 +0200">
+  <programme channel="Pink Zabava" start="20201009012900 +0200" stop="20201009021500 +0200">
     <title lang="sl">Kursadžije</title>
   </programme>
-  <programme channel="Pink Zabava" start="20201009013100 +0200" stop="20201009022800 +0200">
+  <programme channel="Pink Zabava" start="20201009021500 +0200" stop="20201009031200 +0200">
     <title lang="sl">Šoping holičarke</title>
   </programme>
-  <programme channel="Pink Zabava" start="20201009022800 +0200" stop="20201009024400 +0200">
+  <programme channel="Pink Zabava" start="20201009031200 +0200" stop="20201009033200 +0200">
     <title lang="sl">Premiera</title>
   </programme>
-  <programme channel="Pink Zabava" start="20201009024400 +0200" stop="20201009033800 +0200">
+  <programme channel="Pink Zabava" start="20201009033200 +0200" stop="20201009042700 +0200">
     <title lang="sl">Vi sprašujete</title>
   </programme>
-  <programme channel="Pink Zabava" start="20201009033800 +0200" stop="20201009041900 +0200">
+  <programme channel="Pink Zabava" start="20201009042700 +0200" stop="20201009050800 +0200">
     <title lang="sl">Paparazzo lov</title>
   </programme>
-  <programme channel="Pink Zabava" start="20201009041900 +0200" stop="20201009050500 +0200">
+  <programme channel="Pink Zabava" start="20201009050800 +0200" stop="20201009055300 +0200">
     <title lang="sl">DNK</title>
   </programme>
-  <programme channel="Pink Zabava" start="20201009050500 +0200" stop="20201009064700 +0200">
+  <programme channel="Pink Zabava" start="20201009055300 +0200" stop="20201009073600 +0200">
     <title lang="sl">Avdicija</title>
   </programme>
-  <programme channel="Pink Zabava" start="20201009064700 +0200" stop="20201009072400 +0200">
+  <programme channel="Pink Zabava" start="20201009073600 +0200" stop="20201009081200 +0200">
     <title lang="sl">Tikajmo se</title>
   </programme>
-  <programme channel="Pink Zabava" start="20201009072400 +0200" stop="20201009082200 +0200">
+  <programme channel="Pink Zabava" start="20201009081200 +0200" stop="20201009090000 +0200">
     <title lang="sl">VIP soba</title>
-  </programme>
-  <programme channel="Pink Zabava" start="20201009082200 +0200" stop="20201009085700 +0200">
-    <title lang="sl">Skrita kamera</title>
-  </programme>
-  <programme channel="Pink Zabava" start="20201009085700 +0200" stop="20201009090000 +0200">
-    <title lang="sl">Potegni ročno</title>
   </programme>
   <programme channel="Pink Zabava" start="20201009090000 +0200" stop="20201009094700 +0200">
     <title lang="sl">Kursadžije</title>
@@ -45104,40 +45191,40 @@
   <programme channel="Planet" start="20201007235300 +0200" stop="20201008003000 +0200">
     <title lang="sl">Planet 18 - večerna izdaja</title>
   </programme>
-  <programme channel="Planet" start="20201008003000 +0200" stop="20201008064000 +0200">
+  <programme channel="Planet" start="20201008003000 +0200" stop="20201008062000 +0200">
     <title lang="sl">Nočni program</title>
   </programme>
-  <programme channel="Planet" start="20201008064000 +0200" stop="20201008073000 +0200">
+  <programme channel="Planet" start="20201008062000 +0200" stop="20201008065900 +0200">
     <title lang="sl">Planet 18</title>
   </programme>
-  <programme channel="Planet" start="20201008073000 +0200" stop="20201008083000 +0200">
+  <programme channel="Planet" start="20201008065900 +0200" stop="20201008075600 +0200">
     <title lang="sl">Vaše zdravje, naša skrb</title>
   </programme>
-  <programme channel="Planet" start="20201008083000 +0200" stop="20201008085500 +0200">
+  <programme channel="Planet" start="20201008075600 +0200" stop="20201008082400 +0200">
     <title lang="sl">Polly Pocket</title>
   </programme>
-  <programme channel="Planet" start="20201008085500 +0200" stop="20201008092000 +0200">
+  <programme channel="Planet" start="20201008082400 +0200" stop="20201008085300 +0200">
     <title lang="sl">Skrivnostni ranč</title>
   </programme>
-  <programme channel="Planet" start="20201008092000 +0200" stop="20201008101000 +0200">
+  <programme channel="Planet" start="20201008085300 +0200" stop="20201008095200 +0200">
     <title lang="sl">Klepet ob kavi</title>
   </programme>
-  <programme channel="Planet" start="20201008101000 +0200" stop="20201008102500 +0200">
+  <programme channel="Planet" start="20201008095200 +0200" stop="20201008100700 +0200">
     <title lang="sl">TV prodaja</title>
   </programme>
-  <programme channel="Planet" start="20201008102500 +0200" stop="20201008112000 +0200">
+  <programme channel="Planet" start="20201008100700 +0200" stop="20201008110700 +0200">
     <title lang="sl">Ko boš moja</title>
   </programme>
-  <programme channel="Planet" start="20201008112000 +0200" stop="20201008122000 +0200">
+  <programme channel="Planet" start="20201008110700 +0200" stop="20201008120700 +0200">
     <title lang="sl">Mini Minini nasveti</title>
   </programme>
-  <programme channel="Planet" start="20201008122000 +0200" stop="20201008125000 +0200">
+  <programme channel="Planet" start="20201008120700 +0200" stop="20201008123600 +0200">
     <title lang="sl">Zapuščena</title>
   </programme>
-  <programme channel="Planet" start="20201008125000 +0200" stop="20201008131500 +0200">
+  <programme channel="Planet" start="20201008123600 +0200" stop="20201008130500 +0200">
     <title lang="sl">Zapuščena</title>
   </programme>
-  <programme channel="Planet" start="20201008131500 +0200" stop="20201008140000 +0200">
+  <programme channel="Planet" start="20201008130500 +0200" stop="20201008140000 +0200">
     <title lang="sl">Ellen</title>
   </programme>
   <programme channel="Planet" start="20201008140000 +0200" stop="20201008140300 +0200">
@@ -45149,49 +45236,49 @@
   <programme channel="Planet" start="20201008150000 +0200" stop="20201008150300 +0200">
     <title lang="sl">Planet 18 - novice</title>
   </programme>
-  <programme channel="Planet" start="20201008150300 +0200" stop="20201008160000 +0200">
+  <programme channel="Planet" start="20201008150300 +0200" stop="20201008155900 +0200">
     <title lang="sl">Ujeto v objektiv</title>
   </programme>
-  <programme channel="Planet" start="20201008160000 +0200" stop="20201008160300 +0200">
+  <programme channel="Planet" start="20201008155900 +0200" stop="20201008160200 +0200">
     <title lang="sl">Planet 18 - novice</title>
   </programme>
-  <programme channel="Planet" start="20201008160300 +0200" stop="20201008170000 +0200">
+  <programme channel="Planet" start="20201008160200 +0200" stop="20201008165800 +0200">
     <title lang="sl">Ne izpusti me</title>
   </programme>
-  <programme channel="Planet" start="20201008170000 +0200" stop="20201008170300 +0200">
+  <programme channel="Planet" start="20201008165800 +0200" stop="20201008170000 +0200">
     <title lang="sl">Planet 18 - novice</title>
   </programme>
-  <programme channel="Planet" start="20201008170300 +0200" stop="20201008175500 +0200">
+  <programme channel="Planet" start="20201008170000 +0200" stop="20201008175400 +0200">
     <title lang="sl">Ko boš moja</title>
   </programme>
-  <programme channel="Planet" start="20201008175500 +0200" stop="20201008183000 +0200">
+  <programme channel="Planet" start="20201008175400 +0200" stop="20201008183000 +0200">
     <title lang="sl">Planet 18</title>
   </programme>
-  <programme channel="Planet" start="20201008183000 +0200" stop="20201008190000 +0200">
+  <programme channel="Planet" start="20201008183000 +0200" stop="20201008185800 +0200">
     <title lang="sl">Zapuščena</title>
   </programme>
-  <programme channel="Planet" start="20201008190000 +0200" stop="20201008192500 +0200">
+  <programme channel="Planet" start="20201008185800 +0200" stop="20201008192500 +0200">
     <title lang="sl">Zapuščena</title>
   </programme>
-  <programme channel="Planet" start="20201008192500 +0200" stop="20201008200000 +0200">
+  <programme channel="Planet" start="20201008192500 +0200" stop="20201008195900 +0200">
     <title lang="sl">Znajdi se!</title>
   </programme>
-  <programme channel="Planet" start="20201008200000 +0200" stop="20201008220000 +0200">
+  <programme channel="Planet" start="20201008195900 +0200" stop="20201008221000 +0200">
     <title lang="sl">Katera je prava</title>
   </programme>
-  <programme channel="Planet" start="20201008220000 +0200" stop="20201008223500 +0200">
+  <programme channel="Planet" start="20201008221000 +0200" stop="20201008224600 +0200">
     <title lang="sl">Planet 18 - večerna izdaja</title>
   </programme>
-  <programme channel="Planet" start="20201008223500 +0200" stop="20201008233000 +0200">
+  <programme channel="Planet" start="20201008224600 +0200" stop="20201008233800 +0200">
     <title lang="sl">Preiskovalci na delu: NCIS</title>
   </programme>
-  <programme channel="Planet" start="20201008233000 +0200" stop="20201009000000 +0200">
+  <programme channel="Planet" start="20201008233800 +0200" stop="20201009000500 +0200">
     <title lang="sl">Parki in rekreacija</title>
   </programme>
-  <programme channel="Planet" start="20201009000000 +0200" stop="20201009004000 +0200">
+  <programme channel="Planet" start="20201009000500 +0200" stop="20201009004100 +0200">
     <title lang="sl">Planet 18 - večerna izdaja</title>
   </programme>
-  <programme channel="Planet" start="20201009004000 +0200" stop="20201009064000 +0200">
+  <programme channel="Planet" start="20201009004100 +0200" stop="20201009064000 +0200">
     <title lang="sl">Nočni program</title>
   </programme>
   <programme channel="Planet" start="20201009064000 +0200" stop="20201009073000 +0200">
@@ -56760,12 +56847,12 @@
     <title lang="sl">Slovenski utrinki</title>
   </programme>
   <programme channel="TV SLO 1" start="20201008151500 +0200" stop="20201008154500 +0200">
-    <title lang="sl">Pod drobnogledom - Nagyító alatt</title>
+    <title lang="sl">Pod drobnogledom - Nagyító alatt: A járványok kultúrtörténete / Zgodovina epidemij</title>
   </programme>
-  <programme channel="TV SLO 1" start="20201008154500 +0200" stop="20201008160500 +0200">
+  <programme channel="TV SLO 1" start="20201008154500 +0200" stop="20201008160000 +0200">
     <title lang="sl">TV-izložba</title>
   </programme>
-  <programme channel="TV SLO 1" start="20201008160500 +0200" stop="20201008161500 +0200">
+  <programme channel="TV SLO 1" start="20201008160000 +0200" stop="20201008161500 +0200">
     <title lang="sl">Timi gre: Rojstni dan</title>
   </programme>
   <programme channel="TV SLO 1" start="20201008161500 +0200" stop="20201008162500 +0200">
@@ -56792,8 +56879,11 @@
   <programme channel="TV SLO 1" start="20201008175500 +0200" stop="20201008180500 +0200">
     <title lang="sl">Na kratko: Ekstremizem</title>
   </programme>
-  <programme channel="TV SLO 1" start="20201008180500 +0200" stop="20201008182000 +0200">
+  <programme channel="TV SLO 1" start="20201008180500 +0200" stop="20201008181500 +0200">
     <title lang="sl">Dinotačke: Kar se je razbilo</title>
+  </programme>
+  <programme channel="TV SLO 1" start="20201008181500 +0200" stop="20201008182000 +0200">
+    <title lang="sl">Koyaa: Vesele vilice</title>
   </programme>
   <programme channel="TV SLO 1" start="20201008182000 +0200" stop="20201008185000 +0200">
     <title lang="sl">Vem!</title>
@@ -56814,7 +56904,7 @@
     <title lang="sl">Vreme</title>
   </programme>
   <programme channel="TV SLO 1" start="20201008200000 +0200" stop="20201008210000 +0200">
-    <title lang="sl">Tarča</title>
+    <title lang="sl">Tarča: Anhovo - po azbestu, kromu in strupenih izpustih umiranje na obroke?</title>
   </programme>
   <programme channel="TV SLO 1" start="20201008210000 +0200" stop="20201008215500 +0200">
     <title lang="sl">Sto let pozneje</title>
@@ -56837,28 +56927,28 @@
   <programme channel="TV SLO 1" start="20201008225000 +0200" stop="20201008233500 +0200">
     <title lang="sl">Osmi dan</title>
   </programme>
-  <programme channel="TV SLO 1" start="20201008233500 +0200" stop="20201009003500 +0200">
+  <programme channel="TV SLO 1" start="20201008233500 +0200" stop="20201009003000 +0200">
     <title lang="sl">Dediščina Evrope: Umetnost Skandinavije: Demokratično oblikovanje</title>
   </programme>
-  <programme channel="TV SLO 1" start="20201009003500 +0200" stop="20201009010500 +0200">
+  <programme channel="TV SLO 1" start="20201009003000 +0200" stop="20201009010000 +0200">
     <title lang="sl">Ugriznimo znanost: Cepivo proti stresu</title>
   </programme>
-  <programme channel="TV SLO 1" start="20201009010500 +0200" stop="20201009013000 +0200">
+  <programme channel="TV SLO 1" start="20201009010000 +0200" stop="20201009012500 +0200">
     <title lang="sl">Dnevnik Slovencev v Italiji</title>
   </programme>
-  <programme channel="TV SLO 1" start="20201009013000 +0200" stop="20201009020000 +0200">
+  <programme channel="TV SLO 1" start="20201009012500 +0200" stop="20201009015500 +0200">
     <title lang="sl">Dnevnik</title>
   </programme>
-  <programme channel="TV SLO 1" start="20201009020000 +0200" stop="20201009021000 +0200">
+  <programme channel="TV SLO 1" start="20201009015500 +0200" stop="20201009020500 +0200">
     <title lang="sl">Slovenska kronika</title>
   </programme>
-  <programme channel="TV SLO 1" start="20201009021000 +0200" stop="20201009022000 +0200">
+  <programme channel="TV SLO 1" start="20201009020500 +0200" stop="20201009021500 +0200">
     <title lang="sl">Šport</title>
   </programme>
-  <programme channel="TV SLO 1" start="20201009022000 +0200" stop="20201009022500 +0200">
+  <programme channel="TV SLO 1" start="20201009021500 +0200" stop="20201009022000 +0200">
     <title lang="sl">Vreme</title>
   </programme>
-  <programme channel="TV SLO 1" start="20201009022500 +0200" stop="20201009061500 +0200">
+  <programme channel="TV SLO 1" start="20201009022000 +0200" stop="20201009061500 +0200">
     <title lang="sl">Napovedujemo</title>
   </programme>
   <programme channel="TV SLO 1" start="20201009061500 +0200" stop="20201009062500 +0200">
@@ -56939,8 +57029,11 @@
   <programme channel="TV SLO 1" start="20201009171500 +0200" stop="20201009172000 +0200">
     <title lang="sl">Šport</title>
   </programme>
-  <programme channel="TV SLO 1" start="20201009172000 +0200" stop="20201009175500 +0200">
+  <programme channel="TV SLO 1" start="20201009172000 +0200" stop="20201009172500 +0200">
     <title lang="sl">Vreme</title>
+  </programme>
+  <programme channel="TV SLO 1" start="20201009172500 +0200" stop="20201009175500 +0200">
+    <title lang="sl">Premagajmo covid 19</title>
   </programme>
   <programme channel="TV SLO 1" start="20201009175500 +0200" stop="20201009181000 +0200">
     <title lang="sl">Duhovni utrip</title>
@@ -57047,17 +57140,17 @@
   <programme channel="TV SLO 1" start="20201010090000 +0200" stop="20201010102000 +0200">
     <title lang="sl">Košarkar naj bo</title>
   </programme>
-  <programme channel="TV SLO 1" start="20201010102000 +0200" stop="20201010104000 +0200">
+  <programme channel="TV SLO 1" start="20201010102000 +0200" stop="20201010104500 +0200">
     <title lang="sl">Infodrom</title>
   </programme>
-  <programme channel="TV SLO 1" start="20201010104000 +0200" stop="20201010112000 +0200">
+  <programme channel="TV SLO 1" start="20201010104500 +0200" stop="20201010112000 +0200">
     <title lang="sl">Čist zares: Podjetniški pitch</title>
   </programme>
-  <programme channel="TV SLO 1" start="20201010112000 +0200" stop="20201010113500 +0200">
+  <programme channel="TV SLO 1" start="20201010112000 +0200" stop="20201010114000 +0200">
     <title lang="sl">TV-izložba</title>
   </programme>
-  <programme channel="TV SLO 1" start="20201010113500 +0200" stop="20201010124000 +0200">
-    <title lang="sl">Tarča</title>
+  <programme channel="TV SLO 1" start="20201010114000 +0200" stop="20201010124000 +0200">
+    <title lang="sl">Tarča: Anhovo - po azbestu, kromu in strupenih izpustih umiranje na obroke?</title>
   </programme>
   <programme channel="TV SLO 1" start="20201010124000 +0200" stop="20201010130000 +0200">
     <title lang="sl">Kaj govoriš? = So vakeres?</title>
@@ -57197,25 +57290,25 @@
   <programme channel="TV SLO 2" start="20201008004000 +0200" stop="20201008060000 +0200">
     <title lang="sl">Info kanal</title>
   </programme>
-  <programme channel="TV SLO 2" start="20201008060000 +0200" stop="20201008090000 +0200">
+  <programme channel="TV SLO 2" start="20201008060000 +0200" stop="20201008090500 +0200">
     <title lang="sl">Napovedujemo</title>
   </programme>
-  <programme channel="TV SLO 2" start="20201008090000 +0200" stop="20201008101000 +0200">
+  <programme channel="TV SLO 2" start="20201008090500 +0200" stop="20201008101500 +0200">
     <title lang="sl">Videotrak</title>
   </programme>
-  <programme channel="TV SLO 2" start="20201008101000 +0200" stop="20201008125500 +0200">
+  <programme channel="TV SLO 2" start="20201008101500 +0200" stop="20201008125000 +0200">
     <title lang="sl">Dobro jutro</title>
   </programme>
-  <programme channel="TV SLO 2" start="20201008125500 +0200" stop="20201008134500 +0200">
+  <programme channel="TV SLO 2" start="20201008125000 +0200" stop="20201008134500 +0200">
     <title lang="sl">Panoptikum: Koronska gledališka in filmska realnost</title>
   </programme>
   <programme channel="TV SLO 2" start="20201008134500 +0200" stop="20201008150000 +0200">
     <title lang="sl">Joker</title>
   </programme>
-  <programme channel="TV SLO 2" start="20201008150000 +0200" stop="20201008190500 +0200">
+  <programme channel="TV SLO 2" start="20201008150000 +0200" stop="20201008190000 +0200">
     <title lang="sl">Tenis (Ž): Odprto prvenstvo Francije: polfinale</title>
   </programme>
-  <programme channel="TV SLO 2" start="20201008190500 +0200" stop="20201008200000 +0200">
+  <programme channel="TV SLO 2" start="20201008190000 +0200" stop="20201008200000 +0200">
     <title lang="sl">Videotrak</title>
   </programme>
   <programme channel="TV SLO 2" start="20201008200000 +0200" stop="20201008205000 +0200">
@@ -57224,10 +57317,10 @@
   <programme channel="TV SLO 2" start="20201008205000 +0200" stop="20201008212500 +0200">
     <title lang="sl">Avtomobilnost</title>
   </programme>
-  <programme channel="TV SLO 2" start="20201008212500 +0200" stop="20201008215000 +0200">
+  <programme channel="TV SLO 2" start="20201008212500 +0200" stop="20201008215500 +0200">
     <title lang="sl">Ambienti</title>
   </programme>
-  <programme channel="TV SLO 2" start="20201008215000 +0200" stop="20201008225500 +0200">
+  <programme channel="TV SLO 2" start="20201008215500 +0200" stop="20201008225500 +0200">
     <title lang="sl">Poti svobode</title>
   </programme>
   <programme channel="TV SLO 2" start="20201008225500 +0200" stop="20201008230000 +0200">
@@ -57236,10 +57329,10 @@
   <programme channel="TV SLO 2" start="20201008230000 +0200" stop="20201008231000 +0200">
     <title lang="sl">Pokrajina pesmi</title>
   </programme>
-  <programme channel="TV SLO 2" start="20201008231000 +0200" stop="20201008235500 +0200">
+  <programme channel="TV SLO 2" start="20201008231000 +0200" stop="20201008235000 +0200">
     <title lang="sl">Renato Chicco Trio</title>
   </programme>
-  <programme channel="TV SLO 2" start="20201008235500 +0200" stop="20201009005000 +0200">
+  <programme channel="TV SLO 2" start="20201008235000 +0200" stop="20201009005000 +0200">
     <title lang="sl">Videotrak</title>
   </programme>
   <programme channel="TV SLO 2" start="20201009005000 +0200" stop="20201009060000 +0200">
@@ -57309,10 +57402,10 @@
     <title lang="sl">Videotrak</title>
   </programme>
   <programme channel="TV SLO 2" start="20201010200500 +0200" stop="20201010214000 +0200">
-    <title lang="sl">Vražja babnica</title>
+    <title lang="sl">Film tedna: Vražja babnica</title>
   </programme>
   <programme channel="TV SLO 2" start="20201010214000 +0200" stop="20201010223500 +0200">
-    <title lang="sl">Zvezdana: Skrivnost iz otroštva</title>
+    <title lang="sl">Zvezdana: Moj prijatelj Jure</title>
   </programme>
   <programme channel="TV SLO 2" start="20201010223500 +0200" stop="20201010234000 +0200">
     <title lang="sl">Festival Godibodi: Rudolf Gas &amp; The Family</title>
@@ -57353,10 +57446,10 @@
   <programme channel="TV SLO 3" start="20201007090000 +0200" stop="20201007120000 +0200">
     <title lang="sl">10. redna seja Komisije za peticije, človekove pravice in enake možnosti</title>
   </programme>
-  <programme channel="TV SLO 3" start="20201007120000 +0200" stop="20201007140000 +0200">
+  <programme channel="TV SLO 3" start="20201007120000 +0200" stop="20201007142000 +0200">
     <title lang="sl">10. redna seja Odbora za kulturo</title>
   </programme>
-  <programme channel="TV SLO 3" start="20201007140000 +0200" stop="20201007160000 +0200">
+  <programme channel="TV SLO 3" start="20201007142000 +0200" stop="20201007160000 +0200">
     <title lang="sl">41. nujna seja Odbora za zdravstvo</title>
   </programme>
   <programme channel="TV SLO 3" start="20201007160000 +0200" stop="20201007200000 +0200">
@@ -57374,22 +57467,22 @@
   <programme channel="TV SLO 3" start="20201007205000 +0200" stop="20201007205500 +0200">
     <title lang="sl">Vreme s slovenskim znakovnim jezikom</title>
   </programme>
-  <programme channel="TV SLO 3" start="20201007205500 +0200" stop="20201008003000 +0200">
+  <programme channel="TV SLO 3" start="20201007205500 +0200" stop="20201008010000 +0200">
     <title lang="sl">Plenarno zasedanje Evropskega parlamenta</title>
   </programme>
-  <programme channel="TV SLO 3" start="20201008003000 +0200" stop="20201008010000 +0200">
+  <programme channel="TV SLO 3" start="20201008010000 +0200" stop="20201008013000 +0200">
     <title lang="sl">Odmevi</title>
   </programme>
-  <programme channel="TV SLO 3" start="20201008010000 +0200" stop="20201008012500 +0200">
+  <programme channel="TV SLO 3" start="20201008013000 +0200" stop="20201008015500 +0200">
     <title lang="sl">Dnevnik Slovencev v Italiji</title>
   </programme>
-  <programme channel="TV SLO 3" start="20201008012500 +0200" stop="20201008014500 +0200">
+  <programme channel="TV SLO 3" start="20201008015500 +0200" stop="20201008021500 +0200">
     <title lang="sl">Primorska kronika</title>
   </programme>
-  <programme channel="TV SLO 3" start="20201008014500 +0200" stop="20201008021000 +0200">
+  <programme channel="TV SLO 3" start="20201008021500 +0200" stop="20201008024000 +0200">
     <title lang="sl">Tele M</title>
   </programme>
-  <programme channel="TV SLO 3" start="20201008021000 +0200" stop="20201008070000 +0200">
+  <programme channel="TV SLO 3" start="20201008024000 +0200" stop="20201008070000 +0200">
     <title lang="sl">45. izredna seja Državnega zbora, 5. 10. 2020</title>
   </programme>
   <programme channel="TV SLO 3" start="20201008070000 +0200" stop="20201008072000 +0200">
@@ -57401,11 +57494,23 @@
   <programme channel="TV SLO 3" start="20201008080000 +0200" stop="20201008083000 +0200">
     <title lang="sl">Mostovi - Hidak</title>
   </programme>
-  <programme channel="TV SLO 3" start="20201008083000 +0200" stop="20201008090000 +0200">
+  <programme channel="TV SLO 3" start="20201008083000 +0200" stop="20201008084500 +0200">
     <title lang="sl">Poročila</title>
   </programme>
-  <programme channel="TV SLO 3" start="20201008090000 +0200" stop="20201008120000 +0200">
-    <title lang="sl">Seje delovnih teles Državnega zbora</title>
+  <programme channel="TV SLO 3" start="20201008084500 +0200" stop="20201008093000 +0200">
+    <title lang="sl">Plenarno zasedanje Evropskega parlamenta</title>
+  </programme>
+  <programme channel="TV SLO 3" start="20201008093000 +0200" stop="20201008094500 +0200">
+    <title lang="sl">Poročila</title>
+  </programme>
+  <programme channel="TV SLO 3" start="20201008094500 +0200" stop="20201008103000 +0200">
+    <title lang="sl">Odmevi</title>
+  </programme>
+  <programme channel="TV SLO 3" start="20201008103000 +0200" stop="20201008110000 +0200">
+    <title lang="sl">Poročila</title>
+  </programme>
+  <programme channel="TV SLO 3" start="20201008110000 +0200" stop="20201008120000 +0200">
+    <title lang="sl">Poročila</title>
   </programme>
   <programme channel="TV SLO 3" start="20201008120000 +0200" stop="20201008150000 +0200">
     <title lang="sl">43. nujna seja Odbora za delo, družino, socialne zadeve in invalide</title>
@@ -57413,14 +57518,41 @@
   <programme channel="TV SLO 3" start="20201008150000 +0200" stop="20201008200000 +0200">
     <title lang="sl">25. nujna seja Odbora za gospodarstvo</title>
   </programme>
-  <programme channel="TV SLO 3" start="20201008200000 +0200" stop="20201008205500 +0200">
+  <programme channel="TV SLO 3" start="20201008200000 +0200" stop="20201008203000 +0200">
     <title lang="sl">Dnevnik s slovenskim znakovnim jezikom</title>
   </programme>
-  <programme channel="TV SLO 3" start="20201008205500 +0200" stop="20201009000000 +0200">
-    <title lang="sl">Plenarno zasedanje Evropskega parlamenta</title>
+  <programme channel="TV SLO 3" start="20201008203000 +0200" stop="20201008204500 +0200">
+    <title lang="sl">Slovenska kronika s slovenskim znakovnim jezikom</title>
   </programme>
-  <programme channel="TV SLO 3" start="20201009000000 +0200" stop="20201009070000 +0200">
+  <programme channel="TV SLO 3" start="20201008204500 +0200" stop="20201008205000 +0200">
+    <title lang="sl">Šport s slovenskim znakovnim jezikom</title>
+  </programme>
+  <programme channel="TV SLO 3" start="20201008205000 +0200" stop="20201008205500 +0200">
+    <title lang="sl">Vreme s slovenskim znakovnim jezikom</title>
+  </programme>
+  <programme channel="TV SLO 3" start="20201008205500 +0200" stop="20201008220000 +0200">
+    <title lang="sl">Danes</title>
+  </programme>
+  <programme channel="TV SLO 3" start="20201008220000 +0200" stop="20201008230000 +0200">
+    <title lang="sl">Odkrito: Poslanca o aktualnem dogajanju</title>
+  </programme>
+  <programme channel="TV SLO 3" start="20201008230000 +0200" stop="20201008233000 +0200">
     <title lang="sl">Odmevi</title>
+  </programme>
+  <programme channel="TV SLO 3" start="20201008233000 +0200" stop="20201008235500 +0200">
+    <title lang="sl">Dnevnik Slovencev v Italiji</title>
+  </programme>
+  <programme channel="TV SLO 3" start="20201008235500 +0200" stop="20201009001500 +0200">
+    <title lang="sl">Primorska kronika</title>
+  </programme>
+  <programme channel="TV SLO 3" start="20201009001500 +0200" stop="20201009004000 +0200">
+    <title lang="sl">Tele M</title>
+  </programme>
+  <programme channel="TV SLO 3" start="20201009004000 +0200" stop="20201009043000 +0200">
+    <title lang="sl">21. redna seja Odbora za infrastrukturo, okolje in prostor, 6. 10. 2020</title>
+  </programme>
+  <programme channel="TV SLO 3" start="20201009043000 +0200" stop="20201009070000 +0200">
+    <title lang="sl">Info kanal</title>
   </programme>
   <programme channel="TV SLO 3" start="20201009070000 +0200" stop="20201009072000 +0200">
     <title lang="sl">Primorska kronika</title>
@@ -57431,56 +57563,32 @@
   <programme channel="TV SLO 3" start="20201009080000 +0200" stop="20201009083000 +0200">
     <title lang="sl">Pod drobnogledom - Nagyító alatt</title>
   </programme>
-  <programme channel="TV SLO 3" start="20201009083000 +0200" stop="20201009084500 +0200">
+  <programme channel="TV SLO 3" start="20201009083000 +0200" stop="20201009090000 +0200">
     <title lang="sl">Poročila</title>
   </programme>
-  <programme channel="TV SLO 3" start="20201009084500 +0200" stop="20201009090000 +0200">
-    <title lang="sl">Odmevi</title>
+  <programme channel="TV SLO 3" start="20201009090000 +0200" stop="20201009110000 +0200">
+    <title lang="sl">19. nujna seja Odbora za obrambo</title>
   </programme>
-  <programme channel="TV SLO 3" start="20201009090000 +0200" stop="20201009093000 +0200">
-    <title lang="sl">Seje delovnih teles Državnega zbora</title>
-  </programme>
-  <programme channel="TV SLO 3" start="20201009093000 +0200" stop="20201009100000 +0200">
-    <title lang="sl">Poročila</title>
-  </programme>
-  <programme channel="TV SLO 3" start="20201009100000 +0200" stop="20201009133000 +0200">
+  <programme channel="TV SLO 3" start="20201009110000 +0200" stop="20201009113000 +0200">
     <title lang="sl">88. redna seja Odbora za zadeve Evropske unije in 69. redna seja Odbora za zunanjo politiko</title>
   </programme>
-  <programme channel="TV SLO 3" start="20201009133000 +0200" stop="20201009143000 +0200">
+  <programme channel="TV SLO 3" start="20201009113000 +0200" stop="20201009133000 +0200">
+    <title lang="sl">81. redna seja Kolegija predsednika Državnega zbora</title>
+  </programme>
+  <programme channel="TV SLO 3" start="20201009133000 +0200" stop="20201009140000 +0200">
     <title lang="sl">Prvi dnevnik</title>
   </programme>
-  <programme channel="TV SLO 3" start="20201009143000 +0200" stop="20201009150000 +0200">
-    <title lang="sl">Prvi dnevnik</title>
+  <programme channel="TV SLO 3" start="20201009140000 +0200" stop="20201009170000 +0200">
+    <title lang="sl">28. nujna seja Odbora za notranje zadeve, javno upravo in lokalno samoupravo</title>
   </programme>
-  <programme channel="TV SLO 3" start="20201009150000 +0200" stop="20201009160000 +0200">
-    <title lang="sl">Odkrito</title>
+  <programme channel="TV SLO 3" start="20201009170000 +0200" stop="20201009200000 +0200">
+    <title lang="sl">24. nujna seja Odbora za kulturo</title>
   </programme>
-  <programme channel="TV SLO 3" start="20201009160000 +0200" stop="20201009165500 +0200">
-    <title lang="sl">Tarča, Globus, Točka preloma</title>
-  </programme>
-  <programme channel="TV SLO 3" start="20201009165500 +0200" stop="20201009174500 +0200">
-    <title lang="sl">Sto let pozneje</title>
-  </programme>
-  <programme channel="TV SLO 3" start="20201009174500 +0200" stop="20201009180500 +0200">
-    <title lang="sl">Poročila ob petih</title>
-  </programme>
-  <programme channel="TV SLO 3" start="20201009180500 +0200" stop="20201009200000 +0200">
-    <title lang="sl">Danes</title>
-  </programme>
-  <programme channel="TV SLO 3" start="20201009200000 +0200" stop="20201009203000 +0200">
+  <programme channel="TV SLO 3" start="20201009200000 +0200" stop="20201009210000 +0200">
     <title lang="sl">Dnevnik s slovenskim znakovnim jezikom</title>
   </programme>
-  <programme channel="TV SLO 3" start="20201009203000 +0200" stop="20201009204500 +0200">
-    <title lang="sl">Slovenska kronika s slovenskim znakovnim jezikom</title>
-  </programme>
-  <programme channel="TV SLO 3" start="20201009204500 +0200" stop="20201009205000 +0200">
-    <title lang="sl">Šport s slovenskim znakovnim jezikom</title>
-  </programme>
-  <programme channel="TV SLO 3" start="20201009205000 +0200" stop="20201009210000 +0200">
-    <title lang="sl">Vreme s slovenskim znakovnim jezikom</title>
-  </programme>
   <programme channel="TV SLO 3" start="20201009210000 +0200" stop="20201009214500 +0200">
-    <title lang="sl">Na tretjem ...</title>
+    <title lang="sl">Na tretjem ...: Intervju z ministrom za kulturo Vaskom Simonitijem</title>
   </programme>
   <programme channel="TV SLO 3" start="20201009214500 +0200" stop="20201009230000 +0200">
     <title lang="sl">Danes</title>
@@ -59528,10 +59636,10 @@
   <programme channel="Tele Maribor" start="20201007130000 +0200" stop="20201007133500 +0200">
     <title lang="sl">Glasba za vas: Vlado Kreslin in Beltinška banda</title>
   </programme>
-  <programme channel="Tele Maribor" start="20201007133500 +0200" stop="20201007141500 +0200">
+  <programme channel="Tele Maribor" start="20201007133500 +0200" stop="20201007142000 +0200">
     <title lang="sl">Ljudje in zemlja</title>
   </programme>
-  <programme channel="Tele Maribor" start="20201007141500 +0200" stop="20201007154500 +0200">
+  <programme channel="Tele Maribor" start="20201007142000 +0200" stop="20201007154500 +0200">
     <title lang="sl">Dobro jutro</title>
   </programme>
   <programme channel="Tele Maribor" start="20201007154500 +0200" stop="20201007160500 +0200">
@@ -59553,7 +59661,7 @@
     <title lang="sl">Dnevnik, Slovenska kronika, Šport in Vreme s slovenskim znakovnim jezikom</title>
   </programme>
   <programme channel="Tele Maribor" start="20201007200000 +0200" stop="20201007210000 +0200">
-    <title lang="sl">Omizje</title>
+    <title lang="sl">Omizje: 100. obletnica Koroškega plebiscita</title>
   </programme>
   <programme channel="Tele Maribor" start="20201007210000 +0200" stop="20201007213000 +0200">
     <title lang="sl">Sledi: Zelena bratovščina</title>
@@ -59607,7 +59715,7 @@
     <title lang="sl">Erika Vouk: Bela Evridika (Belo drevo)</title>
   </programme>
   <programme channel="Tele Maribor" start="20201008131000 +0200" stop="20201008141000 +0200">
-    <title lang="sl">Omizje</title>
+    <title lang="sl">Omizje: 100. obletnica Koroškega plebiscita</title>
   </programme>
   <programme channel="Tele Maribor" start="20201008141000 +0200" stop="20201008154500 +0200">
     <title lang="sl">Dobro jutro</title>
@@ -59616,7 +59724,7 @@
     <title lang="sl">TV nakup</title>
   </programme>
   <programme channel="Tele Maribor" start="20201008160500 +0200" stop="20201008164000 +0200">
-    <title lang="sl">Pod drobnogledom - Nagyító alatt</title>
+    <title lang="sl">Pod drobnogledom - Nagyító alatt: A járványok kultúrtörténete / Zgodovina epidemij</title>
   </programme>
   <programme channel="Tele Maribor" start="20201008164000 +0200" stop="20201008174500 +0200">
     <title lang="sl">Ptuj 2016: 47. festival narodno-zabavne glasbe Slovenije</title>
@@ -59652,7 +59760,7 @@
     <title lang="sl">Odmevi s slovenskim znakovnim jezikom</title>
   </programme>
   <programme channel="Tele Maribor" start="20201008223000 +0200" stop="20201008230000 +0200">
-    <title lang="sl">Pod drobnogledom - Nagyító alatt</title>
+    <title lang="sl">Pod drobnogledom - Nagyító alatt: A járványok kultúrtörténete / Zgodovina epidemij</title>
   </programme>
   <programme channel="Tele Maribor" start="20201008230000 +0200" stop="20201008235000 +0200">
     <title lang="sl">Intervju: Robert Botteri</title>
@@ -59679,7 +59787,7 @@
     <title lang="sl">Kultura</title>
   </programme>
   <programme channel="Tele Maribor" start="20201009111000 +0200" stop="20201009114000 +0200">
-    <title lang="sl">Pod drobnogledom - Nagyító alatt</title>
+    <title lang="sl">Pod drobnogledom - Nagyító alatt: A járványok kultúrtörténete / Zgodovina epidemij</title>
   </programme>
   <programme channel="Tele Maribor" start="20201009114000 +0200" stop="20201009121500 +0200">
     <title lang="sl">TV nakup</title>
@@ -59721,7 +59829,7 @@
     <title lang="sl">Dnevnik, Slovenska kronika, Šport in Vreme s slovenskim znakovnim jezikom</title>
   </programme>
   <programme channel="Tele Maribor" start="20201009200000 +0200" stop="20201009211500 +0200">
-    <title lang="sl">75 let Radia Maribor</title>
+    <title lang="sl">Shiva šiva - pesmi o delu</title>
   </programme>
   <programme channel="Tele Maribor" start="20201009211500 +0200" stop="20201009213000 +0200">
     <title lang="sl">O Festivalu narečne popevke</title>
@@ -62189,10 +62297,10 @@
   <programme channel="VOX" start="20201008041500 +0200" stop="20201008050500 +0200">
     <title lang="sl">Medicinski detektivi: Skrivnosti sodne medicine</title>
   </programme>
-  <programme channel="VOX" start="20201008050500 +0200" stop="20201008054000 +0200">
+  <programme channel="VOX" start="20201008050500 +0200" stop="20201008054500 +0200">
     <title lang="sl">Na kraju zločina: New York</title>
   </programme>
-  <programme channel="VOX" start="20201008054000 +0200" stop="20201008062000 +0200">
+  <programme channel="VOX" start="20201008054500 +0200" stop="20201008062000 +0200">
     <title lang="sl">Na kraju zločina: New York</title>
   </programme>
   <programme channel="VOX" start="20201008062000 +0200" stop="20201008071500 +0200">
@@ -64754,19 +64862,19 @@
   <programme channel="ZDF" start="20201007171000 +0200" stop="20201007174500 +0200">
     <title lang="sl">Pozdravljena, Nemčija</title>
   </programme>
-  <programme channel="ZDF" start="20201007174500 +0200" stop="20201007180000 +0200">
+  <programme channel="ZDF" start="20201007174500 +0200" stop="20201007180500 +0200">
     <title lang="sl">Ljudje danes</title>
   </programme>
-  <programme channel="ZDF" start="20201007180000 +0200" stop="20201007185400 +0200">
+  <programme channel="ZDF" start="20201007180500 +0200" stop="20201007185400 +0200">
     <title lang="sl">Preiskovalna enota Wismar</title>
   </programme>
   <programme channel="ZDF" start="20201007185400 +0200" stop="20201007190000 +0200">
     <title lang="sl">Loto v sredo</title>
   </programme>
-  <programme channel="ZDF" start="20201007190000 +0200" stop="20201007192000 +0200">
+  <programme channel="ZDF" start="20201007190000 +0200" stop="20201007192100 +0200">
     <title lang="sl">Danes</title>
   </programme>
-  <programme channel="ZDF" start="20201007192000 +0200" stop="20201007192500 +0200">
+  <programme channel="ZDF" start="20201007192100 +0200" stop="20201007192500 +0200">
     <title lang="sl">Vreme</title>
   </programme>
   <programme channel="ZDF" start="20201007192500 +0200" stop="20201007201500 +0200">
@@ -65365,6 +65473,195 @@
   </programme>
   <programme channel="Zdrava TV" start="20201009050200 +0200" stop="20201009052600 +0200">
     <title lang="sl">Gabrielin poziv</title>
+  </programme>
+  <programme channel="Zdrava TV" start="20201009052600 +0200" stop="20201009060000 +0200">
+    <title lang="sl">Večna resnica: beseda angela božanske modrosti</title>
+  </programme>
+  <programme channel="Zdrava TV" start="20201009060000 +0200" stop="20201009062400 +0200">
+    <title lang="sl">Meditacije: Jutranja meditacija</title>
+  </programme>
+  <programme channel="Zdrava TV" start="20201009062400 +0200" stop="20201009071500 +0200">
+    <title lang="sl">Pot pozabe</title>
+  </programme>
+  <programme channel="Zdrava TV" start="20201009071500 +0200" stop="20201009074500 +0200">
+    <title lang="sl">Sveži v dan - telovadba</title>
+  </programme>
+  <programme channel="Zdrava TV" start="20201009074500 +0200" stop="20201009081900 +0200">
+    <title lang="sl">Majstor kuhinje: Včerajšnji kruh</title>
+  </programme>
+  <programme channel="Zdrava TV" start="20201009081900 +0200" stop="20201009084100 +0200">
+    <title lang="sl">Zgodbe palčka Malčka: Lisjak Zvitež</title>
+  </programme>
+  <programme channel="Zdrava TV" start="20201009084100 +0200" stop="20201009090900 +0200">
+    <title lang="sl">Reportaža: Vrnitev na svobodo</title>
+  </programme>
+  <programme channel="Zdrava TV" start="20201009090900 +0200" stop="20201009100900 +0200">
+    <title lang="sl">Življenjski prostor: Pragozd</title>
+  </programme>
+  <programme channel="Zdrava TV" start="20201009100900 +0200" stop="20201009105900 +0200">
+    <title lang="sl">Rehabilitacija Kristusa Boga</title>
+  </programme>
+  <programme channel="Zdrava TV" start="20201009105900 +0200" stop="20201009111200 +0200">
+    <title lang="sl">Smokva</title>
+  </programme>
+  <programme channel="Zdrava TV" start="20201009111200 +0200" stop="20201009114400 +0200">
+    <title lang="sl">Znanstveni forum: Možgani: Ali ima človek svobodno voljo?</title>
+  </programme>
+  <programme channel="Zdrava TV" start="20201009114400 +0200" stop="20201009120500 +0200">
+    <title lang="sl">Kuharska oddaja: Veganska narodna kuhinja</title>
+  </programme>
+  <programme channel="Zdrava TV" start="20201009120500 +0200" stop="20201009123500 +0200">
+    <title lang="sl">To je moja beseda</title>
+  </programme>
+  <programme channel="Zdrava TV" start="20201009123500 +0200" stop="20201009131900 +0200">
+    <title lang="sl">Altfeldski dobrodelni koncerti</title>
+  </programme>
+  <programme channel="Zdrava TV" start="20201009131900 +0200" stop="20201009135300 +0200">
+    <title lang="sl">Prihod v mesijansko, sofijansko obdobje</title>
+  </programme>
+  <programme channel="Zdrava TV" start="20201009135300 +0200" stop="20201009143500 +0200">
+    <title lang="sl">Bog ni ustvaril predatorjev</title>
+  </programme>
+  <programme channel="Zdrava TV" start="20201009143500 +0200" stop="20201009152500 +0200">
+    <title lang="sl">Notranja pot v kozmično zavest</title>
+  </programme>
+  <programme channel="Zdrava TV" start="20201009152500 +0200" stop="20201009160300 +0200">
+    <title lang="sl">Notranja pot do kozmične zavesti</title>
+  </programme>
+  <programme channel="Zdrava TV" start="20201009160300 +0200" stop="20201009162500 +0200">
+    <title lang="sl">Reportaža: Hranenje ptic</title>
+  </programme>
+  <programme channel="Zdrava TV" start="20201009162500 +0200" stop="20201009170100 +0200">
+    <title lang="sl">Mojster kuhinje: Polnjene bučke</title>
+  </programme>
+  <programme channel="Zdrava TV" start="20201009170100 +0200" stop="20201009173200 +0200">
+    <title lang="sl">To je moja beseda</title>
+  </programme>
+  <programme channel="Zdrava TV" start="20201009173200 +0200" stop="20201009180400 +0200">
+    <title lang="sl">Znanstveni forum: Nevihte - napovedovalke nemirnega vremena</title>
+  </programme>
+  <programme channel="Zdrava TV" start="20201009180400 +0200" stop="20201009190700 +0200">
+    <title lang="sl">Neodvisne skupnosti: Čas lilij</title>
+  </programme>
+  <programme channel="Zdrava TV" start="20201009190700 +0200" stop="20201009194200 +0200">
+    <title lang="sl">Koncert klasične glasbe</title>
+  </programme>
+  <programme channel="Zdrava TV" start="20201009194200 +0200" stop="20201009200200 +0200">
+    <title lang="sl">Zgodbe palčka Malčka: Bik Drago</title>
+  </programme>
+  <programme channel="Zdrava TV" start="20201009200200 +0200" stop="20201009210000 +0200">
+    <title lang="sl">Film</title>
+  </programme>
+  <programme channel="Zdrava TV" start="20201009210000 +0200" stop="20201009222200 +0200">
+    <title lang="sl">Božansko preroško zdravljenje 8. 10. 1995</title>
+  </programme>
+  <programme channel="Zdrava TV" start="20201009222200 +0200" stop="20201009233100 +0200">
+    <title lang="sl">Rehabilitacija Kristusa Boga</title>
+  </programme>
+  <programme channel="Zdrava TV" start="20201009233100 +0200" stop="20201010000300 +0200">
+    <title lang="sl">Veliki kozmični nauki Jezusa iz Nazareta</title>
+  </programme>
+  <programme channel="Zdrava TV" start="20201010000300 +0200" stop="20201010012500 +0200">
+    <title lang="sl">Posebne oddaje: Deset božjih zapovedi v današnjem času</title>
+  </programme>
+  <programme channel="Zdrava TV" start="20201010012500 +0200" stop="20201010014800 +0200">
+    <title lang="sl">Gabrielin poziv</title>
+  </programme>
+  <programme channel="Zdrava TV" start="20201010014800 +0200" stop="20201010022500 +0200">
+    <title lang="sl">Večna resnica: beseda angela božanske modrosti</title>
+  </programme>
+  <programme channel="Zdrava TV" start="20201010022500 +0200" stop="20201010032400 +0200">
+    <title lang="sl">Posebne oddaje: Vesoljna enotnost, ki govori</title>
+  </programme>
+  <programme channel="Zdrava TV" start="20201010032400 +0200" stop="20201010034500 +0200">
+    <title lang="sl">Mesijansko, sofijansko obdobje</title>
+  </programme>
+  <programme channel="Zdrava TV" start="20201010034500 +0200" stop="20201010042600 +0200">
+    <title lang="sl">Posebne oddaje: Ponarejena Biblija</title>
+  </programme>
+  <programme channel="Zdrava TV" start="20201010042600 +0200" stop="20201010060000 +0200">
+    <title lang="sl">Od Abrahama do Gabriele</title>
+  </programme>
+  <programme channel="Zdrava TV" start="20201010060000 +0200" stop="20201010062500 +0200">
+    <title lang="sl">Meditacije: Jutranja meditacija</title>
+  </programme>
+  <programme channel="Zdrava TV" start="20201010062500 +0200" stop="20201010071600 +0200">
+    <title lang="sl">Reportaže: Vojna ali mir</title>
+  </programme>
+  <programme channel="Zdrava TV" start="20201010071600 +0200" stop="20201010074100 +0200">
+    <title lang="sl">Sveži v dan - telovadba</title>
+  </programme>
+  <programme channel="Zdrava TV" start="20201010074100 +0200" stop="20201010081900 +0200">
+    <title lang="sl">Mojster kuhinje: Polnjene bučke</title>
+  </programme>
+  <programme channel="Zdrava TV" start="20201010081900 +0200" stop="20201010083800 +0200">
+    <title lang="sl">Zgodbe palčka Malčka: Čriček in mravlja</title>
+  </programme>
+  <programme channel="Zdrava TV" start="20201010083800 +0200" stop="20201010090600 +0200">
+    <title lang="sl">Reportaža: Hranenje ptic</title>
+  </programme>
+  <programme channel="Zdrava TV" start="20201010090600 +0200" stop="20201010100200 +0200">
+    <title lang="sl">Gozdne živali</title>
+  </programme>
+  <programme channel="Zdrava TV" start="20201010100200 +0200" stop="20201010105600 +0200">
+    <title lang="sl">Šola za življenje: Mi smo kozmična bitja</title>
+  </programme>
+  <programme channel="Zdrava TV" start="20201010105600 +0200" stop="20201010111800 +0200">
+    <title lang="sl">Vegetus: Vegi je dobro</title>
+  </programme>
+  <programme channel="Zdrava TV" start="20201010111800 +0200" stop="20201010115000 +0200">
+    <title lang="sl">Znanstveni forum: Nevihte - napovedovalke nemirnega vremena</title>
+  </programme>
+  <programme channel="Zdrava TV" start="20201010115000 +0200" stop="20201010121000 +0200">
+    <title lang="sl">Kuharska oddaja: Veganska narodna kuhinja</title>
+  </programme>
+  <programme channel="Zdrava TV" start="20201010121000 +0200" stop="20201010123800 +0200">
+    <title lang="sl">To je moja beseda</title>
+  </programme>
+  <programme channel="Zdrava TV" start="20201010123800 +0200" stop="20201010132600 +0200">
+    <title lang="sl">Altfeldski dobrodelni koncerti</title>
+  </programme>
+  <programme channel="Zdrava TV" start="20201010132600 +0200" stop="20201010134300 +0200">
+    <title lang="sl">Poziv Kristusa Boga</title>
+  </programme>
+  <programme channel="Zdrava TV" start="20201010134300 +0200" stop="20201010144800 +0200">
+    <title lang="sl">Naša zemlja</title>
+  </programme>
+  <programme channel="Zdrava TV" start="20201010144800 +0200" stop="20201010150600 +0200">
+    <title lang="sl">Biološka raznovrstnost</title>
+  </programme>
+  <programme channel="Zdrava TV" start="20201010150600 +0200" stop="20201010163800 +0200">
+    <title lang="sl">Božansko preroško zdravljenje 14. 4. 1996</title>
+  </programme>
+  <programme channel="Zdrava TV" start="20201010163800 +0200" stop="20201010171200 +0200">
+    <title lang="sl">Mojster kuhinje: Okus juga</title>
+  </programme>
+  <programme channel="Zdrava TV" start="20201010171200 +0200" stop="20201010174100 +0200">
+    <title lang="sl">To je moja beseda</title>
+  </programme>
+  <programme channel="Zdrava TV" start="20201010174100 +0200" stop="20201010181100 +0200">
+    <title lang="sl">Znanstveni forum: Ozon in UV-sevanje</title>
+  </programme>
+  <programme channel="Zdrava TV" start="20201010181100 +0200" stop="20201010190000 +0200">
+    <title lang="sl">Veliki kozmični nauki</title>
+  </programme>
+  <programme channel="Zdrava TV" start="20201010190000 +0200" stop="20201010193200 +0200">
+    <title lang="sl">Neodvisne skupnosti</title>
+  </programme>
+  <programme channel="Zdrava TV" start="20201010193200 +0200" stop="20201010195700 +0200">
+    <title lang="sl">Zgodbe palčka Malčka: Medved z očali</title>
+  </programme>
+  <programme channel="Zdrava TV" start="20201010195700 +0200" stop="20201010205900 +0200">
+    <title lang="sl">Neodvisne skupnosti: Čas lilij</title>
+  </programme>
+  <programme channel="Zdrava TV" start="20201010205900 +0200" stop="20201010213600 +0200">
+    <title lang="sl">Znanstveni forum: Narodi v središču - ko kulture kolabirajo</title>
+  </programme>
+  <programme channel="Zdrava TV" start="20201010213600 +0200" stop="20201010223300 +0200">
+    <title lang="sl">Film</title>
+  </programme>
+  <programme channel="Zdrava TV" start="20201010223300 +0200" stop="20201010230500 +0200">
+    <title lang="sl">Veliki kozmični nauki Jezusa iz Nazareta</title>
   </programme>
   <programme channel="Šport TV 1" start="20201007001500 +0200" stop="20201007011500 +0200">
     <title lang="sl">Nogomet (M): Ligue 1, vrhunci 6. kola</title>
