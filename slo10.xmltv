@@ -1924,26 +1924,29 @@
   <programme start="20201017230000 +0200" stop="20201018002500 +0200" channel="ZDF">
     <title lang="sl">Aktualni športni studio</title>
   </programme>
-  <programme start="20201018002500 +0200" stop="20201018014000 +0200" channel="ZDF">
-    <title lang="sl">Boks</title>
+  <programme start="20201018002500 +0200" stop="20201018003000 +0200" channel="ZDF">
+    <title lang="sl">Danes ekspresno</title>
   </programme>
-  <programme start="20201018014000 +0200" stop="20201018034000 +0200" channel="ZDF">
-    <title lang="sl">Zadnja velika avantura</title>
-  </programme>
-  <programme start="20201018034000 +0200" stop="20201018041000 +0200" channel="ZDF">
+  <programme start="20201018003000 +0200" stop="20201018010000 +0200" channel="ZDF">
     <title lang="sl">Satira z Oliverjem Welkejem</title>
   </programme>
-  <programme start="20201018041000 +0200" stop="20201018045500 +0200" channel="ZDF">
+  <programme start="20201018010000 +0200" stop="20201018030000 +0200" channel="ZDF">
+    <title lang="sl">Zadnja velika avantura</title>
+  </programme>
+  <programme start="20201018030000 +0200" stop="20201018043000 +0200" channel="ZDF">
+    <title lang="sl">Dobrodošli v past</title>
+  </programme>
+  <programme start="20201018043000 +0200" stop="20201018051500 +0200" channel="ZDF">
     <title lang="sl">Preiskovalna enota Dunaj</title>
   </programme>
-  <programme start="20201018045500 +0200" stop="20201018052500 +0200" channel="ZDF">
-    <title lang="sl">Belomodre zimske zgodbe</title>
-  </programme>
-  <programme start="20201018052500 +0200" stop="20201018055500 +0200" channel="ZDF">
+  <programme start="20201018051500 +0200" stop="20201018054500 +0200" channel="ZDF">
     <title lang="sl">Ogledalo dežel</title>
   </programme>
-  <programme start="20201018055500 +0200" stop="20201018060000 +0200" channel="ZDF">
+  <programme start="20201018054500 +0200" stop="20201018055000 +0200" channel="ZDF">
     <title lang="sl">zdf.formstark</title>
+  </programme>
+  <programme start="20201018055000 +0200" stop="20201018060000 +0200" channel="ZDF">
+    <title lang="sl">Ljudje</title>
   </programme>
   <programme start="20201018060000 +0200" stop="20201018061500 +0200" channel="ZDF">
     <title lang="sl">Kaja</title>
@@ -2743,11 +2746,20 @@
   <programme start="20201016180000 +0200" stop="20201016190000 +0200" channel="Šport TV 2">
     <title lang="sl">Motokros: MXGP, VN Španije, 2. dirka</title>
   </programme>
-  <programme start="20201016190000 +0200" stop="20201016210000 +0200" channel="Šport TV 2">
-    <title lang="sl">Nogomet (M): Lazio - Inter, Serie A</title>
+  <programme start="20201016190000 +0200" stop="20201016195500 +0200" channel="Šport TV 2">
+    <title lang="sl">EuroNASCAR: Zolder, vrhunci</title>
   </programme>
-  <programme start="20201016210000 +0200" stop="20201016230000 +0200" channel="Šport TV 2">
-    <title lang="sl">Košarka (M): Cedevita Olimpija - Gran Canaria, Eurocup</title>
+  <programme start="20201016195500 +0200" stop="20201016214500 +0200" channel="Šport TV 2">
+    <title lang="sl">Rokomet (M): Chambery - Nimes, Francoska liga</title>
+  </programme>
+  <programme start="20201016214500 +0200" stop="20201016221500 +0200" channel="Šport TV 2">
+    <title lang="sl">Motokros: MXGP, VN Španije, magazin</title>
+  </programme>
+  <programme start="20201016221500 +0200" stop="20201016224500 +0200" channel="Šport TV 2">
+    <title lang="sl">FIA Karting World Championship: Lonato, vrhunci</title>
+  </programme>
+  <programme start="20201016224500 +0200" stop="20201016230000 +0200" channel="Šport TV 2">
+    <title lang="sl">Košarka (M): Španska liga, vrhunci</title>
   </programme>
   <programme start="20201016230000 +0200" stop="20201017010000 +0200" channel="Šport TV 2">
     <title lang="sl">Nogomet (M): Nimes - PSG, Ligue 1</title>
@@ -2929,8 +2941,11 @@
   <programme start="20201016201500 +0200" stop="20201016220000 +0200" channel="Šport TV 3">
     <title lang="sl">Košarka (M): Unics Kazan - Partizan, Eurocup</title>
   </programme>
-  <programme start="20201016220000 +0200" stop="20201016234500 +0200" channel="Šport TV 3">
-    <title lang="sl">Košarka (M): Unicaja - Budućnost, Eurocup</title>
+  <programme start="20201016220000 +0200" stop="20201016233000 +0200" channel="Šport TV 3">
+    <title lang="sl">Rokomet (M): Chambery - Nimes, Francoska liga</title>
+  </programme>
+  <programme start="20201016233000 +0200" stop="20201016234500 +0200" channel="Šport TV 3">
+    <title lang="sl">Košarka (M): Španska liga, vrhunci</title>
   </programme>
   <programme start="20201016234500 +0200" stop="20201017013000 +0200" channel="Šport TV 3">
     <title lang="sl">Košarka (M): Nanterre 92 - Trento, Eurocup</title>
@@ -2939,7 +2954,7 @@
     <title lang="sl">Košarka (M): Bahcesehir Koleji Istanbul - Joventut, Eurocup</title>
   </programme>
   <programme start="20201017031500 +0200" stop="20201017050000 +0200" channel="Šport TV 3">
-    <title lang="sl">Košarka (M): Nanterre 92 - Trento, Eurocup</title>
+    <title lang="sl">Košarka (M): Gran Canaria - Real Madrid, Španska liga</title>
   </programme>
   <programme start="20201017050000 +0200" stop="20201017070000 +0200" channel="Šport TV 3">
     <title lang="sl">Nogomet (M): Nimes - PSG, Ligue 1</title>
