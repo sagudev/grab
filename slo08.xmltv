@@ -2771,16 +2771,13 @@
   <programme start="20201025013000 +0200" stop="20201025020000 +0200" channel="TV Jadran">
     <title lang="sl">Sedmica</title>
   </programme>
-  <programme start="20201025020000 +0200" stop="20201025020500 +0200" channel="TV Jadran">
+  <programme start="20201025020500 +0200" stop="20201025023500 +0200" channel="TV Jadran">
     <title lang="sl">Videostrani, obvestila in informacije</title>
   </programme>
-  <programme start="20201025020500 +0200" stop="20201025022000 +0200" channel="TV Jadran">
+  <programme start="20201025020000 +0200" stop="20201025022000 +0200" channel="TV Jadran">
     <title lang="sl">Videostrani, obvestila in informacije</title>
   </programme>
   <programme start="20201025022000 +0200" stop="20201025022500 +0200" channel="TV Jadran">
-    <title lang="sl">TV-izložba</title>
-  </programme>
-  <programme start="20201025022500 +0200" stop="20201025023500 +0200" channel="TV Jadran">
     <title lang="sl">TV-izložba</title>
   </programme>
   <programme start="20201025023500 +0200" stop="20201025024000 +0200" channel="TV Jadran">
@@ -3270,7 +3267,7 @@
     <title lang="sl">Slovenski utrinki</title>
   </programme>
   <programme start="20201022152000 +0200" stop="20201022155000 +0200" channel="TV SLO 1">
-    <title lang="sl">Težišče - Súlypont</title>
+    <title lang="sl">Težišče - Súlypont: A járvány lélektani következményei / Duševne posledice epidemije</title>
   </programme>
   <programme start="20201022155000 +0200" stop="20201022160500 +0200" channel="TV SLO 1">
     <title lang="sl">TV-izložba</title>
@@ -3845,8 +3842,11 @@
   <programme start="20201022060000 +0200" stop="20201022100000 +0200" channel="TV SLO 2">
     <title lang="sl">Napovedujemo</title>
   </programme>
-  <programme start="20201022100000 +0200" stop="20201022110000 +0200" channel="TV SLO 2">
+  <programme start="20201022100000 +0200" stop="20201022103000 +0200" channel="TV SLO 2">
     <title lang="sl">Videotrak</title>
+  </programme>
+  <programme start="20201022103000 +0200" stop="20201022110000 +0200" channel="TV SLO 2">
+    <title lang="sl">Najnovejše o koronavirusu, prenos novinarske konference</title>
   </programme>
   <programme start="20201022110000 +0200" stop="20201022132500 +0200" channel="TV SLO 2">
     <title lang="sl">Dobro jutro</title>
@@ -4064,11 +4064,14 @@
   <programme start="20201022073000 +0200" stop="20201022080000 +0200" channel="TV SLO 3">
     <title lang="sl">Mostovi - Hidak</title>
   </programme>
-  <programme start="20201022080000 +0200" stop="20201022083000 +0200" channel="TV SLO 3">
+  <programme start="20201022080000 +0200" stop="20201022082500 +0200" channel="TV SLO 3">
     <title lang="sl">46. nujna seja Odbora za finance</title>
   </programme>
-  <programme start="20201022083000 +0200" stop="20201022090000 +0200" channel="TV SLO 3">
+  <programme start="20201022082500 +0200" stop="20201022083500 +0200" channel="TV SLO 3">
     <title lang="sl">Poročila</title>
+  </programme>
+  <programme start="20201022083500 +0200" stop="20201022090000 +0200" channel="TV SLO 3">
+    <title lang="sl">Novinarska konferenca ministra za zdravje Tomaža Gantarja o stanju v zdravstvenem sistemu</title>
   </programme>
   <programme start="20201022090000 +0200" stop="20201022200000 +0200" channel="TV SLO 3">
     <title lang="sl">21. redna seja Državnega zbora</title>
@@ -4178,17 +4181,41 @@
   <programme start="20201024180000 +0200" stop="20201024181500 +0200" channel="TV SLO 3">
     <title lang="sl">Poročila ob petih</title>
   </programme>
-  <programme start="20201024181500 +0200" stop="20201024200000 +0200" channel="TV SLO 3">
+  <programme start="20201024181500 +0200" stop="20201024190000 +0200" channel="TV SLO 3">
     <title lang="sl">Na tretjem ...: 30 let Zveze potrošnikov Slovenije</title>
   </programme>
-  <programme start="20201024200000 +0200" stop="20201024210000 +0200" channel="TV SLO 3">
+  <programme start="20201024190000 +0200" stop="20201024200000 +0200" channel="TV SLO 3">
+    <title lang="sl">Plenarno zasedanje Evropskega parlamenta, 20. 10. 2020 (policijsko nasilje v Evropski uniji), posnetek</title>
+  </programme>
+  <programme start="20201024200000 +0200" stop="20201024202000 +0200" channel="TV SLO 3">
     <title lang="sl">Dnevnik s slovenskim znakovnim jezikom</title>
+  </programme>
+  <programme start="20201024202000 +0200" stop="20201024202500 +0200" channel="TV SLO 3">
+    <title lang="sl">Sobotni dnevnikov izbor s slovenskim znakovnim jezikom</title>
+  </programme>
+  <programme start="20201024202500 +0200" stop="20201024204000 +0200" channel="TV SLO 3">
+    <title lang="sl">Utrip s slovenskim znakovnim jezikom</title>
+  </programme>
+  <programme start="20201024204000 +0200" stop="20201024205000 +0200" channel="TV SLO 3">
+    <title lang="sl">Šport s slovenskim znakovnim jezikom</title>
+  </programme>
+  <programme start="20201024205000 +0200" stop="20201024210000 +0200" channel="TV SLO 3">
+    <title lang="sl">Vreme s slovenskim znakovnim jezikom</title>
   </programme>
   <programme start="20201024210000 +0200" stop="20201024223000 +0200" channel="TV SLO 3">
     <title lang="sl">Seje Državnega zbora in delovnih teles</title>
   </programme>
-  <programme start="20201024223000 +0200" stop="20201025073000 +0200" channel="TV SLO 3">
+  <programme start="20201024223000 +0200" stop="20201025001000 +0200" channel="TV SLO 3">
     <title lang="sl">EkstraVisor: Odpadki v ognju</title>
+  </programme>
+  <programme start="20201025001000 +0200" stop="20201025003500 +0200" channel="TV SLO 3">
+    <title lang="sl">Dnevnik Slovencev v Italiji</title>
+  </programme>
+  <programme start="20201025003500 +0200" stop="20201025005500 +0200" channel="TV SLO 3">
+    <title lang="sl">Primorska kronika</title>
+  </programme>
+  <programme start="20201025005500 +0200" stop="20201025073000 +0200" channel="TV SLO 3">
+    <title lang="sl">Posnetki sej Državnega zbora in delovnih teles</title>
   </programme>
   <programme start="20201025073000 +0200" stop="20201025080000 +0200" channel="TV SLO 3">
     <title lang="sl">Primorska kronika</title>
@@ -4238,8 +4265,20 @@
   <programme start="20201025184500 +0200" stop="20201025200000 +0200" channel="TV SLO 3">
     <title lang="sl">Moje mnenje: Volitve na razpotju</title>
   </programme>
-  <programme start="20201025200000 +0200" stop="20201025210000 +0200" channel="TV SLO 3">
+  <programme start="20201025200000 +0200" stop="20201025201500 +0200" channel="TV SLO 3">
     <title lang="sl">Dnevnik s slovenskim znakovnim jezikom</title>
+  </programme>
+  <programme start="20201025201500 +0200" stop="20201025202500 +0200" channel="TV SLO 3">
+    <title lang="sl">Politično s Tanjo Gobec s slovenskim znakovnim jezikom</title>
+  </programme>
+  <programme start="20201025202500 +0200" stop="20201025204000 +0200" channel="TV SLO 3">
+    <title lang="sl">Zrcalo tedna s slovenskim znakovnim jezikom</title>
+  </programme>
+  <programme start="20201025204000 +0200" stop="20201025205000 +0200" channel="TV SLO 3">
+    <title lang="sl">Šport s slovenskim znakovnim jezikom</title>
+  </programme>
+  <programme start="20201025205000 +0200" stop="20201025210000 +0200" channel="TV SLO 3">
+    <title lang="sl">Vreme s slovenskim znakovnim jezikom</title>
   </programme>
   <programme start="20201025210000 +0200" stop="20201025220000 +0200" channel="TV SLO 3">
     <title lang="sl">Odkrito</title>
