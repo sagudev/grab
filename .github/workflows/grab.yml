@@ -30,6 +30,7 @@ jobs:
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
   grab_v2:
+    timeout-minutes: 120
     needs: split
     strategy:
       matrix:
