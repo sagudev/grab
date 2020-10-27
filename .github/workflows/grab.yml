@@ -3,11 +3,9 @@ name: CI
 on:
   push:
     branches: [ master ]
-  pull_request:
-    branches: [ master ]
   schedule:
     # 4:02 everyday
-    - cron:  '2 2,4,10,16 * * *'
+    - cron:  '2 2,16 * * *'
 
 jobs:
   split:
