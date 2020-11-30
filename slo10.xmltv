@@ -679,10 +679,10 @@
   <programme start="20201130160100 +0100" stop="20201130162400 +0100" channel="Woman">
     <title lang="sl">Lov na hišice</title>
   </programme>
-  <programme start="20201130162400 +0100" stop="20201130165000 +0100" channel="Woman">
+  <programme start="20201130162400 +0100" stop="20201130165100 +0100" channel="Woman">
     <title lang="sl">Destinacije slavnih</title>
   </programme>
-  <programme start="20201130165000 +0100" stop="20201130171500 +0100" channel="Woman">
+  <programme start="20201130165100 +0100" stop="20201130171500 +0100" channel="Woman">
     <title lang="sl">Supermodel latina: South Beach</title>
   </programme>
   <programme start="20201130171500 +0100" stop="20201130180200 +0100" channel="Woman">
@@ -1588,11 +1588,8 @@
   <programme start="20201203180000 +0100" stop="20201203183000 +0100" channel="Z1 Televizija">
     <title lang="sl">Zip</title>
   </programme>
-  <programme start="20201203183000 +0100" stop="20201203190000 +0100" channel="Z1 Televizija">
-    <title lang="sl">V dobri kondiciji</title>
-  </programme>
-  <programme start="20201203190000 +0100" stop="20201203192500 +0100" channel="Z1 Televizija">
-    <title lang="sl">Glasbena cona</title>
+  <programme start="20201203183000 +0100" stop="20201203192500 +0100" channel="Z1 Televizija">
+    <title lang="sl">Art caffe</title>
   </programme>
   <programme start="20201203192500 +0100" stop="20201203193000 +0100" channel="Z1 Televizija">
     <title lang="sl">Napovedniki</title>
@@ -1711,16 +1708,16 @@
   <programme start="20201130171000 +0100" stop="20201130174500 +0100" channel="ZDF">
     <title lang="sl">Pozdravljena, Nemčija</title>
   </programme>
-  <programme start="20201130174500 +0100" stop="20201130180000 +0100" channel="ZDF">
+  <programme start="20201130174500 +0100" stop="20201130180500 +0100" channel="ZDF">
     <title lang="sl">Ljudje danes</title>
   </programme>
-  <programme start="20201130180000 +0100" stop="20201130190000 +0100" channel="ZDF">
+  <programme start="20201130180500 +0100" stop="20201130190000 +0100" channel="ZDF">
     <title lang="sl">Preiskovalna enota München</title>
   </programme>
-  <programme start="20201130190000 +0100" stop="20201130192000 +0100" channel="ZDF">
+  <programme start="20201130190000 +0100" stop="20201130192100 +0100" channel="ZDF">
     <title lang="sl">Danes</title>
   </programme>
-  <programme start="20201130192000 +0100" stop="20201130192500 +0100" channel="ZDF">
+  <programme start="20201130192100 +0100" stop="20201130192500 +0100" channel="ZDF">
     <title lang="sl">Vreme</title>
   </programme>
   <programme start="20201130192500 +0100" stop="20201130201500 +0100" channel="ZDF">
@@ -1741,19 +1738,19 @@
   <programme start="20201201001000 +0100" stop="20201201014500 +0100" channel="ZDF">
     <title lang="sl">Popoln tek</title>
   </programme>
-  <programme start="20201201014500 +0100" stop="20201201015000 +0100" channel="ZDF">
+  <programme start="20201201014500 +0100" stop="20201201015500 +0100" channel="ZDF">
     <title lang="sl">Sebastian Pufpaff</title>
   </programme>
-  <programme start="20201201015000 +0100" stop="20201201032000 +0100" channel="ZDF">
+  <programme start="20201201015500 +0100" stop="20201201032000 +0100" channel="ZDF">
     <title lang="sl">Frizija</title>
   </programme>
   <programme start="20201201032000 +0100" stop="20201201045000 +0100" channel="ZDF">
     <title lang="sl">Frizija</title>
   </programme>
-  <programme start="20201201045000 +0100" stop="20201201050000 +0100" channel="ZDF">
+  <programme start="20201201045000 +0100" stop="20201201050500 +0100" channel="ZDF">
     <title lang="sl">Ljudje danes</title>
   </programme>
-  <programme start="20201201050000 +0100" stop="20201201053000 +0100" channel="ZDF">
+  <programme start="20201201050500 +0100" stop="20201201053000 +0100" channel="ZDF">
     <title lang="sl">Pozdravljena, Nemčija</title>
   </programme>
   <programme start="20201201053000 +0100" stop="20201201090000 +0100" channel="ZDF">
@@ -2737,8 +2734,11 @@
   <programme start="20201130030000 +0100" stop="20201130050000 +0100" channel="Šport TV 3">
     <title lang="sl">Nogomet (M): Toulouse - Niort, Ligue 2</title>
   </programme>
-  <programme start="20201130050000 +0100" stop="20201130090000 +0100" channel="Šport TV 3">
+  <programme start="20201130050000 +0100" stop="20201130070000 +0100" channel="Šport TV 3">
     <title lang="sl">Nogomet (M): Lyon - Reims, Ligue 1</title>
+  </programme>
+  <programme start="20201130070000 +0100" stop="20201130090000 +0100" channel="Šport TV 3">
+    <title lang="sl">Nogomet (M): Monaco - Nimes, Ligue 1</title>
   </programme>
   <programme start="20201130090000 +0100" stop="20201130110000 +0100" channel="Šport TV 3">
     <title lang="sl">Nogomet (M): Rijeka - Osijek, Hrvaška liga</title>
@@ -2770,148 +2770,145 @@
   <programme start="20201130210000 +0100" stop="20201130230000 +0100" channel="Šport TV 3">
     <title lang="sl">Nogomet (M): Marseille - Nantes, Ligue 1</title>
   </programme>
-  <programme start="20201130230000 +0100" stop="20201201110000 +0100" channel="Šport TV 3">
+  <programme start="20201130230000 +0100" stop="20201201010000 +0100" channel="Šport TV 3">
     <title lang="sl">Nogomet (M): Genoa - Parma, Serie A</title>
   </programme>
-  <programme start="20201201110000 +0100" stop="20201202010000 +0100" channel="Šport TV 3">
-    <title lang="sl">Nogomet (M): Bologna - Crotone, Serie A</title>
-  </programme>
-  <programme start="20201202010000 +0100" stop="20201202030000 +0100" channel="Šport TV 3">
+  <programme start="20201201010000 +0100" stop="20201201030000 +0100" channel="Šport TV 3">
     <title lang="sl">Nogomet (M): Cagliari - Spezia, Serie A</title>
   </programme>
-  <programme start="20201202030000 +0100" stop="20201202050000 +0100" channel="Šport TV 3">
+  <programme start="20201201030000 +0100" stop="20201201050000 +0100" channel="Šport TV 3">
     <title lang="sl">Nogomet (M): Strasbourg - Rennes, Ligue 1</title>
   </programme>
-  <programme start="20201202050000 +0100" stop="20201202070000 +0100" channel="Šport TV 3">
+  <programme start="20201201050000 +0100" stop="20201201070000 +0100" channel="Šport TV 3">
     <title lang="sl">Nogomet (M): Grenoble - Paris, Ligue 2</title>
   </programme>
-  <programme start="20201202070000 +0100" stop="20201202090000 +0100" channel="Šport TV 3">
+  <programme start="20201201070000 +0100" stop="20201201090000 +0100" channel="Šport TV 3">
     <title lang="sl">Nogomet (M): Strasbourg - Rennes, Ligue 1</title>
   </programme>
-  <programme start="20201202090000 +0100" stop="20201202110000 +0100" channel="Šport TV 3">
+  <programme start="20201201090000 +0100" stop="20201201110000 +0100" channel="Šport TV 3">
     <title lang="sl">Nogomet (M): Lyon - Reims, Ligue 1</title>
   </programme>
-  <programme start="20201202110000 +0100" stop="20201202130000 +0100" channel="Šport TV 3">
+  <programme start="20201201110000 +0100" stop="20201201130000 +0100" channel="Šport TV 3">
     <title lang="sl">Nogomet (M): Gorica - Lokomotiva, Hrvaška liga</title>
   </programme>
-  <programme start="20201202130000 +0100" stop="20201202150000 +0100" channel="Šport TV 3">
+  <programme start="20201201130000 +0100" stop="20201201150000 +0100" channel="Šport TV 3">
     <title lang="sl">Nogomet (M): Eupen - Sporting Charleroi, Belgijska liga</title>
   </programme>
-  <programme start="20201202150000 +0100" stop="20201202163000 +0100" channel="Šport TV 3">
+  <programme start="20201201150000 +0100" stop="20201201163000 +0100" channel="Šport TV 3">
     <title lang="sl">Rokomet (M): Montpellier - Dunkerque, Francoska liga</title>
   </programme>
-  <programme start="20201202163000 +0100" stop="20201202170000 +0100" channel="Šport TV 3">
+  <programme start="20201201163000 +0100" stop="20201201170000 +0100" channel="Šport TV 3">
     <title lang="sl">Jadranje: Vendee Globe, vrhunci tedna</title>
   </programme>
-  <programme start="20201202170000 +0100" stop="20201202190000 +0100" channel="Šport TV 3">
+  <programme start="20201201170000 +0100" stop="20201201190000 +0100" channel="Šport TV 3">
     <title lang="sl">Nogomet (M): Marseille - Nantes, Ligue 1</title>
   </programme>
-  <programme start="20201202190000 +0100" stop="20201202203000 +0100" channel="Šport TV 3">
+  <programme start="20201201190000 +0100" stop="20201201203000 +0100" channel="Šport TV 3">
     <title lang="sl">Rokomet (M): Chambery - St. Raphael, Francoska liga</title>
   </programme>
-  <programme start="20201202203000 +0100" stop="20201202210000 +0100" channel="Šport TV 3">
+  <programme start="20201201203000 +0100" stop="20201201210000 +0100" channel="Šport TV 3">
     <title lang="sl">Rally (M): WRC, Magazin, Monza</title>
   </programme>
-  <programme start="20201202210000 +0100" stop="20201202230000 +0100" channel="Šport TV 3">
+  <programme start="20201201210000 +0100" stop="20201201230000 +0100" channel="Šport TV 3">
     <title lang="sl">Nogomet (M): Paris - Sochaux, Ligue 2</title>
   </programme>
-  <programme start="20201202230000 +0100" stop="20201203010000 +0100" channel="Šport TV 3">
+  <programme start="20201201230000 +0100" stop="20201202010000 +0100" channel="Šport TV 3">
     <title lang="sl">Nogomet (M): Havre - Auxerre, Ligue 2</title>
   </programme>
-  <programme start="20201203010000 +0100" stop="20201203030000 +0100" channel="Šport TV 3">
+  <programme start="20201202010000 +0100" stop="20201202030000 +0100" channel="Šport TV 3">
     <title lang="sl">Nogomet (M): Strasbourg - Rennes, Ligue 1</title>
   </programme>
-  <programme start="20201203030000 +0100" stop="20201203050000 +0100" channel="Šport TV 3">
+  <programme start="20201202030000 +0100" stop="20201202050000 +0100" channel="Šport TV 3">
     <title lang="sl">Nogomet (M): Toulouse - Niort, Ligue 2</title>
   </programme>
-  <programme start="20201203050000 +0100" stop="20201203053000 +0100" channel="Šport TV 3">
+  <programme start="20201202050000 +0100" stop="20201202053000 +0100" channel="Šport TV 3">
     <title lang="sl">Rally (M): WRC, Magazin, Monza</title>
   </programme>
-  <programme start="20201203053000 +0100" stop="20201203060000 +0100" channel="Šport TV 3">
+  <programme start="20201202053000 +0100" stop="20201202060000 +0100" channel="Šport TV 3">
     <title lang="sl">Jadranje: Vendee Globe, vrhunci tedna</title>
   </programme>
-  <programme start="20201203060000 +0100" stop="20201203070000 +0100" channel="Šport TV 3">
+  <programme start="20201202060000 +0100" stop="20201202070000 +0100" channel="Šport TV 3">
     <title lang="sl">Nogomet (M): Ligue 1, vrhunci 12. kroga</title>
   </programme>
-  <programme start="20201203070000 +0100" stop="20201203090000 +0100" channel="Šport TV 3">
+  <programme start="20201202070000 +0100" stop="20201202090000 +0100" channel="Šport TV 3">
     <title lang="sl">Nogomet (M): Paris - Sochaux, Ligue 2</title>
   </programme>
-  <programme start="20201203090000 +0100" stop="20201203110000 +0100" channel="Šport TV 3">
+  <programme start="20201202090000 +0100" stop="20201202110000 +0100" channel="Šport TV 3">
     <title lang="sl">Nogomet (M): Marseille - Nantes, Ligue 1</title>
   </programme>
-  <programme start="20201203110000 +0100" stop="20201203130000 +0100" channel="Šport TV 3">
+  <programme start="20201202110000 +0100" stop="20201202130000 +0100" channel="Šport TV 3">
     <title lang="sl">Nogomet (M): Torino - Sampdoria, Serie A</title>
   </programme>
-  <programme start="20201203130000 +0100" stop="20201203144500 +0100" channel="Šport TV 3">
+  <programme start="20201202130000 +0100" stop="20201202144500 +0100" channel="Šport TV 3">
     <title lang="sl">Košarka (M): Barcelona - Valencia, Španska liga</title>
   </programme>
-  <programme start="20201203144500 +0100" stop="20201203150000 +0100" channel="Šport TV 3">
+  <programme start="20201202144500 +0100" stop="20201202150000 +0100" channel="Šport TV 3">
     <title lang="sl">Ekstremni športi: Worldies</title>
   </programme>
-  <programme start="20201203150000 +0100" stop="20201203163000 +0100" channel="Šport TV 3">
+  <programme start="20201202150000 +0100" stop="20201202163000 +0100" channel="Šport TV 3">
     <title lang="sl">Rokomet (M): Nantes - Cesson Rennes, Francoska liga</title>
   </programme>
-  <programme start="20201203163000 +0100" stop="20201203170000 +0100" channel="Šport TV 3">
+  <programme start="20201202163000 +0100" stop="20201202170000 +0100" channel="Šport TV 3">
     <title lang="sl">Akcija</title>
   </programme>
-  <programme start="20201203170000 +0100" stop="20201203190000 +0100" channel="Šport TV 3">
+  <programme start="20201202170000 +0100" stop="20201202190000 +0100" channel="Šport TV 3">
     <title lang="sl">Nogomet (M): St. Etienne - Lille, Ligue 1</title>
   </programme>
-  <programme start="20201203190000 +0100" stop="20201203210000 +0100" channel="Šport TV 3">
+  <programme start="20201202190000 +0100" stop="20201202210000 +0100" channel="Šport TV 3">
     <title lang="sl">Nogomet (M): Monaco - Nimes, Ligue 1</title>
   </programme>
-  <programme start="20201203210000 +0100" stop="20201203230000 +0100" channel="Šport TV 3">
+  <programme start="20201202210000 +0100" stop="20201202230000 +0100" channel="Šport TV 3">
     <title lang="sl">Nogomet (M): PSG - Bordeaux, Ligue 1</title>
   </programme>
-  <programme start="20201203230000 +0100" stop="20201204004500 +0100" channel="Šport TV 3">
+  <programme start="20201202230000 +0100" stop="20201203004500 +0100" channel="Šport TV 3">
     <title lang="sl">Košarka (M): Bourg-en-Bresse - Venice, Eurocup</title>
   </programme>
-  <programme start="20201204004500 +0100" stop="20201204010000 +0100" channel="Šport TV 3">
+  <programme start="20201203004500 +0100" stop="20201203010000 +0100" channel="Šport TV 3">
     <title lang="sl">Košarka (M): Španska liga, vrhunci</title>
   </programme>
-  <programme start="20201204010000 +0100" stop="20201204030000 +0100" channel="Šport TV 3">
+  <programme start="20201203010000 +0100" stop="20201203030000 +0100" channel="Šport TV 3">
     <title lang="sl">Nogomet (M): Havre - Auxerre, Ligue 2</title>
   </programme>
-  <programme start="20201204030000 +0100" stop="20201204050000 +0100" channel="Šport TV 3">
+  <programme start="20201203030000 +0100" stop="20201203050000 +0100" channel="Šport TV 3">
     <title lang="sl">Nogomet (M): Strasbourg - Rennes, Ligue 1</title>
   </programme>
-  <programme start="20201204050000 +0100" stop="20201204053000 +0100" channel="Šport TV 3">
+  <programme start="20201203050000 +0100" stop="20201203053000 +0100" channel="Šport TV 3">
     <title lang="sl">Akcija</title>
   </programme>
-  <programme start="20201204053000 +0100" stop="20201204060000 +0100" channel="Šport TV 3">
+  <programme start="20201203053000 +0100" stop="20201203060000 +0100" channel="Šport TV 3">
     <title lang="sl">XTERRA Adventures</title>
   </programme>
-  <programme start="20201204060000 +0100" stop="20201204070000 +0100" channel="Šport TV 3">
+  <programme start="20201203060000 +0100" stop="20201203070000 +0100" channel="Šport TV 3">
     <title lang="sl">Nogomet (M): Serie A, vrhunci 9. kola</title>
   </programme>
-  <programme start="20201204070000 +0100" stop="20201204090000 +0100" channel="Šport TV 3">
+  <programme start="20201203070000 +0100" stop="20201203090000 +0100" channel="Šport TV 3">
     <title lang="sl">Nogomet (M): Lyon - Reims, Ligue 1</title>
   </programme>
-  <programme start="20201204090000 +0100" stop="20201204110000 +0100" channel="Šport TV 3">
+  <programme start="20201203090000 +0100" stop="20201203110000 +0100" channel="Šport TV 3">
     <title lang="sl">Nogomet (M): PSG - Bordeaux, Ligue 1</title>
   </programme>
-  <programme start="20201204110000 +0100" stop="20201204124500 +0100" channel="Šport TV 3">
+  <programme start="20201203110000 +0100" stop="20201203124500 +0100" channel="Šport TV 3">
     <title lang="sl">Košarka (M): Barcelona - Valencia, Španska liga</title>
   </programme>
-  <programme start="20201204124500 +0100" stop="20201204144500 +0100" channel="Šport TV 3">
+  <programme start="20201203124500 +0100" stop="20201203144500 +0100" channel="Šport TV 3">
     <title lang="sl">Nogomet (M): Torino - Sampdoria, Serie A</title>
   </programme>
-  <programme start="20201204144500 +0100" stop="20201204151500 +0100" channel="Šport TV 3">
+  <programme start="20201203144500 +0100" stop="20201203151500 +0100" channel="Šport TV 3">
     <title lang="sl">Nogomet (M): Serie A, magazin</title>
   </programme>
-  <programme start="20201204151500 +0100" stop="20201204170000 +0100" channel="Šport TV 3">
+  <programme start="20201203151500 +0100" stop="20201203170000 +0100" channel="Šport TV 3">
     <title lang="sl">Košarka (M): Real Madrid - Baskonia, Španska liga</title>
   </programme>
-  <programme start="20201204170000 +0100" stop="20201204180000 +0100" channel="Šport TV 3">
+  <programme start="20201203170000 +0100" stop="20201203180000 +0100" channel="Šport TV 3">
     <title lang="sl">Rally (M): WRC, Monza, 1. HP</title>
   </programme>
-  <programme start="20201204180000 +0100" stop="20201204200000 +0100" channel="Šport TV 3">
+  <programme start="20201203180000 +0100" stop="20201203200000 +0100" channel="Šport TV 3">
     <title lang="sl">Nogomet (M): Strasbourg - Rennes, Ligue 1</title>
   </programme>
-  <programme start="20201204200000 +0100" stop="20201204220000 +0100" channel="Šport TV 3">
+  <programme start="20201203200000 +0100" stop="20201203220000 +0100" channel="Šport TV 3">
     <title lang="sl">Nogomet (M): Marseille - Nantes, Ligue 1</title>
   </programme>
-  <programme start="20201204220000 +0100" stop="20201204234500 +0100" channel="Šport TV 3">
+  <programme start="20201203220000 +0100" stop="20201203234500 +0100" channel="Šport TV 3">
     <title lang="sl">Košarka (M): Venice - Bourg-en-Bresse, Eurocup</title>
   </programme>
   <programme start="20201130001500 +0100" stop="20201130003500 +0100" channel="NickToons">
