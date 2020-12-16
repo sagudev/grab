@@ -2334,11 +2334,8 @@
   <programme start="20201216105000 +0100" stop="20201216110000 +0100" channel="Nova 24 TV">
     <title lang="sl">Časovni stroj</title>
   </programme>
-  <programme start="20201216110000 +0100" stop="20201216111500 +0100" channel="Nova 24 TV">
+  <programme start="20201216110000 +0100" stop="20201216114500 +0100" channel="Nova 24 TV">
     <title lang="sl">Novice ob 11:00</title>
-  </programme>
-  <programme start="20201216111500 +0100" stop="20201216114500 +0100" channel="Nova 24 TV">
-    <title lang="sl">Naš TV-nasvet</title>
   </programme>
   <programme start="20201216114500 +0100" stop="20201216120000 +0100" channel="Nova 24 TV">
     <title lang="sl">Zanimivosti</title>
@@ -2370,11 +2367,8 @@
   <programme start="20201216140000 +0100" stop="20201216141500 +0100" channel="Nova 24 TV">
     <title lang="sl">Novice ob 14:00</title>
   </programme>
-  <programme start="20201216141500 +0100" stop="20201216143000 +0100" channel="Nova 24 TV">
-    <title lang="sl">Tujina</title>
-  </programme>
-  <programme start="20201216143000 +0100" stop="20201216144500 +0100" channel="Nova 24 TV">
-    <title lang="sl">Zanimivosti</title>
+  <programme start="20201216141500 +0100" stop="20201216144500 +0100" channel="Nova 24 TV">
+    <title lang="sl">Naš TV-nasvet</title>
   </programme>
   <programme start="20201216144500 +0100" stop="20201216150000 +0100" channel="Nova 24 TV">
     <title lang="sl">Slovenija</title>
@@ -2952,8 +2946,14 @@
   <programme start="20201216064000 +0100" stop="20201216120000 +0100" channel="Nova 24 TV 2">
     <title lang="sl">Neposredno</title>
   </programme>
-  <programme start="20201216120000 +0100" stop="20201216170000 +0100" channel="Nova 24 TV 2">
-    <title lang="sl">Prenos iz Državnega zbora</title>
+  <programme start="20201216120000 +0100" stop="20201216150000 +0100" channel="Nova 24 TV 2">
+    <title lang="sl">Prenos: 53. izredna seja Državnega zbora</title>
+  </programme>
+  <programme start="20201216150000 +0100" stop="20201216152500 +0100" channel="Nova 24 TV 2">
+    <title lang="sl">Neposredno: Obeležitev dneva Rudolfa Maistra v predsedniški palači (23. 11. 2020)</title>
+  </programme>
+  <programme start="20201216152500 +0100" stop="20201216170000 +0100" channel="Nova 24 TV 2">
+    <title lang="sl">Neposredno: Enotni v zmagi (18. 2. 2020)</title>
   </programme>
   <programme start="20201216170000 +0100" stop="20201216175000 +0100" channel="Nova 24 TV 2">
     <title lang="sl">Vaše zdravje, naša skrb</title>
@@ -2965,19 +2965,28 @@
     <title lang="sl">TV-prodaja</title>
   </programme>
   <programme start="20201216183000 +0100" stop="20201216193000 +0100" channel="Nova 24 TV 2">
-    <title lang="sl">Državni zbor</title>
+    <title lang="sl">Neposredno: Gospod Leon Štukelj in Tovarišija (15. 1. 2020)</title>
   </programme>
   <programme start="20201216193000 +0100" stop="20201216201000 +0100" channel="Nova 24 TV 2">
     <title lang="sl">Večerne novice</title>
   </programme>
-  <programme start="20201216201000 +0100" stop="20201217000000 +0100" channel="Nova 24 TV 2">
-    <title lang="sl">Neposredno</title>
+  <programme start="20201216201000 +0100" stop="20201216214500 +0100" channel="Nova 24 TV 2">
+    <title lang="sl">Neposredno: 28. obletnica izgona zadnjega vojaka JLA iz Slovenije (25. 10. 2019)</title>
+  </programme>
+  <programme start="20201216214500 +0100" stop="20201216231500 +0100" channel="Nova 24 TV 2">
+    <title lang="sl">Neposredno: 150. obletnica tabora v Vižmarjih (17. 5. 2019)</title>
+  </programme>
+  <programme start="20201216231500 +0100" stop="20201217000000 +0100" channel="Nova 24 TV 2">
+    <title lang="sl">Neposredno: Zakladnica spominov (16. 4. 2019)</title>
   </programme>
   <programme start="20201217000000 +0100" stop="20201217004000 +0100" channel="Nova 24 TV 2">
     <title lang="sl">Večerne novice</title>
   </programme>
-  <programme start="20201217004000 +0100" stop="20201217060000 +0100" channel="Nova 24 TV 2">
-    <title lang="sl">Državni zbor</title>
+  <programme start="20201217004000 +0100" stop="20201217050500 +0100" channel="Nova 24 TV 2">
+    <title lang="sl">Državni zbor: 21. redna seja Odbora za pravosodje (2. 12. 2020)</title>
+  </programme>
+  <programme start="20201217050500 +0100" stop="20201217060000 +0100" channel="Nova 24 TV 2">
+    <title lang="sl">Državni zbor: 52. izredna seja (7. 12. 2020)</title>
   </programme>
   <programme start="20201217060000 +0100" stop="20201217064000 +0100" channel="Nova 24 TV 2">
     <title lang="sl">Večerne novice</title>
@@ -3904,10 +3913,10 @@
     <title lang="sl">Očarljiva Jeannie: Najboljši ljubimec</title>
   </programme>
   <programme start="20201217090000 +0100" stop="20201217094500 +0100" channel="ORF 1">
-    <title lang="sl">Modna hiša Velvet: Dva moška in duda</title>
+    <title lang="sl">Modna hiša Velvet: Na tankem ledu</title>
   </programme>
   <programme start="20201217094500 +0100" stop="20201217103000 +0100" channel="ORF 1">
-    <title lang="sl">Modna hiša Velvet: Visoki obisk</title>
+    <title lang="sl">Modna hiša Velvet: Dva moška in duda</title>
   </programme>
   <programme start="20201217103000 +0100" stop="20201217104000 +0100" channel="ORF 1">
     <title lang="sl">Magazin 1</title>
@@ -4287,10 +4296,10 @@
   <programme start="20201216063000 +0100" stop="20201216070000 +0100" channel="ORF 2">
     <title lang="sl">Dobro jutro, Avstrija</title>
   </programme>
-  <programme start="20201216070000 +0100" stop="20201216071000 +0100" channel="ORF 2">
+  <programme start="20201216070000 +0100" stop="20201216070800 +0100" channel="ORF 2">
     <title lang="sl">Čas v sliki</title>
   </programme>
-  <programme start="20201216071000 +0100" stop="20201216073000 +0100" channel="ORF 2">
+  <programme start="20201216070800 +0100" stop="20201216073000 +0100" channel="ORF 2">
     <title lang="sl">Dobro jutro, Avstrija</title>
   </programme>
   <programme start="20201216073000 +0100" stop="20201216073300 +0100" channel="ORF 2">
@@ -4299,10 +4308,10 @@
   <programme start="20201216073300 +0100" stop="20201216080000 +0100" channel="ORF 2">
     <title lang="sl">Dobro jutro, Avstrija</title>
   </programme>
-  <programme start="20201216080000 +0100" stop="20201216081000 +0100" channel="ORF 2">
+  <programme start="20201216080000 +0100" stop="20201216080800 +0100" channel="ORF 2">
     <title lang="sl">Čas v sliki</title>
   </programme>
-  <programme start="20201216081000 +0100" stop="20201216083000 +0100" channel="ORF 2">
+  <programme start="20201216080800 +0100" stop="20201216083000 +0100" channel="ORF 2">
     <title lang="sl">Dobro jutro, Avstrija</title>
   </programme>
   <programme start="20201216083000 +0100" stop="20201216083300 +0100" channel="ORF 2">
@@ -4311,70 +4320,73 @@
   <programme start="20201216083300 +0100" stop="20201216090000 +0100" channel="ORF 2">
     <title lang="sl">Dobro jutro, Avstrija</title>
   </programme>
-  <programme start="20201216090000 +0100" stop="20201216091000 +0100" channel="ORF 2">
+  <programme start="20201216090000 +0100" stop="20201216090800 +0100" channel="ORF 2">
     <title lang="sl">Čas v sliki</title>
   </programme>
-  <programme start="20201216091000 +0100" stop="20201216093000 +0100" channel="ORF 2">
+  <programme start="20201216090800 +0100" stop="20201216093000 +0100" channel="ORF 2">
     <title lang="sl">Dobro jutro, Avstrija</title>
   </programme>
   <programme start="20201216093000 +0100" stop="20201216095500 +0100" channel="ORF 2">
     <title lang="sl">Silvija kuha</title>
   </programme>
-  <programme start="20201216095500 +0100" stop="20201216104000 +0100" channel="ORF 2">
+  <programme start="20201216095500 +0100" stop="20201216103900 +0100" channel="ORF 2">
     <title lang="sl">Alisa: Sledi svojemu srcu</title>
   </programme>
-  <programme start="20201216104000 +0100" stop="20201216110500 +0100" channel="ORF 2">
+  <programme start="20201216103900 +0100" stop="20201216110400 +0100" channel="ORF 2">
     <title lang="sl">Na poti k sosedu: Naravna vina na Južnem Tirolskem - brezkompromisno uživanje</title>
   </programme>
-  <programme start="20201216110500 +0100" stop="20201216115000 +0100" channel="ORF 2">
+  <programme start="20201216110400 +0100" stop="20201216115000 +0100" channel="ORF 2">
     <title lang="sl">Univerzum: Karavanški medved</title>
   </programme>
-  <programme start="20201216115000 +0100" stop="20201216124000 +0100" channel="ORF 2">
+  <programme start="20201216115000 +0100" stop="20201216123700 +0100" channel="ORF 2">
     <title lang="sl">Poročilo</title>
   </programme>
-  <programme start="20201216124000 +0100" stop="20201216124500 +0100" channel="ORF 2">
+  <programme start="20201216123700 +0100" stop="20201216124100 +0100" channel="ORF 2">
     <title lang="sl">Pogledi s strani: Avstrijske junakinje in junaki</title>
   </programme>
-  <programme start="20201216124500 +0100" stop="20201216130000 +0100" channel="ORF 2">
+  <programme start="20201216124100 +0100" stop="20201216130000 +0100" channel="ORF 2">
     <title lang="sl">Vreme</title>
   </programme>
-  <programme start="20201216130000 +0100" stop="20201216131500 +0100" channel="ORF 2">
+  <programme start="20201216130000 +0100" stop="20201216131800 +0100" channel="ORF 2">
     <title lang="sl">Čas v sliki</title>
   </programme>
-  <programme start="20201216131500 +0100" stop="20201216140000 +0100" channel="ORF 2">
+  <programme start="20201216131800 +0100" stop="20201216140200 +0100" channel="ORF 2">
     <title lang="sl">Aktualno po eni</title>
   </programme>
-  <programme start="20201216140000 +0100" stop="20201216142500 +0100" channel="ORF 2">
+  <programme start="20201216140200 +0100" stop="20201216142700 +0100" channel="ORF 2">
     <title lang="sl">Silvija kuha</title>
   </programme>
-  <programme start="20201216142500 +0100" stop="20201216151500 +0100" channel="ORF 2">
+  <programme start="20201216142700 +0100" stop="20201216151800 +0100" channel="ORF 2">
     <title lang="sl">Vihar ljubezni</title>
   </programme>
-  <programme start="20201216151500 +0100" stop="20201216160000 +0100" channel="ORF 2">
+  <programme start="20201216151800 +0100" stop="20201216160300 +0100" channel="ORF 2">
     <title lang="sl">Policisti iz Rosenheima: Smrtonosno priznanje</title>
   </programme>
-  <programme start="20201216160000 +0100" stop="20201216165700 +0100" channel="ORF 2">
+  <programme start="20201216160300 +0100" stop="20201216165700 +0100" channel="ORF 2">
     <title lang="sl">Šov Barbare Karlich: Zelenjava, meso ali žuželke - kaj bo na krožniku v prihodnosti?</title>
   </programme>
   <programme start="20201216165700 +0100" stop="20201216170000 +0100" channel="ORF 2">
     <title lang="sl">Lokalne dežele</title>
   </programme>
-  <programme start="20201216170000 +0100" stop="20201216170500 +0100" channel="ORF 2">
+  <programme start="20201216170000 +0100" stop="20201216170900 +0100" channel="ORF 2">
     <title lang="sl">Čas v sliki</title>
   </programme>
-  <programme start="20201216170500 +0100" stop="20201216173000 +0100" channel="ORF 2">
+  <programme start="20201216170900 +0100" stop="20201216173100 +0100" channel="ORF 2">
     <title lang="sl">Aktualno po peti</title>
   </programme>
-  <programme start="20201216173000 +0100" stop="20201216183000 +0100" channel="ORF 2">
+  <programme start="20201216173100 +0100" stop="20201216182800 +0100" channel="ORF 2">
     <title lang="sl">Studio 2</title>
   </programme>
-  <programme start="20201216183000 +0100" stop="20201216184700 +0100" channel="ORF 2">
+  <programme start="20201216182800 +0100" stop="20201216183000 +0100" channel="ORF 2">
+    <title lang="sl">Južna tirolska danes</title>
+  </programme>
+  <programme start="20201216183000 +0100" stop="20201216184300 +0100" channel="ORF 2">
     <title lang="sl">Konkretno</title>
   </programme>
-  <programme start="20201216184700 +0100" stop="20201216184800 +0100" channel="ORF 2">
+  <programme start="20201216184300 +0100" stop="20201216184700 +0100" channel="ORF 2">
     <title lang="sl">Informacije in nasveti</title>
   </programme>
-  <programme start="20201216184800 +0100" stop="20201216185900 +0100" channel="ORF 2">
+  <programme start="20201216184700 +0100" stop="20201216185900 +0100" channel="ORF 2">
     <title lang="sl">Loto 6/45 z jokerjem</title>
   </programme>
   <programme start="20201216185900 +0100" stop="20201216190000 +0100" channel="ORF 2">
@@ -4389,52 +4401,52 @@
   <programme start="20201216195100 +0100" stop="20201216195600 +0100" channel="ORF 2">
     <title lang="sl">Vreme</title>
   </programme>
-  <programme start="20201216195600 +0100" stop="20201216200500 +0100" channel="ORF 2">
+  <programme start="20201216195600 +0100" stop="20201216200400 +0100" channel="ORF 2">
     <title lang="sl">Šport aktualno</title>
   </programme>
-  <programme start="20201216200500 +0100" stop="20201216201500 +0100" channel="ORF 2">
+  <programme start="20201216200400 +0100" stop="20201216201500 +0100" channel="ORF 2">
     <title lang="sl">Pogledi s strani</title>
   </programme>
-  <programme start="20201216201500 +0100" stop="20201216215000 +0100" channel="ORF 2">
+  <programme start="20201216201500 +0100" stop="20201216214800 +0100" channel="ORF 2">
     <title lang="sl">Sreča je čudna stvar</title>
   </programme>
-  <programme start="20201216215000 +0100" stop="20201216220000 +0100" channel="ORF 2">
+  <programme start="20201216214800 +0100" stop="20201216220000 +0100" channel="ORF 2">
     <title lang="sl">Avto fokus: Najboljši sovoznik</title>
   </programme>
-  <programme start="20201216220000 +0100" stop="20201216223000 +0100" channel="ORF 2">
+  <programme start="20201216220000 +0100" stop="20201216223200 +0100" channel="ORF 2">
     <title lang="sl">Čas v sliki 2</title>
   </programme>
-  <programme start="20201216223000 +0100" stop="20201216230500 +0100" channel="ORF 2">
+  <programme start="20201216223200 +0100" stop="20201216230500 +0100" channel="ORF 2">
     <title lang="sl">Svetovni dnevnik: Spletno trgovanje - slaba stran razcveta</title>
   </programme>
-  <programme start="20201216230500 +0100" stop="20201216235000 +0100" channel="ORF 2">
+  <programme start="20201216230500 +0100" stop="20201216235400 +0100" channel="ORF 2">
     <title lang="sl">Svetovni dnevnik +: Barvit strup - oblačila, ki ubijajo okolje</title>
   </programme>
-  <programme start="20201216235000 +0100" stop="20201217012000 +0100" channel="ORF 2">
+  <programme start="20201216235400 +0100" stop="20201217012300 +0100" channel="ORF 2">
     <title lang="sl">Nevarni občutki</title>
   </programme>
-  <programme start="20201217012000 +0100" stop="20201217025000 +0100" channel="ORF 2">
+  <programme start="20201217012300 +0100" stop="20201217025000 +0100" channel="ORF 2">
     <title lang="sl">Nazaj v življenje</title>
   </programme>
-  <programme start="20201217025000 +0100" stop="20201217025500 +0100" channel="ORF 2">
+  <programme start="20201217025000 +0100" stop="20201217025700 +0100" channel="ORF 2">
     <title lang="sl">Avto fokus: Najboljši sovoznik</title>
   </programme>
-  <programme start="20201217025500 +0100" stop="20201217034000 +0100" channel="ORF 2">
-    <title lang="sl">Policisti iz Rosenheima: Smrtonosno priznanje</title>
+  <programme start="20201217025700 +0100" stop="20201217034200 +0100" channel="ORF 2">
+    <title lang="sl">Univerzum: Nori na morske pse</title>
   </programme>
-  <programme start="20201217034000 +0100" stop="20201217040000 +0100" channel="ORF 2">
+  <programme start="20201217034200 +0100" stop="20201217040700 +0100" channel="ORF 2">
     <title lang="sl">Silvija kuha</title>
   </programme>
-  <programme start="20201217040000 +0100" stop="20201217040500 +0100" channel="ORF 2">
+  <programme start="20201217040700 +0100" stop="20201217041100 +0100" channel="ORF 2">
     <title lang="sl">Pogledi s strani</title>
   </programme>
-  <programme start="20201217040500 +0100" stop="20201217050000 +0100" channel="ORF 2">
+  <programme start="20201217041100 +0100" stop="20201217050400 +0100" channel="ORF 2">
     <title lang="sl">Šov Barbare Karlich: Zelenjava, meso ali žuželke - kaj bo na krožniku v prihodnosti?</title>
   </programme>
-  <programme start="20201217050000 +0100" stop="20201217055500 +0100" channel="ORF 2">
+  <programme start="20201217050400 +0100" stop="20201217055800 +0100" channel="ORF 2">
     <title lang="sl">Studio 2</title>
   </programme>
-  <programme start="20201217055500 +0100" stop="20201217061000 +0100" channel="ORF 2">
+  <programme start="20201217055800 +0100" stop="20201217061000 +0100" channel="ORF 2">
     <title lang="sl">Konkretno</title>
   </programme>
   <programme start="20201217061000 +0100" stop="20201217063000 +0100" channel="ORF 2">
@@ -6470,6 +6482,117 @@
   </programme>
   <programme start="20201218015800 +0100" stop="20201218025400 +0100" channel="PINK SI">
     <title lang="sl">Pravičnik</title>
+  </programme>
+  <programme start="20201218025400 +0100" stop="20201218060000 +0100" channel="PINK SI">
+    <title lang="sl">Koncert Crvena Jabuka</title>
+  </programme>
+  <programme start="20201218060000 +0100" stop="20201218073600 +0100" channel="PINK SI">
+    <title lang="sl">Svitanje</title>
+  </programme>
+  <programme start="20201218073600 +0100" stop="20201218103800 +0100" channel="PINK SI">
+    <title lang="sl">Novo jutro</title>
+  </programme>
+  <programme start="20201218103800 +0100" stop="20201218112800 +0100" channel="PINK SI">
+    <title lang="sl">Mešani zakon</title>
+  </programme>
+  <programme start="20201218112800 +0100" stop="20201218125100 +0100" channel="PINK SI">
+    <title lang="sl">Denar ali življenje</title>
+  </programme>
+  <programme start="20201218125100 +0100" stop="20201218141000 +0100" channel="PINK SI">
+    <title lang="sl">Ljubezen v zaledju</title>
+  </programme>
+  <programme start="20201218141000 +0100" stop="20201218151600 +0100" channel="PINK SI">
+    <title lang="sl">Tikajmo se</title>
+  </programme>
+  <programme start="20201218151600 +0100" stop="20201218162800 +0100" channel="PINK SI">
+    <title lang="sl">Pravičnik</title>
+  </programme>
+  <programme start="20201218162800 +0100" stop="20201218175800 +0100" channel="PINK SI">
+    <title lang="sl">Koncert Cubismo</title>
+  </programme>
+  <programme start="20201218175800 +0100" stop="20201218180900 +0100" channel="PINK SI">
+    <title lang="sl">City Kids</title>
+  </programme>
+  <programme start="20201218180900 +0100" stop="20201218182300 +0100" channel="PINK SI">
+    <title lang="sl">Ekskluzivno</title>
+  </programme>
+  <programme start="20201218182300 +0100" stop="20201218190200 +0100" channel="PINK SI">
+    <title lang="sl">Mešani zakon</title>
+  </programme>
+  <programme start="20201218190200 +0100" stop="20201218194300 +0100" channel="PINK SI">
+    <title lang="sl">Denar ali življenje</title>
+  </programme>
+  <programme start="20201218194300 +0100" stop="20201218200200 +0100" channel="PINK SI">
+    <title lang="sl">Premiera</title>
+  </programme>
+  <programme start="20201218200200 +0100" stop="20201218204900 +0100" channel="PINK SI">
+    <title lang="sl">Ljubezen v zaledju</title>
+  </programme>
+  <programme start="20201218204900 +0100" stop="20201218213900 +0100" channel="PINK SI">
+    <title lang="sl">Preživeti Beograd</title>
+  </programme>
+  <programme start="20201218213900 +0100" stop="20201218223700 +0100" channel="PINK SI">
+    <title lang="sl">Hiša iz srca</title>
+  </programme>
+  <programme start="20201218223700 +0100" stop="20201218224900 +0100" channel="PINK SI">
+    <title lang="sl">City Kids</title>
+  </programme>
+  <programme start="20201218224900 +0100" stop="20201218230300 +0100" channel="PINK SI">
+    <title lang="sl">Ekskluzivno</title>
+  </programme>
+  <programme start="20201218230300 +0100" stop="20201218234200 +0100" channel="PINK SI">
+    <title lang="sl">Mešani zakon</title>
+  </programme>
+  <programme start="20201218234200 +0100" stop="20201219002300 +0100" channel="PINK SI">
+    <title lang="sl">Denar ali življenje</title>
+  </programme>
+  <programme start="20201219002300 +0100" stop="20201219004100 +0100" channel="PINK SI">
+    <title lang="sl">Premiera</title>
+  </programme>
+  <programme start="20201219004100 +0100" stop="20201219012900 +0100" channel="PINK SI">
+    <title lang="sl">Ljubezen v zaledju</title>
+  </programme>
+  <programme start="20201219012900 +0100" stop="20201219021900 +0100" channel="PINK SI">
+    <title lang="sl">Preživeti Beograd</title>
+  </programme>
+  <programme start="20201219021900 +0100" stop="20201219031700 +0100" channel="PINK SI">
+    <title lang="sl">Hiša iz srca</title>
+  </programme>
+  <programme start="20201219031700 +0100" stop="20201219060000 +0100" channel="PINK SI">
+    <title lang="sl">Koncert Zdravko Čolić</title>
+  </programme>
+  <programme start="20201219060000 +0100" stop="20201219075100 +0100" channel="PINK SI">
+    <title lang="sl">Svitanje</title>
+  </programme>
+  <programme start="20201219075100 +0100" stop="20201219105500 +0100" channel="PINK SI">
+    <title lang="sl">Novo jutro</title>
+  </programme>
+  <programme start="20201219105500 +0100" stop="20201219120900 +0100" channel="PINK SI">
+    <title lang="sl">Hiša iz srca</title>
+  </programme>
+  <programme start="20201219120900 +0100" stop="20201219133200 +0100" channel="PINK SI">
+    <title lang="sl">Preživeti Beograd</title>
+  </programme>
+  <programme start="20201219133200 +0100" stop="20201219150200 +0100" channel="PINK SI">
+    <title lang="sl">Koncert Cubismo</title>
+  </programme>
+  <programme start="20201219150200 +0100" stop="20201219160500 +0100" channel="PINK SI">
+    <title lang="sl">Tikajmo se</title>
+  </programme>
+  <programme start="20201219160500 +0100" stop="20201219192600 +0100" channel="PINK SI">
+    <title lang="sl">Premiera: Vikend special</title>
+  </programme>
+  <programme start="20201219192600 +0100" stop="20201219200000 +0100" channel="PINK SI">
+    <title lang="sl">Stem 011</title>
+  </programme>
+  <programme start="20201219200000 +0100" stop="20201219210100 +0100" channel="PINK SI">
+    <title lang="sl">Rdeča luna</title>
+  </programme>
+  <programme start="20201219210100 +0100" stop="20201219224000 +0100" channel="PINK SI">
+    <title lang="sl">Vročica ljubezni</title>
+  </programme>
+  <programme start="20201219224000 +0100" stop="20201219231300 +0100" channel="PINK SI">
+    <title lang="sl">Tikajmo se</title>
   </programme>
   <programme start="20201216003000 +0100" stop="20201216012000 +0100" channel="POP TV">
     <title lang="sl">Meso</title>
