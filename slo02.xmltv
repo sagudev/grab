@@ -221,6 +221,48 @@
   <programme start="20201230200000 +0100" stop="20201230215000 +0100" channel="Diva">
     <title lang="sl">Božič v Gracelandu</title>
   </programme>
+  <programme start="20201230215000 +0100" stop="20201231002000 +0100" channel="Diva">
+    <title lang="sl">Napumpana</title>
+  </programme>
+  <programme start="20201231002000 +0100" stop="20201231023000 +0100" channel="Diva">
+    <title lang="sl">Izgubljeno s prevodom</title>
+  </programme>
+  <programme start="20201231023000 +0100" stop="20201231042000 +0100" channel="Diva">
+    <title lang="sl">Božič v Gracelandu: Doma za praznike</title>
+  </programme>
+  <programme start="20201231042000 +0100" stop="20201231051000 +0100" channel="Diva">
+    <title lang="sl">Monk: G. Monk in načelnikov zakon</title>
+  </programme>
+  <programme start="20201231051000 +0100" stop="20201231060000 +0100" channel="Diva">
+    <title lang="sl">Monk: G. Monk in velika nagrada</title>
+  </programme>
+  <programme start="20201231060000 +0100" stop="20201231080000 +0100" channel="Diva">
+    <title lang="sl">Božično naključje</title>
+  </programme>
+  <programme start="20201231080000 +0100" stop="20201231100000 +0100" channel="Diva">
+    <title lang="sl">Še eno božično naključje</title>
+  </programme>
+  <programme start="20201231100000 +0100" stop="20201231115000 +0100" channel="Diva">
+    <title lang="sl">Božič v Gracelandu</title>
+  </programme>
+  <programme start="20201231115000 +0100" stop="20201231133500 +0100" channel="Diva">
+    <title lang="sl">Migetanje do konca</title>
+  </programme>
+  <programme start="20201231133500 +0100" stop="20201231153000 +0100" channel="Diva">
+    <title lang="sl">Domov za božič</title>
+  </programme>
+  <programme start="20201231153000 +0100" stop="20201231172000 +0100" channel="Diva">
+    <title lang="sl">Za božič se vrni domov</title>
+  </programme>
+  <programme start="20201231172000 +0100" stop="20201231191000 +0100" channel="Diva">
+    <title lang="sl">Božič v penzionu</title>
+  </programme>
+  <programme start="20201231191000 +0100" stop="20201231213000 +0100" channel="Diva">
+    <title lang="sl">Katera je prava</title>
+  </programme>
+  <programme start="20201231213000 +0100" stop="20201231232000 +0100" channel="Diva">
+    <title lang="sl">Polnočni poljub</title>
+  </programme>
   <programme start="20201228001500 +0100" stop="20201228003800 +0100" channel="Dr. Fit">
     <title lang="sl">Razbijanje mitov z dr. Holly</title>
   </programme>
@@ -3084,13 +3126,13 @@
     <title lang="sl">Alpsko smučanje (Ž): Veleslalom, 1. vožnja, svetovni pokal, Semmering</title>
   </programme>
   <programme start="20201228110000 +0100" stop="20201228125500 +0100" channel="Eurosport">
-    <title lang="sl">Alpsko smučanje (M): Superveleslalom, 1. vožnja, svetovni pokal, Bormio</title>
+    <title lang="sl">Alpsko smučanje (M): Superveleslalom, svetovni pokal, Bormio</title>
   </programme>
   <programme start="20201228125500 +0100" stop="20201228140000 +0100" channel="Eurosport">
     <title lang="sl">Alpsko smučanje (Ž): Veleslalom, 2. vožnja, svetovni pokal, Semmering</title>
   </programme>
   <programme start="20201228140000 +0100" stop="20201228151800 +0100" channel="Eurosport">
-    <title lang="sl">Alpsko smučanje (M): Superveleslalom, 1. vožnja, svetovni pokal, Bormio</title>
+    <title lang="sl">Alpsko smučanje (M): Superveleslalom, svetovni pokal, Bormio</title>
   </programme>
   <programme start="20201228151800 +0100" stop="20201228161500 +0100" channel="Eurosport">
     <title lang="sl">Smučarski skoki: Svetovni pokal - Turnir štirih skakalnic, vrhunci</title>
@@ -3117,7 +3159,7 @@
     <title lang="sl">Smučarski skoki: Kvalifikacije, svetovni pokal, Oberstdorf</title>
   </programme>
   <programme start="20201228210000 +0100" stop="20201228214500 +0100" channel="Eurosport">
-    <title lang="sl">Alpsko smučanje (M): Superveleslalom, 1. vožnja, svetovni pokal, Bormio</title>
+    <title lang="sl">Alpsko smučanje (M): Superveleslalom, svetovni pokal, Bormio</title>
   </programme>
   <programme start="20201228214500 +0100" stop="20201228222500 +0100" channel="Eurosport">
     <title lang="sl">Alpsko smučanje (Ž): Veleslalom, 2. vožnja, svetovni pokal, Semmering</title>
@@ -3353,62 +3395,59 @@
   <programme start="20201228073000 +0100" stop="20201228083000 +0100" channel="Eurosport 2">
     <title lang="sl">Smučarski skoki: Svetovni pokal, turneja štirih skakalnic - najboljši trenutki</title>
   </programme>
-  <programme start="20201228083000 +0100" stop="20201228103000 +0100" channel="Eurosport 2">
+  <programme start="20201228083000 +0100" stop="20201228113100 +0100" channel="Eurosport 2">
     <title lang="sl">Snooker: SP v Sheffiledu, Združeno kraljestvo, finale</title>
   </programme>
-  <programme start="20201228103000 +0100" stop="20201228113000 +0100" channel="Eurosport 2">
-    <title lang="sl">Smučanje prostega sloga (M &amp; Ž): Svetovni pokal, Avstrija, slopestyle</title>
+  <programme start="20201228113100 +0100" stop="20201228123400 +0100" channel="Eurosport 2">
+    <title lang="sl">Smučanje prostega sloga: Svetovni pokal - Ruka (Fin), grbine</title>
   </programme>
-  <programme start="20201228113000 +0100" stop="20201228123000 +0100" channel="Eurosport 2">
-    <title lang="sl">Smučanje prostega sloga (M &amp; Ž): Svetovni pokal v Ruki, Finska, grbine</title>
+  <programme start="20201228123400 +0100" stop="20201228133000 +0100" channel="Eurosport 2">
+    <title lang="sl">Olimpijske igre: Barcelona 1992</title>
   </programme>
-  <programme start="20201228123000 +0100" stop="20201228133000 +0100" channel="Eurosport 2">
-    <title lang="sl">Olimpijske igre</title>
+  <programme start="20201228133000 +0100" stop="20201228142300 +0100" channel="Eurosport 2">
+    <title lang="sl">Olimpijske igre: Lovilec ognja, Atlanta - Nogomet</title>
   </programme>
-  <programme start="20201228133000 +0100" stop="20201228143000 +0100" channel="Eurosport 2">
-    <title lang="sl">Olimpijske igre: Hiša slavnih Atlanta 1996</title>
+  <programme start="20201228142300 +0100" stop="20201228163700 +0100" channel="Eurosport 2">
+    <title lang="sl">Kolesarstvo: UCI svetovna turneja, Milano / Sanremo - 291 km</title>
   </programme>
-  <programme start="20201228143000 +0100" stop="20201228163000 +0100" channel="Eurosport 2">
-    <title lang="sl">Kolesarstvo: Svetovna turneja, Italija</title>
+  <programme start="20201228163700 +0100" stop="20201228181100 +0100" channel="Eurosport 2">
+    <title lang="sl">Snooker: Svetovno prvenstvo - Finale: K. Wilson (Eng) v R. O'Sullivan (Eng)</title>
   </programme>
-  <programme start="20201228163000 +0100" stop="20201228181000 +0100" channel="Eurosport 2">
-    <title lang="sl">Snooker: SP v Sheffiledu, Združeno kraljestvo, finale</title>
-  </programme>
-  <programme start="20201228181000 +0100" stop="20201228193000 +0100" channel="Eurosport 2">
-    <title lang="sl">Kolesarstvo: Svetovna turneja, Italija</title>
+  <programme start="20201228181100 +0100" stop="20201228193000 +0100" channel="Eurosport 2">
+    <title lang="sl">Kolesarstvo: UCI svetovna turneja, Milano / Sanremo - 291 km</title>
   </programme>
   <programme start="20201228193000 +0100" stop="20201228203000 +0100" channel="Eurosport 2">
-    <title lang="sl">Alpsko smučanje (M): Superveleslalom, svetovni pokal, Bormio, Italija</title>
+    <title lang="sl">Alpsko smučanje (M): Superveleslalom, 1. vožnja, svetovni pokal, Bormio</title>
   </programme>
-  <programme start="20201228203000 +0100" stop="20201228210000 +0100" channel="Eurosport 2">
-    <title lang="sl">Alpsko smučanje: Veleslalom (Ž), 2. vožnja - Semmering</title>
+  <programme start="20201228203000 +0100" stop="20201228205800 +0100" channel="Eurosport 2">
+    <title lang="sl">Alpsko smučanje (Ž): Veleslalom, 2. vožnja, svetovni pokal, Semmering</title>
   </programme>
-  <programme start="20201228210000 +0100" stop="20201228210500 +0100" channel="Eurosport 2">
+  <programme start="20201228205800 +0100" stop="20201228210500 +0100" channel="Eurosport 2">
     <title lang="sl">Eurosport novice</title>
   </programme>
-  <programme start="20201228210500 +0100" stop="20201228220000 +0100" channel="Eurosport 2">
-    <title lang="sl">Smučarski skoki (M): Svetovni pokal - Turneja štirih skakalnic v Oberstdorfu, Nemčija, kvalifikacije HS 137</title>
+  <programme start="20201228210500 +0100" stop="20201228215600 +0100" channel="Eurosport 2">
+    <title lang="sl">Smučarski skoki: Kvalifikacije, svetovni pokal, Oberstdorf</title>
   </programme>
-  <programme start="20201228220000 +0100" stop="20201228220500 +0100" channel="Eurosport 2">
+  <programme start="20201228215600 +0100" stop="20201228220300 +0100" channel="Eurosport 2">
     <title lang="sl">Eurosport novice</title>
   </programme>
-  <programme start="20201228220500 +0100" stop="20201228233000 +0100" channel="Eurosport 2">
-    <title lang="sl">Kolesarstvo: Svetovna turneja, Italija</title>
+  <programme start="20201228220300 +0100" stop="20201228233100 +0100" channel="Eurosport 2">
+    <title lang="sl">Kolesarstvo: UCI svetovna turneja, Milano / Sanremo - 291 km</title>
   </programme>
-  <programme start="20201228233000 +0100" stop="20201228233500 +0100" channel="Eurosport 2">
+  <programme start="20201228233100 +0100" stop="20201228233800 +0100" channel="Eurosport 2">
     <title lang="sl">Eurosport novice</title>
   </programme>
-  <programme start="20201228233500 +0100" stop="20201229003000 +0100" channel="Eurosport 2">
-    <title lang="sl">Smučarski skoki (M): Svetovni pokal - Turneja štirih skakalnic v Oberstdorfu, Nemčija, kvalifikacije HS 137</title>
+  <programme start="20201228233800 +0100" stop="20201229003100 +0100" channel="Eurosport 2">
+    <title lang="sl">Smučarski skoki: Kvalifikacije, svetovni pokal, Oberstdorf</title>
   </programme>
-  <programme start="20201229003000 +0100" stop="20201229013000 +0100" channel="Eurosport 2">
-    <title lang="sl">Alpsko smučanje (M): Superveleslalom, svetovni pokal, Bormio, Italija</title>
+  <programme start="20201229003100 +0100" stop="20201229013000 +0100" channel="Eurosport 2">
+    <title lang="sl">Alpsko smučanje (M): Superveleslalom, 1. vožnja, svetovni pokal, Bormio</title>
   </programme>
   <programme start="20201229013000 +0100" stop="20201229021500 +0100" channel="Eurosport 2">
-    <title lang="sl">Alpsko smučanje (Ž): Svetovni pokal v Semmeringu, Avstrija, veleslalom, 1. vožnja</title>
+    <title lang="sl">Alpsko smučanje (Ž): Veleslalom, 1. vožnja, svetovni pokal, Semmering</title>
   </programme>
   <programme start="20201229021500 +0100" stop="20201229030000 +0100" channel="Eurosport 2">
-    <title lang="sl">Alpsko smučanje: Veleslalom (Ž), 2. vožnja - Semmering</title>
+    <title lang="sl">Alpsko smučanje (Ž): Veleslalom, 2. vožnja, svetovni pokal, Semmering</title>
   </programme>
   <programme start="20201229030000 +0100" stop="20201229040000 +0100" channel="Eurosport 2">
     <title lang="sl">Smučarski skoki (M): Svetovni pokal - Turneja štirih skakalnic v Oberstdorfu, Nemčija, kvalifikacije HS 137</title>
@@ -5939,40 +5978,46 @@
   <programme start="20201229012000 +0100" stop="20201229015000 +0100" channel="FTV">
     <title lang="sl">Odkrivanje mode: Karl Lagerfeld</title>
   </programme>
-  <programme start="20201229015000 +0100" stop="20201229070000 +0100" channel="FTV">
+  <programme start="20201229015000 +0100" stop="20201229071000 +0100" channel="FTV">
     <title lang="sl">Pregled programa za torek</title>
   </programme>
-  <programme start="20201229070000 +0100" stop="20201229073000 +0100" channel="FTV">
+  <programme start="20201229071000 +0100" stop="20201229073500 +0100" channel="FTV">
     <title lang="sl">Inštrumentaliteta: Saz</title>
   </programme>
-  <programme start="20201229073000 +0100" stop="20201229080000 +0100" channel="FTV">
+  <programme start="20201229073500 +0100" stop="20201229080000 +0100" channel="FTV">
     <title lang="sl">Lutkovna predstava</title>
   </programme>
   <programme start="20201229080000 +0100" stop="20201229080500 +0100" channel="FTV">
     <title lang="sl">Poročila</title>
   </programme>
-  <programme start="20201229080500 +0100" stop="20201229085500 +0100" channel="FTV">
+  <programme start="20201229080500 +0100" stop="20201229085000 +0100" channel="FTV">
     <title lang="sl">Ranjena ljubezen</title>
   </programme>
-  <programme start="20201229085500 +0100" stop="20201229090500 +0100" channel="FTV">
+  <programme start="20201229085000 +0100" stop="20201229091500 +0100" channel="FTV">
+    <title lang="sl">Barimba</title>
+  </programme>
+  <programme start="20201229091500 +0100" stop="20201229093000 +0100" channel="FTV">
     <title lang="sl">Wissper</title>
   </programme>
-  <programme start="20201229090500 +0100" stop="20201229091500 +0100" channel="FTV">
+  <programme start="20201229093000 +0100" stop="20201229094500 +0100" channel="FTV">
+    <title lang="sl">Wissper</title>
+  </programme>
+  <programme start="20201229094500 +0100" stop="20201229100000 +0100" channel="FTV">
     <title lang="sl">Poglej tole</title>
   </programme>
-  <programme start="20201229091500 +0100" stop="20201229093500 +0100" channel="FTV">
-    <title lang="sl">Mimikrija</title>
-  </programme>
-  <programme start="20201229093500 +0100" stop="20201229100000 +0100" channel="FTV">
-    <title lang="sl">Človeštvo: Zgodba o vseh nas</title>
-  </programme>
-  <programme start="20201229100000 +0100" stop="20201229103500 +0100" channel="FTV">
+  <programme start="20201229100000 +0100" stop="20201229100500 +0100" channel="FTV">
     <title lang="sl">Poročila</title>
   </programme>
-  <programme start="20201229103500 +0100" stop="20201229113000 +0100" channel="FTV">
+  <programme start="20201229100500 +0100" stop="20201229101500 +0100" channel="FTV">
+    <title lang="sl">Nepreverjeno</title>
+  </programme>
+  <programme start="20201229101500 +0100" stop="20201229102500 +0100" channel="FTV">
+    <title lang="sl">Mimikrija</title>
+  </programme>
+  <programme start="20201229102500 +0100" stop="20201229112500 +0100" channel="FTV">
     <title lang="sl">Sulejman Veličastni</title>
   </programme>
-  <programme start="20201229113000 +0100" stop="20201229120000 +0100" channel="FTV">
+  <programme start="20201229112500 +0100" stop="20201229120000 +0100" channel="FTV">
     <title lang="sl">Šport</title>
   </programme>
   <programme start="20201229120000 +0100" stop="20201229121500 +0100" channel="FTV">
@@ -5984,16 +6029,22 @@
   <programme start="20201229130500 +0100" stop="20201229140500 +0100" channel="FTV">
     <title lang="sl">Odgovorite ljudem</title>
   </programme>
-  <programme start="20201229140500 +0100" stop="20201229143500 +0100" channel="FTV">
+  <programme start="20201229140500 +0100" stop="20201229144500 +0100" channel="FTV">
     <title lang="sl">Dva frizerja</title>
   </programme>
-  <programme start="20201229143500 +0100" stop="20201229150000 +0100" channel="FTV">
-    <title lang="sl">Črno-beli svet</title>
+  <programme start="20201229144500 +0100" stop="20201229145500 +0100" channel="FTV">
+    <title lang="sl">Wissper</title>
   </programme>
-  <programme start="20201229150000 +0100" stop="20201229154500 +0100" channel="FTV">
+  <programme start="20201229145500 +0100" stop="20201229150000 +0100" channel="FTV">
+    <title lang="sl">Nepreverjeno</title>
+  </programme>
+  <programme start="20201229150000 +0100" stop="20201229151000 +0100" channel="FTV">
     <title lang="sl">Poročila</title>
   </programme>
-  <programme start="20201229154500 +0100" stop="20201229170000 +0100" channel="FTV">
+  <programme start="20201229151000 +0100" stop="20201229155500 +0100" channel="FTV">
+    <title lang="sl">Črno-beli svet</title>
+  </programme>
+  <programme start="20201229155500 +0100" stop="20201229170000 +0100" channel="FTV">
     <title lang="sl">Sulejman Veličastni</title>
   </programme>
   <programme start="20201229170000 +0100" stop="20201229180000 +0100" channel="FTV">
@@ -6008,8 +6059,14 @@
   <programme start="20201229191500 +0100" stop="20201229193000 +0100" channel="FTV">
     <title lang="sl">Super Loto</title>
   </programme>
-  <programme start="20201229193000 +0100" stop="20201229201000 +0100" channel="FTV">
+  <programme start="20201229193000 +0100" stop="20201229195500 +0100" channel="FTV">
     <title lang="sl">Dnevnik 2</title>
+  </programme>
+  <programme start="20201229195500 +0100" stop="20201229200500 +0100" channel="FTV">
+    <title lang="sl">Šport</title>
+  </programme>
+  <programme start="20201229200500 +0100" stop="20201229201000 +0100" channel="FTV">
+    <title lang="sl">Vremenska napoved</title>
   </programme>
   <programme start="20201229201000 +0100" stop="20201229210500 +0100" channel="FTV">
     <title lang="sl">Črno-beli svet</title>
@@ -6017,19 +6074,19 @@
   <programme start="20201229210500 +0100" stop="20201229220000 +0100" channel="FTV">
     <title lang="sl">Glasba osemdesetih</title>
   </programme>
-  <programme start="20201229220000 +0100" stop="20201229230000 +0100" channel="FTV">
+  <programme start="20201229220000 +0100" stop="20201229225000 +0100" channel="FTV">
     <title lang="sl">Ranjena ljubezen</title>
   </programme>
-  <programme start="20201229230000 +0100" stop="20201230000000 +0100" channel="FTV">
+  <programme start="20201229225000 +0100" stop="20201229235000 +0100" channel="FTV">
     <title lang="sl">Globalna znanost</title>
   </programme>
-  <programme start="20201230000000 +0100" stop="20201230001500 +0100" channel="FTV">
+  <programme start="20201229235000 +0100" stop="20201230000500 +0100" channel="FTV">
     <title lang="sl">Dnevnik 3</title>
   </programme>
-  <programme start="20201230001500 +0100" stop="20201230004500 +0100" channel="FTV">
+  <programme start="20201230000500 +0100" stop="20201230003500 +0100" channel="FTV">
     <title lang="sl">Hayd v park</title>
   </programme>
-  <programme start="20201230004500 +0100" stop="20201230071000 +0100" channel="FTV">
+  <programme start="20201230003500 +0100" stop="20201230071000 +0100" channel="FTV">
     <title lang="sl">Pregled programa za sredo</title>
   </programme>
   <programme start="20201230071000 +0100" stop="20201230080000 +0100" channel="FTV">
