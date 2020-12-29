@@ -93,45 +93,6 @@
     <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/narodna.png" />
     <url>http://www.siol.net</url>
   </channel>
-  <programme start="20201228005000 +0100" stop="20201228023500 +0100" channel="Kabel 1">
-    <title lang="sl">Časovni stroj</title>
-  </programme>
-  <programme start="20201228023500 +0100" stop="20201228024500 +0100" channel="Kabel 1">
-    <title lang="sl">Oglej si: Kino magazin</title>
-  </programme>
-  <programme start="20201228024500 +0100" stop="20201228043500 +0100" channel="Kabel 1">
-    <title lang="sl">Zvezdne steze II: Khanov povratek</title>
-  </programme>
-  <programme start="20201228043500 +0100" stop="20201228061000 +0100" channel="Kabel 1">
-    <title lang="sl">Zvezdne steze III: Iskanje Spocka</title>
-  </programme>
-  <programme start="20201228061000 +0100" stop="20201228083500 +0100" channel="Kabel 1">
-    <title lang="sl">Zvezdne steze IV: Potovanje domov</title>
-  </programme>
-  <programme start="20201228083500 +0100" stop="20201228103500 +0100" channel="Kabel 1">
-    <title lang="sl">Zvezdne steze V: Končna meja</title>
-  </programme>
-  <programme start="20201228103500 +0100" stop="20201228125000 +0100" channel="Kabel 1">
-    <title lang="sl">Zvezdne steze VI: Nepoznana dežela</title>
-  </programme>
-  <programme start="20201228125000 +0100" stop="20201228152500 +0100" channel="Kabel 1">
-    <title lang="sl">Zvezdne steze: Generacije</title>
-  </programme>
-  <programme start="20201228152500 +0100" stop="20201228153500 +0100" channel="Kabel 1">
-    <title lang="sl">K1 Novice</title>
-  </programme>
-  <programme start="20201228153500 +0100" stop="20201228175500 +0100" channel="Kabel 1">
-    <title lang="sl">Ugrabitelja izgubljenega zaklada</title>
-  </programme>
-  <programme start="20201228175500 +0100" stop="20201228201500 +0100" channel="Kabel 1">
-    <title lang="sl">Par - nepar</title>
-  </programme>
-  <programme start="20201228201500 +0100" stop="20201228221500 +0100" channel="Kabel 1">
-    <title lang="sl">Ful gas</title>
-  </programme>
-  <programme start="20201228221500 +0100" stop="20201229000500 +0100" channel="Kabel 1">
-    <title lang="sl">Komandos</title>
-  </programme>
   <programme start="20201229000500 +0100" stop="20201229020500 +0100" channel="Kabel 1">
     <title lang="sl">Začetnik</title>
   </programme>
@@ -189,10 +150,13 @@
   <programme start="20201230033000 +0100" stop="20201230033500 +0100" channel="Kabel 1">
     <title lang="sl">K1 večerne novice</title>
   </programme>
-  <programme start="20201230033500 +0100" stop="20201230053500 +0100" channel="Kabel 1">
+  <programme start="20201230033500 +0100" stop="20201230050000 +0100" channel="Kabel 1">
     <title lang="sl">Igra smrti</title>
   </programme>
-  <programme start="20201230053500 +0100" stop="20201230075000 +0100" channel="Kabel 1">
+  <programme start="20201230050000 +0100" stop="20201230054500 +0100" channel="Kabel 1">
+    <title lang="sl">Telo kot dokaz</title>
+  </programme>
+  <programme start="20201230054500 +0100" stop="20201230075000 +0100" channel="Kabel 1">
     <title lang="sl">Zvezdne steze: Generacije</title>
   </programme>
   <programme start="20201230075000 +0100" stop="20201230100000 +0100" channel="Kabel 1">
@@ -267,95 +231,47 @@
   <programme start="20201231201500 +0100" stop="20201231221000 +0100" channel="Kabel 1">
     <title lang="sl">Policijska akademija</title>
   </programme>
-  <programme start="20201228003500 +0100" stop="20201228010500 +0100" channel="Kanal A">
-    <title lang="sl">Andrija in Andjelka</title>
+  <programme start="20201231221000 +0100" stop="20210101002500 +0100" channel="Kabel 1">
+    <title lang="sl">Monty Python: Smisel življenja</title>
   </programme>
-  <programme start="20201228010500 +0100" stop="20201228013500 +0100" channel="Kanal A">
-    <title lang="sl">Andrija in Andjelka</title>
+  <programme start="20210101002500 +0100" stop="20210101022500 +0100" channel="Kabel 1">
+    <title lang="sl">Supervohljač</title>
   </programme>
-  <programme start="20201228013500 +0100" stop="20201228020000 +0100" channel="Kanal A">
-    <title lang="sl">Andrija in Andjelka</title>
+  <programme start="20210101022500 +0100" stop="20210101040000 +0100" channel="Kabel 1">
+    <title lang="sl">Zmešnjava v Bronxu</title>
   </programme>
-  <programme start="20201228020000 +0100" stop="20201228041500 +0100" channel="Kanal A">
-    <title lang="sl">Pavza!</title>
+  <programme start="20210101040000 +0100" stop="20210101051500 +0100" channel="Kabel 1">
+    <title lang="sl">Policijska akademija 7: Misija Moskva</title>
   </programme>
-  <programme start="20201228041500 +0100" stop="20201228060000 +0100" channel="Kanal A">
-    <title lang="sl">Glasbeni mikser</title>
+  <programme start="20210101051500 +0100" stop="20210101064500 +0100" channel="Kabel 1">
+    <title lang="sl">Policijska akademija 6</title>
   </programme>
-  <programme start="20201228060000 +0100" stop="20201228061000 +0100" channel="Kanal A">
-    <title lang="sl">Glasbeni mikser</title>
+  <programme start="20210101064500 +0100" stop="20210101083000 +0100" channel="Kabel 1">
+    <title lang="sl">Policijska akademija 5</title>
   </programme>
-  <programme start="20201228061000 +0100" stop="20201228063500 +0100" channel="Kanal A">
-    <title lang="sl">Pavza!</title>
+  <programme start="20210101083000 +0100" stop="20210101101000 +0100" channel="Kabel 1">
+    <title lang="sl">Policijska akademija 4</title>
   </programme>
-  <programme start="20201228063500 +0100" stop="20201228072500 +0100" channel="Kanal A">
-    <title lang="sl">Svet</title>
+  <programme start="20210101101000 +0100" stop="20210101115500 +0100" channel="Kabel 1">
+    <title lang="sl">Policijska akademija 3</title>
   </programme>
-  <programme start="20201228072500 +0100" stop="20201228074000 +0100" channel="Kanal A">
-    <title lang="sl">Vaše zdravje, naša skrb</title>
+  <programme start="20210101115500 +0100" stop="20210101134500 +0100" channel="Kabel 1">
+    <title lang="sl">Policijska akademija 2</title>
   </programme>
-  <programme start="20201228074000 +0100" stop="20201228091500 +0100" channel="Kanal A">
-    <title lang="sl">Brez spremstva</title>
+  <programme start="20210101134500 +0100" stop="20210101154500 +0100" channel="Kabel 1">
+    <title lang="sl">Policijska akademija</title>
   </programme>
-  <programme start="20201228091500 +0100" stop="20201228100000 +0100" channel="Kanal A">
-    <title lang="sl">Dwayne Johnson: Reši moj problem</title>
+  <programme start="20210101154500 +0100" stop="20210101155500 +0100" channel="Kabel 1">
+    <title lang="sl">K1 Novice</title>
   </programme>
-  <programme start="20201228100000 +0100" stop="20201228102000 +0100" channel="Kanal A">
-    <title lang="sl">Vaše zdravje, naša skrb</title>
+  <programme start="20210101155500 +0100" stop="20210101180500 +0100" channel="Kabel 1">
+    <title lang="sl">Supervohljač</title>
   </programme>
-  <programme start="20201228102000 +0100" stop="20201228111000 +0100" channel="Kanal A">
-    <title lang="sl">Smrtonosno orožje</title>
+  <programme start="20210101180500 +0100" stop="20210101201500 +0100" channel="Kabel 1">
+    <title lang="sl">Štoparski vodnik po Galaksiji</title>
   </programme>
-  <programme start="20201228111000 +0100" stop="20201228113500 +0100" channel="Kanal A">
-    <title lang="sl">Brooklyn 9-9</title>
-  </programme>
-  <programme start="20201228113500 +0100" stop="20201228120500 +0100" channel="Kanal A">
-    <title lang="sl">Brooklyn 9-9</title>
-  </programme>
-  <programme start="20201228120500 +0100" stop="20201228122000 +0100" channel="Kanal A">
-    <title lang="sl">Vaše zdravje, naša skrb</title>
-  </programme>
-  <programme start="20201228122000 +0100" stop="20201228140500 +0100" channel="Kanal A">
-    <title lang="sl">Najina zgodba</title>
-  </programme>
-  <programme start="20201228140500 +0100" stop="20201228145500 +0100" channel="Kanal A">
-    <title lang="sl">Dwayne Johnson: Reši moj problem</title>
-  </programme>
-  <programme start="20201228145500 +0100" stop="20201228151000 +0100" channel="Kanal A">
-    <title lang="sl">Vaše zdravje, naša skrb</title>
-  </programme>
-  <programme start="20201228151000 +0100" stop="20201228153500 +0100" channel="Kanal A">
-    <title lang="sl">Prijatelji</title>
-  </programme>
-  <programme start="20201228153500 +0100" stop="20201228160500 +0100" channel="Kanal A">
-    <title lang="sl">Prijatelji</title>
-  </programme>
-  <programme start="20201228160500 +0100" stop="20201228163000 +0100" channel="Kanal A">
-    <title lang="sl">Prijatelji</title>
-  </programme>
-  <programme start="20201228163000 +0100" stop="20201228170000 +0100" channel="Kanal A">
-    <title lang="sl">Prijatelji</title>
-  </programme>
-  <programme start="20201228170000 +0100" stop="20201228175500 +0100" channel="Kanal A">
-    <title lang="sl">Smrtonosno orožje</title>
-  </programme>
-  <programme start="20201228175500 +0100" stop="20201228185500 +0100" channel="Kanal A">
-    <title lang="sl">Svet</title>
-  </programme>
-  <programme start="20201228185500 +0100" stop="20201228192000 +0100" channel="Kanal A">
-    <title lang="sl">Brooklyn 9-9</title>
-  </programme>
-  <programme start="20201228192000 +0100" stop="20201228194500 +0100" channel="Kanal A">
-    <title lang="sl">Brooklyn 9-9</title>
-  </programme>
-  <programme start="20201228194500 +0100" stop="20201228200000 +0100" channel="Kanal A">
-    <title lang="sl">Svet</title>
-  </programme>
-  <programme start="20201228200000 +0100" stop="20201228224000 +0100" channel="Kanal A">
-    <title lang="sl">Harry Potter in kamen modrosti</title>
-  </programme>
-  <programme start="20201228224000 +0100" stop="20201229003500 +0100" channel="Kanal A">
-    <title lang="sl">V mreži</title>
+  <programme start="20210101201500 +0100" stop="20210101221000 +0100" channel="Kabel 1">
+    <title lang="sl">Morilski pozdrav</title>
   </programme>
   <programme start="20201229003500 +0100" stop="20201229010000 +0100" channel="Kanal A">
     <title lang="sl">Prijatelji</title>
@@ -384,13 +300,13 @@
   <programme start="20201229061000 +0100" stop="20201229063000 +0100" channel="Kanal A">
     <title lang="sl">Pavza!</title>
   </programme>
-  <programme start="20201229063000 +0100" stop="20201229072000 +0100" channel="Kanal A">
+  <programme start="20201229063000 +0100" stop="20201229072500 +0100" channel="Kanal A">
     <title lang="sl">Svet</title>
   </programme>
-  <programme start="20201229072000 +0100" stop="20201229073500 +0100" channel="Kanal A">
+  <programme start="20201229072500 +0100" stop="20201229074000 +0100" channel="Kanal A">
     <title lang="sl">Vaše zdravje, naša skrb</title>
   </programme>
-  <programme start="20201229073500 +0100" stop="20201229092000 +0100" channel="Kanal A">
+  <programme start="20201229074000 +0100" stop="20201229092000 +0100" channel="Kanal A">
     <title lang="sl">Najboljša božična zabava</title>
   </programme>
   <programme start="20201229092000 +0100" stop="20201229101000 +0100" channel="Kanal A">
@@ -414,19 +330,19 @@
   <programme start="20201229122000 +0100" stop="20201229140500 +0100" channel="Kanal A">
     <title lang="sl">Ta veseli dan</title>
   </programme>
-  <programme start="20201229140500 +0100" stop="20201229150000 +0100" channel="Kanal A">
+  <programme start="20201229140500 +0100" stop="20201229145500 +0100" channel="Kanal A">
     <title lang="sl">Dwayne Johnson: Reši moj problem</title>
   </programme>
-  <programme start="20201229150000 +0100" stop="20201229151500 +0100" channel="Kanal A">
+  <programme start="20201229145500 +0100" stop="20201229151000 +0100" channel="Kanal A">
     <title lang="sl">Vaše zdravje, naša skrb</title>
   </programme>
-  <programme start="20201229151500 +0100" stop="20201229154000 +0100" channel="Kanal A">
+  <programme start="20201229151000 +0100" stop="20201229153500 +0100" channel="Kanal A">
     <title lang="sl">Prijatelji</title>
   </programme>
-  <programme start="20201229154000 +0100" stop="20201229160500 +0100" channel="Kanal A">
+  <programme start="20201229153500 +0100" stop="20201229160000 +0100" channel="Kanal A">
     <title lang="sl">Prijatelji</title>
   </programme>
-  <programme start="20201229160500 +0100" stop="20201229163000 +0100" channel="Kanal A">
+  <programme start="20201229160000 +0100" stop="20201229163000 +0100" channel="Kanal A">
     <title lang="sl">Prijatelji</title>
   </programme>
   <programme start="20201229163000 +0100" stop="20201229170000 +0100" channel="Kanal A">
@@ -459,16 +375,16 @@
   <programme start="20201230010500 +0100" stop="20201230013000 +0100" channel="Kanal A">
     <title lang="sl">Prijatelji</title>
   </programme>
-  <programme start="20201230013000 +0100" stop="20201230015500 +0100" channel="Kanal A">
+  <programme start="20201230013000 +0100" stop="20201230015000 +0100" channel="Kanal A">
     <title lang="sl">Prijatelji</title>
   </programme>
-  <programme start="20201230015500 +0100" stop="20201230022000 +0100" channel="Kanal A">
+  <programme start="20201230015000 +0100" stop="20201230021500 +0100" channel="Kanal A">
     <title lang="sl">Prijatelji</title>
   </programme>
-  <programme start="20201230022000 +0100" stop="20201230024500 +0100" channel="Kanal A">
+  <programme start="20201230021500 +0100" stop="20201230023500 +0100" channel="Kanal A">
     <title lang="sl">Prijatelji</title>
   </programme>
-  <programme start="20201230024500 +0100" stop="20201230052500 +0100" channel="Kanal A">
+  <programme start="20201230023500 +0100" stop="20201230052500 +0100" channel="Kanal A">
     <title lang="sl">Pavza!</title>
   </programme>
   <programme start="20201230052500 +0100" stop="20201230060000 +0100" channel="Kanal A">
@@ -642,41 +558,83 @@
   <programme start="20201231200000 +0100" stop="20201231224000 +0100" channel="Kanal A">
     <title lang="sl">Harry Potter in ognjeni kelih</title>
   </programme>
-  <programme start="20201228005500 +0100" stop="20201228025500 +0100" channel="Kino">
-    <title lang="sl">Ugrabitev</title>
+  <programme start="20201231224000 +0100" stop="20210101011000 +0100" channel="Kanal A">
+    <title lang="sl">Harry Potter in Princ mešane krvi</title>
   </programme>
-  <programme start="20201228025500 +0100" stop="20201228043000 +0100" channel="Kino">
-    <title lang="sl">Dajva se dol</title>
+  <programme start="20210101011000 +0100" stop="20210101030500 +0100" channel="Kanal A">
+    <title lang="sl">Pan: Potovanje v deželo Nije</title>
   </programme>
-  <programme start="20201228043000 +0100" stop="20201228070000 +0100" channel="Kino">
-    <title lang="sl">Nočni program Kino</title>
+  <programme start="20210101030500 +0100" stop="20210101053500 +0100" channel="Kanal A">
+    <title lang="sl">Pavza!</title>
   </programme>
-  <programme start="20201228070000 +0100" stop="20201228083500 +0100" channel="Kino">
-    <title lang="sl">Pomoč za praznike</title>
+  <programme start="20210101053500 +0100" stop="20210101060000 +0100" channel="Kanal A">
+    <title lang="sl">Glasbeni mikser</title>
   </programme>
-  <programme start="20201228083500 +0100" stop="20201228111000 +0100" channel="Kino">
-    <title lang="sl">Partizanska eskadrilja</title>
+  <programme start="20210101060000 +0100" stop="20210101070000 +0100" channel="Kanal A">
+    <title lang="sl">Pavza!</title>
   </programme>
-  <programme start="20201228111000 +0100" stop="20201228125000 +0100" channel="Kino">
-    <title lang="sl">Božič na kvadrat</title>
+  <programme start="20210101070000 +0100" stop="20210101071500 +0100" channel="Kanal A">
+    <title lang="sl">Vaše zdravje, naša skrb</title>
   </programme>
-  <programme start="20201228125000 +0100" stop="20201228144500 +0100" channel="Kino">
-    <title lang="sl">Carja Hazzarda</title>
+  <programme start="20210101071500 +0100" stop="20210101090500 +0100" channel="Kanal A">
+    <title lang="sl">Pan: Potovanje v deželo Nije</title>
   </programme>
-  <programme start="20201228144500 +0100" stop="20201228163000 +0100" channel="Kino">
-    <title lang="sl">Dvanajst dni do božiča</title>
+  <programme start="20210101090500 +0100" stop="20210101095000 +0100" channel="Kanal A">
+    <title lang="sl">Dwayne Johnson: Reši moj problem</title>
   </programme>
-  <programme start="20201228163000 +0100" stop="20201228182000 +0100" channel="Kino">
-    <title lang="sl">Ljubezen in čast</title>
+  <programme start="20210101095000 +0100" stop="20210101100500 +0100" channel="Kanal A">
+    <title lang="sl">Vaše zdravje, naša skrb</title>
   </programme>
-  <programme start="20201228182000 +0100" stop="20201228200000 +0100" channel="Kino">
-    <title lang="sl">Božič z Dolly Parton: Krog ljubezni</title>
+  <programme start="20210101100500 +0100" stop="20210101105500 +0100" channel="Kanal A">
+    <title lang="sl">Smrtonosno orožje</title>
   </programme>
-  <programme start="20201228200000 +0100" stop="20201228222500 +0100" channel="Kino">
-    <title lang="sl">Kritična točka</title>
+  <programme start="20210101105500 +0100" stop="20210101112000 +0100" channel="Kanal A">
+    <title lang="sl">Brooklyn 9-9</title>
   </programme>
-  <programme start="20201228222500 +0100" stop="20201229000500 +0100" channel="Kino">
-    <title lang="sl">Policijska akademija 3</title>
+  <programme start="20210101112000 +0100" stop="20210101115000 +0100" channel="Kanal A">
+    <title lang="sl">Brooklyn 9-9</title>
+  </programme>
+  <programme start="20210101115000 +0100" stop="20210101120500 +0100" channel="Kanal A">
+    <title lang="sl">Vaše zdravje, naša skrb</title>
+  </programme>
+  <programme start="20210101120500 +0100" stop="20210101134500 +0100" channel="Kanal A">
+    <title lang="sl">Bitka za božič</title>
+  </programme>
+  <programme start="20210101134500 +0100" stop="20210101143500 +0100" channel="Kanal A">
+    <title lang="sl">Dwayne Johnson: Reši moj problem</title>
+  </programme>
+  <programme start="20210101143500 +0100" stop="20210101145000 +0100" channel="Kanal A">
+    <title lang="sl">Vaše zdravje, naša skrb</title>
+  </programme>
+  <programme start="20210101145000 +0100" stop="20210101155000 +0100" channel="Kanal A">
+    <title lang="sl">Top Gear</title>
+  </programme>
+  <programme start="20210101155000 +0100" stop="20210101161500 +0100" channel="Kanal A">
+    <title lang="sl">Prijatelji</title>
+  </programme>
+  <programme start="20210101161500 +0100" stop="20210101164000 +0100" channel="Kanal A">
+    <title lang="sl">Prijatelji</title>
+  </programme>
+  <programme start="20210101164000 +0100" stop="20210101170500 +0100" channel="Kanal A">
+    <title lang="sl">Prijatelji</title>
+  </programme>
+  <programme start="20210101170500 +0100" stop="20210101175500 +0100" channel="Kanal A">
+    <title lang="sl">Graceland</title>
+  </programme>
+  <programme start="20210101175500 +0100" stop="20210101185500 +0100" channel="Kanal A">
+    <title lang="sl">Svet</title>
+  </programme>
+  <programme start="20210101185500 +0100" stop="20210101192000 +0100" channel="Kanal A">
+    <title lang="sl">Brooklyn 9-9</title>
+  </programme>
+  <programme start="20210101192000 +0100" stop="20210101194500 +0100" channel="Kanal A">
+    <title lang="sl">Brooklyn 9-9</title>
+  </programme>
+  <programme start="20210101194500 +0100" stop="20210101200000 +0100" channel="Kanal A">
+    <title lang="sl">Svet</title>
+  </programme>
+  <programme start="20210101200000 +0100" stop="20210101221500 +0100" channel="Kanal A">
+    <title lang="sl">007 - Dih smrti</title>
   </programme>
   <programme start="20201229000500 +0100" stop="20201229014000 +0100" channel="Kino">
     <title lang="sl">Dobri samaritan</title>
@@ -696,16 +654,13 @@
   <programme start="20201229092000 +0100" stop="20201229123000 +0100" channel="Kino">
     <title lang="sl">Poštar</title>
   </programme>
-  <programme start="20201229123000 +0100" stop="20201229141000 +0100" channel="Kino">
+  <programme start="20201229123000 +0100" stop="20201229140500 +0100" channel="Kino">
     <title lang="sl">Božič Denisa pokore</title>
   </programme>
-  <programme start="20201229141000 +0100" stop="20201229160500 +0100" channel="Kino">
+  <programme start="20201229140500 +0100" stop="20201229161500 +0100" channel="Kino">
     <title lang="sl">Carja Hazzarda</title>
   </programme>
-  <programme start="20201229160500 +0100" stop="20201229162000 +0100" channel="Kino">
-    <title lang="sl">Spoznajmo Voyo</title>
-  </programme>
-  <programme start="20201229162000 +0100" stop="20201229182000 +0100" channel="Kino">
+  <programme start="20201229161500 +0100" stop="20201229182000 +0100" channel="Kino">
     <title lang="sl">Asterix in Obelix v Britaniji</title>
   </programme>
   <programme start="20201229182000 +0100" stop="20201229200000 +0100" channel="Kino">
@@ -714,28 +669,25 @@
   <programme start="20201229200000 +0100" stop="20201229220000 +0100" channel="Kino">
     <title lang="sl">Zadeta modela 2: Beg iz Guantanama</title>
   </programme>
-  <programme start="20201229220000 +0100" stop="20201230002000 +0100" channel="Kino">
+  <programme start="20201229220000 +0100" stop="20201230002500 +0100" channel="Kino">
     <title lang="sl">Telesni stražar</title>
   </programme>
-  <programme start="20201230002000 +0100" stop="20201230020000 +0100" channel="Kino">
+  <programme start="20201230002500 +0100" stop="20201230015500 +0100" channel="Kino">
     <title lang="sl">Postreli jih</title>
   </programme>
-  <programme start="20201230020000 +0100" stop="20201230042000 +0100" channel="Kino">
+  <programme start="20201230015500 +0100" stop="20201230041000 +0100" channel="Kino">
     <title lang="sl">Pisma z Iwo Jime</title>
   </programme>
-  <programme start="20201230042000 +0100" stop="20201230072000 +0100" channel="Kino">
+  <programme start="20201230041000 +0100" stop="20201230072000 +0100" channel="Kino">
     <title lang="sl">Nočni program Kino</title>
   </programme>
   <programme start="20201230072000 +0100" stop="20201230090500 +0100" channel="Kino">
     <title lang="sl">Ljubezen in čast</title>
   </programme>
-  <programme start="20201230090500 +0100" stop="20201230112500 +0100" channel="Kino">
+  <programme start="20201230090500 +0100" stop="20201230113500 +0100" channel="Kino">
     <title lang="sl">Kozara</title>
   </programme>
-  <programme start="20201230112500 +0100" stop="20201230114000 +0100" channel="Kino">
-    <title lang="sl">Spoznajmo Voyo</title>
-  </programme>
-  <programme start="20201230114000 +0100" stop="20201230131500 +0100" channel="Kino">
+  <programme start="20201230113500 +0100" stop="20201230131500 +0100" channel="Kino">
     <title lang="sl">Pepelkina zgodba</title>
   </programme>
   <programme start="20201230131500 +0100" stop="20201230151000 +0100" channel="Kino">
@@ -753,16 +705,16 @@
   <programme start="20201230214000 +0100" stop="20201231000000 +0100" channel="Kino">
     <title lang="sl">Pot zmagovalca</title>
   </programme>
-  <programme start="20201231000000 +0100" stop="20201231014500 +0100" channel="Kino">
+  <programme start="20201231000000 +0100" stop="20201231013500 +0100" channel="Kino">
     <title lang="sl">Izdana</title>
   </programme>
-  <programme start="20201231014500 +0100" stop="20201231034000 +0100" channel="Kino">
+  <programme start="20201231013500 +0100" stop="20201231032000 +0100" channel="Kino">
     <title lang="sl">Zadeta modela 2: Beg iz Guantanama</title>
   </programme>
-  <programme start="20201231034000 +0100" stop="20201231050500 +0100" channel="Kino">
+  <programme start="20201231032000 +0100" stop="20201231044500 +0100" channel="Kino">
     <title lang="sl">Postreli jih</title>
   </programme>
-  <programme start="20201231050500 +0100" stop="20201231072500 +0100" channel="Kino">
+  <programme start="20201231044500 +0100" stop="20201231072500 +0100" channel="Kino">
     <title lang="sl">Nočni program Kino</title>
   </programme>
   <programme start="20201231072500 +0100" stop="20201231081000 +0100" channel="Kino">
@@ -786,77 +738,56 @@
   <programme start="20201231151000 +0100" stop="20201231165000 +0100" channel="Kino">
     <title lang="sl">Policijska akademija 5</title>
   </programme>
-  <programme start="20201231165000 +0100" stop="20201231183000 +0100" channel="Kino">
+  <programme start="20201231165000 +0100" stop="20201231182500 +0100" channel="Kino">
     <title lang="sl">Policijska akademija 6</title>
   </programme>
-  <programme start="20201231183000 +0100" stop="20201231200000 +0100" channel="Kino">
+  <programme start="20201231182500 +0100" stop="20201231200000 +0100" channel="Kino">
     <title lang="sl">Policijska akademija 7: Misija Moskva</title>
   </programme>
   <programme start="20201231200000 +0100" stop="20201231221000 +0100" channel="Kino">
     <title lang="sl">XXX – Trojni X</title>
   </programme>
-  <programme start="20201228000800 +0100" stop="20201228002000 +0100" channel="Klasik TV">
-    <title lang="sl">Balkanska "špijunaža": Valter brani Sarajevo</title>
+  <programme start="20201231221000 +0100" stop="20210101000000 +0100" channel="Kino">
+    <title lang="sl">xXx: Reaktiviran</title>
   </programme>
-  <programme start="20201228002000 +0100" stop="20201228020000 +0100" channel="Klasik TV">
-    <title lang="sl">Mehanizem</title>
+  <programme start="20210101000000 +0100" stop="20210101015000 +0100" channel="Kino">
+    <title lang="sl">Planet teme</title>
   </programme>
-  <programme start="20201228020000 +0100" stop="20201228040200 +0100" channel="Klasik TV">
-    <title lang="sl">Moj ata, socialistični kulak</title>
+  <programme start="20210101015000 +0100" stop="20210101040000 +0100" channel="Kino">
+    <title lang="sl">Kritična točka</title>
   </programme>
-  <programme start="20201228040200 +0100" stop="20201228052600 +0100" channel="Klasik TV">
-    <title lang="sl">Operacija "Beograd"</title>
+  <programme start="20210101040000 +0100" stop="20210101071000 +0100" channel="Kino">
+    <title lang="sl">Nočni program Kino</title>
   </programme>
-  <programme start="20201228052600 +0100" stop="20201228060000 +0100" channel="Klasik TV">
-    <title lang="sl">Viktorjev let</title>
+  <programme start="20210101071000 +0100" stop="20210101090000 +0100" channel="Kino">
+    <title lang="sl">Preproste reči</title>
   </programme>
-  <programme start="20201228060000 +0100" stop="20201228072600 +0100" channel="Klasik TV">
-    <title lang="sl">Črne ptice</title>
+  <programme start="20210101090000 +0100" stop="20210101104000 +0100" channel="Kino">
+    <title lang="sl">Divji roži</title>
   </programme>
-  <programme start="20201228072600 +0100" stop="20201228075900 +0100" channel="Klasik TV">
-    <title lang="sl">Nekaterih stvari ni treba skriti</title>
+  <programme start="20210101104000 +0100" stop="20210101122500 +0100" channel="Kino">
+    <title lang="sl">Mesto samorogov</title>
   </programme>
-  <programme start="20201228075900 +0100" stop="20201228085400 +0100" channel="Klasik TV">
-    <title lang="sl">Lisice</title>
+  <programme start="20210101122500 +0100" stop="20210101144000 +0100" channel="Kino">
+    <title lang="sl">Telesni stražar</title>
   </programme>
-  <programme start="20201228085400 +0100" stop="20201228100700 +0100" channel="Klasik TV">
-    <title lang="sl">Prebujanje podgan</title>
+  <programme start="20210101144000 +0100" stop="20210101163000 +0100" channel="Kino">
+    <title lang="sl">Družinsko potovanje</title>
   </programme>
-  <programme start="20201228100700 +0100" stop="20201228120100 +0100" channel="Klasik TV">
-    <title lang="sl">Derviš in smrt</title>
+  <programme start="20210101163000 +0100" stop="20210101164500 +0100" channel="Kino">
+    <title lang="sl">Spoznajmo Voyo</title>
   </programme>
-  <programme start="20201228120100 +0100" stop="20201228124800 +0100" channel="Klasik TV">
-    <title lang="sl">Boljše življenje</title>
+  <programme start="20210101164500 +0100" stop="20210101182000 +0100" channel="Kino">
+    <title lang="sl">Božič Denisa pokore</title>
   </programme>
-  <programme start="20201228124800 +0100" stop="20201228132000 +0100" channel="Klasik TV">
-    <title lang="sl">Večerna šola</title>
+  <programme start="20210101182000 +0100" stop="20210101200000 +0100" channel="Kino">
+    <title lang="sl">Pepelkina zgodba</title>
   </programme>
-  <programme start="20201228132000 +0100" stop="20201228135600 +0100" channel="Klasik TV">
-    <title lang="sl">Večerna šola</title>
+  <programme start="20210101200000 +0100" stop="20210101220000 +0100" channel="Kino">
+    <title lang="sl">Obalna straža</title>
   </programme>
-  <programme start="20201228135600 +0100" stop="20201228160900 +0100" channel="Klasik TV">
-    <title lang="sl">Valter brani Sarajevo</title>
-  </programme>
-  <programme start="20201228160900 +0100" stop="20201228162000 +0100" channel="Klasik TV">
-    <title lang="sl">Balkanska "špijunaža": Valter brani Sarajevo</title>
-  </programme>
-  <programme start="20201228162000 +0100" stop="20201228175900 +0100" channel="Klasik TV">
-    <title lang="sl">Mehanizem</title>
-  </programme>
-  <programme start="20201228175900 +0100" stop="20201228200000 +0100" channel="Klasik TV">
-    <title lang="sl">Moj brat Aleksa</title>
-  </programme>
-  <programme start="20201228200000 +0100" stop="20201228204600 +0100" channel="Klasik TV">
-    <title lang="sl">Boljše življenje</title>
-  </programme>
-  <programme start="20201228204600 +0100" stop="20201228212100 +0100" channel="Klasik TV">
-    <title lang="sl">Gledališče v hiši</title>
-  </programme>
-  <programme start="20201228212100 +0100" stop="20201228225800 +0100" channel="Klasik TV">
-    <title lang="sl">Slivov sok</title>
-  </programme>
-  <programme start="20201228225800 +0100" stop="20201229003700 +0100" channel="Klasik TV">
-    <title lang="sl">Vse zastonj</title>
+  <programme start="20210101220000 +0100" stop="20210101235000 +0100" channel="Kino">
+    <title lang="sl">Čarovnije za vsak dan</title>
   </programme>
   <programme start="20201229003700 +0100" stop="20201229024000 +0100" channel="Klasik TV">
     <title lang="sl">Gozdni stvori</title>
@@ -1026,149 +957,68 @@
   <programme start="20201231215700 +0100" stop="20201231232400 +0100" channel="Klasik TV">
     <title lang="sl">Žikina dinastija</title>
   </programme>
-  <programme start="20201228002100 +0100" stop="20201228011100 +0100" channel="MTV 1">
-    <title lang="sl">Pritisni Play</title>
+  <programme start="20201231232400 +0100" stop="20210101004300 +0100" channel="Klasik TV">
+    <title lang="sl">Nora leta</title>
   </programme>
-  <programme start="20201228011100 +0100" stop="20201228013600 +0100" channel="MTV 1">
-    <title lang="sl">Džentlmen magazin</title>
+  <programme start="20210101004300 +0100" stop="20210101021800 +0100" channel="Klasik TV">
+    <title lang="sl">Pojem podnevi, pojem ponoči</title>
   </programme>
-  <programme start="20201228013600 +0100" stop="20201228020600 +0100" channel="MTV 1">
-    <title lang="sl">Dnevnik 2</title>
+  <programme start="20210101021800 +0100" stop="20210101035600 +0100" channel="Klasik TV">
+    <title lang="sl">Lajanje na zvezde</title>
   </programme>
-  <programme start="20201228020600 +0100" stop="20201228021300 +0100" channel="MTV 1">
-    <title lang="sl">Šport</title>
+  <programme start="20210101035600 +0100" stop="20210101053000 +0100" channel="Klasik TV">
+    <title lang="sl">Deček in njegov pes</title>
   </programme>
-  <programme start="20201228021300 +0100" stop="20201228021600 +0100" channel="MTV 1">
-    <title lang="sl">Vreme</title>
+  <programme start="20210101053000 +0100" stop="20210101060000 +0100" channel="Klasik TV">
+    <title lang="sl">Vanka škvare</title>
   </programme>
-  <programme start="20201228021600 +0100" stop="20201228032200 +0100" channel="MTV 1">
-    <title lang="sl">Nedeljski magazin</title>
+  <programme start="20210101060000 +0100" stop="20210101073400 +0100" channel="Klasik TV">
+    <title lang="sl">Velika turneja</title>
   </programme>
-  <programme start="20201228032200 +0100" stop="20201228035200 +0100" channel="MTV 1">
-    <title lang="sl">Glasbeni intermezzo</title>
+  <programme start="20210101073400 +0100" stop="20210101080300 +0100" channel="Klasik TV">
+    <title lang="sl">Mariška band</title>
   </programme>
-  <programme start="20201228035200 +0100" stop="20201228044300 +0100" channel="MTV 1">
-    <title lang="sl">Moj otrok</title>
+  <programme start="20210101080300 +0100" stop="20210101092600 +0100" channel="Klasik TV">
+    <title lang="sl">Gangster te ljubi</title>
   </programme>
-  <programme start="20201228044300 +0100" stop="20201228052200 +0100" channel="MTV 1">
-    <title lang="sl">Dokumentarni film</title>
+  <programme start="20210101092600 +0100" stop="20210101111100 +0100" channel="Klasik TV">
+    <title lang="sl">H-8</title>
   </programme>
-  <programme start="20201228052200 +0100" stop="20201228061200 +0100" channel="MTV 1">
-    <title lang="sl">Kmetijstvo</title>
+  <programme start="20210101111100 +0100" stop="20210101124200 +0100" channel="Klasik TV">
+    <title lang="sl">Nekoč je bil snežak</title>
   </programme>
-  <programme start="20201228061200 +0100" stop="20201228064500 +0100" channel="MTV 1">
-    <title lang="sl">Makedonske ljudske pravljice</title>
+  <programme start="20210101124200 +0100" stop="20210101141100 +0100" channel="Klasik TV">
+    <title lang="sl">Vsega so krivi vesoljci</title>
   </programme>
-  <programme start="20201228064500 +0100" stop="20201228091500 +0100" channel="MTV 1">
-    <title lang="sl">Makedonija zjutraj</title>
+  <programme start="20210101141100 +0100" stop="20210101145400 +0100" channel="Klasik TV">
+    <title lang="sl">Boljše življenje</title>
   </programme>
-  <programme start="20201228091500 +0100" stop="20201228093500 +0100" channel="MTV 1">
-    <title lang="sl">Izobraževalna oddaja</title>
+  <programme start="20210101145400 +0100" stop="20210101152900 +0100" channel="Klasik TV">
+    <title lang="sl">Gledališče v hiši</title>
   </programme>
-  <programme start="20201228093500 +0100" stop="20201228100000 +0100" channel="MTV 1">
-    <title lang="sl">Makedonske ljudske pravljice</title>
+  <programme start="20210101152900 +0100" stop="20210101155800 +0100" channel="Klasik TV">
+    <title lang="sl">Večerna šola</title>
   </programme>
-  <programme start="20201228100000 +0100" stop="20201228102500 +0100" channel="MTV 1">
-    <title lang="sl">Poročila</title>
+  <programme start="20210101155800 +0100" stop="20210101172300 +0100" channel="Klasik TV">
+    <title lang="sl">Žikina dinastija</title>
   </programme>
-  <programme start="20201228102500 +0100" stop="20201228103000 +0100" channel="MTV 1">
-    <title lang="sl">Mišo in Robin</title>
+  <programme start="20210101172300 +0100" stop="20210101184600 +0100" channel="Klasik TV">
+    <title lang="sl">Nora leta</title>
   </programme>
-  <programme start="20201228103000 +0100" stop="20201228103500 +0100" channel="MTV 1">
-    <title lang="sl">Risanka</title>
+  <programme start="20210101184600 +0100" stop="20210101195900 +0100" channel="Klasik TV">
+    <title lang="sl">Opravičujemo se, zelo se opravičujemo</title>
   </programme>
-  <programme start="20201228103500 +0100" stop="20201228104500 +0100" channel="MTV 1">
-    <title lang="sl">Bilo je nekoč</title>
+  <programme start="20210101195900 +0100" stop="20210101205000 +0100" channel="Klasik TV">
+    <title lang="sl">Boljše življenje</title>
   </programme>
-  <programme start="20201228104500 +0100" stop="20201228111000 +0100" channel="MTV 1">
-    <title lang="sl">Raziskovalka Dora</title>
+  <programme start="20210101205000 +0100" stop="20210101213000 +0100" channel="Klasik TV">
+    <title lang="sl">Gledališče v hiši</title>
   </programme>
-  <programme start="20201228111000 +0100" stop="20201228111500 +0100" channel="MTV 1">
-    <title lang="sl">Od A do Š</title>
+  <programme start="20210101213000 +0100" stop="20210101230200 +0100" channel="Klasik TV">
+    <title lang="sl">Maratonci tečejo častni krog</title>
   </programme>
-  <programme start="20201228111500 +0100" stop="20201228113500 +0100" channel="MTV 1">
-    <title lang="sl">Lalaloopsy</title>
-  </programme>
-  <programme start="20201228113500 +0100" stop="20201228120500 +0100" channel="MTV 1">
-    <title lang="sl">Družina 5+</title>
-  </programme>
-  <programme start="20201228120500 +0100" stop="20201228123000 +0100" channel="MTV 1">
-    <title lang="sl">Dokumentarna nadaljevanka</title>
-  </programme>
-  <programme start="20201228123000 +0100" stop="20201228130000 +0100" channel="MTV 1">
-    <title lang="sl">Dokumentarna nadaljevanka</title>
-  </programme>
-  <programme start="20201228130000 +0100" stop="20201228132500 +0100" channel="MTV 1">
-    <title lang="sl">Poročila</title>
-  </programme>
-  <programme start="20201228132500 +0100" stop="20201228140500 +0100" channel="MTV 1">
-    <title lang="sl">Glasba - moje življenje</title>
-  </programme>
-  <programme start="20201228140500 +0100" stop="20201228143000 +0100" channel="MTV 1">
-    <title lang="sl">Moj otrok</title>
-  </programme>
-  <programme start="20201228143000 +0100" stop="20201228150000 +0100" channel="MTV 1">
-    <title lang="sl">Ekološko ravnovesje</title>
-  </programme>
-  <programme start="20201228150000 +0100" stop="20201228152000 +0100" channel="MTV 1">
-    <title lang="sl">Poročila</title>
-  </programme>
-  <programme start="20201228152000 +0100" stop="20201228162000 +0100" channel="MTV 1">
-    <title lang="sl">20 sekund</title>
-  </programme>
-  <programme start="20201228162000 +0100" stop="20201228170000 +0100" channel="MTV 1">
-    <title lang="sl">Rad kuham</title>
-  </programme>
-  <programme start="20201228170000 +0100" stop="20201228173000 +0100" channel="MTV 1">
-    <title lang="sl">Dnevnik 1</title>
-  </programme>
-  <programme start="20201228173000 +0100" stop="20201228174000 +0100" channel="MTV 1">
-    <title lang="sl">Šport</title>
-  </programme>
-  <programme start="20201228174000 +0100" stop="20201228175000 +0100" channel="MTV 1">
-    <title lang="sl">Vreme</title>
-  </programme>
-  <programme start="20201228175000 +0100" stop="20201228184500 +0100" channel="MTV 1">
-    <title lang="sl">Pritisni Play</title>
-  </programme>
-  <programme start="20201228184500 +0100" stop="20201228191500 +0100" channel="MTV 1">
-    <title lang="sl">Raziskovalka Dora</title>
-  </programme>
-  <programme start="20201228191500 +0100" stop="20201228192000 +0100" channel="MTV 1">
-    <title lang="sl">Risanka</title>
-  </programme>
-  <programme start="20201228192000 +0100" stop="20201228193000 +0100" channel="MTV 1">
-    <title lang="sl">Mišo in Robin</title>
-  </programme>
-  <programme start="20201228193000 +0100" stop="20201228200000 +0100" channel="MTV 1">
-    <title lang="sl">Dnevnik 2</title>
-  </programme>
-  <programme start="20201228200000 +0100" stop="20201228201000 +0100" channel="MTV 1">
-    <title lang="sl">Šport</title>
-  </programme>
-  <programme start="20201228201000 +0100" stop="20201228201500 +0100" channel="MTV 1">
-    <title lang="sl">Vreme</title>
-  </programme>
-  <programme start="20201228201500 +0100" stop="20201228210000 +0100" channel="MTV 1">
-    <title lang="sl">Penzion Prespav</title>
-  </programme>
-  <programme start="20201228210000 +0100" stop="20201228220500 +0100" channel="MTV 1">
-    <title lang="sl">Intervju: Stevo Pendarovski</title>
-  </programme>
-  <programme start="20201228220500 +0100" stop="20201228225000 +0100" channel="MTV 1">
-    <title lang="sl">Koncert</title>
-  </programme>
-  <programme start="20201228225000 +0100" stop="20201228230500 +0100" channel="MTV 1">
-    <title lang="sl">Dnevnik 3</title>
-  </programme>
-  <programme start="20201228230500 +0100" stop="20201228231500 +0100" channel="MTV 1">
-    <title lang="sl">Šport</title>
-  </programme>
-  <programme start="20201228231500 +0100" stop="20201228232000 +0100" channel="MTV 1">
-    <title lang="sl">Vreme</title>
-  </programme>
-  <programme start="20201228232000 +0100" stop="20201229005300 +0100" channel="MTV 1">
-    <title lang="sl">25. ura</title>
+  <programme start="20210101230200 +0100" stop="20210101231000 +0100" channel="Klasik TV">
+    <title lang="sl">Maratonci tečejo častni krog</title>
   </programme>
   <programme start="20201229005300 +0100" stop="20201229011500 +0100" channel="MTV 1">
     <title lang="sl">Dokumentarna nadaljevanka</title>
@@ -1557,119 +1407,92 @@
   <programme start="20201231201500 +0100" stop="20201231210000 +0100" channel="MTV 1">
     <title lang="sl">Družina 5+</title>
   </programme>
-  <programme start="20201228000000 +0100" stop="20201228000500 +0100" channel="MTV 2">
-    <title lang="sl">Kratka poročila</title>
+  <programme start="20201231210000 +0100" stop="20210101003000 +0100" channel="MTV 1">
+    <title lang="sl">Novoletna oddaja</title>
   </programme>
-  <programme start="20201228000500 +0100" stop="20201228003800 +0100" channel="MTV 2">
-    <title lang="sl">Koncert</title>
+  <programme start="20210101003000 +0100" stop="20210101022000 +0100" channel="MTV 1">
+    <title lang="sl">Megalodon: Predator iz globin</title>
   </programme>
-  <programme start="20201228003800 +0100" stop="20201228011100 +0100" channel="MTV 2">
-    <title lang="sl">Nedeljski intervju</title>
+  <programme start="20210101022000 +0100" stop="20210101041000 +0100" channel="MTV 1">
+    <title lang="sl">Oceanovih osem</title>
   </programme>
-  <programme start="20201228011100 +0100" stop="20201228014300 +0100" channel="MTV 2">
-    <title lang="sl">Nadaljevanka</title>
+  <programme start="20210101041000 +0100" stop="20210101060500 +0100" channel="MTV 1">
+    <title lang="sl">Liga pravičnih</title>
   </programme>
-  <programme start="20201228014300 +0100" stop="20201228023100 +0100" channel="MTV 2">
-    <title lang="sl">Glamur</title>
+  <programme start="20210101060500 +0100" stop="20210101062000 +0100" channel="MTV 1">
+    <title lang="sl">Glasbeni intermezzo</title>
   </programme>
-  <programme start="20201228023100 +0100" stop="20201228030100 +0100" channel="MTV 2">
-    <title lang="sl">Dnevnik 2</title>
+  <programme start="20210101062000 +0100" stop="20210101064500 +0100" channel="MTV 1">
+    <title lang="sl">Makedonske ljudske pravljice</title>
   </programme>
-  <programme start="20201228030100 +0100" stop="20201228030400 +0100" channel="MTV 2">
-    <title lang="sl">Vreme</title>
+  <programme start="20210101064500 +0100" stop="20210101073000 +0100" channel="MTV 1">
+    <title lang="sl">Makedonija zjutraj</title>
   </programme>
-  <programme start="20201228030400 +0100" stop="20201228032700 +0100" channel="MTV 2">
-    <title lang="sl">Video vitrina</title>
+  <programme start="20210101073000 +0100" stop="20210101073500 +0100" channel="MTV 1">
+    <title lang="sl">Mišo in Robin</title>
   </programme>
-  <programme start="20201228032700 +0100" stop="20201228035600 +0100" channel="MTV 2">
-    <title lang="sl">Albanske ljudske pravljice</title>
+  <programme start="20210101073500 +0100" stop="20210101074000 +0100" channel="MTV 1">
+    <title lang="sl">Risanka</title>
   </programme>
-  <programme start="20201228035600 +0100" stop="20201228044700 +0100" channel="MTV 2">
-    <title lang="sl">Nadaljevanka</title>
+  <programme start="20210101074000 +0100" stop="20210101075500 +0100" channel="MTV 1">
+    <title lang="sl">Bibijin svet</title>
   </programme>
-  <programme start="20201228044700 +0100" stop="20201228053500 +0100" channel="MTV 2">
-    <title lang="sl">Top lista zabavnih pesmi</title>
+  <programme start="20210101075500 +0100" stop="20210101080000 +0100" channel="MTV 1">
+    <title lang="sl">Bilo je nekoč</title>
   </programme>
-  <programme start="20201228053500 +0100" stop="20201228061000 +0100" channel="MTV 2">
-    <title lang="sl">Igrani film</title>
+  <programme start="20210101080000 +0100" stop="20210101081000 +0100" channel="MTV 1">
+    <title lang="sl">Prazniki so za vse</title>
   </programme>
-  <programme start="20201228061000 +0100" stop="20201228070000 +0100" channel="MTV 2">
-    <title lang="sl">Tuja dokumentarna serija</title>
+  <programme start="20210101081000 +0100" stop="20210101083000 +0100" channel="MTV 1">
+    <title lang="sl">Raziskovalka Dora</title>
   </programme>
-  <programme start="20201228070000 +0100" stop="20201228071700 +0100" channel="MTV 2">
-    <title lang="sl">Top poročila</title>
+  <programme start="20210101083000 +0100" stop="20210101083500 +0100" channel="MTV 1">
+    <title lang="sl">Prazniki so za vse</title>
   </programme>
-  <programme start="20201228071700 +0100" stop="20201228073500 +0100" channel="MTV 2">
-    <title lang="sl">Urban Soul</title>
+  <programme start="20210101083500 +0100" stop="20210101090500 +0100" channel="MTV 1">
+    <title lang="sl">Glasba, prosim</title>
   </programme>
-  <programme start="20201228073500 +0100" stop="20201228080000 +0100" channel="MTV 2">
-    <title lang="sl">Glasbeni spoti</title>
+  <programme start="20210101090500 +0100" stop="20210101110000 +0100" channel="MTV 1">
+    <title lang="sl">Božiček Fred</title>
   </programme>
-  <programme start="20201228080000 +0100" stop="20201228120000 +0100" channel="MTV 2">
-    <title lang="sl">TV učilnica</title>
-  </programme>
-  <programme start="20201228120000 +0100" stop="20201228121500 +0100" channel="MTV 2">
+  <programme start="20210101110000 +0100" stop="20210101111500 +0100" channel="MTV 1">
     <title lang="sl">Poročila</title>
   </programme>
-  <programme start="20201228121500 +0100" stop="20201228140100 +0100" channel="MTV 2">
-    <title lang="sl">TV učilnica</title>
+  <programme start="20210101111500 +0100" stop="20210101134500 +0100" channel="MTV 1">
+    <title lang="sl">Novoletni koncert Dunajske filharmonije</title>
   </programme>
-  <programme start="20201228140100 +0100" stop="20201228153000 +0100" channel="MTV 2">
-    <title lang="sl">Ritem dneva</title>
-  </programme>
-  <programme start="20201228153000 +0100" stop="20201228154300 +0100" channel="MTV 2">
-    <title lang="sl">Glasbeni spoti</title>
-  </programme>
-  <programme start="20201228154300 +0100" stop="20201228160000 +0100" channel="MTV 2">
-    <title lang="sl">Urban Soul</title>
-  </programme>
-  <programme start="20201228160000 +0100" stop="20201228162300 +0100" channel="MTV 2">
+  <programme start="20210101134500 +0100" stop="20210101140000 +0100" channel="MTV 1">
     <title lang="sl">Poročila</title>
   </programme>
-  <programme start="20201228162300 +0100" stop="20201228164800 +0100" channel="MTV 2">
-    <title lang="sl">Tuja dokumentarna serija</title>
+  <programme start="20210101140000 +0100" stop="20210101170000 +0100" channel="MTV 1">
+    <title lang="sl">Novoletna oddaja</title>
   </programme>
-  <programme start="20201228164800 +0100" stop="20201228173700 +0100" channel="MTV 2">
-    <title lang="sl">Pojdi, Diego, pojdi!</title>
-  </programme>
-  <programme start="20201228173700 +0100" stop="20201228175100 +0100" channel="MTV 2">
-    <title lang="sl">Otroška oddaja</title>
-  </programme>
-  <programme start="20201228175100 +0100" stop="20201228183000 +0100" channel="MTV 2">
-    <title lang="sl">Nadaljevanka</title>
-  </programme>
-  <programme start="20201228183000 +0100" stop="20201228190500 +0100" channel="MTV 2">
-    <title lang="sl">Dnevnik 1</title>
-  </programme>
-  <programme start="20201228190500 +0100" stop="20201228191100 +0100" channel="MTV 2">
-    <title lang="sl">Vreme</title>
-  </programme>
-  <programme start="20201228191100 +0100" stop="20201228193000 +0100" channel="MTV 2">
-    <title lang="sl">Urban Soul</title>
-  </programme>
-  <programme start="20201228193000 +0100" stop="20201228200000 +0100" channel="MTV 2">
-    <title lang="sl">Športni pregled</title>
-  </programme>
-  <programme start="20201228200000 +0100" stop="20201228210200 +0100" channel="MTV 2">
-    <title lang="sl">Pro vita</title>
-  </programme>
-  <programme start="20201228210200 +0100" stop="20201228220000 +0100" channel="MTV 2">
-    <title lang="sl">Top 5 osebnosti</title>
-  </programme>
-  <programme start="20201228220000 +0100" stop="20201228223000 +0100" channel="MTV 2">
+  <programme start="20210101170000 +0100" stop="20210101173000 +0100" channel="MTV 1">
     <title lang="sl">Dnevnik 2</title>
   </programme>
-  <programme start="20201228223000 +0100" stop="20201228223300 +0100" channel="MTV 2">
+  <programme start="20210101173000 +0100" stop="20210101174000 +0100" channel="MTV 1">
+    <title lang="sl">Šport</title>
+  </programme>
+  <programme start="20210101174000 +0100" stop="20210101174500 +0100" channel="MTV 1">
     <title lang="sl">Vreme</title>
   </programme>
-  <programme start="20201228223300 +0100" stop="20201228231100 +0100" channel="MTV 2">
-    <title lang="sl">Nadaljevanka</title>
+  <programme start="20210101174500 +0100" stop="20210101193000 +0100" channel="MTV 1">
+    <title lang="sl">Jack Frost</title>
   </programme>
-  <programme start="20201228231100 +0100" stop="20201228234700 +0100" channel="MTV 2">
-    <title lang="sl">TV arhiv</title>
+  <programme start="20210101193000 +0100" stop="20210101200000 +0100" channel="MTV 1">
+    <title lang="sl">Dnevnik 2</title>
   </programme>
-  <programme start="20201228234700 +0100" stop="20201229000000 +0100" channel="MTV 2">
-    <title lang="sl">Džez na zaslonu</title>
+  <programme start="20210101200000 +0100" stop="20210101201000 +0100" channel="MTV 1">
+    <title lang="sl">Šport</title>
+  </programme>
+  <programme start="20210101201000 +0100" stop="20210101201500 +0100" channel="MTV 1">
+    <title lang="sl">Vreme</title>
+  </programme>
+  <programme start="20210101201500 +0100" stop="20210101210000 +0100" channel="MTV 1">
+    <title lang="sl">Penzion Prespav</title>
+  </programme>
+  <programme start="20210101210000 +0100" stop="20210101231500 +0100" channel="MTV 1">
+    <title lang="sl">Igralec št. 1</title>
   </programme>
   <programme start="20201229000000 +0100" stop="20201229000700 +0100" channel="MTV 2">
     <title lang="sl">Kratka poročila</title>
@@ -1986,29 +1809,68 @@
   <programme start="20201231203000 +0100" stop="20201231210000 +0100" channel="MTV 2">
     <title lang="sl">Urban Soul</title>
   </programme>
-  <programme start="20201228040000 +0100" stop="20201228090000 +0100" channel="MTV Dance">
-    <title lang="sl">Non-stop udarni hiti</title>
+  <programme start="20201231210000 +0100" stop="20210101003000 +0100" channel="MTV 2">
+    <title lang="sl">Novoletna oddaja</title>
   </programme>
-  <programme start="20201228090000 +0100" stop="20201228100000 +0100" channel="MTV Dance">
-    <title lang="sl">Ponovimo klubske klasike</title>
+  <programme start="20210101003000 +0100" stop="20210101022200 +0100" channel="MTV 2">
+    <title lang="sl">Igrani film</title>
   </programme>
-  <programme start="20201228100000 +0100" stop="20201228150000 +0100" channel="MTV Dance">
-    <title lang="sl">Veliki hiti</title>
+  <programme start="20210101022200 +0100" stop="20210101041000 +0100" channel="MTV 2">
+    <title lang="sl">Igrani film</title>
   </programme>
-  <programme start="20201228150000 +0100" stop="20201228160000 +0100" channel="MTV Dance">
-    <title lang="sl">Najboljši rap in RnB</title>
+  <programme start="20210101041000 +0100" stop="20210101044000 +0100" channel="MTV 2">
+    <title lang="sl">Urban Soul</title>
   </programme>
-  <programme start="20201228160000 +0100" stop="20201228200000 +0100" channel="MTV Dance">
-    <title lang="sl">Non-stop udarni hiti</title>
+  <programme start="20210101044000 +0100" stop="20210101070000 +0100" channel="MTV 2">
+    <title lang="sl">Novoletna oddaja</title>
   </programme>
-  <programme start="20201228200000 +0100" stop="20201228210000 +0100" channel="MTV Dance">
-    <title lang="sl">Ponovimo klubske klasike</title>
+  <programme start="20210101070000 +0100" stop="20210101070100 +0100" channel="MTV 2">
+    <title lang="sl">Top poročila</title>
   </programme>
-  <programme start="20201228210000 +0100" stop="20201228220000 +0100" channel="MTV Dance">
-    <title lang="sl">Najboljši rap in RnB</title>
+  <programme start="20210101070100 +0100" stop="20210101085100 +0100" channel="MTV 2">
+    <title lang="sl">Otroški festival</title>
   </programme>
-  <programme start="20201228220000 +0100" stop="20201229040000 +0100" channel="MTV Dance">
-    <title lang="sl">Veliki hiti</title>
+  <programme start="20210101085100 +0100" stop="20210101092300 +0100" channel="MTV 2">
+    <title lang="sl">Urban Soul</title>
+  </programme>
+  <programme start="20210101092300 +0100" stop="20210101095100 +0100" channel="MTV 2">
+    <title lang="sl">Glasbeni spoti</title>
+  </programme>
+  <programme start="20210101095100 +0100" stop="20210101104200 +0100" channel="MTV 2">
+    <title lang="sl">Otroška Evrovizija 2020</title>
+  </programme>
+  <programme start="20210101104200 +0100" stop="20210101111500 +0100" channel="MTV 2">
+    <title lang="sl">Pet plus</title>
+  </programme>
+  <programme start="20210101111500 +0100" stop="20210101134600 +0100" channel="MTV 2">
+    <title lang="sl">Novoletni koncert Dunajske filharmonije</title>
+  </programme>
+  <programme start="20210101134600 +0100" stop="20210101151700 +0100" channel="MTV 2">
+    <title lang="sl">Igrani film</title>
+  </programme>
+  <programme start="20210101151700 +0100" stop="20210101160000 +0100" channel="MTV 2">
+    <title lang="sl">Otroška novoletna oddaja</title>
+  </programme>
+  <programme start="20210101160000 +0100" stop="20210101161100 +0100" channel="MTV 2">
+    <title lang="sl">Poročila</title>
+  </programme>
+  <programme start="20210101161100 +0100" stop="20210101173800 +0100" channel="MTV 2">
+    <title lang="sl">Otroška novoletna oddaja</title>
+  </programme>
+  <programme start="20210101173800 +0100" stop="20210101175900 +0100" channel="MTV 2">
+    <title lang="sl">Nadaljevanka</title>
+  </programme>
+  <programme start="20210101175900 +0100" stop="20210101183000 +0100" channel="MTV 2">
+    <title lang="sl">Nadaljevanka</title>
+  </programme>
+  <programme start="20210101183000 +0100" stop="20210101185000 +0100" channel="MTV 2">
+    <title lang="sl">Dnevnik 1</title>
+  </programme>
+  <programme start="20210101185000 +0100" stop="20210101185200 +0100" channel="MTV 2">
+    <title lang="sl">Vreme</title>
+  </programme>
+  <programme start="20210101185200 +0100" stop="20210101212400 +0100" channel="MTV 2">
+    <title lang="sl">Harry Potter in kamen modrosti</title>
   </programme>
   <programme start="20201229040000 +0100" stop="20201229090000 +0100" channel="MTV Dance">
     <title lang="sl">Non-stop udarni hiti</title>
@@ -2079,32 +1941,32 @@
   <programme start="20201231210000 +0100" stop="20201231220000 +0100" channel="MTV Dance">
     <title lang="sl">Najboljši rap in RnB</title>
   </programme>
-  <programme start="20201228040000 +0100" stop="20201228070000 +0100" channel="MTV Hits">
-    <title lang="sl">Non-stop hiti</title>
+  <programme start="20201231220000 +0100" stop="20210101040000 +0100" channel="MTV Dance">
+    <title lang="sl">Veliki hiti</title>
   </programme>
-  <programme start="20201228070000 +0100" stop="20201228080000 +0100" channel="MTV Hits">
-    <title lang="sl">Današnji top hiti</title>
+  <programme start="20210101040000 +0100" stop="20210101090000 +0100" channel="MTV Dance">
+    <title lang="sl">Non-stop udarni hiti</title>
   </programme>
-  <programme start="20201228080000 +0100" stop="20201228120000 +0100" channel="MTV Hits">
-    <title lang="sl">Sami hiti</title>
+  <programme start="20210101090000 +0100" stop="20210101100000 +0100" channel="MTV Dance">
+    <title lang="sl">Ponovimo klubske klasike</title>
   </programme>
-  <programme start="20201228120000 +0100" stop="20201228130000 +0100" channel="MTV Hits">
-    <title lang="sl">Sveži spoti in vroči hiti</title>
+  <programme start="20210101100000 +0100" stop="20210101130000 +0100" channel="MTV Dance">
+    <title lang="sl">Najboljše iz l. 2020: 50 največkrat predvajanih</title>
   </programme>
-  <programme start="20201228130000 +0100" stop="20201228170000 +0100" channel="MTV Hits">
-    <title lang="sl">Totalno 10-ta</title>
+  <programme start="20210101130000 +0100" stop="20210101140000 +0100" channel="MTV Dance">
+    <title lang="sl">Veliki hiti</title>
   </programme>
-  <programme start="20201228170000 +0100" stop="20201228180000 +0100" channel="MTV Hits">
-    <title lang="sl">Hit dvojice</title>
+  <programme start="20210101140000 +0100" stop="20210101150000 +0100" channel="MTV Dance">
+    <title lang="sl">Najboljši rap in RnB</title>
   </programme>
-  <programme start="20201228180000 +0100" stop="20201228190000 +0100" channel="MTV Hits">
-    <title lang="sl">Današnji top hiti</title>
+  <programme start="20210101150000 +0100" stop="20210101170000 +0100" channel="MTV Dance">
+    <title lang="sl">Vroči disko hiti</title>
   </programme>
-  <programme start="20201228190000 +0100" stop="20201228230000 +0100" channel="MTV Hits">
-    <title lang="sl">Non-stop hiti</title>
+  <programme start="20210101170000 +0100" stop="20210101190000 +0100" channel="MTV Dance">
+    <title lang="sl">Petkove disko vibracije</title>
   </programme>
-  <programme start="20201228230000 +0100" stop="20201229040000 +0100" channel="MTV Hits">
-    <title lang="sl">Latino hiti</title>
+  <programme start="20210101190000 +0100" stop="20210101220000 +0100" channel="MTV Dance">
+    <title lang="sl">Najboljše iz l. 2020: 50 največkrat predvajanih</title>
   </programme>
   <programme start="20201229040000 +0100" stop="20201229070000 +0100" channel="MTV Hits">
     <title lang="sl">Non-stop hiti</title>
@@ -2184,29 +2046,32 @@
   <programme start="20201231190000 +0100" stop="20201231230000 +0100" channel="MTV Hits">
     <title lang="sl">Non-stop hiti</title>
   </programme>
-  <programme start="20201228040000 +0100" stop="20201228070000 +0100" channel="MTV Rocks">
-    <title lang="sl">Glasbena lista iz 90-ih</title>
+  <programme start="20201231230000 +0100" stop="20210101040000 +0100" channel="MTV Hits">
+    <title lang="sl">Latino hiti</title>
   </programme>
-  <programme start="20201228070000 +0100" stop="20201228110000 +0100" channel="MTV Rocks">
-    <title lang="sl">Mmm Bop! Popoln pop iz 90-ih</title>
+  <programme start="20210101040000 +0100" stop="20210101070000 +0100" channel="MTV Hits">
+    <title lang="sl">Non-stop hiti</title>
   </programme>
-  <programme start="20201228110000 +0100" stop="20201228140000 +0100" channel="MTV Rocks">
-    <title lang="sl">90-ta so nas rešila</title>
+  <programme start="20210101070000 +0100" stop="20210101080000 +0100" channel="MTV Hits">
+    <title lang="sl">Današnji top hiti</title>
   </programme>
-  <programme start="20201228140000 +0100" stop="20201228150000 +0100" channel="MTV Rocks">
-    <title lang="sl">Nabito z žensko energijo</title>
+  <programme start="20210101080000 +0100" stop="20210101120000 +0100" channel="MTV Hits">
+    <title lang="sl">Sami hiti</title>
   </programme>
-  <programme start="20201228150000 +0100" stop="20201228200000 +0100" channel="MTV Rocks">
-    <title lang="sl">Nikoli ne bomo pozabili 90-ih</title>
+  <programme start="20210101120000 +0100" stop="20210101130000 +0100" channel="MTV Hits">
+    <title lang="sl">Sveži spoti in vroči hiti</title>
   </programme>
-  <programme start="20201228200000 +0100" stop="20201228210000 +0100" channel="MTV Rocks">
-    <title lang="sl">Hip hop in R'n'B' iz 90-ih</title>
+  <programme start="20210101130000 +0100" stop="20210101170000 +0100" channel="MTV Hits">
+    <title lang="sl">Totalno 10-ta</title>
   </programme>
-  <programme start="20201228210000 +0100" stop="20201228220000 +0100" channel="MTV Rocks">
-    <title lang="sl">Alternativa iz 90-ih</title>
+  <programme start="20210101170000 +0100" stop="20210101180000 +0100" channel="MTV Hits">
+    <title lang="sl">Hit dvojice</title>
   </programme>
-  <programme start="20201228220000 +0100" stop="20201229040000 +0100" channel="MTV Rocks">
-    <title lang="sl">Hiti iz 90-ih</title>
+  <programme start="20210101180000 +0100" stop="20210101190000 +0100" channel="MTV Hits">
+    <title lang="sl">Današnji top hiti</title>
+  </programme>
+  <programme start="20210101190000 +0100" stop="20210101230000 +0100" channel="MTV Hits">
+    <title lang="sl">Non-stop hiti</title>
   </programme>
   <programme start="20201229040000 +0100" stop="20201229070000 +0100" channel="MTV Rocks">
     <title lang="sl">Glasbena lista iz 90-ih</title>
@@ -2277,89 +2142,29 @@
   <programme start="20201231210000 +0100" stop="20201231220000 +0100" channel="MTV Rocks">
     <title lang="sl">Alternativa iz 90-ih</title>
   </programme>
-  <programme start="20201228003700 +0100" stop="20201228012600 +0100" channel="Mediaset Italia">
-    <title lang="sl">Italija nocoj</title>
+  <programme start="20201231220000 +0100" stop="20210101040000 +0100" channel="MTV Rocks">
+    <title lang="sl">Hiti iz 90-ih</title>
   </programme>
-  <programme start="20201228012600 +0100" stop="20201228021700 +0100" channel="Mediaset Italia">
-    <title lang="sl">Prosti pad</title>
+  <programme start="20210101040000 +0100" stop="20210101070000 +0100" channel="MTV Rocks">
+    <title lang="sl">Glasbena lista iz 90-ih</title>
   </programme>
-  <programme start="20201228021700 +0100" stop="20201228024600 +0100" channel="Mediaset Italia">
-    <title lang="sl">Na strani živali</title>
+  <programme start="20210101070000 +0100" stop="20210101110000 +0100" channel="MTV Rocks">
+    <title lang="sl">Mmm Bop! Popoln pop iz 90-ih</title>
   </programme>
-  <programme start="20201228024600 +0100" stop="20201228025500 +0100" channel="Mediaset Italia">
-    <title lang="sl">Najden poudarek</title>
+  <programme start="20210101110000 +0100" stop="20210101140000 +0100" channel="MTV Rocks">
+    <title lang="sl">90-ta so nas rešila</title>
   </programme>
-  <programme start="20201228025500 +0100" stop="20201228030100 +0100" channel="Mediaset Italia">
-    <title lang="sl">Cilj lepota</title>
+  <programme start="20210101140000 +0100" stop="20210101150000 +0100" channel="MTV Rocks">
+    <title lang="sl">Nabito z žensko energijo</title>
   </programme>
-  <programme start="20201228030100 +0100" stop="20201228031600 +0100" channel="Mediaset Italia">
-    <title lang="sl">Ženska pustolovščina: Popotovanja</title>
+  <programme start="20210101150000 +0100" stop="20210101182000 +0100" channel="MTV Rocks">
+    <title lang="sl">Top 50 pop hitov iz 90-ih</title>
   </programme>
-  <programme start="20201228031600 +0100" stop="20201228060100 +0100" channel="Mediaset Italia">
-    <title lang="sl">Glasba ob novem letu</title>
+  <programme start="20210101182000 +0100" stop="20210101190000 +0100" channel="MTV Rocks">
+    <title lang="sl">Nikoli ne bomo pozabili 90-ih</title>
   </programme>
-  <programme start="20201228060100 +0100" stop="20201228062500 +0100" channel="Mediaset Italia">
-    <title lang="sl">Sto izložb</title>
-  </programme>
-  <programme start="20201228062500 +0100" stop="20201228065000 +0100" channel="Mediaset Italia">
-    <title lang="sl">Ženska pustolovščina: Popotovanja</title>
-  </programme>
-  <programme start="20201228065000 +0100" stop="20201228083000 +0100" channel="Mediaset Italia">
-    <title lang="sl">Fantaghiro</title>
-  </programme>
-  <programme start="20201228083000 +0100" stop="20201228085500 +0100" channel="Mediaset Italia">
-    <title lang="sl">Carusovi</title>
-  </programme>
-  <programme start="20201228085500 +0100" stop="20201228102000 +0100" channel="Mediaset Italia">
-    <title lang="sl">Toto Sapore in čarobna zgodba o pici</title>
-  </programme>
-  <programme start="20201228102000 +0100" stop="20201228115700 +0100" channel="Mediaset Italia">
-    <title lang="sl">Duhovi in tatovi</title>
-  </programme>
-  <programme start="20201228115700 +0100" stop="20201228121300 +0100" channel="Mediaset Italia">
-    <title lang="sl">Veliki brat</title>
-  </programme>
-  <programme start="20201228121300 +0100" stop="20201228130200 +0100" channel="Mediaset Italia">
-    <title lang="sl">Italija nocoj</title>
-  </programme>
-  <programme start="20201228130200 +0100" stop="20201228135100 +0100" channel="Mediaset Italia">
-    <title lang="sl">Recepti italijanske kuhinje</title>
-  </programme>
-  <programme start="20201228135100 +0100" stop="20201228140000 +0100" channel="Mediaset Italia">
-    <title lang="sl">Skuhaj in pojej</title>
-  </programme>
-  <programme start="20201228140000 +0100" stop="20201228143500 +0100" channel="Mediaset Italia">
-    <title lang="sl">Dnevnik</title>
-  </programme>
-  <programme start="20201228143500 +0100" stop="20201228152700 +0100" channel="Mediaset Italia">
-    <title lang="sl">Veliki brat</title>
-  </programme>
-  <programme start="20201228152700 +0100" stop="20201228154000 +0100" channel="Mediaset Italia">
-    <title lang="sl">Vesel božič</title>
-  </programme>
-  <programme start="20201228154000 +0100" stop="20201228172000 +0100" channel="Mediaset Italia">
-    <title lang="sl">Fantaghiro</title>
-  </programme>
-  <programme start="20201228172000 +0100" stop="20201228174500 +0100" channel="Mediaset Italia">
-    <title lang="sl">Veliki brat</title>
-  </programme>
-  <programme start="20201228174500 +0100" stop="20201228182400 +0100" channel="Mediaset Italia">
-    <title lang="sl">Krila življenja</title>
-  </programme>
-  <programme start="20201228182400 +0100" stop="20201228191500 +0100" channel="Mediaset Italia">
-    <title lang="sl">Prosti pad</title>
-  </programme>
-  <programme start="20201228191500 +0100" stop="20201228194400 +0100" channel="Mediaset Italia">
-    <title lang="sl">Šport</title>
-  </programme>
-  <programme start="20201228194400 +0100" stop="20201228210000 +0100" channel="Mediaset Italia">
-    <title lang="sl">Poljubi in objemi</title>
-  </programme>
-  <programme start="20201228210000 +0100" stop="20201228213500 +0100" channel="Mediaset Italia">
-    <title lang="sl">Dnevnik</title>
-  </programme>
-  <programme start="20201228213500 +0100" stop="20201229010200 +0100" channel="Mediaset Italia">
-    <title lang="sl">Veliki brat</title>
+  <programme start="20210101190000 +0100" stop="20210101230000 +0100" channel="MTV Rocks">
+    <title lang="sl">Ni boljše zabave kot iz 90-ih</title>
   </programme>
   <programme start="20201229010200 +0100" stop="20201229014200 +0100" channel="Mediaset Italia">
     <title lang="sl">Plazi se za novico: Nestrpnost</title>
@@ -2613,59 +2418,92 @@
   <programme start="20201231210000 +0100" stop="20201231213500 +0100" channel="Mediaset Italia">
     <title lang="sl">Dnevnik</title>
   </programme>
-  <programme start="20201228000000 +0100" stop="20201228010000 +0100" channel="Mezzo">
-    <title lang="sl">Jazz koncert; Juan Carmona Septet, Dunaj</title>
+  <programme start="20201231213500 +0100" stop="20210101012900 +0100" channel="Mediaset Italia">
+    <title lang="sl">Veliki brat</title>
   </programme>
-  <programme start="20201228010000 +0100" stop="20201228020000 +0100" channel="Mezzo">
-    <title lang="sl">Jazz koncert; Fred Hersch Trio</title>
+  <programme start="20210101012900 +0100" stop="20210101025700 +0100" channel="Mediaset Italia">
+    <title lang="sl">Leto 2020 - gladiatorji prihodnosti</title>
   </programme>
-  <programme start="20201228020000 +0100" stop="20201228030000 +0100" channel="Mezzo">
-    <title lang="sl">Jazz koncert; Edmar Castadena, mednarodni festival jazza, Montréal</title>
+  <programme start="20210101025700 +0100" stop="20210101035000 +0100" channel="Mediaset Italia">
+    <title lang="sl">Italija nocoj</title>
   </programme>
-  <programme start="20201228030000 +0100" stop="20201228040000 +0100" channel="Mezzo">
-    <title lang="sl">Koncert klasične glasbe; Thomas de Pourquery &amp; Supersonic, Cité de la Musique</title>
+  <programme start="20210101035000 +0100" stop="20210101044300 +0100" channel="Mediaset Italia">
+    <title lang="sl">Prosti pad</title>
   </programme>
-  <programme start="20201228040000 +0100" stop="20201228050000 +0100" channel="Mezzo">
-    <title lang="sl">Jazz koncert; R+R=NOW (Glasper, Scott, Hodge, McFerrin...), Dunaj</title>
+  <programme start="20210101044300 +0100" stop="20210101050800 +0100" channel="Mediaset Italia">
+    <title lang="sl">Šport</title>
   </programme>
-  <programme start="20201228050000 +0100" stop="20201228064000 +0100" channel="Mezzo">
-    <title lang="sl">Jazz koncert; Christian Scott Atunde Ajduah</title>
+  <programme start="20210101050800 +0100" stop="20210101053600 +0100" channel="Mediaset Italia">
+    <title lang="sl">Kamera ob kavomatu z zvezdami</title>
   </programme>
-  <programme start="20201228064000 +0100" stop="20201228083000 +0100" channel="Mezzo">
-    <title lang="sl">Intermezzo</title>
+  <programme start="20210101053600 +0100" stop="20210101060100 +0100" channel="Mediaset Italia">
+    <title lang="sl">Carusovi</title>
   </programme>
-  <programme start="20201228083000 +0100" stop="20201228113500 +0100" channel="Mezzo">
-    <title lang="sl">Klasična opera; Mozart: Lucio Silla; Teatro Real, Madrid</title>
+  <programme start="20210101060100 +0100" stop="20210101062500 +0100" channel="Mediaset Italia">
+    <title lang="sl">Sto izložb</title>
   </programme>
-  <programme start="20201228113500 +0100" stop="20201228123000 +0100" channel="Mezzo">
-    <title lang="sl">Intermezzo</title>
+  <programme start="20210101062500 +0100" stop="20210101065000 +0100" channel="Mediaset Italia">
+    <title lang="sl">Nadzorna točka</title>
   </programme>
-  <programme start="20201228123000 +0100" stop="20201228140000 +0100" channel="Mezzo">
-    <title lang="sl">Koncert klasične glasbe; Nacionalni orkester iz Lilla in Alexandre Bloch: Mahlerjeva 9. simfonija</title>
+  <programme start="20210101065000 +0100" stop="20210101083000 +0100" channel="Mediaset Italia">
+    <title lang="sl">Fantaghiro</title>
   </programme>
-  <programme start="20201228140000 +0100" stop="20201228150500 +0100" channel="Mezzo">
-    <title lang="sl">Intermezzo</title>
+  <programme start="20210101083000 +0100" stop="20210101085500 +0100" channel="Mediaset Italia">
+    <title lang="sl">Carusovi</title>
   </programme>
-  <programme start="20201228150500 +0100" stop="20201228170500 +0100" channel="Mezzo">
-    <title lang="sl">Naslov Kanal Klasična opera; Strauss: Salome, dir. Daniele Gatti, DNO Amsterdam</title>
+  <programme start="20210101085500 +0100" stop="20210101102000 +0100" channel="Mediaset Italia">
+    <title lang="sl">Forum</title>
   </programme>
-  <programme start="20201228170500 +0100" stop="20201228183000 +0100" channel="Mezzo">
-    <title lang="sl">Koncert klasične glasbe; Beethoven: Klavirske sonate</title>
+  <programme start="20210101102000 +0100" stop="20210101112500 +0100" channel="Mediaset Italia">
+    <title lang="sl">Forum</title>
   </programme>
-  <programme start="20201228183000 +0100" stop="20201228203000 +0100" channel="Mezzo">
-    <title lang="sl">Koncert klasične glasbe; Uvodni koncert predsedniškega simfoničnega orkestra , koncertna dvorana Ankara</title>
+  <programme start="20210101112500 +0100" stop="20210101121300 +0100" channel="Mediaset Italia">
+    <title lang="sl">Veliki brat</title>
   </programme>
-  <programme start="20201228203000 +0100" stop="20201228220000 +0100" channel="Mezzo">
-    <title lang="sl">Klasični ples; The Taming of the Shrew, kor. Jean-Christophe Maillot; Les Ballet de Monte Carlo</title>
+  <programme start="20210101121300 +0100" stop="20210101130200 +0100" channel="Mediaset Italia">
+    <title lang="sl">Italija nocoj</title>
   </programme>
-  <programme start="20201228220000 +0100" stop="20201228230000 +0100" channel="Mezzo">
-    <title lang="sl">Dokumentarni film o plesu; De l'Amour; Jean-Christophe Maillot</title>
+  <programme start="20210101130200 +0100" stop="20210101135100 +0100" channel="Mediaset Italia">
+    <title lang="sl">Recepti italijanske kuhinje</title>
   </programme>
-  <programme start="20201228230000 +0100" stop="20201228235000 +0100" channel="Mezzo">
-    <title lang="sl">Klasična glasba; Jordi Savall: Dialog krščanske, judovske in muslimanske glasbe</title>
+  <programme start="20210101135100 +0100" stop="20210101140000 +0100" channel="Mediaset Italia">
+    <title lang="sl">Skuhaj in pojej</title>
   </programme>
-  <programme start="20201228235000 +0100" stop="20201229010500 +0100" channel="Mezzo">
-    <title lang="sl">Jazz koncert; Jazzmeia Horn - Malta Jazz Festival</title>
+  <programme start="20210101140000 +0100" stop="20210101143500 +0100" channel="Mediaset Italia">
+    <title lang="sl">Dnevnik</title>
+  </programme>
+  <programme start="20210101143500 +0100" stop="20210101152700 +0100" channel="Mediaset Italia">
+    <title lang="sl">Veliki brat</title>
+  </programme>
+  <programme start="20210101152700 +0100" stop="20210101154000 +0100" channel="Mediaset Italia">
+    <title lang="sl">Vesel božič</title>
+  </programme>
+  <programme start="20210101154000 +0100" stop="20210101172000 +0100" channel="Mediaset Italia">
+    <title lang="sl">Fantaghiro</title>
+  </programme>
+  <programme start="20210101172000 +0100" stop="20210101174500 +0100" channel="Mediaset Italia">
+    <title lang="sl">Veliki brat</title>
+  </programme>
+  <programme start="20210101174500 +0100" stop="20210101182400 +0100" channel="Mediaset Italia">
+    <title lang="sl">Krila življenja</title>
+  </programme>
+  <programme start="20210101182400 +0100" stop="20210101191500 +0100" channel="Mediaset Italia">
+    <title lang="sl">Prosti pad</title>
+  </programme>
+  <programme start="20210101191500 +0100" stop="20210101194400 +0100" channel="Mediaset Italia">
+    <title lang="sl">Šport</title>
+  </programme>
+  <programme start="20210101194400 +0100" stop="20210101210000 +0100" channel="Mediaset Italia">
+    <title lang="sl">Novoletna zabava</title>
+  </programme>
+  <programme start="20210101210000 +0100" stop="20210101213500 +0100" channel="Mediaset Italia">
+    <title lang="sl">Dnevnik</title>
+  </programme>
+  <programme start="20210101213500 +0100" stop="20210101231400 +0100" channel="Mediaset Italia">
+    <title lang="sl">Ni božiča brez kolača</title>
+  </programme>
+  <programme start="20210101231400 +0100" stop="20210101235400 +0100" channel="Mediaset Italia">
+    <title lang="sl">Plazi se za novico: Nestrpnost</title>
   </programme>
   <programme start="20201229010500 +0100" stop="20201229024500 +0100" channel="Mezzo">
     <title lang="sl">Jazz koncert; Kenny Barron, Alfa Jazz Fest</title>
@@ -2826,227 +2664,65 @@
   <programme start="20201231220000 +0100" stop="20201231230000 +0100" channel="Mezzo">
     <title lang="sl">Jazz koncert; Jun Miyake</title>
   </programme>
-  <programme start="20201228000000 +0100" stop="20201228001000 +0100" channel="Minimax">
-    <title lang="sl">Maša in medved</title>
+  <programme start="20201231230000 +0100" stop="20210101000000 +0100" channel="Mezzo">
+    <title lang="sl">Jazz koncert; Dave Holland, Zakir Hussain &amp; Chris Potter; Marciac</title>
   </programme>
-  <programme start="20201228001000 +0100" stop="20201228002000 +0100" channel="Minimax">
-    <title lang="sl">Maša in medved</title>
+  <programme start="20210101000000 +0100" stop="20210101011500 +0100" channel="Mezzo">
+    <title lang="sl">Jazz koncert; Ibrahim Maalouf, Pariška filharmonija</title>
   </programme>
-  <programme start="20201228002000 +0100" stop="20201228003000 +0100" channel="Minimax">
-    <title lang="sl">Maša in medved</title>
+  <programme start="20210101011500 +0100" stop="20210101020000 +0100" channel="Mezzo">
+    <title lang="sl">Jazz koncert; Edmar Castadena, mednarodni festival jazza, Montréal</title>
   </programme>
-  <programme start="20201228003000 +0100" stop="20201228004000 +0100" channel="Minimax">
-    <title lang="sl">Maša in medved</title>
+  <programme start="20210101020000 +0100" stop="20210101030000 +0100" channel="Mezzo">
+    <title lang="sl">Jazz koncert; Juan Carmona Septet, Dunaj</title>
   </programme>
-  <programme start="20201228004000 +0100" stop="20201228005000 +0100" channel="Minimax">
-    <title lang="sl">Maša in medved</title>
+  <programme start="20210101030000 +0100" stop="20210101040000 +0100" channel="Mezzo">
+    <title lang="sl">Jazz koncert; Osmosis - Malta Jazz Festival</title>
   </programme>
-  <programme start="20201228005000 +0100" stop="20201228010000 +0100" channel="Minimax">
-    <title lang="sl">Maša in medved</title>
+  <programme start="20210101040000 +0100" stop="20210101044500 +0100" channel="Mezzo">
+    <title lang="sl">Jazz koncert; Théo Ceccaldi Trio - Django, Pariška filharmonija</title>
   </programme>
-  <programme start="20201228010000 +0100" stop="20201228013000 +0100" channel="Minimax">
-    <title lang="sl">Sedem palčkov in jaz</title>
+  <programme start="20210101044500 +0100" stop="20210101054500 +0100" channel="Mezzo">
+    <title lang="sl">Jazz koncert; Fred Hersch Trio</title>
   </programme>
-  <programme start="20201228013000 +0100" stop="20201228020000 +0100" channel="Minimax">
-    <title lang="sl">Waffle, čudežni kuža</title>
+  <programme start="20210101054500 +0100" stop="20210101090000 +0100" channel="Mezzo">
+    <title lang="sl">Intermezzo</title>
   </programme>
-  <programme start="20201228020000 +0100" stop="20201228021000 +0100" channel="Minimax">
-    <title lang="sl">Maša in medved</title>
+  <programme start="20210101090000 +0100" stop="20210101101500 +0100" channel="Mezzo">
+    <title lang="sl">Jazz koncert; Brad Mehldau, Tri dela po Bachu</title>
   </programme>
-  <programme start="20201228021000 +0100" stop="20201228022000 +0100" channel="Minimax">
-    <title lang="sl">Maša in medved</title>
+  <programme start="20210101101500 +0100" stop="20210101110500 +0100" channel="Mezzo">
+    <title lang="sl">Jazz koncert; Jaime Woods, mednarodni festival jazza, Montréal</title>
   </programme>
-  <programme start="20201228022000 +0100" stop="20201228023000 +0100" channel="Minimax">
-    <title lang="sl">Maša in medved</title>
+  <programme start="20210101110500 +0100" stop="20210101123000 +0100" channel="Mezzo">
+    <title lang="sl">Jazz koncert; Ghost-Note</title>
   </programme>
-  <programme start="20201228023000 +0100" stop="20201228024000 +0100" channel="Minimax">
-    <title lang="sl">Maša in medved</title>
+  <programme start="20210101123000 +0100" stop="20210101130000 +0100" channel="Mezzo">
+    <title lang="sl">Intermezzo</title>
   </programme>
-  <programme start="20201228024000 +0100" stop="20201228025000 +0100" channel="Minimax">
-    <title lang="sl">Maša in medved</title>
+  <programme start="20210101130000 +0100" stop="20210101151500 +0100" channel="Mezzo">
+    <title lang="sl">Klasična opera; Verdi: Rigoletto, Liceu Opera Barcelona</title>
   </programme>
-  <programme start="20201228025000 +0100" stop="20201228030000 +0100" channel="Minimax">
-    <title lang="sl">Maša in medved</title>
+  <programme start="20210101151500 +0100" stop="20210101161000 +0100" channel="Mezzo">
+    <title lang="sl">Intermezzo</title>
   </programme>
-  <programme start="20201228030000 +0100" stop="20201228033000 +0100" channel="Minimax">
-    <title lang="sl">Sedem palčkov in jaz</title>
+  <programme start="20210101161000 +0100" stop="20210101173500 +0100" channel="Mezzo">
+    <title lang="sl">Ples; Maria Pagés: Oda za ta trenutek</title>
   </programme>
-  <programme start="20201228033000 +0100" stop="20201228040000 +0100" channel="Minimax">
-    <title lang="sl">Waffle, čudežni kuža</title>
+  <programme start="20210101173500 +0100" stop="20210101191000 +0100" channel="Mezzo">
+    <title lang="sl">Ples; Eva Yerbabuena: Federico Segun Lorca</title>
   </programme>
-  <programme start="20201228040000 +0100" stop="20201228041000 +0100" channel="Minimax">
-    <title lang="sl">Maša in medved</title>
+  <programme start="20210101191000 +0100" stop="20210101203000 +0100" channel="Mezzo">
+    <title lang="sl">Koncert klasične glasbe; Beethoven: Klavirske sonate</title>
   </programme>
-  <programme start="20201228041000 +0100" stop="20201228042000 +0100" channel="Minimax">
-    <title lang="sl">Maša in medved</title>
+  <programme start="20210101203000 +0100" stop="20210101221000 +0100" channel="Mezzo">
+    <title lang="sl">Koncert klasične glasbe; dir. Herbert von Karajan, dunajski filharmoniki, novoletni koncert 1987</title>
   </programme>
-  <programme start="20201228042000 +0100" stop="20201228043000 +0100" channel="Minimax">
-    <title lang="sl">Maša in medved</title>
+  <programme start="20210101221000 +0100" stop="20210101225500 +0100" channel="Mezzo">
+    <title lang="sl">Koncert klasične glasbe; Beethoven: Violinski koncert, dir. Herbert von Karajan, Anne-Sophie Mutter, berlinski filharmoniki</title>
   </programme>
-  <programme start="20201228043000 +0100" stop="20201228044000 +0100" channel="Minimax">
-    <title lang="sl">Maša in medved</title>
-  </programme>
-  <programme start="20201228044000 +0100" stop="20201228045000 +0100" channel="Minimax">
-    <title lang="sl">Maša in medved</title>
-  </programme>
-  <programme start="20201228045000 +0100" stop="20201228050000 +0100" channel="Minimax">
-    <title lang="sl">Maša in medved</title>
-  </programme>
-  <programme start="20201228050000 +0100" stop="20201228053000 +0100" channel="Minimax">
-    <title lang="sl">Sedem palčkov in jaz</title>
-  </programme>
-  <programme start="20201228053000 +0100" stop="20201228060000 +0100" channel="Minimax">
-    <title lang="sl">Waffle, čudežni kuža</title>
-  </programme>
-  <programme start="20201228060000 +0100" stop="20201228061000 +0100" channel="Minimax">
-    <title lang="sl">Denver, poslednji dinozaver</title>
-  </programme>
-  <programme start="20201228061000 +0100" stop="20201228063500 +0100" channel="Minimax">
-    <title lang="sl">Skrivnostni ranč</title>
-  </programme>
-  <programme start="20201228063500 +0100" stop="20201228064700 +0100" channel="Minimax">
-    <title lang="sl">Maša in medved</title>
-  </programme>
-  <programme start="20201228064700 +0100" stop="20201228065900 +0100" channel="Minimax">
-    <title lang="sl">Maša in medved</title>
-  </programme>
-  <programme start="20201228065900 +0100" stop="20201228071000 +0100" channel="Minimax">
-    <title lang="sl">Maša in medved</title>
-  </programme>
-  <programme start="20201228071000 +0100" stop="20201228072000 +0100" channel="Minimax">
-    <title lang="sl">Govoreči Tom in prijatelji</title>
-  </programme>
-  <programme start="20201228072000 +0100" stop="20201228073500 +0100" channel="Minimax">
-    <title lang="sl">Govoreči Tom in prijatelji</title>
-  </programme>
-  <programme start="20201228073500 +0100" stop="20201228080000 +0100" channel="Minimax">
-    <title lang="sl">Mali šef – spet v akciji</title>
-  </programme>
-  <programme start="20201228080000 +0100" stop="20201228090000 +0100" channel="Minimax">
-    <title lang="sl">Camelot</title>
-  </programme>
-  <programme start="20201228090000 +0100" stop="20201228091000 +0100" channel="Minimax">
-    <title lang="sl">Maša in medved</title>
-  </programme>
-  <programme start="20201228091000 +0100" stop="20201228092000 +0100" channel="Minimax">
-    <title lang="sl">Maša in medved</title>
-  </programme>
-  <programme start="20201228092000 +0100" stop="20201228094500 +0100" channel="Minimax">
-    <title lang="sl">Svobodni Spirit</title>
-  </programme>
-  <programme start="20201228094500 +0100" stop="20201228101000 +0100" channel="Minimax">
-    <title lang="sl">Svobodni Spirit</title>
-  </programme>
-  <programme start="20201228101000 +0100" stop="20201228103500 +0100" channel="Minimax">
-    <title lang="sl">Divja brata Kratt</title>
-  </programme>
-  <programme start="20201228103500 +0100" stop="20201228110000 +0100" channel="Minimax">
-    <title lang="sl">Divja brata Kratt: Drugi Martini</title>
-  </programme>
-  <programme start="20201228110000 +0100" stop="20201228112500 +0100" channel="Minimax">
-    <title lang="sl">Radovedni George</title>
-  </programme>
-  <programme start="20201228112500 +0100" stop="20201228115000 +0100" channel="Minimax">
-    <title lang="sl">Radovedni George</title>
-  </programme>
-  <programme start="20201228115000 +0100" stop="20201228121500 +0100" channel="Minimax">
-    <title lang="sl">Lego prijateljice</title>
-  </programme>
-  <programme start="20201228121500 +0100" stop="20201228123000 +0100" channel="Minimax">
-    <title lang="sl">Lego prijateljice: Dekleta na misiji</title>
-  </programme>
-  <programme start="20201228123000 +0100" stop="20201228124500 +0100" channel="Minimax">
-    <title lang="sl">Lego prijateljice: Dekleta na misiji</title>
-  </programme>
-  <programme start="20201228124500 +0100" stop="20201228130500 +0100" channel="Minimax">
-    <title lang="sl">Berry Bees - Čebelji klan</title>
-  </programme>
-  <programme start="20201228130500 +0100" stop="20201228142500 +0100" channel="Minimax">
-    <title lang="sl">Barbie in njene sestre v velikem iskanju kužkov</title>
-  </programme>
-  <programme start="20201228142500 +0100" stop="20201228145000 +0100" channel="Minimax">
-    <title lang="sl">Sedem palčkov in jaz</title>
-  </programme>
-  <programme start="20201228145000 +0100" stop="20201228151000 +0100" channel="Minimax">
-    <title lang="sl">Sedem palčkov in jaz</title>
-  </programme>
-  <programme start="20201228151000 +0100" stop="20201228153500 +0100" channel="Minimax">
-    <title lang="sl">Lassie in prijatelji</title>
-  </programme>
-  <programme start="20201228153500 +0100" stop="20201228160000 +0100" channel="Minimax">
-    <title lang="sl">Lassie in prijatelji</title>
-  </programme>
-  <programme start="20201228160000 +0100" stop="20201228162500 +0100" channel="Minimax">
-    <title lang="sl">Mia in jaz: Upanje v koščkih</title>
-  </programme>
-  <programme start="20201228162500 +0100" stop="20201228165000 +0100" channel="Minimax">
-    <title lang="sl">Mia in jaz: Ziggov prosti dan</title>
-  </programme>
-  <programme start="20201228165000 +0100" stop="20201228171500 +0100" channel="Minimax">
-    <title lang="sl">Mia in jaz: Vilinci in zmaj</title>
-  </programme>
-  <programme start="20201228171500 +0100" stop="20201228173000 +0100" channel="Minimax">
-    <title lang="sl">Govoreči Tom in prijatelji</title>
-  </programme>
-  <programme start="20201228173000 +0100" stop="20201228174700 +0100" channel="Minimax">
-    <title lang="sl">Govoreči Tom in prijatelji</title>
-  </programme>
-  <programme start="20201228174700 +0100" stop="20201228180000 +0100" channel="Minimax">
-    <title lang="sl">Berry Bees - Čebelji klan</title>
-  </programme>
-  <programme start="20201228180000 +0100" stop="20201228182200 +0100" channel="Minimax">
-    <title lang="sl">Divja brata Kratt</title>
-  </programme>
-  <programme start="20201228182200 +0100" stop="20201228184500 +0100" channel="Minimax">
-    <title lang="sl">Divja brata Kratt: Elektro-jegulja</title>
-  </programme>
-  <programme start="20201228184500 +0100" stop="20201228185500 +0100" channel="Minimax">
-    <title lang="sl">Mašine pesmice</title>
-  </programme>
-  <programme start="20201228185500 +0100" stop="20201228190500 +0100" channel="Minimax">
-    <title lang="sl">Mašine pesmice</title>
-  </programme>
-  <programme start="20201228190500 +0100" stop="20201228193000 +0100" channel="Minimax">
-    <title lang="sl">Moj mali poni: Čarobno prijateljstvo</title>
-  </programme>
-  <programme start="20201228193000 +0100" stop="20201228195500 +0100" channel="Minimax">
-    <title lang="sl">Mali šef – spet v akciji</title>
-  </programme>
-  <programme start="20201228195500 +0100" stop="20201228201700 +0100" channel="Minimax">
-    <title lang="sl">Radovedni George</title>
-  </programme>
-  <programme start="20201228201700 +0100" stop="20201228204000 +0100" channel="Minimax">
-    <title lang="sl">Radovedni George</title>
-  </programme>
-  <programme start="20201228204000 +0100" stop="20201228210500 +0100" channel="Minimax">
-    <title lang="sl">Barbie: Dogodivščine v sanjski hiši</title>
-  </programme>
-  <programme start="20201228210500 +0100" stop="20201228213500 +0100" channel="Minimax">
-    <title lang="sl">Barbie: Dogodivščine v sanjski hiši</title>
-  </programme>
-  <programme start="20201228213500 +0100" stop="20201228214500 +0100" channel="Minimax">
-    <title lang="sl">Govoreči Tom in prijatelji</title>
-  </programme>
-  <programme start="20201228214500 +0100" stop="20201228215500 +0100" channel="Minimax">
-    <title lang="sl">Govoreči Tom in prijatelji</title>
-  </programme>
-  <programme start="20201228215500 +0100" stop="20201228222000 +0100" channel="Minimax">
-    <title lang="sl">Kje je Voldo?: Kostarika ... V barvah!</title>
-  </programme>
-  <programme start="20201228222000 +0100" stop="20201228224500 +0100" channel="Minimax">
-    <title lang="sl">Kje je Voldo?: Moč Škotske</title>
-  </programme>
-  <programme start="20201228224500 +0100" stop="20201228230500 +0100" channel="Minimax">
-    <title lang="sl">Skrivnostni ranč</title>
-  </programme>
-  <programme start="20201228230500 +0100" stop="20201228233000 +0100" channel="Minimax">
-    <title lang="sl">Skrivnostni ranč</title>
-  </programme>
-  <programme start="20201228233000 +0100" stop="20201228235200 +0100" channel="Minimax">
-    <title lang="sl">Waffle, čudežni kuža</title>
-  </programme>
-  <programme start="20201228235200 +0100" stop="20201229000000 +0100" channel="Minimax">
-    <title lang="sl">Maša in medved</title>
+  <programme start="20210101225500 +0100" stop="20210101233000 +0100" channel="Mezzo">
+    <title lang="sl">Koncert klasične glasbe; Beethoven: Simfonija št. 2, dir. Herbert von Karajan, berlinski filharmoniki</title>
   </programme>
   <programme start="20201229000000 +0100" stop="20201229001000 +0100" channel="Minimax">
     <title lang="sl">Maša in medved</title>
@@ -3714,116 +3390,245 @@
   <programme start="20201231233000 +0100" stop="20201231235200 +0100" channel="Minimax">
     <title lang="sl">Waffle, čudežni kuža</title>
   </programme>
-  <programme start="20201228004500 +0100" stop="20201228013500 +0100" channel="Motorvision TV HD">
-    <title lang="sl">Zgodovinski reli Monte Carlo: Vrhunci 2018</title>
+  <programme start="20201231235200 +0100" stop="20210101000000 +0100" channel="Minimax">
+    <title lang="sl">Maša in medved</title>
   </programme>
-  <programme start="20201228013500 +0100" stop="20201228022500 +0100" channel="Motorvision TV HD">
-    <title lang="sl">Zgodovinski reli Monte Carlo: Vrhunci 2019</title>
+  <programme start="20210101000000 +0100" stop="20210101001000 +0100" channel="Minimax">
+    <title lang="sl">Maša in medved</title>
   </programme>
-  <programme start="20201228022500 +0100" stop="20201228031500 +0100" channel="Motorvision TV HD">
-    <title lang="sl">Zgodovinski reli Monte Carlo: Vrhunci 2020</title>
+  <programme start="20210101001000 +0100" stop="20210101002000 +0100" channel="Minimax">
+    <title lang="sl">Maša in medved</title>
   </programme>
-  <programme start="20201228031500 +0100" stop="20201228041000 +0100" channel="Motorvision TV HD">
-    <title lang="sl">Zgodovinski reli Monte Carlo: Čar zgodovinskega relija Monte Carlo</title>
+  <programme start="20210101002000 +0100" stop="20210101003000 +0100" channel="Minimax">
+    <title lang="sl">Maša in medved</title>
   </programme>
-  <programme start="20201228041000 +0100" stop="20201228044500 +0100" channel="Motorvision TV HD">
-    <title lang="sl">Zgodovinski reli Monte Carlo: Eleganca avtomobila</title>
+  <programme start="20210101003000 +0100" stop="20210101004000 +0100" channel="Minimax">
+    <title lang="sl">Maša in medved</title>
   </programme>
-  <programme start="20201228044500 +0100" stop="20201228050000 +0100" channel="Motorvision TV HD">
-    <title lang="sl">Nesreča</title>
+  <programme start="20210101004000 +0100" stop="20210101005000 +0100" channel="Minimax">
+    <title lang="sl">Maša in medved</title>
   </programme>
-  <programme start="20201228050000 +0100" stop="20201228052500 +0100" channel="Motorvision TV HD">
-    <title lang="sl">FIA EP v dirkanju s tovornjaki</title>
+  <programme start="20210101005000 +0100" stop="20210101010000 +0100" channel="Minimax">
+    <title lang="sl">Maša in medved</title>
   </programme>
-  <programme start="20201228052500 +0100" stop="20201228055500 +0100" channel="Motorvision TV HD">
-    <title lang="sl">ADAC GT Masters: Motorsport Arena Oschersleben, Nemčija</title>
+  <programme start="20210101010000 +0100" stop="20210101013000 +0100" channel="Minimax">
+    <title lang="sl">Sedem palčkov in jaz</title>
   </programme>
-  <programme start="20201228055500 +0100" stop="20201228064500 +0100" channel="Motorvision TV HD">
-    <title lang="sl">Ferrari Challenge v Evropi: Dirkališče Mugello, Italija</title>
+  <programme start="20210101013000 +0100" stop="20210101020000 +0100" channel="Minimax">
+    <title lang="sl">Waffle, čudežni kuža</title>
   </programme>
-  <programme start="20201228064500 +0100" stop="20201228073500 +0100" channel="Motorvision TV HD">
-    <title lang="sl">Vzdržljivostna serija GT: Dirkališče Sonoma Raceway, ZDA</title>
+  <programme start="20210101020000 +0100" stop="20210101021000 +0100" channel="Minimax">
+    <title lang="sl">Maša in medved</title>
   </programme>
-  <programme start="20201228073500 +0100" stop="20201228082500 +0100" channel="Motorvision TV HD">
-    <title lang="sl">Prvenstvo IMSA WeatherTech SportsCar Championship: Michelin GT Challenge, dirkališče Virginia International Raceway</title>
+  <programme start="20210101021000 +0100" stop="20210101022000 +0100" channel="Minimax">
+    <title lang="sl">Maša in medved</title>
   </programme>
-  <programme start="20201228082500 +0100" stop="20201228092000 +0100" channel="Motorvision TV HD">
-    <title lang="sl">Evropska serija Le Mans: Dirkališče Monza Eni Circuit, Monza, Italija</title>
+  <programme start="20210101022000 +0100" stop="20210101023000 +0100" channel="Minimax">
+    <title lang="sl">Maša in medved</title>
   </programme>
-  <programme start="20201228092000 +0100" stop="20201228094500 +0100" channel="Motorvision TV HD">
-    <title lang="sl">Pokal Michelin Le Mans: Dirkališče Monza Eni Circuit, Italija</title>
+  <programme start="20210101023000 +0100" stop="20210101024000 +0100" channel="Minimax">
+    <title lang="sl">Maša in medved</title>
   </programme>
-  <programme start="20201228094500 +0100" stop="20201228103500 +0100" channel="Motorvision TV HD">
-    <title lang="sl">NASCAR Whelen Euro Serija: Circuit Ricardo Tormo, Španija</title>
+  <programme start="20210101024000 +0100" stop="20210101025000 +0100" channel="Minimax">
+    <title lang="sl">Maša in medved</title>
   </programme>
-  <programme start="20201228103500 +0100" stop="20201228110000 +0100" channel="Motorvision TV HD">
-    <title lang="sl">Formula E cestne dirke</title>
+  <programme start="20210101025000 +0100" stop="20210101030000 +0100" channel="Minimax">
+    <title lang="sl">Maša in medved</title>
   </programme>
-  <programme start="20201228110000 +0100" stop="20201228115000 +0100" channel="Motorvision TV HD">
-    <title lang="sl">All Wheel Drive Safari Challenge: 1. krog</title>
+  <programme start="20210101030000 +0100" stop="20210101033000 +0100" channel="Minimax">
+    <title lang="sl">Sedem palčkov in jaz</title>
   </programme>
-  <programme start="20201228115000 +0100" stop="20201228124000 +0100" channel="Motorvision TV HD">
-    <title lang="sl">All Wheel Drive Safari Challenge: 2. krog</title>
+  <programme start="20210101033000 +0100" stop="20210101040000 +0100" channel="Minimax">
+    <title lang="sl">Waffle, čudežni kuža</title>
   </programme>
-  <programme start="20201228124000 +0100" stop="20201228133500 +0100" channel="Motorvision TV HD">
-    <title lang="sl">All Wheel Drive Safari Challenge: 3. krog</title>
+  <programme start="20210101040000 +0100" stop="20210101041000 +0100" channel="Minimax">
+    <title lang="sl">Maša in medved</title>
   </programme>
-  <programme start="20201228133500 +0100" stop="20201228142500 +0100" channel="Motorvision TV HD">
-    <title lang="sl">All Wheel Drive Safari Challenge: 4. krog</title>
+  <programme start="20210101041000 +0100" stop="20210101042000 +0100" channel="Minimax">
+    <title lang="sl">Maša in medved</title>
   </programme>
-  <programme start="20201228142500 +0100" stop="20201228151500 +0100" channel="Motorvision TV HD">
-    <title lang="sl">All Wheel Drive Safari Challenge: 5. krog</title>
+  <programme start="20210101042000 +0100" stop="20210101043000 +0100" channel="Minimax">
+    <title lang="sl">Maša in medved</title>
   </programme>
-  <programme start="20201228151500 +0100" stop="20201228160500 +0100" channel="Motorvision TV HD">
-    <title lang="sl">All Wheel Drive Safari Challenge: 6. krog</title>
+  <programme start="20210101043000 +0100" stop="20210101044000 +0100" channel="Minimax">
+    <title lang="sl">Maša in medved</title>
   </programme>
-  <programme start="20201228160500 +0100" stop="20201228170000 +0100" channel="Motorvision TV HD">
-    <title lang="sl">All Wheel Drive Safari Challenge: 7. krog</title>
+  <programme start="20210101044000 +0100" stop="20210101045000 +0100" channel="Minimax">
+    <title lang="sl">Maša in medved</title>
   </programme>
-  <programme start="20201228170000 +0100" stop="20201228172500 +0100" channel="Motorvision TV HD">
-    <title lang="sl">4x4: Veterani na štirikolesni pogon</title>
+  <programme start="20210101045000 +0100" stop="20210101050000 +0100" channel="Minimax">
+    <title lang="sl">Maša in medved</title>
   </programme>
-  <programme start="20201228172500 +0100" stop="20201228175000 +0100" channel="Motorvision TV HD">
-    <title lang="sl">Klasična vozila: Historic Ice Trophy</title>
+  <programme start="20210101050000 +0100" stop="20210101053000 +0100" channel="Minimax">
+    <title lang="sl">Sedem palčkov in jaz</title>
   </programme>
-  <programme start="20201228175000 +0100" stop="20201228182000 +0100" channel="Motorvision TV HD">
-    <title lang="sl">Popolno vozilo: Dizelski motorji</title>
+  <programme start="20210101053000 +0100" stop="20210101060000 +0100" channel="Minimax">
+    <title lang="sl">Waffle, čudežni kuža</title>
   </programme>
-  <programme start="20201228182000 +0100" stop="20201228184500 +0100" channel="Motorvision TV HD">
-    <title lang="sl">Superavtomobili: Popolna garaža</title>
+  <programme start="20210101060000 +0100" stop="20210101061000 +0100" channel="Minimax">
+    <title lang="sl">Denver, poslednji dinozaver</title>
   </programme>
-  <programme start="20201228184500 +0100" stop="20201228191000 +0100" channel="Motorvision TV HD">
-    <title lang="sl">ADAC GT Masters: Motorsport Arena Oschersleben, Nemčija</title>
+  <programme start="20210101061000 +0100" stop="20210101063500 +0100" channel="Minimax">
+    <title lang="sl">Skrivnostni ranč</title>
   </programme>
-  <programme start="20201228191000 +0100" stop="20201228195500 +0100" channel="Motorvision TV HD">
-    <title lang="sl">Blancpain Gt World Challenge: Fuji Speedway, Fuji, Japonska</title>
+  <programme start="20210101063500 +0100" stop="20210101064400 +0100" channel="Minimax">
+    <title lang="sl">Maša in medved</title>
   </programme>
-  <programme start="20201228195500 +0100" stop="20201228202500 +0100" channel="Motorvision TV HD">
-    <title lang="sl">Svetovno prvenstvo FIM Enduro: Velika nagrada Velike Britanije, Matterley Basin</title>
+  <programme start="20210101064400 +0100" stop="20210101065300 +0100" channel="Minimax">
+    <title lang="sl">Maša in medved</title>
   </programme>
-  <programme start="20201228202500 +0100" stop="20201228205000 +0100" channel="Motorvision TV HD">
-    <title lang="sl">FIM Trial Svetovno prvenstvo: Velika nagrada Italije, Lazzate</title>
+  <programme start="20210101065300 +0100" stop="20210101070200 +0100" channel="Minimax">
+    <title lang="sl">Maša in medved</title>
   </programme>
-  <programme start="20201228205000 +0100" stop="20201228212000 +0100" channel="Motorvision TV HD">
-    <title lang="sl">Svetovno prvenstvo FIM Enduro: Velika nagrada Italije, Spoleto</title>
+  <programme start="20210101070200 +0100" stop="20210101071000 +0100" channel="Minimax">
+    <title lang="sl">Maša in medved</title>
   </programme>
-  <programme start="20201228212000 +0100" stop="20201228220500 +0100" channel="Motorvision TV HD">
-    <title lang="sl">Kralj cest: Klasične cestne dirke Barryja Sheena</title>
+  <programme start="20210101071000 +0100" stop="20210101072000 +0100" channel="Minimax">
+    <title lang="sl">Govoreči Tom in prijatelji</title>
   </programme>
-  <programme start="20201228220500 +0100" stop="20201228223000 +0100" channel="Motorvision TV HD">
-    <title lang="sl">Svet motociklizma</title>
+  <programme start="20210101072000 +0100" stop="20210101073500 +0100" channel="Minimax">
+    <title lang="sl">Govoreči Tom in prijatelji</title>
   </programme>
-  <programme start="20201228223000 +0100" stop="20201228230000 +0100" channel="Motorvision TV HD">
-    <title lang="sl">Red Bull Romaniacs 2019: Red Bull Romaniacs</title>
+  <programme start="20210101073500 +0100" stop="20210101080000 +0100" channel="Minimax">
+    <title lang="sl">Mali šef – spet v akciji</title>
   </programme>
-  <programme start="20201228230000 +0100" stop="20201228232500 +0100" channel="Motorvision TV HD">
-    <title lang="sl">Islandska Off Road Formula: Hella, Islandija</title>
+  <programme start="20210101080000 +0100" stop="20210101085000 +0100" channel="Minimax">
+    <title lang="sl">Enchantimals: Skrivnosti Snežne doline</title>
   </programme>
-  <programme start="20201228232500 +0100" stop="20201228235000 +0100" channel="Motorvision TV HD">
-    <title lang="sl">Islandska Off Road Formula: Stapafell, Islandija</title>
+  <programme start="20210101085000 +0100" stop="20210101090000 +0100" channel="Minimax">
+    <title lang="sl">Mašine pesmice</title>
   </programme>
-  <programme start="20201228235000 +0100" stop="20201229004000 +0100" channel="Motorvision TV HD">
-    <title lang="sl">Islandska Off Road Formula: Egilsstadir, Islandija</title>
+  <programme start="20210101090000 +0100" stop="20210101091000 +0100" channel="Minimax">
+    <title lang="sl">Mašine pesmice</title>
+  </programme>
+  <programme start="20210101091000 +0100" stop="20210101092000 +0100" channel="Minimax">
+    <title lang="sl">Mašine pesmice</title>
+  </programme>
+  <programme start="20210101092000 +0100" stop="20210101094500 +0100" channel="Minimax">
+    <title lang="sl">Svobodni Spirit</title>
+  </programme>
+  <programme start="20210101094500 +0100" stop="20210101101000 +0100" channel="Minimax">
+    <title lang="sl">Svobodni Spirit</title>
+  </programme>
+  <programme start="20210101101000 +0100" stop="20210101103500 +0100" channel="Minimax">
+    <title lang="sl">Divja brata Kratt</title>
+  </programme>
+  <programme start="20210101103500 +0100" stop="20210101110000 +0100" channel="Minimax">
+    <title lang="sl">Divja brata Kratt: Reševanje rdečega pande</title>
+  </programme>
+  <programme start="20210101110000 +0100" stop="20210101112500 +0100" channel="Minimax">
+    <title lang="sl">Radovedni George</title>
+  </programme>
+  <programme start="20210101112500 +0100" stop="20210101115000 +0100" channel="Minimax">
+    <title lang="sl">Radovedni George</title>
+  </programme>
+  <programme start="20210101115000 +0100" stop="20210101121500 +0100" channel="Minimax">
+    <title lang="sl">Lego prijateljice</title>
+  </programme>
+  <programme start="20210101121500 +0100" stop="20210101123000 +0100" channel="Minimax">
+    <title lang="sl">Lego prijateljice: Dekleta na misiji</title>
+  </programme>
+  <programme start="20210101123000 +0100" stop="20210101124000 +0100" channel="Minimax">
+    <title lang="sl">Lego prijateljice: Dekleta na misiji</title>
+  </programme>
+  <programme start="20210101124000 +0100" stop="20210101125200 +0100" channel="Minimax">
+    <title lang="sl">Berry Bees - Čebelji klan</title>
+  </programme>
+  <programme start="20210101125200 +0100" stop="20210101130500 +0100" channel="Minimax">
+    <title lang="sl">Berry Bees - Čebelji klan</title>
+  </programme>
+  <programme start="20210101130500 +0100" stop="20210101140500 +0100" channel="Minimax">
+    <title lang="sl">Gasilec Samo - Pripravljeni na akcijo</title>
+  </programme>
+  <programme start="20210101140500 +0100" stop="20210101141500 +0100" channel="Minimax">
+    <title lang="sl">Enchantimals: Zgodbe iz divjine</title>
+  </programme>
+  <programme start="20210101141500 +0100" stop="20210101142500 +0100" channel="Minimax">
+    <title lang="sl">Enchantimals: Zgodbe iz divjine</title>
+  </programme>
+  <programme start="20210101142500 +0100" stop="20210101145000 +0100" channel="Minimax">
+    <title lang="sl">Sedem palčkov in jaz</title>
+  </programme>
+  <programme start="20210101145000 +0100" stop="20210101151000 +0100" channel="Minimax">
+    <title lang="sl">Sedem palčkov in jaz</title>
+  </programme>
+  <programme start="20210101151000 +0100" stop="20210101153500 +0100" channel="Minimax">
+    <title lang="sl">Lassie in prijatelji</title>
+  </programme>
+  <programme start="20210101153500 +0100" stop="20210101160000 +0100" channel="Minimax">
+    <title lang="sl">Lassie in prijatelji</title>
+  </programme>
+  <programme start="20210101160000 +0100" stop="20210101162500 +0100" channel="Minimax">
+    <title lang="sl">Mia in jaz: Piskač</title>
+  </programme>
+  <programme start="20210101162500 +0100" stop="20210101165000 +0100" channel="Minimax">
+    <title lang="sl">Mia in jaz: Votlina resnice</title>
+  </programme>
+  <programme start="20210101165000 +0100" stop="20210101171500 +0100" channel="Minimax">
+    <title lang="sl">Mia in jaz: Proti vetru</title>
+  </programme>
+  <programme start="20210101171500 +0100" stop="20210101172700 +0100" channel="Minimax">
+    <title lang="sl">Govoreči Tom in prijatelji</title>
+  </programme>
+  <programme start="20210101172700 +0100" stop="20210101174000 +0100" channel="Minimax">
+    <title lang="sl">Govoreči Tom in prijatelji</title>
+  </programme>
+  <programme start="20210101174000 +0100" stop="20210101175000 +0100" channel="Minimax">
+    <title lang="sl">Berry Bees - Čebelji klan</title>
+  </programme>
+  <programme start="20210101175000 +0100" stop="20210101180000 +0100" channel="Minimax">
+    <title lang="sl">Berry Bees - Čebelji klan</title>
+  </programme>
+  <programme start="20210101180000 +0100" stop="20210101182200 +0100" channel="Minimax">
+    <title lang="sl">Divja brata Kratt</title>
+  </programme>
+  <programme start="20210101182200 +0100" stop="20210101184500 +0100" channel="Minimax">
+    <title lang="sl">Divja brata Kratt: Duh medveda</title>
+  </programme>
+  <programme start="20210101184500 +0100" stop="20210101185500 +0100" channel="Minimax">
+    <title lang="sl">Mašine pesmice</title>
+  </programme>
+  <programme start="20210101185500 +0100" stop="20210101190500 +0100" channel="Minimax">
+    <title lang="sl">Mašine pesmice</title>
+  </programme>
+  <programme start="20210101190500 +0100" stop="20210101193000 +0100" channel="Minimax">
+    <title lang="sl">Moj mali poni: Čarobno prijateljstvo</title>
+  </programme>
+  <programme start="20210101193000 +0100" stop="20210101195500 +0100" channel="Minimax">
+    <title lang="sl">Mali šef – spet v akciji</title>
+  </programme>
+  <programme start="20210101195500 +0100" stop="20210101201700 +0100" channel="Minimax">
+    <title lang="sl">Radovedni George</title>
+  </programme>
+  <programme start="20210101201700 +0100" stop="20210101204000 +0100" channel="Minimax">
+    <title lang="sl">Radovedni George</title>
+  </programme>
+  <programme start="20210101204000 +0100" stop="20210101210500 +0100" channel="Minimax">
+    <title lang="sl">Barbie: Dogodivščine v sanjski hiši</title>
+  </programme>
+  <programme start="20210101210500 +0100" stop="20210101213000 +0100" channel="Minimax">
+    <title lang="sl">Barbie: Dogodivščine v sanjski hiši</title>
+  </programme>
+  <programme start="20210101213000 +0100" stop="20210101214500 +0100" channel="Minimax">
+    <title lang="sl">Govoreči Tom in prijatelji</title>
+  </programme>
+  <programme start="20210101214500 +0100" stop="20210101215500 +0100" channel="Minimax">
+    <title lang="sl">Govoreči Tom in prijatelji</title>
+  </programme>
+  <programme start="20210101215500 +0100" stop="20210101222000 +0100" channel="Minimax">
+    <title lang="sl">Kje je Voldo?: Nadloga v Benetkah</title>
+  </programme>
+  <programme start="20210101222000 +0100" stop="20210101224500 +0100" channel="Minimax">
+    <title lang="sl">Kje je Voldo?: Spodrsljaj v avstralski divjini</title>
+  </programme>
+  <programme start="20210101224500 +0100" stop="20210101230500 +0100" channel="Minimax">
+    <title lang="sl">Skrivnostni ranč</title>
+  </programme>
+  <programme start="20210101230500 +0100" stop="20210101233000 +0100" channel="Minimax">
+    <title lang="sl">Skrivnostni ranč</title>
+  </programme>
+  <programme start="20210101233000 +0100" stop="20210101235200 +0100" channel="Minimax">
+    <title lang="sl">Waffle, čudežni kuža</title>
   </programme>
   <programme start="20201229004000 +0100" stop="20201229010500 +0100" channel="Motorvision TV HD">
     <title lang="sl">Islandska Off Road Formula: Akranes, Islandija</title>
@@ -4233,68 +4038,41 @@
   <programme start="20201231232500 +0100" stop="20201231235500 +0100" channel="Motorvision TV HD">
     <title lang="sl">Klasična vozila: Historic Ice Trophy</title>
   </programme>
-  <programme start="20201228010000 +0100" stop="20201228020000 +0100" channel="NET TV">
-    <title lang="sl">Pozabljen Božič</title>
+  <programme start="20201231235500 +0100" stop="20210101002000 +0100" channel="Motorvision TV HD">
+    <title lang="sl">Popolno vozilo: Dizelski motorji</title>
   </programme>
-  <programme start="20201228020000 +0100" stop="20201228070000 +0100" channel="NET TV">
-    <title lang="sl">Nočni program</title>
+  <programme start="20210101002000 +0100" stop="20210101004500 +0100" channel="Motorvision TV HD">
+    <title lang="sl">Superavtomobili: Popolna garaža</title>
   </programme>
-  <programme start="20201228070000 +0100" stop="20201228080000 +0100" channel="NET TV">
-    <title lang="sl">TV clip</title>
+  <programme start="20210101004500 +0100" stop="20210101011000 +0100" channel="Motorvision TV HD">
+    <title lang="sl">ADAC GT Masters: Motorsport Arena Oschersleben, Nemčija</title>
   </programme>
-  <programme start="20201228080000 +0100" stop="20201228090000 +0100" channel="NET TV">
-    <title lang="sl">TV Market</title>
+  <programme start="20210101011000 +0100" stop="20210101020000 +0100" channel="Motorvision TV HD">
+    <title lang="sl">Blancpain Gt World Challenge: Fuji Speedway, Fuji, Japonska</title>
   </programme>
-  <programme start="20201228090000 +0100" stop="20201228093000 +0100" channel="NET TV">
-    <title lang="sl">Regionalno</title>
+  <programme start="20210101020000 +0100" stop="20210101022500 +0100" channel="Motorvision TV HD">
+    <title lang="sl">Svetovno prvenstvo FIM Enduro: Velika nagrada Velike Britanije, Matterley Basin</title>
   </programme>
-  <programme start="20201228093000 +0100" stop="20201228103000 +0100" channel="NET TV">
-    <title lang="sl">Tv prodajno okno</title>
+  <programme start="20210101022500 +0100" stop="20210101025000 +0100" channel="Motorvision TV HD">
+    <title lang="sl">FIM Trial Svetovno prvenstvo: Velika nagrada Italije, Lazzate</title>
   </programme>
-  <programme start="20201228103000 +0100" stop="20201228113000 +0100" channel="NET TV">
-    <title lang="sl">Bandolera</title>
+  <programme start="20210101025000 +0100" stop="20210101032000 +0100" channel="Motorvision TV HD">
+    <title lang="sl">Svetovno prvenstvo FIM Enduro: Velika nagrada Italije, Spoleto</title>
   </programme>
-  <programme start="20201228113000 +0100" stop="20201228120000 +0100" channel="NET TV">
-    <title lang="sl">Regionalno</title>
+  <programme start="20210101032000 +0100" stop="20210101041000 +0100" channel="Motorvision TV HD">
+    <title lang="sl">Kralj cest: Klasične cestne dirke Barryja Sheena</title>
   </programme>
-  <programme start="20201228120000 +0100" stop="20201228130000 +0100" channel="NET TV">
-    <title lang="sl">TV Market</title>
+  <programme start="20210101041000 +0100" stop="20210101043500 +0100" channel="Motorvision TV HD">
+    <title lang="sl">Svet motociklizma</title>
   </programme>
-  <programme start="20201228130000 +0100" stop="20201228140000 +0100" channel="NET TV">
-    <title lang="sl">Tv prodajno okno</title>
+  <programme start="20210101043500 +0100" stop="20210101050000 +0100" channel="Motorvision TV HD">
+    <title lang="sl">Red Bull Romaniacs 2019: Red Bull Romaniacs</title>
   </programme>
-  <programme start="20201228140000 +0100" stop="20201228150000 +0100" channel="NET TV">
-    <title lang="sl">To je bil moj čas</title>
+  <programme start="20210101050000 +0100" stop="20210101053000 +0100" channel="Motorvision TV HD">
+    <title lang="sl">4x4: Pravi zmagovalci</title>
   </programme>
-  <programme start="20201228150000 +0100" stop="20201228160000 +0100" channel="NET TV">
-    <title lang="sl">TV Market</title>
-  </programme>
-  <programme start="20201228160000 +0100" stop="20201228163000 +0100" channel="NET TV">
-    <title lang="sl">Regionalno</title>
-  </programme>
-  <programme start="20201228163000 +0100" stop="20201228173000 +0100" channel="NET TV">
-    <title lang="sl">Gurmanski izziv z Martino Ipša</title>
-  </programme>
-  <programme start="20201228173000 +0100" stop="20201228183000 +0100" channel="NET TV">
-    <title lang="sl">Bandolera</title>
-  </programme>
-  <programme start="20201228183000 +0100" stop="20201228190000 +0100" channel="NET TV">
-    <title lang="sl">Regionalno</title>
-  </programme>
-  <programme start="20201228190000 +0100" stop="20201228200000 +0100" channel="NET TV">
-    <title lang="sl">Country mix</title>
-  </programme>
-  <programme start="20201228200000 +0100" stop="20201228210000 +0100" channel="NET TV">
-    <title lang="sl">Slovenija v letu 2020</title>
-  </programme>
-  <programme start="20201228210000 +0100" stop="20201228223000 +0100" channel="NET TV">
-    <title lang="sl">Bio Stil</title>
-  </programme>
-  <programme start="20201228223000 +0100" stop="20201228230000 +0100" channel="NET TV">
-    <title lang="sl">Regionalno</title>
-  </programme>
-  <programme start="20201228230000 +0100" stop="20201229005500 +0100" channel="NET TV">
-    <title lang="sl">Zadnja stava</title>
+  <programme start="20210101053000 +0100" stop="20210101055500 +0100" channel="Motorvision TV HD">
+    <title lang="sl">Klasična vozila: Varčevanje s prostorom</title>
   </programme>
   <programme start="20201229005500 +0100" stop="20201229012500 +0100" channel="NET TV">
     <title lang="sl">Regionalno</title>
@@ -4482,128 +4260,65 @@
   <programme start="20201231190000 +0100" stop="20201231200000 +0100" channel="NET TV">
     <title lang="sl">Šlager parada</title>
   </programme>
-  <programme start="20201228000000 +0100" stop="20201228085500 +0100" channel="NTV IC Kakanj">
-    <title lang="sl">Odjava programa</title>
+  <programme start="20201231200000 +0100" stop="20210101020000 +0100" channel="NET TV">
+    <title lang="sl">Z glasbo v novo leto</title>
   </programme>
-  <programme start="20201228085500 +0100" stop="20201228090000 +0100" channel="NTV IC Kakanj">
-    <title lang="sl">Himna BiH</title>
+  <programme start="20210101020000 +0100" stop="20210101023000 +0100" channel="NET TV">
+    <title lang="sl">Regionalno</title>
   </programme>
-  <programme start="20201228090000 +0100" stop="20201228100000 +0100" channel="NTV IC Kakanj">
-    <title lang="sl">TV Mukabela</title>
+  <programme start="20210101023000 +0100" stop="20210101033000 +0100" channel="NET TV">
+    <title lang="sl">Bandolera</title>
   </programme>
-  <programme start="20201228100000 +0100" stop="20201228103000 +0100" channel="NTV IC Kakanj">
-    <title lang="sl">Princesa</title>
+  <programme start="20210101033000 +0100" stop="20210101070000 +0100" channel="NET TV">
+    <title lang="sl">Nočni program</title>
   </programme>
-  <programme start="20201228103000 +0100" stop="20201228110000 +0100" channel="NTV IC Kakanj">
-    <title lang="sl">Reka</title>
+  <programme start="20210101070000 +0100" stop="20210101080000 +0100" channel="NET TV">
+    <title lang="sl">TV clip</title>
   </programme>
-  <programme start="20201228110000 +0100" stop="20201228113000 +0100" channel="NTV IC Kakanj">
-    <title lang="sl">Lepotec</title>
+  <programme start="20210101080000 +0100" stop="20210101090000 +0100" channel="NET TV">
+    <title lang="sl">TV Market</title>
   </programme>
-  <programme start="20201228113000 +0100" stop="20201228115500 +0100" channel="NTV IC Kakanj">
-    <title lang="sl">Majstor kuhinje</title>
+  <programme start="20210101090000 +0100" stop="20210101093000 +0100" channel="NET TV">
+    <title lang="sl">Regionalno</title>
   </programme>
-  <programme start="20201228115500 +0100" stop="20201228115800 +0100" channel="NTV IC Kakanj">
-    <title lang="sl">Od dneva do dneva</title>
+  <programme start="20210101093000 +0100" stop="20210101103000 +0100" channel="NET TV">
+    <title lang="sl">Tv prodajno okno</title>
   </programme>
-  <programme start="20201228115800 +0100" stop="20201228120000 +0100" channel="NTV IC Kakanj">
-    <title lang="sl">Mali oglasi</title>
+  <programme start="20210101103000 +0100" stop="20210101113000 +0100" channel="NET TV">
+    <title lang="sl">Bandolera</title>
   </programme>
-  <programme start="20201228120000 +0100" stop="20201228134000 +0100" channel="NTV IC Kakanj">
-    <title lang="sl">Filmski program</title>
+  <programme start="20210101113000 +0100" stop="20210101120000 +0100" channel="NET TV">
+    <title lang="sl">Regionalno</title>
   </programme>
-  <programme start="20201228134000 +0100" stop="20201228140000 +0100" channel="NTV IC Kakanj">
-    <title lang="sl">Skriti talenti</title>
+  <programme start="20210101120000 +0100" stop="20210101140000 +0100" channel="NET TV">
+    <title lang="sl">TV Market</title>
   </programme>
-  <programme start="20201228140000 +0100" stop="20201228143000 +0100" channel="NTV IC Kakanj">
-    <title lang="sl">Info IC</title>
+  <programme start="20210101140000 +0100" stop="20210101150000 +0100" channel="NET TV">
+    <title lang="sl">Narava zdravi tržnica</title>
   </programme>
-  <programme start="20201228143000 +0100" stop="20201228150000 +0100" channel="NTV IC Kakanj">
-    <title lang="sl">Princesa</title>
+  <programme start="20210101150000 +0100" stop="20210101160000 +0100" channel="NET TV">
+    <title lang="sl">TV Market</title>
   </programme>
-  <programme start="20201228150000 +0100" stop="20201228153000 +0100" channel="NTV IC Kakanj">
-    <title lang="sl">Reka</title>
+  <programme start="20210101160000 +0100" stop="20210101163000 +0100" channel="NET TV">
+    <title lang="sl">Regionalno</title>
   </programme>
-  <programme start="20201228153000 +0100" stop="20201228160000 +0100" channel="NTV IC Kakanj">
-    <title lang="sl">Majstor kuhinje</title>
+  <programme start="20210101163000 +0100" stop="20210101173000 +0100" channel="NET TV">
+    <title lang="sl">Slovenija v letu 2020</title>
   </programme>
-  <programme start="20201228160000 +0100" stop="20201228165500 +0100" channel="NTV IC Kakanj">
-    <title lang="sl">Hladnokrvni umor</title>
+  <programme start="20210101173000 +0100" stop="20210101183000 +0100" channel="NET TV">
+    <title lang="sl">Bandolera</title>
   </programme>
-  <programme start="20201228165500 +0100" stop="20201228165800 +0100" channel="NTV IC Kakanj">
-    <title lang="sl">Od dneva do dneva</title>
+  <programme start="20210101183000 +0100" stop="20210101190000 +0100" channel="NET TV">
+    <title lang="sl">Regionalno</title>
   </programme>
-  <programme start="20201228165800 +0100" stop="20201228170000 +0100" channel="NTV IC Kakanj">
-    <title lang="sl">Mali oglasi</title>
+  <programme start="20210101190000 +0100" stop="20210101200000 +0100" channel="NET TV">
+    <title lang="sl">Yugo izbor</title>
   </programme>
-  <programme start="20201228170000 +0100" stop="20201228170500 +0100" channel="NTV IC Kakanj">
-    <title lang="sl">Flash poročila</title>
+  <programme start="20210101200000 +0100" stop="20210101213000 +0100" channel="NET TV">
+    <title lang="sl">Priročnik za prijateljstvo</title>
   </programme>
-  <programme start="20201228170500 +0100" stop="20201228171500 +0100" channel="NTV IC Kakanj">
-    <title lang="sl">Marketing</title>
-  </programme>
-  <programme start="20201228171500 +0100" stop="20201228180000 +0100" channel="NTV IC Kakanj">
-    <title lang="sl">Nasvidenje otrok</title>
-  </programme>
-  <programme start="20201228180000 +0100" stop="20201228183000 +0100" channel="NTV IC Kakanj">
-    <title lang="sl">Lepotec</title>
-  </programme>
-  <programme start="20201228183000 +0100" stop="20201228184500 +0100" channel="NTV IC Kakanj">
-    <title lang="sl">TV zgodbe</title>
-  </programme>
-  <programme start="20201228184500 +0100" stop="20201228185500 +0100" channel="NTV IC Kakanj">
-    <title lang="sl">Mimar Sinan</title>
-  </programme>
-  <programme start="20201228185500 +0100" stop="20201228190000 +0100" channel="NTV IC Kakanj">
-    <title lang="sl">Od dneva do dneva</title>
-  </programme>
-  <programme start="20201228190000 +0100" stop="20201228190500 +0100" channel="NTV IC Kakanj">
-    <title lang="sl">Mali oglasi</title>
-  </programme>
-  <programme start="20201228190500 +0100" stop="20201228191500 +0100" channel="NTV IC Kakanj">
-    <title lang="sl">Teta, ki veliko govori</title>
-  </programme>
-  <programme start="20201228191500 +0100" stop="20201228193000 +0100" channel="NTV IC Kakanj">
-    <title lang="sl">Marketing</title>
-  </programme>
-  <programme start="20201228193000 +0100" stop="20201228200000 +0100" channel="NTV IC Kakanj">
-    <title lang="sl">Dnevnik FTV</title>
-  </programme>
-  <programme start="20201228200000 +0100" stop="20201228200500 +0100" channel="NTV IC Kakanj">
-    <title lang="sl">Marketing</title>
-  </programme>
-  <programme start="20201228200500 +0100" stop="20201228202000 +0100" channel="NTV IC Kakanj">
-    <title lang="sl">Poročila IC</title>
-  </programme>
-  <programme start="20201228202000 +0100" stop="20201228202500 +0100" channel="NTV IC Kakanj">
-    <title lang="sl">Vremenska napoved</title>
-  </programme>
-  <programme start="20201228202500 +0100" stop="20201228210000 +0100" channel="NTV IC Kakanj">
-    <title lang="sl">IC šport</title>
-  </programme>
-  <programme start="20201228210000 +0100" stop="20201228213000 +0100" channel="NTV IC Kakanj">
-    <title lang="sl">Srednješolci, aktivni člani lokalne skupnosti</title>
-  </programme>
-  <programme start="20201228213000 +0100" stop="20201228214500 +0100" channel="NTV IC Kakanj">
-    <title lang="sl">Andaluzija</title>
-  </programme>
-  <programme start="20201228214500 +0100" stop="20201228215800 +0100" channel="NTV IC Kakanj">
-    <title lang="sl">Marketing</title>
-  </programme>
-  <programme start="20201228215800 +0100" stop="20201228220000 +0100" channel="NTV IC Kakanj">
-    <title lang="sl">Mali oglasi</title>
-  </programme>
-  <programme start="20201228220000 +0100" stop="20201228223000 +0100" channel="NTV IC Kakanj">
-    <title lang="sl">Reka</title>
-  </programme>
-  <programme start="20201228223000 +0100" stop="20201228230000 +0100" channel="NTV IC Kakanj">
-    <title lang="sl">Lepotec</title>
-  </programme>
-  <programme start="20201228230000 +0100" stop="20201228235500 +0100" channel="NTV IC Kakanj">
-    <title lang="sl">Hladnokrvni umor</title>
-  </programme>
-  <programme start="20201228235500 +0100" stop="20201229000000 +0100" channel="NTV IC Kakanj">
-    <title lang="sl">Od dneva do dneva</title>
+  <programme start="20210101213000 +0100" stop="20210101220000 +0100" channel="NET TV">
+    <title lang="sl">Regionalno</title>
   </programme>
   <programme start="20201229000000 +0100" stop="20201229001500 +0100" channel="NTV IC Kakanj">
     <title lang="sl">Poročila IC</title>
@@ -4959,41 +4674,95 @@
   <programme start="20201231215500 +0100" stop="20201231220000 +0100" channel="NTV IC Kakanj">
     <title lang="sl">Mali oglasi</title>
   </programme>
-  <programme start="20201228000000 +0100" stop="20201228020000 +0100" channel="Narodna TV">
-    <title lang="sl">Glasbeni spoti</title>
+  <programme start="20201231220000 +0100" stop="20210101000000 +0100" channel="NTV IC Kakanj">
+    <title lang="sl">Ljubezenska zgodba</title>
   </programme>
-  <programme start="20201228020000 +0100" stop="20201228040000 +0100" channel="Narodna TV">
-    <title lang="sl">Glasbeni spoti</title>
+  <programme start="20210101000000 +0100" stop="20210101000500 +0100" channel="NTV IC Kakanj">
+    <title lang="sl">Srečno novo leto</title>
   </programme>
-  <programme start="20201228040000 +0100" stop="20201228060000 +0100" channel="Narodna TV">
-    <title lang="sl">Glasbeni spoti</title>
+  <programme start="20210101000500 +0100" stop="20210101020000 +0100" channel="NTV IC Kakanj">
+    <title lang="sl">Novoletna zabava</title>
   </programme>
-  <programme start="20201228060000 +0100" stop="20201228080000 +0100" channel="Narodna TV">
-    <title lang="sl">Glasbeni spoti</title>
+  <programme start="20210101020000 +0100" stop="20210101085500 +0100" channel="NTV IC Kakanj">
+    <title lang="sl">Samo veselje</title>
   </programme>
-  <programme start="20201228080000 +0100" stop="20201228100000 +0100" channel="Narodna TV">
-    <title lang="sl">Glasbeni spoti</title>
+  <programme start="20210101085500 +0100" stop="20210101090000 +0100" channel="NTV IC Kakanj">
+    <title lang="sl">Himna BiH</title>
   </programme>
-  <programme start="20201228100000 +0100" stop="20201228120000 +0100" channel="Narodna TV">
-    <title lang="sl">Glasbeni spoti</title>
+  <programme start="20210101090000 +0100" stop="20210101100000 +0100" channel="NTV IC Kakanj">
+    <title lang="sl">TV Mukabela</title>
   </programme>
-  <programme start="20201228120000 +0100" stop="20201228140000 +0100" channel="Narodna TV">
-    <title lang="sl">Glasbeni spoti</title>
+  <programme start="20210101100000 +0100" stop="20210101110000 +0100" channel="NTV IC Kakanj">
+    <title lang="sl">Risanka</title>
   </programme>
-  <programme start="20201228140000 +0100" stop="20201228160000 +0100" channel="Narodna TV">
-    <title lang="sl">Glasbeni spoti</title>
+  <programme start="20210101110000 +0100" stop="20210101113000 +0100" channel="NTV IC Kakanj">
+    <title lang="sl">Sevdah in čas</title>
   </programme>
-  <programme start="20201228160000 +0100" stop="20201228180000 +0100" channel="Narodna TV">
-    <title lang="sl">Glasbeni spoti</title>
+  <programme start="20210101113000 +0100" stop="20210101115500 +0100" channel="NTV IC Kakanj">
+    <title lang="sl">Majstor kuhinje</title>
   </programme>
-  <programme start="20201228180000 +0100" stop="20201228200000 +0100" channel="Narodna TV">
-    <title lang="sl">Glasbeni spoti</title>
+  <programme start="20210101115500 +0100" stop="20210101115800 +0100" channel="NTV IC Kakanj">
+    <title lang="sl">Od dneva do dneva</title>
   </programme>
-  <programme start="20201228200000 +0100" stop="20201228220000 +0100" channel="Narodna TV">
-    <title lang="sl">Glasbeni spoti</title>
+  <programme start="20210101115800 +0100" stop="20210101120000 +0100" channel="NTV IC Kakanj">
+    <title lang="sl">Mali oglasi</title>
   </programme>
-  <programme start="20201228220000 +0100" stop="20201229000000 +0100" channel="Narodna TV">
-    <title lang="sl">Glasbeni spoti</title>
+  <programme start="20210101120000 +0100" stop="20210101165500 +0100" channel="NTV IC Kakanj">
+    <title lang="sl">Novoletni program</title>
+  </programme>
+  <programme start="20210101165500 +0100" stop="20210101165800 +0100" channel="NTV IC Kakanj">
+    <title lang="sl">Od dneva do dneva</title>
+  </programme>
+  <programme start="20210101165800 +0100" stop="20210101170000 +0100" channel="NTV IC Kakanj">
+    <title lang="sl">Mali oglasi</title>
+  </programme>
+  <programme start="20210101170000 +0100" stop="20210101170500 +0100" channel="NTV IC Kakanj">
+    <title lang="sl">Flash poročila</title>
+  </programme>
+  <programme start="20210101170500 +0100" stop="20210101171500 +0100" channel="NTV IC Kakanj">
+    <title lang="sl">Marketing</title>
+  </programme>
+  <programme start="20210101171500 +0100" stop="20210101185500 +0100" channel="NTV IC Kakanj">
+    <title lang="sl">Novoletni program</title>
+  </programme>
+  <programme start="20210101185500 +0100" stop="20210101190000 +0100" channel="NTV IC Kakanj">
+    <title lang="sl">Od dneva do dneva</title>
+  </programme>
+  <programme start="20210101190000 +0100" stop="20210101190500 +0100" channel="NTV IC Kakanj">
+    <title lang="sl">Mali oglasi</title>
+  </programme>
+  <programme start="20210101190500 +0100" stop="20210101191500 +0100" channel="NTV IC Kakanj">
+    <title lang="sl">Teta, ki veliko govori</title>
+  </programme>
+  <programme start="20210101191500 +0100" stop="20210101193000 +0100" channel="NTV IC Kakanj">
+    <title lang="sl">Marketing</title>
+  </programme>
+  <programme start="20210101193000 +0100" stop="20210101200000 +0100" channel="NTV IC Kakanj">
+    <title lang="sl">Dnevnik FTV</title>
+  </programme>
+  <programme start="20210101200000 +0100" stop="20210101200500 +0100" channel="NTV IC Kakanj">
+    <title lang="sl">Marketing</title>
+  </programme>
+  <programme start="20210101200500 +0100" stop="20210101202000 +0100" channel="NTV IC Kakanj">
+    <title lang="sl">Poročila IC</title>
+  </programme>
+  <programme start="20210101202000 +0100" stop="20210101202500 +0100" channel="NTV IC Kakanj">
+    <title lang="sl">Vremenska napoved</title>
+  </programme>
+  <programme start="20210101202500 +0100" stop="20210101203500 +0100" channel="NTV IC Kakanj">
+    <title lang="sl">Hutba</title>
+  </programme>
+  <programme start="20210101203500 +0100" stop="20210101210000 +0100" channel="NTV IC Kakanj">
+    <title lang="sl">Andaluzija</title>
+  </programme>
+  <programme start="20210101210000 +0100" stop="20210101214500 +0100" channel="NTV IC Kakanj">
+    <title lang="sl">Novoletni program</title>
+  </programme>
+  <programme start="20210101214500 +0100" stop="20210101220000 +0100" channel="NTV IC Kakanj">
+    <title lang="sl">Marketing</title>
+  </programme>
+  <programme start="20210101220000 +0100" stop="20210101235500 +0100" channel="NTV IC Kakanj">
+    <title lang="sl">Novoletni program</title>
   </programme>
   <programme start="20201229000000 +0100" stop="20201229020000 +0100" channel="Narodna TV">
     <title lang="sl">Glasbeni spoti</title>
@@ -5098,6 +4867,42 @@
     <title lang="sl">Glasbeni spoti</title>
   </programme>
   <programme start="20201231200000 +0100" stop="20201231220000 +0100" channel="Narodna TV">
+    <title lang="sl">Glasbeni spoti</title>
+  </programme>
+  <programme start="20201231220000 +0100" stop="20210101000000 +0100" channel="Narodna TV">
+    <title lang="sl">Glasbeni spoti</title>
+  </programme>
+  <programme start="20210101000000 +0100" stop="20210101020000 +0100" channel="Narodna TV">
+    <title lang="sl">Glasbeni spoti</title>
+  </programme>
+  <programme start="20210101020000 +0100" stop="20210101040000 +0100" channel="Narodna TV">
+    <title lang="sl">Glasbeni spoti</title>
+  </programme>
+  <programme start="20210101040000 +0100" stop="20210101060000 +0100" channel="Narodna TV">
+    <title lang="sl">Glasbeni spoti</title>
+  </programme>
+  <programme start="20210101060000 +0100" stop="20210101080000 +0100" channel="Narodna TV">
+    <title lang="sl">Glasbeni spoti</title>
+  </programme>
+  <programme start="20210101080000 +0100" stop="20210101100000 +0100" channel="Narodna TV">
+    <title lang="sl">Glasbeni spoti</title>
+  </programme>
+  <programme start="20210101100000 +0100" stop="20210101120000 +0100" channel="Narodna TV">
+    <title lang="sl">Glasbeni spoti</title>
+  </programme>
+  <programme start="20210101120000 +0100" stop="20210101140000 +0100" channel="Narodna TV">
+    <title lang="sl">Glasbeni spoti</title>
+  </programme>
+  <programme start="20210101140000 +0100" stop="20210101160000 +0100" channel="Narodna TV">
+    <title lang="sl">Glasbeni spoti</title>
+  </programme>
+  <programme start="20210101160000 +0100" stop="20210101180000 +0100" channel="Narodna TV">
+    <title lang="sl">Glasbeni spoti</title>
+  </programme>
+  <programme start="20210101180000 +0100" stop="20210101200000 +0100" channel="Narodna TV">
+    <title lang="sl">Glasbeni spoti</title>
+  </programme>
+  <programme start="20210101200000 +0100" stop="20210101220000 +0100" channel="Narodna TV">
     <title lang="sl">Glasbeni spoti</title>
   </programme>
 </tv>
