@@ -3,11 +3,9 @@ name: CI
 on:
   push:
     branches: [ master ]
-  pull_request:
-    branches: [ master ]
   schedule:
-    # 5:05 everyday
-    - cron:  '5 3 * * *'
+    # 4:02 everyday
+    - cron:  '2 2,16 * * *'
 
 jobs:
   split:
@@ -30,10 +28,11 @@ jobs:
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
   grab_v2:
+    timeout-minutes: 300
     needs: split
     strategy:
       matrix:
-        ch: [0, 1, 2, 3]
+        ch: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2

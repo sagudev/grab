@@ -26,10 +26,17 @@ do
 done;
 
 #v2
-mv "epg_grab_0.xml" "epg_grab.xml"
-tv_merge -i "epg_grab_1.xml" -m "epg_grab.xml" -o "epg_grab.xml"
-tv_merge -i "epg_grab_2.xml" -m "epg_grab.xml" -o "epg_grab.xml"
-tv_merge -i "epg_grab_3.xml" -m "epg_grab.xml" -o "epg_grab.xml"
+for filename in epg_grab_*.xml
+do
+  # Move firs one
+  if [[ "$filename" = "epg_grab_0.xml" ]]; then
+    mv -f "epg_grab_0.xml" "epg_grab.xml"
+    continue
+  fi
+  echo -e "merge ${filename}"
+  tv_merge -i "${filename}" -m "epg_grab.xml" -o "epg_grab.xml"
+
+done;
 
 # after merge same data is wrong
 echo "Normalize"
