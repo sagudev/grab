@@ -109,15 +109,15 @@ function merge() {
     done < ./itak.conf
 
     # Sort and merge
-    echo "Sorting epg_grab.xml"
-    tv_sort --by-channel --output "epg_grab_s.xml"  "epg_grab.xmltv"
+    echo "Sorting epg.xmltv"
+    tv_sort --by-channel --output "epg_grab_s.xml"  "epg.xmltv"
     echo "Sort epg_b.xml"
     tv_sort --by-channel --output "epg_b_s.xml"  "epg_b.xml"
     echo "Merging"
     tv_merge -i "epg_grab_s.xml" -m "epg_b_s.xml" -o "epg_v2.xmltv"
     tv_merge -i "epg_b_s.xml" -m "epg_grab_s.xml" -o "epg_v2_2.xmltv"
     # keep from only epg_grab
-    mv epg_grab_s.xml epg_grab.xmltv
+    mv epg_grab_s.xml epg.xmltv
 }
 
 function clr() {
