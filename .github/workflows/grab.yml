@@ -22,12 +22,12 @@ jobs:
         git add .
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git commit -m "Push" -a || true
+        git commit -m "Update ch files" -a || true
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-  grab_v2:
+  grab:
     timeout-minutes: 300
     needs: split
     strategy:
@@ -42,13 +42,13 @@ jobs:
       run: |
         source ./scripts/multi.sh
         install_xmltv
-        tv_grab_si --output "epg_grab_${{ matrix.ch }}.xml" --config-file "./ch/set${{ matrix.ch }}.conf"
+        tv_grab_si --output "grab_${{ matrix.ch }}.xml" --config-file "./ch/set${{ matrix.ch }}.conf"
     - name: Commit files
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git remote add origin2 https://${{ secrets.GH_TOKEN }}@github.com/sagudev/grab.git
-        git add --all && (git commit -m "Grab v2 set${{ matrix.ch }}" || echo "No changes to commit")
+        git add --all && (git commit -m "Grab set${{ matrix.ch }}" || echo "No changes to commit")
         until (git pull --rebase && git push origin2 HEAD:master)
         do
           echo "Try again"
@@ -70,13 +70,13 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git remote add origin2 https://${{ secrets.GH_TOKEN }}@github.com/sagudev/grab.git
-        git add --all && (git commit -m "Webgrab ${{ matrix.ch }}" || echo "No changes to commit")
+        git add --all && (git commit -m "wg ${{ matrix.ch }}" || echo "No changes to commit")
         until (git pull --rebase && git push origin2 HEAD:master)
         do
           echo "Try again"
         done
   pack:
-    needs: [grab_v2, grab_wg]
+    needs: [grab, grab_wg]
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
@@ -91,8 +91,8 @@ jobs:
         clr
     - name: Pack
       run: |
+        tar zcvf epg_wg.tar.gz epg_wg.xmltv && zip -r epg_wg.zip epg_wg.xmltv
         tar zcvf epg.tar.gz epg.xmltv && zip -r epg.zip epg.xmltv
-        tar zcvf epg_v2.tar.gz epg_v2.xmltv && zip -r epg_v2.zip epg_v2.xmltv
     - name: Commit files
       run: |
         git add .

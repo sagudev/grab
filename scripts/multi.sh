@@ -84,12 +84,12 @@ function install_xmltv() {
 function merge() {
     # Get ITAK data
     ## Download data from ITAK (if failed use old data)
-    wget -q http://freeweb.t-2.net/itak/epg_b.xml.gz -O /tmp/epg_b.xml.gz && mv /tmp/epg_b.xml.gz epg_b.xml.gz || echo "Itak not working, using old"
+    wget -q http://freeweb.t-2.net/itak/epg_b.xml.gz -O /tmp/epg_b.xml.gz && mv /tmp/epg_b.xml.gz ./epg_itak.xml.gz || echo "Itak not working, using old"
 
     ## Extract data
     ### tar files are sometimes corrupted so we are using 7z to extract
     sudo apt install p7zip-full p7zip-rar -y
-    7z e epg_b.xml.gz -y
+    7z e epg_itak.xml.gz -y
 
     ## Eq. data
     ### Itak id|siol_id|siol name
@@ -110,7 +110,7 @@ function merge() {
 
     # Sort and merge
     echo "Sorting epg_grab.xml"
-    tv_sort --by-channel --output "epg_grab_s.xml"  "epg_grab.xml"
+    tv_sort --by-channel --output "epg_grab_s.xml"  "epg_grab.xmltv"
     echo "Sort epg_b.xml"
     tv_sort --by-channel --output "epg_b_s.xml"  "epg_b.xml"
     echo "Merging"
@@ -122,5 +122,5 @@ function merge() {
 
 function clr() {
     # clean
-    rm epg_grab*.xml epg_b*.xml -rf
+    rm grab*.xml epg_b*.xml *_wg.xml -rf
 }

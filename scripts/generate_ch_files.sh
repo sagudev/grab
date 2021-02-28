@@ -18,7 +18,7 @@ do
    echo "Editing file $f"
    echo '<?xml version="1.0" encoding="UTF-8"?>
     <settings>
-    <filename>/data/'"$f"'.xmltv</filename>
+    <filename>/data/'"$f"'_wg.xml</filename>
     <mode>m</mode>
     <proxy>automatic</proxy>
     <user-agent>Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; yie9)</user-agent>
