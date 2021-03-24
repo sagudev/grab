@@ -527,10 +527,10 @@
   <programme start="20210325114100 +0100" stop="20210325123000 +0100" channel="Dr. Fit">
     <title lang="sl">Pretežki</title>
   </programme>
-  <programme start="20210325123000 +0100" stop="20210325130000 +0100" channel="Dr. Fit">
+  <programme start="20210325123000 +0100" stop="20210325125900 +0100" channel="Dr. Fit">
     <title lang="sl">Dr. Fit VADBA</title>
   </programme>
-  <programme start="20210325130000 +0100" stop="20210325133700 +0100" channel="Dr. Fit">
+  <programme start="20210325125900 +0100" stop="20210325133700 +0100" channel="Dr. Fit">
     <title lang="sl">V formi s slavnimi</title>
   </programme>
   <programme start="20210325133700 +0100" stop="20210325143300 +0100" channel="Dr. Fit">
@@ -572,10 +572,10 @@
   <programme start="20210325210200 +0100" stop="20210325214600 +0100" channel="Dr. Fit">
     <title lang="sl">Pretežki</title>
   </programme>
-  <programme start="20210325214600 +0100" stop="20210325221100 +0100" channel="Dr. Fit">
+  <programme start="20210325214600 +0100" stop="20210325221000 +0100" channel="Dr. Fit">
     <title lang="sl">Dr. Fit VADBA</title>
   </programme>
-  <programme start="20210325221100 +0100" stop="20210325230000 +0100" channel="Dr. Fit">
+  <programme start="20210325221000 +0100" stop="20210325230000 +0100" channel="Dr. Fit">
     <title lang="sl">V formi s slavnimi</title>
   </programme>
   <programme start="20210325230000 +0100" stop="20210325234400 +0100" channel="Dr. Fit">
@@ -587,10 +587,10 @@
   <programme start="20210326003600 +0100" stop="20210326005700 +0100" channel="Dr. Fit">
     <title lang="sl">V formi s slavnimi</title>
   </programme>
-  <programme start="20210326005700 +0100" stop="20210326013000 +0100" channel="Dr. Fit">
+  <programme start="20210326005700 +0100" stop="20210326012900 +0100" channel="Dr. Fit">
     <title lang="sl">Vodič k zdravi prehrani: Amerika</title>
   </programme>
-  <programme start="20210326013000 +0100" stop="20210326022400 +0100" channel="Dr. Fit">
+  <programme start="20210326012900 +0100" stop="20210326022400 +0100" channel="Dr. Fit">
     <title lang="sl">V formi s slavnimi</title>
   </programme>
   <programme start="20210326022400 +0100" stop="20210326024900 +0100" channel="Dr. Fit">
@@ -599,10 +599,10 @@
   <programme start="20210326024900 +0100" stop="20210326033700 +0100" channel="Dr. Fit">
     <title lang="sl">Čudodelec jogi Cameron</title>
   </programme>
-  <programme start="20210326033700 +0100" stop="20210326040800 +0100" channel="Dr. Fit">
+  <programme start="20210326033700 +0100" stop="20210326040700 +0100" channel="Dr. Fit">
     <title lang="sl">Prvi korak</title>
   </programme>
-  <programme start="20210326040800 +0100" stop="20210326050700 +0100" channel="Dr. Fit">
+  <programme start="20210326040700 +0100" stop="20210326050700 +0100" channel="Dr. Fit">
     <title lang="sl">V formi s slavnimi</title>
   </programme>
   <programme start="20210326050700 +0100" stop="20210326053500 +0100" channel="Dr. Fit">
@@ -3269,11 +3269,8 @@
   <programme start="20210327030000 +0100" stop="20210327040000 +0100" channel="Eurosport">
     <title lang="sl">Kolesarstvo (M): Svetovna turneja, San Remo</title>
   </programme>
-  <programme start="20210327040000 +0100" stop="20210327050000 +0100" channel="Eurosport">
+  <programme start="20210327040000 +0100" stop="20210327060000 +0100" channel="Eurosport">
     <title lang="sl">Kolesarstvo (M): Svetovna turneja, Belgija</title>
-  </programme>
-  <programme start="20210327050000 +0100" stop="20210327060000 +0100" channel="Eurosport">
-    <title lang="sl">Smučanje prostega sloga (M &amp; Ž): Smu. kros, svetovni pokal, Veysonnaz</title>
   </programme>
   <programme start="20210327060000 +0100" stop="20210327070000 +0100" channel="Eurosport">
     <title lang="sl">Smučarski skoki (M): Finale, svetovni pokal, Planica</title>
@@ -3308,6 +3305,9 @@
   <programme start="20210327220000 +0100" stop="20210327233000 +0100" channel="Eurosport">
     <title lang="sl">Kolesarstvo (M): Svetovna turneja, 6. etapa, Španija</title>
   </programme>
+  <programme start="20210327233000 +0100" stop="20210328050000 +0200" channel="Eurosport">
+    <title lang="sl">Smučarski skoki (M): Ekipna tekma, svetovni pokal, Planica</title>
+  </programme>
   <programme start="20210324003000 +0100" stop="20210324013500 +0100" channel="Eurosport 2">
     <title lang="sl">Smučanje prostega sloga (M &amp; Ž): Snežni žleb, svetovni pokal, Aspen</title>
   </programme>
@@ -3326,14 +3326,8 @@
   <programme start="20210324043000 +0100" stop="20210324050000 +0100" channel="Eurosport 2">
     <title lang="sl">Nordijska kombinacija: 10 km gundersen, svetovni pokal, Klingenthal</title>
   </programme>
-  <programme start="20210324050000 +0100" stop="20210324060000 +0100" channel="Eurosport 2">
+  <programme start="20210324050000 +0100" stop="20210324080000 +0100" channel="Eurosport 2">
     <title lang="sl">Kolesarstvo (M): Svetovna turneja, 6. etapa, Italija</title>
-  </programme>
-  <programme start="20210324060000 +0100" stop="20210324070000 +0100" channel="Eurosport 2">
-    <title lang="sl">Kolesarstvo (M): Svetovna turneja, 7. etapa, Italija</title>
-  </programme>
-  <programme start="20210324070000 +0100" stop="20210324080000 +0100" channel="Eurosport 2">
-    <title lang="sl">Kolesarstvo (M): Svetovna turneja, 2. etapa, Španija</title>
   </programme>
   <programme start="20210324080000 +0100" stop="20210324090000 +0100" channel="Eurosport 2">
     <title lang="sl">Smučanje prostega sloga (M &amp; Ž): Slopestyle, svetovni pokal, ZDA</title>
@@ -3344,68 +3338,65 @@
   <programme start="20210324100000 +0100" stop="20210324104500 +0100" channel="Eurosport 2">
     <title lang="sl">Lenzerheide: Slalom (Ž), 1. vožnja</title>
   </programme>
-  <programme start="20210324104500 +0100" stop="20210324113000 +0100" channel="Eurosport 2">
+  <programme start="20210324104500 +0100" stop="20210324113300 +0100" channel="Eurosport 2">
     <title lang="sl">Lenzerheide: Slalom (Ž), 2. vožnja</title>
   </programme>
-  <programme start="20210324113000 +0100" stop="20210324121500 +0100" channel="Eurosport 2">
-    <title lang="sl">Lenzerheide: Veleslalom (M), 1. vožnja</title>
+  <programme start="20210324113300 +0100" stop="20210324122200 +0100" channel="Eurosport 2">
+    <title lang="sl">Alpsko smučanje (M): Veleslalom, 1. vožnja, svetovni pokal, Lenzerheide</title>
   </programme>
-  <programme start="20210324121500 +0100" stop="20210324130500 +0100" channel="Eurosport 2">
-    <title lang="sl">Lenzerheide: Veleslalom (M), 2. vožnja</title>
+  <programme start="20210324122200 +0100" stop="20210324130900 +0100" channel="Eurosport 2">
+    <title lang="sl">Alpsko smučanje (M): Veleslalom, 2. vožnja, svetovni pokal, Lenzerheide</title>
   </programme>
-  <programme start="20210324130500 +0100" stop="20210324134500 +0100" channel="Eurosport 2">
-    <title lang="sl">Kolesarstvo (M): Pro Series, Belgija</title>
+  <programme start="20210324130900 +0100" stop="20210324134800 +0100" channel="Eurosport 2">
+    <title lang="sl">Kolesarstvo: Pro Series, Nokere / Koerse - 195 km</title>
   </programme>
-  <programme start="20210324134500 +0100" stop="20210324143000 +0100" channel="Eurosport 2">
-    <title lang="sl">Kolesarstvo (M): Pro Series, Belgija</title>
+  <programme start="20210324134800 +0100" stop="20210324142900 +0100" channel="Eurosport 2">
+    <title lang="sl">Kolesarstvo: UCI Pro Series - Bredene Koksijde Classic (Bel), Bredene / Koksijde - 199 km</title>
   </programme>
-  <programme start="20210324143000 +0100" stop="20210324150000 +0100" channel="Eurosport 2">
-    <title lang="sl">Kolesarstvo</title>
+  <programme start="20210324142900 +0100" stop="20210324150000 +0100" channel="Eurosport 2">
+    <title lang="sl">Kolesarstvo: Šov</title>
   </programme>
-  <programme start="20210324150000 +0100" stop="20210324170000 +0100" channel="Eurosport 2">
-    <title lang="sl">Kolesarstvo (M): Svetovna turneja, Belgija</title>
+  <programme start="20210324150000 +0100" stop="20210324165900 +0100" channel="Eurosport 2">
+    <title lang="sl">Kolesarstvo: UCI svetovna turneja, Brugge / De Panne - 203, 9 km</title>
   </programme>
-  <programme start="20210324170000 +0100" stop="20210324173000 +0100" channel="Eurosport 2">
-    <title lang="sl">Nordijska kombinacija: Svetovni pokal, Klingenthal</title>
+  <programme start="20210324165900 +0100" stop="20210324172900 +0100" channel="Eurosport 2">
+    <title lang="sl">Nordijska kombinacija: Svetovni pokal - Klingenthal (Nem); HS 140</title>
   </programme>
-  <programme start="20210324173000 +0100" stop="20210324180000 +0100" channel="Eurosport 2">
-    <title lang="sl">Nordijska kombinacija: 10 km gundersen, svetovni pokal, Klingenthal</title>
+  <programme start="20210324172900 +0100" stop="20210324180200 +0100" channel="Eurosport 2">
+    <title lang="sl">Nordijska kombinacija: 10 km Gundersen, posamezno, svetovni pokal, Klingenthal</title>
   </programme>
-  <programme start="20210324180000 +0100" stop="20210324183000 +0100" channel="Eurosport 2">
-    <title lang="sl">Nordijska kombinacija: Svetovni pokal, Klingenthal</title>
+  <programme start="20210324180200 +0100" stop="20210324182800 +0100" channel="Eurosport 2">
+    <title lang="sl">Nordijska kombinacija: Svetovni pokal - Klingenthal (Nem); HS 140</title>
   </programme>
-  <programme start="20210324183000 +0100" stop="20210324190000 +0100" channel="Eurosport 2">
-    <title lang="sl">Nordijska kombinacija: 10 km gundersen, svetovni pokal, Klingenthal</title>
+  <programme start="20210324182800 +0100" stop="20210324190000 +0100" channel="Eurosport 2">
+    <title lang="sl">Nordijska kombinacija: 10 km Gundersen, posamezno, svetovni pokal, Klingenthal</title>
   </programme>
   <programme start="20210324190000 +0100" stop="20210324200000 +0100" channel="Eurosport 2">
     <title lang="sl">Smučarski skoki (M): Kvalifikacije, svetovni pokal, Planica</title>
   </programme>
   <programme start="20210324200000 +0100" stop="20210324210000 +0100" channel="Eurosport 2">
-    <title lang="sl">Kolesarstvo (M): Svetovna turneja, 3. etapa, Španija</title>
+    <title lang="sl">Kolesarstvo: Dirka po Kataloniji, 3. etapa: Castelldefels / Vallter 2000 - 203, 1 km</title>
   </programme>
-  <programme start="20210324210000 +0100" stop="20210324213000 +0100" channel="Eurosport 2">
-    <title lang="sl">Golf: Turneja PGA, 1. dan, Dominikanska republika</title>
+  <programme start="20210324210000 +0100" stop="20210324212900 +0100" channel="Eurosport 2">
+    <title lang="sl">Golf: Tedenski GolfTV</title>
   </programme>
-  <programme start="20210324213000 +0100" stop="20210324220000 +0100" channel="Eurosport 2">
-    <title lang="sl">Biatlon (M): Svetovni pokal Östersundu, Švedska - zasledovalno</title>
+  <programme start="20210324212900 +0100" stop="20210324223000 +0100" channel="Eurosport 2">
+    <title lang="sl">Biatlon (M): Zasledovalna tekma, svetovni pokal, Ostersund</title>
   </programme>
-  <programme start="20210324220000 +0100" stop="20210324223000 +0100" channel="Eurosport 2">
-    <title lang="sl">Biatlon (M): Skupinski start, svetovni pokal, Östersund</title>
+  <programme start="20210324223000 +0100" stop="20210324230300 +0100" channel="Eurosport 2">
+    <title lang="sl">Biatlon (Ž): Zasledovalna tekma, svetovni pokal, Ostersund</title>
   </programme>
-  <programme start="20210324223000 +0100" stop="20210324230000 +0100" channel="Eurosport 2">
-    <title lang="sl">Biatlon (Ž): Svetovni pokal Östersundu, Švedska - zasledovalno</title>
-  </programme>
-  <programme start="20210324230000 +0100" stop="20210324233000 +0100" channel="Eurosport 2">
-    <title lang="sl">Biatlon (Ž): Skupinski start, svetovni pokal, Östersund</title>
+  <programme start="20210324230300 +0100" stop="20210324233000 +0100" channel="Eurosport 2">
+    <title lang="sl">Biatlon (Ž): Skupinski start, svetovni pokal, Ostersund</title>
   </programme>
   <programme start="20210324233000 +0100" stop="20210325003000 +0100" channel="Eurosport 2">
-    <title lang="sl">Kolesarstvo (M): Svetovna turneja, 3. etapa, Španija</title>
+    <title lang="sl">Kolesarstvo: Dirka po Kataloniji, 3. etapa: Castelldefels / Vallter 2000 - 203, 1 km</title>
   </programme>
   <programme start="20210325003000 +0100" stop="20210325013000 +0100" channel="Eurosport 2">
-    <title lang="sl">Deskanje na snegu (M &amp; Ž): Slopestyle, svetovni pokal, Aspen</title>
+    <title lang="sl">Deskanje na snegu (M &amp; Ž): Slopestyle, svetovno prvenstvo, Aspen</title>
   </programme>
   <programme start="20210325013000 +0100" stop="20210325030000 +0100" channel="Eurosport 2">
-    <title lang="sl">Kolesarstvo (M): Svetovna turneja, Belgija</title>
+    <title lang="sl">Kolesarstvo: UCI svetovna turneja, Brugge / De Panne - 203, 9 km</title>
   </programme>
   <programme start="20210325030000 +0100" stop="20210325033000 +0100" channel="Eurosport 2">
     <title lang="sl">Smučarski skoki (M): Kvalifikacije, svetovni pokal, Planica</title>
@@ -3462,7 +3453,7 @@
     <title lang="sl">Kolesarstvo (Ž): Svetovna turneja, Belgija</title>
   </programme>
   <programme start="20210325203000 +0100" stop="20210325210000 +0100" channel="Eurosport 2">
-    <title lang="sl">Golf: Turneja PGA, 1. dan, Dominikanska republika</title>
+    <title lang="sl">Golf</title>
   </programme>
   <programme start="20210325210000 +0100" stop="20210326000000 +0100" channel="Eurosport 2">
     <title lang="sl">Golf: Turneja PGA, 1. dan, Dominikanska republika</title>
@@ -4829,10 +4820,10 @@
   <programme start="20210325090000 +0100" stop="20210325095500 +0100" channel="FOX">
     <title lang="sl">Castle</title>
   </programme>
-  <programme start="20210325095500 +0100" stop="20210325102000 +0100" channel="FOX">
+  <programme start="20210325095500 +0100" stop="20210325102500 +0100" channel="FOX">
     <title lang="sl">Glavca</title>
   </programme>
-  <programme start="20210325102000 +0100" stop="20210325105000 +0100" channel="FOX">
+  <programme start="20210325102500 +0100" stop="20210325105000 +0100" channel="FOX">
     <title lang="sl">Glavca</title>
   </programme>
   <programme start="20210325105000 +0100" stop="20210325111500 +0100" channel="FOX">
@@ -4862,13 +4853,13 @@
   <programme start="20210325171000 +0100" stop="20210325180500 +0100" channel="FOX">
     <title lang="sl">Castle</title>
   </programme>
-  <programme start="20210325180500 +0100" stop="20210325183000 +0100" channel="FOX">
+  <programme start="20210325180500 +0100" stop="20210325183500 +0100" channel="FOX">
     <title lang="sl">Glavca</title>
   </programme>
-  <programme start="20210325183000 +0100" stop="20210325190000 +0100" channel="FOX">
+  <programme start="20210325183500 +0100" stop="20210325190500 +0100" channel="FOX">
     <title lang="sl">Glavca</title>
   </programme>
-  <programme start="20210325190000 +0100" stop="20210325193000 +0100" channel="FOX">
+  <programme start="20210325190500 +0100" stop="20210325193000 +0100" channel="FOX">
     <title lang="sl">Veliki pokovci</title>
   </programme>
   <programme start="20210325193000 +0100" stop="20210325200000 +0100" channel="FOX">
@@ -4898,10 +4889,10 @@
   <programme start="20210326031500 +0100" stop="20210326040000 +0100" channel="FOX">
     <title lang="sl">Star</title>
   </programme>
-  <programme start="20210326040000 +0100" stop="20210326045000 +0100" channel="FOX">
+  <programme start="20210326040000 +0100" stop="20210326044500 +0100" channel="FOX">
     <title lang="sl">Star</title>
   </programme>
-  <programme start="20210326045000 +0100" stop="20210326054000 +0100" channel="FOX">
+  <programme start="20210326044500 +0100" stop="20210326054000 +0100" channel="FOX">
     <title lang="sl">Chi</title>
   </programme>
   <programme start="20210326054000 +0100" stop="20210326060000 +0100" channel="FOX">
@@ -5459,55 +5450,55 @@
   <programme start="20210325054000 +0100" stop="20210325060000 +0100" channel="FOX Life">
     <title lang="sl">Brez besed</title>
   </programme>
-  <programme start="20210325060000 +0100" stop="20210325064500 +0100" channel="FOX Life">
+  <programme start="20210325060000 +0100" stop="20210325064000 +0100" channel="FOX Life">
     <title lang="sl">Vrnitev k prvi ljubezni</title>
   </programme>
-  <programme start="20210325064500 +0100" stop="20210325073500 +0100" channel="FOX Life">
+  <programme start="20210325064000 +0100" stop="20210325073000 +0100" channel="FOX Life">
     <title lang="sl">Talenti v belem</title>
   </programme>
-  <programme start="20210325073500 +0100" stop="20210325082500 +0100" channel="FOX Life">
+  <programme start="20210325073000 +0100" stop="20210325082500 +0100" channel="FOX Life">
     <title lang="sl">Zdravnikova vest</title>
   </programme>
-  <programme start="20210325082500 +0100" stop="20210325091500 +0100" channel="FOX Life">
+  <programme start="20210325082500 +0100" stop="20210325091000 +0100" channel="FOX Life">
     <title lang="sl">Chicaški zdravniki</title>
   </programme>
-  <programme start="20210325091500 +0100" stop="20210325094500 +0100" channel="FOX Life">
+  <programme start="20210325091000 +0100" stop="20210325094500 +0100" channel="FOX Life">
     <title lang="sl">Raymonda imajo vsi radi</title>
   </programme>
   <programme start="20210325094500 +0100" stop="20210325101000 +0100" channel="FOX Life">
     <title lang="sl">Raymonda imajo vsi radi</title>
   </programme>
-  <programme start="20210325101000 +0100" stop="20210325103500 +0100" channel="FOX Life">
+  <programme start="20210325101000 +0100" stop="20210325104000 +0100" channel="FOX Life">
     <title lang="sl">Raymonda imajo vsi radi</title>
   </programme>
-  <programme start="20210325103500 +0100" stop="20210325110500 +0100" channel="FOX Life">
+  <programme start="20210325104000 +0100" stop="20210325111000 +0100" channel="FOX Life">
     <title lang="sl">Raymonda imajo vsi radi</title>
   </programme>
-  <programme start="20210325110500 +0100" stop="20210325120000 +0100" channel="FOX Life">
+  <programme start="20210325111000 +0100" stop="20210325120000 +0100" channel="FOX Life">
     <title lang="sl">Razočarane gospodinje</title>
   </programme>
   <programme start="20210325120000 +0100" stop="20210325125500 +0100" channel="FOX Life">
     <title lang="sl">To smo mi</title>
   </programme>
-  <programme start="20210325125500 +0100" stop="20210325132500 +0100" channel="FOX Life">
+  <programme start="20210325125500 +0100" stop="20210325133000 +0100" channel="FOX Life">
     <title lang="sl">Z ljubeznijo, Victor</title>
   </programme>
-  <programme start="20210325132500 +0100" stop="20210325135000 +0100" channel="FOX Life">
+  <programme start="20210325133000 +0100" stop="20210325140500 +0100" channel="FOX Life">
     <title lang="sl">Z ljubeznijo, Victor</title>
   </programme>
-  <programme start="20210325135000 +0100" stop="20210325145000 +0100" channel="FOX Life">
+  <programme start="20210325140500 +0100" stop="20210325150000 +0100" channel="FOX Life">
     <title lang="sl">Vrnitev k prvi ljubezni</title>
   </programme>
-  <programme start="20210325145000 +0100" stop="20210325151500 +0100" channel="FOX Life">
+  <programme start="20210325150000 +0100" stop="20210325152500 +0100" channel="FOX Life">
     <title lang="sl">Brez besed</title>
   </programme>
-  <programme start="20210325151500 +0100" stop="20210325161000 +0100" channel="FOX Life">
+  <programme start="20210325152500 +0100" stop="20210325161500 +0100" channel="FOX Life">
     <title lang="sl">Talenti v belem</title>
   </programme>
-  <programme start="20210325161000 +0100" stop="20210325170500 +0100" channel="FOX Life">
+  <programme start="20210325161500 +0100" stop="20210325171000 +0100" channel="FOX Life">
     <title lang="sl">Zdravnikova vest</title>
   </programme>
-  <programme start="20210325170500 +0100" stop="20210325180000 +0100" channel="FOX Life">
+  <programme start="20210325171000 +0100" stop="20210325180000 +0100" channel="FOX Life">
     <title lang="sl">Chicaški zdravniki</title>
   </programme>
   <programme start="20210325180000 +0100" stop="20210325183000 +0100" channel="FOX Life">
@@ -5525,19 +5516,16 @@
   <programme start="20210325200000 +0100" stop="20210325210000 +0100" channel="FOX Life">
     <title lang="sl">Razočarane gospodinje</title>
   </programme>
-  <programme start="20210325210000 +0100" stop="20210325220000 +0100" channel="FOX Life">
-    <title lang="sl">Postaja 19</title>
-  </programme>
-  <programme start="20210325220000 +0100" stop="20210325225500 +0100" channel="FOX Life">
-    <title lang="sl">Talenti v belem</title>
+  <programme start="20210325210000 +0100" stop="20210325225500 +0100" channel="FOX Life">
+    <title lang="sl">Beethoven 2</title>
   </programme>
   <programme start="20210325225500 +0100" stop="20210325235000 +0100" channel="FOX Life">
     <title lang="sl">Zdravnikova vest</title>
   </programme>
-  <programme start="20210325235000 +0100" stop="20210326004500 +0100" channel="FOX Life">
+  <programme start="20210325235000 +0100" stop="20210326005000 +0100" channel="FOX Life">
     <title lang="sl">Chicaški zdravniki</title>
   </programme>
-  <programme start="20210326004500 +0100" stop="20210326014000 +0100" channel="FOX Life">
+  <programme start="20210326005000 +0100" stop="20210326014000 +0100" channel="FOX Life">
     <title lang="sl">Riverdale</title>
   </programme>
   <programme start="20210326014000 +0100" stop="20210326023000 +0100" channel="FOX Life">
