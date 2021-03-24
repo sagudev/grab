@@ -2,6 +2,7 @@
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.4.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="Kabel 1">
     <display-name lang="sl">Kabel 1</display-name>
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/kabel1.png" />
     <url>http://www.siol.net</url>
   </channel>
   <channel id="Kanal 5">
@@ -10,6 +11,7 @@
   </channel>
   <channel id="Kanal A">
     <display-name lang="sl">Kanal A</display-name>
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/akanal_updated30920122247.png" />
     <url>http://www.siol.net</url>
   </channel>
   <channel id="Kino">
@@ -28,6 +30,7 @@
   </channel>
   <channel id="MTV 1">
     <display-name lang="sl">MTV 1</display-name>
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/mktv1.png" />
     <url>http://www.siol.net</url>
   </channel>
   <channel id="MTV 2">
@@ -76,6 +79,7 @@
   </channel>
   <channel id="NET TV">
     <display-name lang="sl">NET TV</display-name>
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/net_updated181218115252.png" />
     <url>http://www.siol.net</url>
   </channel>
   <channel id="NTV IC Kakanj">
@@ -88,6 +92,585 @@
     <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/narodna.png" />
     <url>http://www.siol.net</url>
   </channel>
+  <programme start="20210324004000 +0100" stop="20210324025000 +0100" channel="Kabel 1">
+    <title lang="sl">Hitrost 2</title>
+  </programme>
+  <programme start="20210324025000 +0100" stop="20210324025500 +0100" channel="Kabel 1">
+    <title lang="sl">K1 večerne novice</title>
+  </programme>
+  <programme start="20210324025500 +0100" stop="20210324043000 +0100" channel="Kabel 1">
+    <title lang="sl">Nedosegljivi zakon</title>
+  </programme>
+  <programme start="20210324043000 +0100" stop="20210324043500 +0100" channel="Kabel 1">
+    <title lang="sl">K1 večerne novice</title>
+  </programme>
+  <programme start="20210324043500 +0100" stop="20210324051000 +0100" channel="Kabel 1">
+    <title lang="sl">Zločinski um: Onstran meja: Izginotje</title>
+  </programme>
+  <programme start="20210324051000 +0100" stop="20210324055500 +0100" channel="Kabel 1">
+    <title lang="sl">Mentalist: Zasačen</title>
+  </programme>
+  <programme start="20210324055500 +0100" stop="20210324064500 +0100" channel="Kabel 1">
+    <title lang="sl">Preiskovalci na delu: NCIS</title>
+  </programme>
+  <programme start="20210324064500 +0100" stop="20210324073500 +0100" channel="Kabel 1">
+    <title lang="sl">Preiskovalci na delu: NCIS: Zmenek</title>
+  </programme>
+  <programme start="20210324073500 +0100" stop="20210324083000 +0100" channel="Kabel 1">
+    <title lang="sl">Preiskovalci na delu: NCIS New Orleans: Ubiti zmaja</title>
+  </programme>
+  <programme start="20210324083000 +0100" stop="20210324092500 +0100" channel="Kabel 1">
+    <title lang="sl">Preiskovalci na delu: NCIS New Orleans: Brez prič</title>
+  </programme>
+  <programme start="20210324092500 +0100" stop="20210324102000 +0100" channel="Kabel 1">
+    <title lang="sl">Policijska družina: Bojevniki</title>
+  </programme>
+  <programme start="20210324102000 +0100" stop="20210324111500 +0100" channel="Kabel 1">
+    <title lang="sl">Policijska družina: Menjava</title>
+  </programme>
+  <programme start="20210324111500 +0100" stop="20210324120500 +0100" channel="Kabel 1">
+    <title lang="sl">Castle: Nov začetek</title>
+  </programme>
+  <programme start="20210324120500 +0100" stop="20210324130000 +0100" channel="Kabel 1">
+    <title lang="sl">Castle: Junaki in zlobneži</title>
+  </programme>
+  <programme start="20210324130000 +0100" stop="20210324140000 +0100" channel="Kabel 1">
+    <title lang="sl">Mentalist: Glas iz onostranstva</title>
+  </programme>
+  <programme start="20210324140000 +0100" stop="20210324145000 +0100" channel="Kabel 1">
+    <title lang="sl">Mentalist: Tanka rdeča črta</title>
+  </programme>
+  <programme start="20210324145000 +0100" stop="20210324155000 +0100" channel="Kabel 1">
+    <title lang="sl">Preiskovalci na delu: NCIS: Vojaško letalo</title>
+  </programme>
+  <programme start="20210324155000 +0100" stop="20210324160000 +0100" channel="Kabel 1">
+    <title lang="sl">K1 Novice</title>
+  </programme>
+  <programme start="20210324160000 +0100" stop="20210324165500 +0100" channel="Kabel 1">
+    <title lang="sl">Preiskovalci na delu: NCIS: Padalec</title>
+  </programme>
+  <programme start="20210324165500 +0100" stop="20210324175500 +0100" channel="Kabel 1">
+    <title lang="sl">Pustolovščina življenje, dnevna oddaja</title>
+  </programme>
+  <programme start="20210324175500 +0100" stop="20210324185500 +0100" channel="Kabel 1">
+    <title lang="sl">Moja restavracija, tvoja restavracija: "Burgschänke", Kaiserslautern</title>
+  </programme>
+  <programme start="20210324185500 +0100" stop="20210324201500 +0100" channel="Kabel 1">
+    <title lang="sl">Pozor, kontrola!</title>
+  </programme>
+  <programme start="20210324201500 +0100" stop="20210324230000 +0100" channel="Kabel 1">
+    <title lang="sl">Vesoljski kavboji</title>
+  </programme>
+  <programme start="20210324230000 +0100" stop="20210325012000 +0100" channel="Kabel 1">
+    <title lang="sl">Popolna oblast</title>
+  </programme>
+  <programme start="20210325012000 +0100" stop="20210325012500 +0100" channel="Kabel 1">
+    <title lang="sl">Oglej si: Kino magazin</title>
+  </programme>
+  <programme start="20210325012500 +0100" stop="20210325013000 +0100" channel="Kabel 1">
+    <title lang="sl">K1 večerne novice</title>
+  </programme>
+  <programme start="20210325013000 +0100" stop="20210325034000 +0100" channel="Kabel 1">
+    <title lang="sl">Vesoljski kavboji</title>
+  </programme>
+  <programme start="20210325034000 +0100" stop="20210325034500 +0100" channel="Kabel 1">
+    <title lang="sl">K1 večerne novice</title>
+  </programme>
+  <programme start="20210325034500 +0100" stop="20210325053500 +0100" channel="Kabel 1">
+    <title lang="sl">Popolna oblast</title>
+  </programme>
+  <programme start="20210325053500 +0100" stop="20210325055500 +0100" channel="Kabel 1">
+    <title lang="sl">Pustolovščina življenje, posebna oddaja</title>
+  </programme>
+  <programme start="20210325055500 +0100" stop="20210325064500 +0100" channel="Kabel 1">
+    <title lang="sl">Preiskovalci na delu: NCIS: Vojaško letalo</title>
+  </programme>
+  <programme start="20210325064500 +0100" stop="20210325074000 +0100" channel="Kabel 1">
+    <title lang="sl">Preiskovalci na delu: NCIS: Padalec</title>
+  </programme>
+  <programme start="20210325074000 +0100" stop="20210325083500 +0100" channel="Kabel 1">
+    <title lang="sl">Preiskovalci na delu: NCIS New Orleans: Brez prič</title>
+  </programme>
+  <programme start="20210325083500 +0100" stop="20210325093000 +0100" channel="Kabel 1">
+    <title lang="sl">Preiskovalci na delu: NCIS New Orleans: Družinsko orožje</title>
+  </programme>
+  <programme start="20210325093000 +0100" stop="20210325102500 +0100" channel="Kabel 1">
+    <title lang="sl">Policijska družina: Menjava</title>
+  </programme>
+  <programme start="20210325102500 +0100" stop="20210325111500 +0100" channel="Kabel 1">
+    <title lang="sl">Policijska družina: Preveč protestiranja</title>
+  </programme>
+  <programme start="20210325111500 +0100" stop="20210325121000 +0100" channel="Kabel 1">
+    <title lang="sl">Castle: Brez glave</title>
+  </programme>
+  <programme start="20210325121000 +0100" stop="20210325130500 +0100" channel="Kabel 1">
+    <title lang="sl">Castle: Balistika</title>
+  </programme>
+  <programme start="20210325130500 +0100" stop="20210325140000 +0100" channel="Kabel 1">
+    <title lang="sl">Mentalist: Ognjeno rdeča</title>
+  </programme>
+  <programme start="20210325140000 +0100" stop="20210325145500 +0100" channel="Kabel 1">
+    <title lang="sl">Mentalist: Znanstvenik</title>
+  </programme>
+  <programme start="20210325145500 +0100" stop="20210325155000 +0100" channel="Kabel 1">
+    <title lang="sl">Preiskovalci na delu: NCIS: Na morju</title>
+  </programme>
+  <programme start="20210325155000 +0100" stop="20210325160000 +0100" channel="Kabel 1">
+    <title lang="sl">K1 Novice</title>
+  </programme>
+  <programme start="20210325160000 +0100" stop="20210325165500 +0100" channel="Kabel 1">
+    <title lang="sl">Preiskovalci na delu: NCIS: Nesmrtni</title>
+  </programme>
+  <programme start="20210325165500 +0100" stop="20210325175500 +0100" channel="Kabel 1">
+    <title lang="sl">Pustolovščina življenje, dnevna oddaja</title>
+  </programme>
+  <programme start="20210325175500 +0100" stop="20210325185500 +0100" channel="Kabel 1">
+    <title lang="sl">Moja restavracija, tvoja restavracija: "Servus", Kaiserslautern</title>
+  </programme>
+  <programme start="20210325185500 +0100" stop="20210325201500 +0100" channel="Kabel 1">
+    <title lang="sl">Pozor, kontrola!</title>
+  </programme>
+  <programme start="20210325201500 +0100" stop="20210325222000 +0100" channel="Kabel 1">
+    <title lang="sl">Pozor, goljufija!</title>
+  </programme>
+  <programme start="20210325222000 +0100" stop="20210325232000 +0100" channel="Kabel 1">
+    <title lang="sl">K1 Magazin</title>
+  </programme>
+  <programme start="20210325232000 +0100" stop="20210326011000 +0100" channel="Kabel 1">
+    <title lang="sl">Pozor, goljufija!</title>
+  </programme>
+  <programme start="20210326011000 +0100" stop="20210326011500 +0100" channel="Kabel 1">
+    <title lang="sl">K1 večerne novice</title>
+  </programme>
+  <programme start="20210326011500 +0100" stop="20210326025500 +0100" channel="Kabel 1">
+    <title lang="sl">Tovornjakarice</title>
+  </programme>
+  <programme start="20210326025500 +0100" stop="20210326030000 +0100" channel="Kabel 1">
+    <title lang="sl">K1 večerne novice</title>
+  </programme>
+  <programme start="20210326030000 +0100" stop="20210326040500 +0100" channel="Kabel 1">
+    <title lang="sl">Pozor, kontrola!</title>
+  </programme>
+  <programme start="20210326040500 +0100" stop="20210326051000 +0100" channel="Kabel 1">
+    <title lang="sl">Pozor, kontrola!</title>
+  </programme>
+  <programme start="20210326051000 +0100" stop="20210326055500 +0100" channel="Kabel 1">
+    <title lang="sl">K1 Magazin</title>
+  </programme>
+  <programme start="20210326055500 +0100" stop="20210326064500 +0100" channel="Kabel 1">
+    <title lang="sl">Preiskovalci na delu: NCIS: Na morju</title>
+  </programme>
+  <programme start="20210326064500 +0100" stop="20210326073500 +0100" channel="Kabel 1">
+    <title lang="sl">Preiskovalci na delu: NCIS: Nesmrtni</title>
+  </programme>
+  <programme start="20210326073500 +0100" stop="20210326083000 +0100" channel="Kabel 1">
+    <title lang="sl">Preiskovalci na delu: NCIS New Orleans: Družinsko orožje</title>
+  </programme>
+  <programme start="20210326083000 +0100" stop="20210326092000 +0100" channel="Kabel 1">
+    <title lang="sl">Preiskovalci na delu: NCIS New Orleans: Udarec</title>
+  </programme>
+  <programme start="20210326092000 +0100" stop="20210326101500 +0100" channel="Kabel 1">
+    <title lang="sl">Policijska družina: Preveč protestiranja</title>
+  </programme>
+  <programme start="20210326101500 +0100" stop="20210326111000 +0100" channel="Kabel 1">
+    <title lang="sl">Policijska družina: Brez obžalovanja</title>
+  </programme>
+  <programme start="20210326111000 +0100" stop="20210326120500 +0100" channel="Kabel 1">
+    <title lang="sl">Castle: V očeh opazovalca</title>
+  </programme>
+  <programme start="20210326120500 +0100" stop="20210326130000 +0100" channel="Kabel 1">
+    <title lang="sl">Castle: Demoni</title>
+  </programme>
+  <programme start="20210326130000 +0100" stop="20210326140000 +0100" channel="Kabel 1">
+    <title lang="sl">Mentalist: Stari prijatelj</title>
+  </programme>
+  <programme start="20210326140000 +0100" stop="20210326145500 +0100" channel="Kabel 1">
+    <title lang="sl">Mentalist: Črna magija</title>
+  </programme>
+  <programme start="20210326145500 +0100" stop="20210326155000 +0100" channel="Kabel 1">
+    <title lang="sl">Preiskovalci na delu: NCIS: Prekletstvo</title>
+  </programme>
+  <programme start="20210326155000 +0100" stop="20210326160000 +0100" channel="Kabel 1">
+    <title lang="sl">K1 Novice</title>
+  </programme>
+  <programme start="20210326160000 +0100" stop="20210326165500 +0100" channel="Kabel 1">
+    <title lang="sl">Preiskovalci na delu: NCIS: Odprto morje</title>
+  </programme>
+  <programme start="20210326165500 +0100" stop="20210326175500 +0100" channel="Kabel 1">
+    <title lang="sl">Pustolovščina življenje, dnevna oddaja</title>
+  </programme>
+  <programme start="20210326175500 +0100" stop="20210326185500 +0100" channel="Kabel 1">
+    <title lang="sl">Moja restavracija, tvoja restavracija: "Karstens Esszimmer", Eisenberg</title>
+  </programme>
+  <programme start="20210326185500 +0100" stop="20210326201500 +0100" channel="Kabel 1">
+    <title lang="sl">Pozor, kontrola!</title>
+  </programme>
+  <programme start="20210326201500 +0100" stop="20210326211500 +0100" channel="Kabel 1">
+    <title lang="sl">Preiskovalci na delu: NCIS: Izhodna strategija</title>
+  </programme>
+  <programme start="20210326211500 +0100" stop="20210326221500 +0100" channel="Kabel 1">
+    <title lang="sl">Preiskovalci na delu: NCIS: Nevihta</title>
+  </programme>
+  <programme start="20210326221500 +0100" stop="20210326231500 +0100" channel="Kabel 1">
+    <title lang="sl">Preiskovalci na delu: NCIS L. A.: Na prostosti</title>
+  </programme>
+  <programme start="20210326231500 +0100" stop="20210327001000 +0100" channel="Kabel 1">
+    <title lang="sl">Preiskovalci na delu: NCIS L. A.: Nebrzdano</title>
+  </programme>
+  <programme start="20210327001000 +0100" stop="20210327010000 +0100" channel="Kabel 1">
+    <title lang="sl">Preiskovalci na delu: NCIS L.A.: Smrtonosna hiša</title>
+  </programme>
+  <programme start="20210327010000 +0100" stop="20210327010500 +0100" channel="Kabel 1">
+    <title lang="sl">K1 večerne novice</title>
+  </programme>
+  <programme start="20210327010500 +0100" stop="20210327015500 +0100" channel="Kabel 1">
+    <title lang="sl">Preiskovalci na delu: NCIS: Izhodna strategija</title>
+  </programme>
+  <programme start="20210327015500 +0100" stop="20210327024500 +0100" channel="Kabel 1">
+    <title lang="sl">Preiskovalci na delu: NCIS: Nevihta</title>
+  </programme>
+  <programme start="20210327024500 +0100" stop="20210327025000 +0100" channel="Kabel 1">
+    <title lang="sl">K1 večerne novice</title>
+  </programme>
+  <programme start="20210327025000 +0100" stop="20210327033000 +0100" channel="Kabel 1">
+    <title lang="sl">Preiskovalci na delu: NCIS L. A.: Na prostosti</title>
+  </programme>
+  <programme start="20210327033000 +0100" stop="20210327041000 +0100" channel="Kabel 1">
+    <title lang="sl">Telo kot dokaz: Travma</title>
+  </programme>
+  <programme start="20210327041000 +0100" stop="20210327045000 +0100" channel="Kabel 1">
+    <title lang="sl">Številke: Hudičevka</title>
+  </programme>
+  <programme start="20210327045000 +0100" stop="20210327053000 +0100" channel="Kabel 1">
+    <title lang="sl">Zločinski um: Onstran meja: Izginotje</title>
+  </programme>
+  <programme start="20210327053000 +0100" stop="20210327062000 +0100" channel="Kabel 1">
+    <title lang="sl">Skrite priče: Antisocialno omrežje</title>
+  </programme>
+  <programme start="20210327062000 +0100" stop="20210327071500 +0100" channel="Kabel 1">
+    <title lang="sl">Mentalist: Stari prijatelj</title>
+  </programme>
+  <programme start="20210327071500 +0100" stop="20210327081000 +0100" channel="Kabel 1">
+    <title lang="sl">Mentalist: Črna magija</title>
+  </programme>
+  <programme start="20210327081000 +0100" stop="20210327090500 +0100" channel="Kabel 1">
+    <title lang="sl">Policijska družina: Postranska škoda</title>
+  </programme>
+  <programme start="20210327090500 +0100" stop="20210327100000 +0100" channel="Kabel 1">
+    <title lang="sl">Policijska družina: Materinski dan</title>
+  </programme>
+  <programme start="20210327100000 +0100" stop="20210327105500 +0100" channel="Kabel 1">
+    <title lang="sl">Castle: Smrt v piceriji</title>
+  </programme>
+  <programme start="20210327105500 +0100" stop="20210327115000 +0100" channel="Kabel 1">
+    <title lang="sl">Castle: Smrt v bazenu</title>
+  </programme>
+  <programme start="20210327115000 +0100" stop="20210327124500 +0100" channel="Kabel 1">
+    <title lang="sl">Castle: Ljubiti in umreti v L. A.-ju</title>
+  </programme>
+  <programme start="20210327124500 +0100" stop="20210327134000 +0100" channel="Kabel 1">
+    <title lang="sl">Castle: Dokaj mrtev</title>
+  </programme>
+  <programme start="20210327134000 +0100" stop="20210327143000 +0100" channel="Kabel 1">
+    <title lang="sl">Castle: Nov začetek</title>
+  </programme>
+  <programme start="20210327143000 +0100" stop="20210327153000 +0100" channel="Kabel 1">
+    <title lang="sl">Castle: Junaki in zlobneži</title>
+  </programme>
+  <programme start="20210327153000 +0100" stop="20210327162500 +0100" channel="Kabel 1">
+    <title lang="sl">Evreka: Novi svet</title>
+  </programme>
+  <programme start="20210327162500 +0100" stop="20210327163500 +0100" channel="Kabel 1">
+    <title lang="sl">K1 Novice</title>
+  </programme>
+  <programme start="20210327163500 +0100" stop="20210327173000 +0100" channel="Kabel 1">
+    <title lang="sl">Evreka: Bes</title>
+  </programme>
+  <programme start="20210327173000 +0100" stop="20210327182500 +0100" channel="Kabel 1">
+    <title lang="sl">Evreka: Zgodba O2</title>
+  </programme>
+  <programme start="20210327182500 +0100" stop="20210327191500 +0100" channel="Kabel 1">
+    <title lang="sl">Evreka: Prehajanje</title>
+  </programme>
+  <programme start="20210327191500 +0100" stop="20210327201500 +0100" channel="Kabel 1">
+    <title lang="sl">Evreka: Pošastnost</title>
+  </programme>
+  <programme start="20210327201500 +0100" stop="20210327211500 +0100" channel="Kabel 1">
+    <title lang="sl">MacGyver: Improvizacija</title>
+  </programme>
+  <programme start="20210327211500 +0100" stop="20210327221500 +0100" channel="Kabel 1">
+    <title lang="sl">MacGyver: Zvestoba in prijateljstvo</title>
+  </programme>
+  <programme start="20210327221500 +0100" stop="20210327231500 +0100" channel="Kabel 1">
+    <title lang="sl">Smrtonosno orožje: Nori Američan</title>
+  </programme>
+  <programme start="20210324000000 +0100" stop="20210324015500 +0100" channel="Kanal A">
+    <title lang="sl">CHiPs</title>
+  </programme>
+  <programme start="20210324015500 +0100" stop="20210324060000 +0100" channel="Kanal A">
+    <title lang="sl">Glasbeni mikser</title>
+  </programme>
+  <programme start="20210324060000 +0100" stop="20210324062000 +0100" channel="Kanal A">
+    <title lang="sl">Pavza!</title>
+  </programme>
+  <programme start="20210324062000 +0100" stop="20210324072000 +0100" channel="Kanal A">
+    <title lang="sl">Svet</title>
+  </programme>
+  <programme start="20210324072000 +0100" stop="20210324073500 +0100" channel="Kanal A">
+    <title lang="sl">Vaše zdravje, naša skrb</title>
+  </programme>
+  <programme start="20210324073500 +0100" stop="20210324083000 +0100" channel="Kanal A">
+    <title lang="sl">Supergirl</title>
+  </programme>
+  <programme start="20210324083000 +0100" stop="20210324093500 +0100" channel="Kanal A">
+    <title lang="sl">Top Gear</title>
+  </programme>
+  <programme start="20210324093500 +0100" stop="20210324095000 +0100" channel="Kanal A">
+    <title lang="sl">Vaše zdravje, naša skrb</title>
+  </programme>
+  <programme start="20210324095000 +0100" stop="20210324105000 +0100" channel="Kanal A">
+    <title lang="sl">Mojstri šminke</title>
+  </programme>
+  <programme start="20210324105000 +0100" stop="20210324115000 +0100" channel="Kanal A">
+    <title lang="sl">Alarm za Kobro 11</title>
+  </programme>
+  <programme start="20210324115000 +0100" stop="20210324120500 +0100" channel="Kanal A">
+    <title lang="sl">Vaše zdravje, naša skrb</title>
+  </programme>
+  <programme start="20210324120500 +0100" stop="20210324123500 +0100" channel="Kanal A">
+    <title lang="sl">Will in Grace</title>
+  </programme>
+  <programme start="20210324123500 +0100" stop="20210324130500 +0100" channel="Kanal A">
+    <title lang="sl">Will in Grace</title>
+  </programme>
+  <programme start="20210324130500 +0100" stop="20210324133000 +0100" channel="Kanal A">
+    <title lang="sl">Nepraktični šaljivci</title>
+  </programme>
+  <programme start="20210324133000 +0100" stop="20210324143500 +0100" channel="Kanal A">
+    <title lang="sl">Supergirl</title>
+  </programme>
+  <programme start="20210324143500 +0100" stop="20210324145000 +0100" channel="Kanal A">
+    <title lang="sl">Vaše zdravje, naša skrb</title>
+  </programme>
+  <programme start="20210324145000 +0100" stop="20210324154500 +0100" channel="Kanal A">
+    <title lang="sl">Mojstri šminke</title>
+  </programme>
+  <programme start="20210324154500 +0100" stop="20210324165000 +0100" channel="Kanal A">
+    <title lang="sl">Top Gear</title>
+  </programme>
+  <programme start="20210324165000 +0100" stop="20210324175500 +0100" channel="Kanal A">
+    <title lang="sl">Alarm za Kobro 11</title>
+  </programme>
+  <programme start="20210324175500 +0100" stop="20210324185500 +0100" channel="Kanal A">
+    <title lang="sl">Svet</title>
+  </programme>
+  <programme start="20210324185500 +0100" stop="20210324192000 +0100" channel="Kanal A">
+    <title lang="sl">Will in Grace</title>
+  </programme>
+  <programme start="20210324192000 +0100" stop="20210324195000 +0100" channel="Kanal A">
+    <title lang="sl">Will in Grace</title>
+  </programme>
+  <programme start="20210324195000 +0100" stop="20210324200000 +0100" channel="Kanal A">
+    <title lang="sl">Svet</title>
+  </programme>
+  <programme start="20210324200000 +0100" stop="20210324221500 +0100" channel="Kanal A">
+    <title lang="sl">Indiana Jones in tempelj smrti</title>
+  </programme>
+  <programme start="20210324221500 +0100" stop="20210325002500 +0100" channel="Kanal A">
+    <title lang="sl">Tropski vihar</title>
+  </programme>
+  <programme start="20210325002500 +0100" stop="20210325020500 +0100" channel="Kanal A">
+    <title lang="sl">Vstaja robotov</title>
+  </programme>
+  <programme start="20210325020500 +0100" stop="20210325060000 +0100" channel="Kanal A">
+    <title lang="sl">Glasbeni mikser</title>
+  </programme>
+  <programme start="20210325060000 +0100" stop="20210325065000 +0100" channel="Kanal A">
+    <title lang="sl">Pavza!</title>
+  </programme>
+  <programme start="20210325065000 +0100" stop="20210325074000 +0100" channel="Kanal A">
+    <title lang="sl">Svet</title>
+  </programme>
+  <programme start="20210325074000 +0100" stop="20210325075500 +0100" channel="Kanal A">
+    <title lang="sl">Vaše zdravje, naša skrb</title>
+  </programme>
+  <programme start="20210325075500 +0100" stop="20210325085000 +0100" channel="Kanal A">
+    <title lang="sl">Supergirl</title>
+  </programme>
+  <programme start="20210325085000 +0100" stop="20210325095500 +0100" channel="Kanal A">
+    <title lang="sl">Top Gear</title>
+  </programme>
+  <programme start="20210325095500 +0100" stop="20210325101000 +0100" channel="Kanal A">
+    <title lang="sl">Vaše zdravje, naša skrb</title>
+  </programme>
+  <programme start="20210325101000 +0100" stop="20210325110500 +0100" channel="Kanal A">
+    <title lang="sl">Mojstri šminke</title>
+  </programme>
+  <programme start="20210325110500 +0100" stop="20210325120500 +0100" channel="Kanal A">
+    <title lang="sl">Alarm za Kobro 11</title>
+  </programme>
+  <programme start="20210325120500 +0100" stop="20210325122000 +0100" channel="Kanal A">
+    <title lang="sl">Vaše zdravje, naša skrb</title>
+  </programme>
+  <programme start="20210325122000 +0100" stop="20210325124500 +0100" channel="Kanal A">
+    <title lang="sl">Will in Grace</title>
+  </programme>
+  <programme start="20210325124500 +0100" stop="20210325131500 +0100" channel="Kanal A">
+    <title lang="sl">Will in Grace</title>
+  </programme>
+  <programme start="20210325131500 +0100" stop="20210325134000 +0100" channel="Kanal A">
+    <title lang="sl">Nepraktični šaljivci</title>
+  </programme>
+  <programme start="20210325134000 +0100" stop="20210325143500 +0100" channel="Kanal A">
+    <title lang="sl">Supergirl</title>
+  </programme>
+  <programme start="20210325143500 +0100" stop="20210325145000 +0100" channel="Kanal A">
+    <title lang="sl">Vaše zdravje, naša skrb</title>
+  </programme>
+  <programme start="20210325145000 +0100" stop="20210325154500 +0100" channel="Kanal A">
+    <title lang="sl">Mojstri šminke</title>
+  </programme>
+  <programme start="20210325154500 +0100" stop="20210325165000 +0100" channel="Kanal A">
+    <title lang="sl">Top Gear</title>
+  </programme>
+  <programme start="20210325165000 +0100" stop="20210325175500 +0100" channel="Kanal A">
+    <title lang="sl">Alarm za Kobro 11</title>
+  </programme>
+  <programme start="20210325175500 +0100" stop="20210325185500 +0100" channel="Kanal A">
+    <title lang="sl">Svet</title>
+  </programme>
+  <programme start="20210325185500 +0100" stop="20210325192000 +0100" channel="Kanal A">
+    <title lang="sl">Will in Grace</title>
+  </programme>
+  <programme start="20210325192000 +0100" stop="20210325194500 +0100" channel="Kanal A">
+    <title lang="sl">Will in Grace</title>
+  </programme>
+  <programme start="20210325194500 +0100" stop="20210325200000 +0100" channel="Kanal A">
+    <title lang="sl">Svet</title>
+  </programme>
+  <programme start="20210325200000 +0100" stop="20210325215000 +0100" channel="Kanal A">
+    <title lang="sl">Arktični mrk</title>
+  </programme>
+  <programme start="20210325215000 +0100" stop="20210326001000 +0100" channel="Kanal A">
+    <title lang="sl">Ben-Hur</title>
+  </programme>
+  <programme start="20210326001000 +0100" stop="20210326021500 +0100" channel="Kanal A">
+    <title lang="sl">Brivci: Nov začetek</title>
+  </programme>
+  <programme start="20210326021500 +0100" stop="20210326060000 +0100" channel="Kanal A">
+    <title lang="sl">Glasbeni mikser</title>
+  </programme>
+  <programme start="20210326060000 +0100" stop="20210326062500 +0100" channel="Kanal A">
+    <title lang="sl">Pavza!</title>
+  </programme>
+  <programme start="20210326062500 +0100" stop="20210326072500 +0100" channel="Kanal A">
+    <title lang="sl">Svet</title>
+  </programme>
+  <programme start="20210326072500 +0100" stop="20210326074000 +0100" channel="Kanal A">
+    <title lang="sl">Vaše zdravje, naša skrb</title>
+  </programme>
+  <programme start="20210326074000 +0100" stop="20210326083500 +0100" channel="Kanal A">
+    <title lang="sl">Supergirl</title>
+  </programme>
+  <programme start="20210326083500 +0100" stop="20210326094000 +0100" channel="Kanal A">
+    <title lang="sl">Top Gear</title>
+  </programme>
+  <programme start="20210326094000 +0100" stop="20210326095500 +0100" channel="Kanal A">
+    <title lang="sl">Vaše zdravje, naša skrb</title>
+  </programme>
+  <programme start="20210326095500 +0100" stop="20210326105000 +0100" channel="Kanal A">
+    <title lang="sl">Mojstri šminke</title>
+  </programme>
+  <programme start="20210326105000 +0100" stop="20210326115000 +0100" channel="Kanal A">
+    <title lang="sl">Alarm za Kobro 11</title>
+  </programme>
+  <programme start="20210326115000 +0100" stop="20210326120500 +0100" channel="Kanal A">
+    <title lang="sl">Vaše zdravje, naša skrb</title>
+  </programme>
+  <programme start="20210326120500 +0100" stop="20210326123000 +0100" channel="Kanal A">
+    <title lang="sl">Will in Grace</title>
+  </programme>
+  <programme start="20210326123000 +0100" stop="20210326130000 +0100" channel="Kanal A">
+    <title lang="sl">Will in Grace</title>
+  </programme>
+  <programme start="20210326130000 +0100" stop="20210326133000 +0100" channel="Kanal A">
+    <title lang="sl">Nepraktični šaljivci</title>
+  </programme>
+  <programme start="20210326133000 +0100" stop="20210326142500 +0100" channel="Kanal A">
+    <title lang="sl">Supergirl</title>
+  </programme>
+  <programme start="20210326142500 +0100" stop="20210326144000 +0100" channel="Kanal A">
+    <title lang="sl">Vaše zdravje, naša skrb</title>
+  </programme>
+  <programme start="20210326144000 +0100" stop="20210326154000 +0100" channel="Kanal A">
+    <title lang="sl">Mojstri šminke</title>
+  </programme>
+  <programme start="20210326154000 +0100" stop="20210326165000 +0100" channel="Kanal A">
+    <title lang="sl">Top Gear</title>
+  </programme>
+  <programme start="20210326165000 +0100" stop="20210326175500 +0100" channel="Kanal A">
+    <title lang="sl">Alarm za Kobro 11</title>
+  </programme>
+  <programme start="20210326175500 +0100" stop="20210326185500 +0100" channel="Kanal A">
+    <title lang="sl">Svet</title>
+  </programme>
+  <programme start="20210326185500 +0100" stop="20210326192000 +0100" channel="Kanal A">
+    <title lang="sl">Will in Grace</title>
+  </programme>
+  <programme start="20210326192000 +0100" stop="20210326194500 +0100" channel="Kanal A">
+    <title lang="sl">Will in Grace</title>
+  </programme>
+  <programme start="20210326194500 +0100" stop="20210326200000 +0100" channel="Kanal A">
+    <title lang="sl">Svet</title>
+  </programme>
+  <programme start="20210326200000 +0100" stop="20210326222000 +0100" channel="Kanal A">
+    <title lang="sl">Escobar: Izgubljeni raj</title>
+  </programme>
+  <programme start="20210326222000 +0100" stop="20210327000000 +0100" channel="Kanal A">
+    <title lang="sl">Ameriški sin</title>
+  </programme>
+  <programme start="20210327000000 +0100" stop="20210327013500 +0100" channel="Kanal A">
+    <title lang="sl">Space Jam</title>
+  </programme>
+  <programme start="20210327013500 +0100" stop="20210327060000 +0100" channel="Kanal A">
+    <title lang="sl">Glasbeni mikser</title>
+  </programme>
+  <programme start="20210327060000 +0100" stop="20210327065500 +0100" channel="Kanal A">
+    <title lang="sl">Pavza!</title>
+  </programme>
+  <programme start="20210327065500 +0100" stop="20210327083000 +0100" channel="Kanal A">
+    <title lang="sl">Scooby-Doo!: Prekletstvo demona</title>
+  </programme>
+  <programme start="20210327083000 +0100" stop="20210327084500 +0100" channel="Kanal A">
+    <title lang="sl">Vaše zdravje, naša skrb</title>
+  </programme>
+  <programme start="20210327084500 +0100" stop="20210327102000 +0100" channel="Kanal A">
+    <title lang="sl">Space Jam</title>
+  </programme>
+  <programme start="20210327102000 +0100" stop="20210327103500 +0100" channel="Kanal A">
+    <title lang="sl">Vaše zdravje, naša skrb</title>
+  </programme>
+  <programme start="20210327103500 +0100" stop="20210327122500 +0100" channel="Kanal A">
+    <title lang="sl">Arktični mrk</title>
+  </programme>
+  <programme start="20210327122500 +0100" stop="20210327140500 +0100" channel="Kanal A">
+    <title lang="sl">Ameriški sin</title>
+  </programme>
+  <programme start="20210327140500 +0100" stop="20210327162000 +0100" channel="Kanal A">
+    <title lang="sl">Lov za izgubljenim zakladom</title>
+  </programme>
+  <programme start="20210327162000 +0100" stop="20210327185500 +0100" channel="Kanal A">
+    <title lang="sl">MotoGP: Kvalifikacije VN Katarja</title>
+  </programme>
+  <programme start="20210327185500 +0100" stop="20210327193500 +0100" channel="Kanal A">
+    <title lang="sl">Pazi, kamera!</title>
+  </programme>
+  <programme start="20210327193500 +0100" stop="20210327200000 +0100" channel="Kanal A">
+    <title lang="sl">Pavza!</title>
+  </programme>
+  <programme start="20210327200000 +0100" stop="20210327221500 +0100" channel="Kanal A">
+    <title lang="sl">Pripravnika</title>
+  </programme>
   <programme start="20210324002000 +0100" stop="20210324020500 +0100" channel="Kino">
     <title lang="sl">Nočni let</title>
   </programme>
@@ -277,16 +860,16 @@
   <programme start="20210324110700 +0100" stop="20210324124600 +0100" channel="Klasik TV">
     <title lang="sl">Druga stran medalje</title>
   </programme>
-  <programme start="20210324124600 +0100" stop="20210324142300 +0100" channel="Klasik TV">
+  <programme start="20210324124600 +0100" stop="20210324142400 +0100" channel="Klasik TV">
     <title lang="sl">Ambasador</title>
   </programme>
-  <programme start="20210324142300 +0100" stop="20210324150700 +0100" channel="Klasik TV">
+  <programme start="20210324142400 +0100" stop="20210324150700 +0100" channel="Klasik TV">
     <title lang="sl">Boljše življenje</title>
   </programme>
-  <programme start="20210324150700 +0100" stop="20210324155000 +0100" channel="Klasik TV">
+  <programme start="20210324150700 +0100" stop="20210324155100 +0100" channel="Klasik TV">
     <title lang="sl">Boljše življenje</title>
   </programme>
-  <programme start="20210324155000 +0100" stop="20210324172900 +0100" channel="Klasik TV">
+  <programme start="20210324155100 +0100" stop="20210324172900 +0100" channel="Klasik TV">
     <title lang="sl">Potepuhinja</title>
   </programme>
   <programme start="20210324172900 +0100" stop="20210324190000 +0100" channel="Klasik TV">
@@ -295,13 +878,13 @@
   <programme start="20210324190000 +0100" stop="20210324200100 +0100" channel="Klasik TV">
     <title lang="sl">Dolarji prihajajo</title>
   </programme>
-  <programme start="20210324200100 +0100" stop="20210324204200 +0100" channel="Klasik TV">
+  <programme start="20210324200100 +0100" stop="20210324204300 +0100" channel="Klasik TV">
     <title lang="sl">Boljše življenje</title>
   </programme>
-  <programme start="20210324204200 +0100" stop="20210324213300 +0100" channel="Klasik TV">
+  <programme start="20210324204300 +0100" stop="20210324213400 +0100" channel="Klasik TV">
     <title lang="sl">Boljše življenje</title>
   </programme>
-  <programme start="20210324213300 +0100" stop="20210324231300 +0100" channel="Klasik TV">
+  <programme start="20210324213400 +0100" stop="20210324231300 +0100" channel="Klasik TV">
     <title lang="sl">Hajka</title>
   </programme>
   <programme start="20210324231300 +0100" stop="20210325004100 +0100" channel="Klasik TV">
@@ -495,6 +1078,543 @@
   </programme>
   <programme start="20210327213400 +0100" stop="20210327230500 +0100" channel="Klasik TV">
     <title lang="sl">Bratje po materi</title>
+  </programme>
+  <programme start="20210324011300 +0100" stop="20210324013600 +0100" channel="MTV 1">
+    <title lang="sl">Turlitava</title>
+  </programme>
+  <programme start="20210324013600 +0100" stop="20210324020600 +0100" channel="MTV 1">
+    <title lang="sl">Dnevnik 2</title>
+  </programme>
+  <programme start="20210324020600 +0100" stop="20210324021300 +0100" channel="MTV 1">
+    <title lang="sl">Šport</title>
+  </programme>
+  <programme start="20210324021300 +0100" stop="20210324021600 +0100" channel="MTV 1">
+    <title lang="sl">Vreme</title>
+  </programme>
+  <programme start="20210324021600 +0100" stop="20210324044600 +0100" channel="MTV 1">
+    <title lang="sl">Makedonija zjutraj</title>
+  </programme>
+  <programme start="20210324044600 +0100" stop="20210324051100 +0100" channel="MTV 1">
+    <title lang="sl">Glasbeni intermezzo</title>
+  </programme>
+  <programme start="20210324051100 +0100" stop="20210324061500 +0100" channel="MTV 1">
+    <title lang="sl">Pevci in pesmi: Naum Petreski</title>
+  </programme>
+  <programme start="20210324061500 +0100" stop="20210324064500 +0100" channel="MTV 1">
+    <title lang="sl">Makedonske ljudske pravljice</title>
+  </programme>
+  <programme start="20210324064500 +0100" stop="20210324091500 +0100" channel="MTV 1">
+    <title lang="sl">Makedonija zjutraj</title>
+  </programme>
+  <programme start="20210324091500 +0100" stop="20210324092500 +0100" channel="MTV 1">
+    <title lang="sl">7 minut za zdravje</title>
+  </programme>
+  <programme start="20210324092500 +0100" stop="20210324095500 +0100" channel="MTV 1">
+    <title lang="sl">Bumerang</title>
+  </programme>
+  <programme start="20210324095500 +0100" stop="20210324100000 +0100" channel="MTV 1">
+    <title lang="sl">Bilo je nekoč</title>
+  </programme>
+  <programme start="20210324100000 +0100" stop="20210324102000 +0100" channel="MTV 1">
+    <title lang="sl">Poročila</title>
+  </programme>
+  <programme start="20210324102000 +0100" stop="20210324102500 +0100" channel="MTV 1">
+    <title lang="sl">Elmov svet</title>
+  </programme>
+  <programme start="20210324102500 +0100" stop="20210324103000 +0100" channel="MTV 1">
+    <title lang="sl">Risanka</title>
+  </programme>
+  <programme start="20210324103000 +0100" stop="20210324105500 +0100" channel="MTV 1">
+    <title lang="sl">Lalaloopsy</title>
+  </programme>
+  <programme start="20210324105500 +0100" stop="20210324110500 +0100" channel="MTV 1">
+    <title lang="sl">Od A do Š</title>
+  </programme>
+  <programme start="20210324110500 +0100" stop="20210324113000 +0100" channel="MTV 1">
+    <title lang="sl">Raziskovalka Dora</title>
+  </programme>
+  <programme start="20210324113000 +0100" stop="20210324120500 +0100" channel="MTV 1">
+    <title lang="sl">Družina 5+</title>
+  </programme>
+  <programme start="20210324120500 +0100" stop="20210324123500 +0100" channel="MTV 1">
+    <title lang="sl">Moj otrok</title>
+  </programme>
+  <programme start="20210324123500 +0100" stop="20210324130000 +0100" channel="MTV 1">
+    <title lang="sl">Ekološko ravnovesje</title>
+  </programme>
+  <programme start="20210324130000 +0100" stop="20210324132500 +0100" channel="MTV 1">
+    <title lang="sl">Poročila</title>
+  </programme>
+  <programme start="20210324132500 +0100" stop="20210324141500 +0100" channel="MTV 1">
+    <title lang="sl">Kmetijstvo</title>
+  </programme>
+  <programme start="20210324141500 +0100" stop="20210324143000 +0100" channel="MTV 1">
+    <title lang="sl">Dokumentarni film</title>
+  </programme>
+  <programme start="20210324143000 +0100" stop="20210324150000 +0100" channel="MTV 1">
+    <title lang="sl">Turlitava</title>
+  </programme>
+  <programme start="20210324150000 +0100" stop="20210324152500 +0100" channel="MTV 1">
+    <title lang="sl">Poročila</title>
+  </programme>
+  <programme start="20210324152500 +0100" stop="20210324161500 +0100" channel="MTV 1">
+    <title lang="sl">Dokumentarna nadaljevanka</title>
+  </programme>
+  <programme start="20210324161500 +0100" stop="20210324170000 +0100" channel="MTV 1">
+    <title lang="sl">Rad kuham</title>
+  </programme>
+  <programme start="20210324170000 +0100" stop="20210324173000 +0100" channel="MTV 1">
+    <title lang="sl">Dnevnik 1</title>
+  </programme>
+  <programme start="20210324173000 +0100" stop="20210324174000 +0100" channel="MTV 1">
+    <title lang="sl">Šport</title>
+  </programme>
+  <programme start="20210324174000 +0100" stop="20210324174500 +0100" channel="MTV 1">
+    <title lang="sl">Vreme</title>
+  </programme>
+  <programme start="20210324174500 +0100" stop="20210324183500 +0100" channel="MTV 1">
+    <title lang="sl">Blaže Koneski</title>
+  </programme>
+  <programme start="20210324183500 +0100" stop="20210324184000 +0100" channel="MTV 1">
+    <title lang="sl">Elmov svet</title>
+  </programme>
+  <programme start="20210324184000 +0100" stop="20210324184500 +0100" channel="MTV 1">
+    <title lang="sl">Risanka</title>
+  </programme>
+  <programme start="20210324184500 +0100" stop="20210324192000 +0100" channel="MTV 1">
+    <title lang="sl">Družina 5+</title>
+  </programme>
+  <programme start="20210324192000 +0100" stop="20210324193000 +0100" channel="MTV 1">
+    <title lang="sl">7 minut za zdravje</title>
+  </programme>
+  <programme start="20210324193000 +0100" stop="20210324200000 +0100" channel="MTV 1">
+    <title lang="sl">Dnevnik 2</title>
+  </programme>
+  <programme start="20210324200000 +0100" stop="20210324201000 +0100" channel="MTV 1">
+    <title lang="sl">Šport</title>
+  </programme>
+  <programme start="20210324201000 +0100" stop="20210324201500 +0100" channel="MTV 1">
+    <title lang="sl">Vreme</title>
+  </programme>
+  <programme start="20210324201500 +0100" stop="20210324205000 +0100" channel="MTV 1">
+    <title lang="sl">Agenda 35</title>
+  </programme>
+  <programme start="20210324205000 +0100" stop="20210324213000 +0100" channel="MTV 1">
+    <title lang="sl">Džentlmen magazin</title>
+  </programme>
+  <programme start="20210324213000 +0100" stop="20210324221000 +0100" channel="MTV 1">
+    <title lang="sl">Midve z mamo</title>
+  </programme>
+  <programme start="20210324221000 +0100" stop="20210324223500 +0100" channel="MTV 1">
+    <title lang="sl">Nadaljevanka</title>
+  </programme>
+  <programme start="20210324223500 +0100" stop="20210324225000 +0100" channel="MTV 1">
+    <title lang="sl">Dnevnik 3</title>
+  </programme>
+  <programme start="20210324225000 +0100" stop="20210324230000 +0100" channel="MTV 1">
+    <title lang="sl">Šport</title>
+  </programme>
+  <programme start="20210324230000 +0100" stop="20210324230500 +0100" channel="MTV 1">
+    <title lang="sl">Vreme</title>
+  </programme>
+  <programme start="20210324230500 +0100" stop="20210325013100 +0100" channel="MTV 1">
+    <title lang="sl">Novo življenje</title>
+  </programme>
+  <programme start="20210325013100 +0100" stop="20210325020900 +0100" channel="MTV 1">
+    <title lang="sl">Pravljica</title>
+  </programme>
+  <programme start="20210325020900 +0100" stop="20210325023900 +0100" channel="MTV 1">
+    <title lang="sl">Dnevnik 2</title>
+  </programme>
+  <programme start="20210325023900 +0100" stop="20210325024600 +0100" channel="MTV 1">
+    <title lang="sl">Šport</title>
+  </programme>
+  <programme start="20210325024600 +0100" stop="20210325024900 +0100" channel="MTV 1">
+    <title lang="sl">Vreme</title>
+  </programme>
+  <programme start="20210325024900 +0100" stop="20210325051900 +0100" channel="MTV 1">
+    <title lang="sl">Makedonija zjutraj</title>
+  </programme>
+  <programme start="20210325051900 +0100" stop="20210325054400 +0100" channel="MTV 1">
+    <title lang="sl">Glasbeni intermezzo</title>
+  </programme>
+  <programme start="20210325054400 +0100" stop="20210325061200 +0100" channel="MTV 1">
+    <title lang="sl">Turlitava</title>
+  </programme>
+  <programme start="20210325061200 +0100" stop="20210325064500 +0100" channel="MTV 1">
+    <title lang="sl">Makedonske ljudske pravljice</title>
+  </programme>
+  <programme start="20210325064500 +0100" stop="20210325091500 +0100" channel="MTV 1">
+    <title lang="sl">Makedonija zjutraj</title>
+  </programme>
+  <programme start="20210325091500 +0100" stop="20210325092500 +0100" channel="MTV 1">
+    <title lang="sl">7 minut za zdravje</title>
+  </programme>
+  <programme start="20210325092500 +0100" stop="20210325094500 +0100" channel="MTV 1">
+    <title lang="sl">Izobraževalna oddaja</title>
+  </programme>
+  <programme start="20210325094500 +0100" stop="20210325100000 +0100" channel="MTV 1">
+    <title lang="sl">Bilo je nekoč</title>
+  </programme>
+  <programme start="20210325100000 +0100" stop="20210325101500 +0100" channel="MTV 1">
+    <title lang="sl">Poročila</title>
+  </programme>
+  <programme start="20210325101500 +0100" stop="20210325102000 +0100" channel="MTV 1">
+    <title lang="sl">Elmov svet</title>
+  </programme>
+  <programme start="20210325102000 +0100" stop="20210325102500 +0100" channel="MTV 1">
+    <title lang="sl">Risanka</title>
+  </programme>
+  <programme start="20210325102500 +0100" stop="20210325105000 +0100" channel="MTV 1">
+    <title lang="sl">Lalaloopsy</title>
+  </programme>
+  <programme start="20210325105000 +0100" stop="20210325110000 +0100" channel="MTV 1">
+    <title lang="sl">Od A do Š</title>
+  </programme>
+  <programme start="20210325110000 +0100" stop="20210325112500 +0100" channel="MTV 1">
+    <title lang="sl">Raziskovalka Dora</title>
+  </programme>
+  <programme start="20210325112500 +0100" stop="20210325114500 +0100" channel="MTV 1">
+    <title lang="sl">Zoki Poki</title>
+  </programme>
+  <programme start="20210325114500 +0100" stop="20210325120500 +0100" channel="MTV 1">
+    <title lang="sl">Dokumentarni film</title>
+  </programme>
+  <programme start="20210325120500 +0100" stop="20210325123000 +0100" channel="MTV 1">
+    <title lang="sl">Moj otrok</title>
+  </programme>
+  <programme start="20210325123000 +0100" stop="20210325130000 +0100" channel="MTV 1">
+    <title lang="sl">Ekološko ravnovesje</title>
+  </programme>
+  <programme start="20210325130000 +0100" stop="20210325132500 +0100" channel="MTV 1">
+    <title lang="sl">Poročila</title>
+  </programme>
+  <programme start="20210325132500 +0100" stop="20210325140000 +0100" channel="MTV 1">
+    <title lang="sl">Glasba - moje življenje</title>
+  </programme>
+  <programme start="20210325140000 +0100" stop="20210325150000 +0100" channel="MTV 1">
+    <title lang="sl">Moja zgodba</title>
+  </programme>
+  <programme start="20210325150000 +0100" stop="20210325152500 +0100" channel="MTV 1">
+    <title lang="sl">Poročila</title>
+  </programme>
+  <programme start="20210325152500 +0100" stop="20210325170000 +0100" channel="MTV 1">
+    <title lang="sl">Nedeljski magazin</title>
+  </programme>
+  <programme start="20210325170000 +0100" stop="20210325173000 +0100" channel="MTV 1">
+    <title lang="sl">Dnevnik 1</title>
+  </programme>
+  <programme start="20210325173000 +0100" stop="20210325174000 +0100" channel="MTV 1">
+    <title lang="sl">Šport</title>
+  </programme>
+  <programme start="20210325174000 +0100" stop="20210325174500 +0100" channel="MTV 1">
+    <title lang="sl">Vreme</title>
+  </programme>
+  <programme start="20210325174500 +0100" stop="20210325175500 +0100" channel="MTV 1">
+    <title lang="sl">Od blizu</title>
+  </programme>
+  <programme start="20210325175500 +0100" stop="20210325184000 +0100" channel="MTV 1">
+    <title lang="sl">Preprosto zapeljivo</title>
+  </programme>
+  <programme start="20210325184000 +0100" stop="20210325185000 +0100" channel="MTV 1">
+    <title lang="sl">Elmov svet</title>
+  </programme>
+  <programme start="20210325185000 +0100" stop="20210325190000 +0100" channel="MTV 1">
+    <title lang="sl">Risanka</title>
+  </programme>
+  <programme start="20210325190000 +0100" stop="20210325192000 +0100" channel="MTV 1">
+    <title lang="sl">Zoki Poki</title>
+  </programme>
+  <programme start="20210325192000 +0100" stop="20210325193000 +0100" channel="MTV 1">
+    <title lang="sl">7 minut za zdravje</title>
+  </programme>
+  <programme start="20210325193000 +0100" stop="20210325200000 +0100" channel="MTV 1">
+    <title lang="sl">Dnevnik 2</title>
+  </programme>
+  <programme start="20210325200000 +0100" stop="20210325201000 +0100" channel="MTV 1">
+    <title lang="sl">Šport</title>
+  </programme>
+  <programme start="20210325201000 +0100" stop="20210325201500 +0100" channel="MTV 1">
+    <title lang="sl">Vreme</title>
+  </programme>
+  <programme start="20210325201500 +0100" stop="20210325212000 +0100" channel="MTV 1">
+    <title lang="sl">Kaj pa zdaj?</title>
+  </programme>
+  <programme start="20210325212000 +0100" stop="20210325220500 +0100" channel="MTV 1">
+    <title lang="sl">Midve z mamo</title>
+  </programme>
+  <programme start="20210325220500 +0100" stop="20210325223500 +0100" channel="MTV 1">
+    <title lang="sl">Nadaljevanka</title>
+  </programme>
+  <programme start="20210325223500 +0100" stop="20210325225000 +0100" channel="MTV 1">
+    <title lang="sl">Dnevnik 3</title>
+  </programme>
+  <programme start="20210325225000 +0100" stop="20210325230000 +0100" channel="MTV 1">
+    <title lang="sl">Šport</title>
+  </programme>
+  <programme start="20210325230000 +0100" stop="20210325230500 +0100" channel="MTV 1">
+    <title lang="sl">Vreme</title>
+  </programme>
+  <programme start="20210325230500 +0100" stop="20210326002100 +0100" channel="MTV 1">
+    <title lang="sl">Bilo je nekoč v maju</title>
+  </programme>
+  <programme start="20210326002100 +0100" stop="20210326015200 +0100" channel="MTV 1">
+    <title lang="sl">Nedeljski magazin</title>
+  </programme>
+  <programme start="20210326015200 +0100" stop="20210326022200 +0100" channel="MTV 1">
+    <title lang="sl">Dnevnik 2</title>
+  </programme>
+  <programme start="20210326022200 +0100" stop="20210326022900 +0100" channel="MTV 1">
+    <title lang="sl">Šport</title>
+  </programme>
+  <programme start="20210326022900 +0100" stop="20210326023200 +0100" channel="MTV 1">
+    <title lang="sl">Vreme</title>
+  </programme>
+  <programme start="20210326023200 +0100" stop="20210326050200 +0100" channel="MTV 1">
+    <title lang="sl">Makedonija zjutraj</title>
+  </programme>
+  <programme start="20210326050200 +0100" stop="20210326053200 +0100" channel="MTV 1">
+    <title lang="sl">Glasbeni intermezzo</title>
+  </programme>
+  <programme start="20210326053200 +0100" stop="20210326062200 +0100" channel="MTV 1">
+    <title lang="sl">Kmetijstvo</title>
+  </programme>
+  <programme start="20210326062200 +0100" stop="20210326064500 +0100" channel="MTV 1">
+    <title lang="sl">Makedonske ljudske pravljice</title>
+  </programme>
+  <programme start="20210326064500 +0100" stop="20210326091500 +0100" channel="MTV 1">
+    <title lang="sl">Makedonija zjutraj</title>
+  </programme>
+  <programme start="20210326091500 +0100" stop="20210326092500 +0100" channel="MTV 1">
+    <title lang="sl">7 minut za zdravje</title>
+  </programme>
+  <programme start="20210326092500 +0100" stop="20210326094000 +0100" channel="MTV 1">
+    <title lang="sl">Dokumentarni film</title>
+  </programme>
+  <programme start="20210326094000 +0100" stop="20210326100000 +0100" channel="MTV 1">
+    <title lang="sl">Bilo je nekoč</title>
+  </programme>
+  <programme start="20210326100000 +0100" stop="20210326102000 +0100" channel="MTV 1">
+    <title lang="sl">Poročila</title>
+  </programme>
+  <programme start="20210326102000 +0100" stop="20210326102500 +0100" channel="MTV 1">
+    <title lang="sl">Elmov svet</title>
+  </programme>
+  <programme start="20210326102500 +0100" stop="20210326103000 +0100" channel="MTV 1">
+    <title lang="sl">Risanka</title>
+  </programme>
+  <programme start="20210326103000 +0100" stop="20210326114500 +0100" channel="MTV 1">
+    <title lang="sl">Festival Potočinja 2017</title>
+  </programme>
+  <programme start="20210326114500 +0100" stop="20210326121000 +0100" channel="MTV 1">
+    <title lang="sl">Zoki Poki</title>
+  </programme>
+  <programme start="20210326121000 +0100" stop="20210326123500 +0100" channel="MTV 1">
+    <title lang="sl">Ekološko ravnovesje</title>
+  </programme>
+  <programme start="20210326123500 +0100" stop="20210326130000 +0100" channel="MTV 1">
+    <title lang="sl">Dokumentarna nadaljevanka</title>
+  </programme>
+  <programme start="20210326130000 +0100" stop="20210326132500 +0100" channel="MTV 1">
+    <title lang="sl">Poročila</title>
+  </programme>
+  <programme start="20210326132500 +0100" stop="20210326142500 +0100" channel="MTV 1">
+    <title lang="sl">Kaj pa zdaj?</title>
+  </programme>
+  <programme start="20210326142500 +0100" stop="20210326150000 +0100" channel="MTV 1">
+    <title lang="sl">Džentlmen magazin</title>
+  </programme>
+  <programme start="20210326150000 +0100" stop="20210326152000 +0100" channel="MTV 1">
+    <title lang="sl">Poročila</title>
+  </programme>
+  <programme start="20210326152000 +0100" stop="20210326161500 +0100" channel="MTV 1">
+    <title lang="sl">Folk džuboks</title>
+  </programme>
+  <programme start="20210326161500 +0100" stop="20210326170000 +0100" channel="MTV 1">
+    <title lang="sl">Rad kuham</title>
+  </programme>
+  <programme start="20210326170000 +0100" stop="20210326173000 +0100" channel="MTV 1">
+    <title lang="sl">Dnevnik 1</title>
+  </programme>
+  <programme start="20210326173000 +0100" stop="20210326174000 +0100" channel="MTV 1">
+    <title lang="sl">Šport</title>
+  </programme>
+  <programme start="20210326174000 +0100" stop="20210326174500 +0100" channel="MTV 1">
+    <title lang="sl">Vreme</title>
+  </programme>
+  <programme start="20210326174500 +0100" stop="20210326182000 +0100" channel="MTV 1">
+    <title lang="sl">Vitraž</title>
+  </programme>
+  <programme start="20210326182000 +0100" stop="20210326184500 +0100" channel="MTV 1">
+    <title lang="sl">Dokumentarna nadaljevanka</title>
+  </programme>
+  <programme start="20210326184500 +0100" stop="20210326185500 +0100" channel="MTV 1">
+    <title lang="sl">Elmov svet</title>
+  </programme>
+  <programme start="20210326185500 +0100" stop="20210326192000 +0100" channel="MTV 1">
+    <title lang="sl">Zoki Poki</title>
+  </programme>
+  <programme start="20210326192000 +0100" stop="20210326193000 +0100" channel="MTV 1">
+    <title lang="sl">7 minut za zdravje</title>
+  </programme>
+  <programme start="20210326193000 +0100" stop="20210326200000 +0100" channel="MTV 1">
+    <title lang="sl">Dnevnik 2</title>
+  </programme>
+  <programme start="20210326200000 +0100" stop="20210326201000 +0100" channel="MTV 1">
+    <title lang="sl">Šport</title>
+  </programme>
+  <programme start="20210326201000 +0100" stop="20210326201500 +0100" channel="MTV 1">
+    <title lang="sl">Vreme</title>
+  </programme>
+  <programme start="20210326201500 +0100" stop="20210326211000 +0100" channel="MTV 1">
+    <title lang="sl">Pritisni Play</title>
+  </programme>
+  <programme start="20210326211000 +0100" stop="20210326215500 +0100" channel="MTV 1">
+    <title lang="sl">Midve z mamo</title>
+  </programme>
+  <programme start="20210326215500 +0100" stop="20210326222000 +0100" channel="MTV 1">
+    <title lang="sl">Nadaljevanka</title>
+  </programme>
+  <programme start="20210326222000 +0100" stop="20210326224500 +0100" channel="MTV 1">
+    <title lang="sl">Nadaljevanka</title>
+  </programme>
+  <programme start="20210326224500 +0100" stop="20210326230000 +0100" channel="MTV 1">
+    <title lang="sl">Dnevnik 3</title>
+  </programme>
+  <programme start="20210326230000 +0100" stop="20210326231000 +0100" channel="MTV 1">
+    <title lang="sl">Šport</title>
+  </programme>
+  <programme start="20210326231000 +0100" stop="20210326231500 +0100" channel="MTV 1">
+    <title lang="sl">Vreme</title>
+  </programme>
+  <programme start="20210326231500 +0100" stop="20210327012000 +0100" channel="MTV 1">
+    <title lang="sl">Igrani film</title>
+  </programme>
+  <programme start="20210327012000 +0100" stop="20210327021000 +0100" channel="MTV 1">
+    <title lang="sl">Pritisni Play</title>
+  </programme>
+  <programme start="20210327021000 +0100" stop="20210327023300 +0100" channel="MTV 1">
+    <title lang="sl">Dokumentarna nadaljevanka</title>
+  </programme>
+  <programme start="20210327023300 +0100" stop="20210327030300 +0100" channel="MTV 1">
+    <title lang="sl">Dnevnik 2</title>
+  </programme>
+  <programme start="20210327030300 +0100" stop="20210327031000 +0100" channel="MTV 1">
+    <title lang="sl">Šport</title>
+  </programme>
+  <programme start="20210327031000 +0100" stop="20210327031300 +0100" channel="MTV 1">
+    <title lang="sl">Vreme</title>
+  </programme>
+  <programme start="20210327031300 +0100" stop="20210327054300 +0100" channel="MTV 1">
+    <title lang="sl">Makedonija zjutraj</title>
+  </programme>
+  <programme start="20210327054300 +0100" stop="20210327061300 +0100" channel="MTV 1">
+    <title lang="sl">Glasbeni intermezzo</title>
+  </programme>
+  <programme start="20210327061300 +0100" stop="20210327064500 +0100" channel="MTV 1">
+    <title lang="sl">Makedonske ljudske pravljice</title>
+  </programme>
+  <programme start="20210327064500 +0100" stop="20210327070500 +0100" channel="MTV 1">
+    <title lang="sl">Glasbeni intermezzo</title>
+  </programme>
+  <programme start="20210327070500 +0100" stop="20210327072500 +0100" channel="MTV 1">
+    <title lang="sl">Lalaloopsy</title>
+  </programme>
+  <programme start="20210327072500 +0100" stop="20210327073500 +0100" channel="MTV 1">
+    <title lang="sl">Bilo je nekoč</title>
+  </programme>
+  <programme start="20210327073500 +0100" stop="20210327080000 +0100" channel="MTV 1">
+    <title lang="sl">Raziskovalka Dora</title>
+  </programme>
+  <programme start="20210327080000 +0100" stop="20210327100000 +0100" channel="MTV 1">
+    <title lang="sl">Makedonija zjutraj</title>
+  </programme>
+  <programme start="20210327100000 +0100" stop="20210327102000 +0100" channel="MTV 1">
+    <title lang="sl">Poročila</title>
+  </programme>
+  <programme start="20210327102000 +0100" stop="20210327103000 +0100" channel="MTV 1">
+    <title lang="sl">7 minut za zdravje</title>
+  </programme>
+  <programme start="20210327103000 +0100" stop="20210327104000 +0100" channel="MTV 1">
+    <title lang="sl">7 minut za zdravje</title>
+  </programme>
+  <programme start="20210327104000 +0100" stop="20210327104500 +0100" channel="MTV 1">
+    <title lang="sl">7 minut za zdravje</title>
+  </programme>
+  <programme start="20210327104500 +0100" stop="20210327105000 +0100" channel="MTV 1">
+    <title lang="sl">Elmov svet</title>
+  </programme>
+  <programme start="20210327105000 +0100" stop="20210327110000 +0100" channel="MTV 1">
+    <title lang="sl">Risanka</title>
+  </programme>
+  <programme start="20210327110000 +0100" stop="20210327113500 +0100" channel="MTV 1">
+    <title lang="sl">Družina 5+</title>
+  </programme>
+  <programme start="20210327113500 +0100" stop="20210327120500 +0100" channel="MTV 1">
+    <title lang="sl">Dokumentarna nadaljevanka</title>
+  </programme>
+  <programme start="20210327120500 +0100" stop="20210327123500 +0100" channel="MTV 1">
+    <title lang="sl">Peti angel</title>
+  </programme>
+  <programme start="20210327123500 +0100" stop="20210327130000 +0100" channel="MTV 1">
+    <title lang="sl">Bumerang</title>
+  </programme>
+  <programme start="20210327130000 +0100" stop="20210327132000 +0100" channel="MTV 1">
+    <title lang="sl">Poročila</title>
+  </programme>
+  <programme start="20210327132000 +0100" stop="20210327135500 +0100" channel="MTV 1">
+    <title lang="sl">Vitraž</title>
+  </programme>
+  <programme start="20210327135500 +0100" stop="20210327142000 +0100" channel="MTV 1">
+    <title lang="sl">Dokumentarna nadaljevanka</title>
+  </programme>
+  <programme start="20210327142000 +0100" stop="20210327145500 +0100" channel="MTV 1">
+    <title lang="sl">Pravljica</title>
+  </programme>
+  <programme start="20210327145500 +0100" stop="20210327170000 +0100" channel="MTV 1">
+    <title lang="sl">Umetnostno drsanje</title>
+  </programme>
+  <programme start="20210327170000 +0100" stop="20210327173000 +0100" channel="MTV 1">
+    <title lang="sl">Dnevnik 1</title>
+  </programme>
+  <programme start="20210327173000 +0100" stop="20210327174000 +0100" channel="MTV 1">
+    <title lang="sl">Šport</title>
+  </programme>
+  <programme start="20210327174000 +0100" stop="20210327174500 +0100" channel="MTV 1">
+    <title lang="sl">Vreme</title>
+  </programme>
+  <programme start="20210327174500 +0100" stop="20210327184000 +0100" channel="MTV 1">
+    <title lang="sl">Pritisni Play</title>
+  </programme>
+  <programme start="20210327184000 +0100" stop="20210327184500 +0100" channel="MTV 1">
+    <title lang="sl">Risanka</title>
+  </programme>
+  <programme start="20210327184500 +0100" stop="20210327185500 +0100" channel="MTV 1">
+    <title lang="sl">Elmov svet</title>
+  </programme>
+  <programme start="20210327185500 +0100" stop="20210327193000 +0100" channel="MTV 1">
+    <title lang="sl">Družina 5+</title>
+  </programme>
+  <programme start="20210327193000 +0100" stop="20210327200000 +0100" channel="MTV 1">
+    <title lang="sl">Dnevnik 2</title>
+  </programme>
+  <programme start="20210327200000 +0100" stop="20210327201000 +0100" channel="MTV 1">
+    <title lang="sl">Šport</title>
+  </programme>
+  <programme start="20210327201000 +0100" stop="20210327201500 +0100" channel="MTV 1">
+    <title lang="sl">Vreme</title>
+  </programme>
+  <programme start="20210327201500 +0100" stop="20210327223000 +0100" channel="MTV 1">
+    <title lang="sl">Igrani film</title>
+  </programme>
+  <programme start="20210327223000 +0100" stop="20210327224500 +0100" channel="MTV 1">
+    <title lang="sl">Dnevnik 3</title>
+  </programme>
+  <programme start="20210327224500 +0100" stop="20210327225500 +0100" channel="MTV 1">
+    <title lang="sl">Šport</title>
+  </programme>
+  <programme start="20210327225500 +0100" stop="20210327230000 +0100" channel="MTV 1">
+    <title lang="sl">Vreme</title>
   </programme>
   <programme start="20210324000000 +0100" stop="20210324000500 +0100" channel="MTV 2">
     <title lang="sl">Kratka poročila</title>
@@ -3270,6 +4390,246 @@
   </programme>
   <programme start="20210327232500 +0100" stop="20210327235000 +0100" channel="Motorvision TV HD">
     <title lang="sl">Zgodovina avtomobilov: Jaguar E</title>
+  </programme>
+  <programme start="20210324002000 +0100" stop="20210324012000 +0100" channel="NET TV">
+    <title lang="sl">Regionalno</title>
+  </programme>
+  <programme start="20210324012000 +0100" stop="20210324022000 +0100" channel="NET TV">
+    <title lang="sl">Bandolera</title>
+  </programme>
+  <programme start="20210324022000 +0100" stop="20210324070000 +0100" channel="NET TV">
+    <title lang="sl">Nočni program</title>
+  </programme>
+  <programme start="20210324070000 +0100" stop="20210324080000 +0100" channel="NET TV">
+    <title lang="sl">TV clip</title>
+  </programme>
+  <programme start="20210324080000 +0100" stop="20210324090000 +0100" channel="NET TV">
+    <title lang="sl">TV Market</title>
+  </programme>
+  <programme start="20210324090000 +0100" stop="20210324093000 +0100" channel="NET TV">
+    <title lang="sl">Regionalno</title>
+  </programme>
+  <programme start="20210324093000 +0100" stop="20210324103000 +0100" channel="NET TV">
+    <title lang="sl">Tv prodajno okno</title>
+  </programme>
+  <programme start="20210324103000 +0100" stop="20210324113000 +0100" channel="NET TV">
+    <title lang="sl">Bandolera</title>
+  </programme>
+  <programme start="20210324113000 +0100" stop="20210324120000 +0100" channel="NET TV">
+    <title lang="sl">Regionalno</title>
+  </programme>
+  <programme start="20210324120000 +0100" stop="20210324130000 +0100" channel="NET TV">
+    <title lang="sl">TV Market</title>
+  </programme>
+  <programme start="20210324130000 +0100" stop="20210324140000 +0100" channel="NET TV">
+    <title lang="sl">Tv prodajno okno</title>
+  </programme>
+  <programme start="20210324140000 +0100" stop="20210324150000 +0100" channel="NET TV">
+    <title lang="sl">To je bil moj čas</title>
+  </programme>
+  <programme start="20210324150000 +0100" stop="20210324160000 +0100" channel="NET TV">
+    <title lang="sl">TV Market</title>
+  </programme>
+  <programme start="20210324160000 +0100" stop="20210324163000 +0100" channel="NET TV">
+    <title lang="sl">Regionalno</title>
+  </programme>
+  <programme start="20210324163000 +0100" stop="20210324173000 +0100" channel="NET TV">
+    <title lang="sl">Hip hop - gibanje</title>
+  </programme>
+  <programme start="20210324173000 +0100" stop="20210324183000 +0100" channel="NET TV">
+    <title lang="sl">Bandolera</title>
+  </programme>
+  <programme start="20210324183000 +0100" stop="20210324190000 +0100" channel="NET TV">
+    <title lang="sl">Regionalno</title>
+  </programme>
+  <programme start="20210324190000 +0100" stop="20210324193000 +0100" channel="NET TV">
+    <title lang="sl">Slovenski video Coctail</title>
+  </programme>
+  <programme start="20210324193000 +0100" stop="20210324210000 +0100" channel="NET TV">
+    <title lang="sl">Narava zdravi</title>
+  </programme>
+  <programme start="20210324210000 +0100" stop="20210324220000 +0100" channel="NET TV">
+    <title lang="sl">Narava zdravi tržnica</title>
+  </programme>
+  <programme start="20210324220000 +0100" stop="20210324223000 +0100" channel="NET TV">
+    <title lang="sl">Regionalno</title>
+  </programme>
+  <programme start="20210324223000 +0100" stop="20210324233000 +0100" channel="NET TV">
+    <title lang="sl">Oprosti mi</title>
+  </programme>
+  <programme start="20210324233000 +0100" stop="20210325003000 +0100" channel="NET TV">
+    <title lang="sl">To je bil moj čas</title>
+  </programme>
+  <programme start="20210325003000 +0100" stop="20210325010000 +0100" channel="NET TV">
+    <title lang="sl">Regionalno</title>
+  </programme>
+  <programme start="20210325010000 +0100" stop="20210325020000 +0100" channel="NET TV">
+    <title lang="sl">Bandolera</title>
+  </programme>
+  <programme start="20210325020000 +0100" stop="20210325070000 +0100" channel="NET TV">
+    <title lang="sl">Nočni program</title>
+  </programme>
+  <programme start="20210325070000 +0100" stop="20210325080000 +0100" channel="NET TV">
+    <title lang="sl">TV clip</title>
+  </programme>
+  <programme start="20210325080000 +0100" stop="20210325090000 +0100" channel="NET TV">
+    <title lang="sl">Tv prodajno okno</title>
+  </programme>
+  <programme start="20210325090000 +0100" stop="20210325093000 +0100" channel="NET TV">
+    <title lang="sl">Regionalno</title>
+  </programme>
+  <programme start="20210325093000 +0100" stop="20210325103000 +0100" channel="NET TV">
+    <title lang="sl">Tv prodajno okno</title>
+  </programme>
+  <programme start="20210325103000 +0100" stop="20210325113000 +0100" channel="NET TV">
+    <title lang="sl">Bandolera</title>
+  </programme>
+  <programme start="20210325113000 +0100" stop="20210325120000 +0100" channel="NET TV">
+    <title lang="sl">Regionalno</title>
+  </programme>
+  <programme start="20210325120000 +0100" stop="20210325133000 +0100" channel="NET TV">
+    <title lang="sl">TV Market</title>
+  </programme>
+  <programme start="20210325133000 +0100" stop="20210325150000 +0100" channel="NET TV">
+    <title lang="sl">Narava zdravi</title>
+  </programme>
+  <programme start="20210325150000 +0100" stop="20210325160000 +0100" channel="NET TV">
+    <title lang="sl">TV Market</title>
+  </programme>
+  <programme start="20210325160000 +0100" stop="20210325163000 +0100" channel="NET TV">
+    <title lang="sl">Regionalno</title>
+  </programme>
+  <programme start="20210325163000 +0100" stop="20210325173000 +0100" channel="NET TV">
+    <title lang="sl">Narava zdravi tržnica</title>
+  </programme>
+  <programme start="20210325173000 +0100" stop="20210325183000 +0100" channel="NET TV">
+    <title lang="sl">Bandolera</title>
+  </programme>
+  <programme start="20210325183000 +0100" stop="20210325190000 +0100" channel="NET TV">
+    <title lang="sl">Regionalno</title>
+  </programme>
+  <programme start="20210325190000 +0100" stop="20210325200000 +0100" channel="NET TV">
+    <title lang="sl">Šlager parada</title>
+  </programme>
+  <programme start="20210325200000 +0100" stop="20210325210000 +0100" channel="NET TV">
+    <title lang="sl">Speča velikanka</title>
+  </programme>
+  <programme start="20210325210000 +0100" stop="20210325223000 +0100" channel="NET TV">
+    <title lang="sl">Bio Stil</title>
+  </programme>
+  <programme start="20210325223000 +0100" stop="20210325230000 +0100" channel="NET TV">
+    <title lang="sl">Regionalno</title>
+  </programme>
+  <programme start="20210325230000 +0100" stop="20210326003000 +0100" channel="NET TV">
+    <title lang="sl">Narava zdravi</title>
+  </programme>
+  <programme start="20210326003000 +0100" stop="20210326010000 +0100" channel="NET TV">
+    <title lang="sl">Regionalno</title>
+  </programme>
+  <programme start="20210326010000 +0100" stop="20210326020000 +0100" channel="NET TV">
+    <title lang="sl">Bandolera</title>
+  </programme>
+  <programme start="20210326020000 +0100" stop="20210326070000 +0100" channel="NET TV">
+    <title lang="sl">Nočni program</title>
+  </programme>
+  <programme start="20210326070000 +0100" stop="20210326080000 +0100" channel="NET TV">
+    <title lang="sl">TV clip</title>
+  </programme>
+  <programme start="20210326080000 +0100" stop="20210326090000 +0100" channel="NET TV">
+    <title lang="sl">TV Market</title>
+  </programme>
+  <programme start="20210326090000 +0100" stop="20210326093000 +0100" channel="NET TV">
+    <title lang="sl">Regionalno</title>
+  </programme>
+  <programme start="20210326093000 +0100" stop="20210326103000 +0100" channel="NET TV">
+    <title lang="sl">Tv prodajno okno</title>
+  </programme>
+  <programme start="20210326103000 +0100" stop="20210326113000 +0100" channel="NET TV">
+    <title lang="sl">Bandolera</title>
+  </programme>
+  <programme start="20210326113000 +0100" stop="20210326120000 +0100" channel="NET TV">
+    <title lang="sl">Regionalno</title>
+  </programme>
+  <programme start="20210326120000 +0100" stop="20210326140000 +0100" channel="NET TV">
+    <title lang="sl">TV Market</title>
+  </programme>
+  <programme start="20210326140000 +0100" stop="20210326150000 +0100" channel="NET TV">
+    <title lang="sl">Narava zdravi tržnica</title>
+  </programme>
+  <programme start="20210326150000 +0100" stop="20210326160000 +0100" channel="NET TV">
+    <title lang="sl">TV Market</title>
+  </programme>
+  <programme start="20210326160000 +0100" stop="20210326163000 +0100" channel="NET TV">
+    <title lang="sl">Regionalno</title>
+  </programme>
+  <programme start="20210326163000 +0100" stop="20210326173000 +0100" channel="NET TV">
+    <title lang="sl">Speča velikanka</title>
+  </programme>
+  <programme start="20210326173000 +0100" stop="20210326183000 +0100" channel="NET TV">
+    <title lang="sl">Bandolera</title>
+  </programme>
+  <programme start="20210326183000 +0100" stop="20210326190000 +0100" channel="NET TV">
+    <title lang="sl">Regionalno</title>
+  </programme>
+  <programme start="20210326190000 +0100" stop="20210326200000 +0100" channel="NET TV">
+    <title lang="sl">Yugo izbor</title>
+  </programme>
+  <programme start="20210326200000 +0100" stop="20210326210000 +0100" channel="NET TV">
+    <title lang="sl">Petek s Sebastjanom</title>
+  </programme>
+  <programme start="20210326210000 +0100" stop="20210326230000 +0100" channel="NET TV">
+    <title lang="sl">Cashevo maščevanje</title>
+  </programme>
+  <programme start="20210326230000 +0100" stop="20210326233000 +0100" channel="NET TV">
+    <title lang="sl">Regionalno</title>
+  </programme>
+  <programme start="20210326233000 +0100" stop="20210327003000 +0100" channel="NET TV">
+    <title lang="sl">Speča velikanka</title>
+  </programme>
+  <programme start="20210327003000 +0100" stop="20210327010000 +0100" channel="NET TV">
+    <title lang="sl">Regionalno</title>
+  </programme>
+  <programme start="20210327010000 +0100" stop="20210327020000 +0100" channel="NET TV">
+    <title lang="sl">Bandolera</title>
+  </programme>
+  <programme start="20210327020000 +0100" stop="20210327070000 +0100" channel="NET TV">
+    <title lang="sl">Nočni program</title>
+  </programme>
+  <programme start="20210327070000 +0100" stop="20210327083000 +0100" channel="NET TV">
+    <title lang="sl">TV clip</title>
+  </programme>
+  <programme start="20210327083000 +0100" stop="20210327093000 +0100" channel="NET TV">
+    <title lang="sl">Petek s Sebastjanom</title>
+  </programme>
+  <programme start="20210327093000 +0100" stop="20210327100000 +0100" channel="NET TV">
+    <title lang="sl">Tv prodajno okno</title>
+  </programme>
+  <programme start="20210327100000 +0100" stop="20210327120000 +0100" channel="NET TV">
+    <title lang="sl">Cashevo maščevanje</title>
+  </programme>
+  <programme start="20210327120000 +0100" stop="20210327123000 +0100" channel="NET TV">
+    <title lang="sl">TV Market</title>
+  </programme>
+  <programme start="20210327123000 +0100" stop="20210327140000 +0100" channel="NET TV">
+    <title lang="sl">Narava zdravi</title>
+  </programme>
+  <programme start="20210327140000 +0100" stop="20210327150000 +0100" channel="NET TV">
+    <title lang="sl">Narava zdravi tržnica</title>
+  </programme>
+  <programme start="20210327150000 +0100" stop="20210327173000 +0100" channel="NET TV">
+    <title lang="sl">TV Market</title>
+  </programme>
+  <programme start="20210327173000 +0100" stop="20210327190000 +0100" channel="NET TV">
+    <title lang="sl">Bio Stil</title>
+  </programme>
+  <programme start="20210327190000 +0100" stop="20210327200000 +0100" channel="NET TV">
+    <title lang="sl">Slovenski video Coctail</title>
+  </programme>
+  <programme start="20210327200000 +0100" stop="20210327211500 +0100" channel="NET TV">
+    <title lang="sl">Fronta</title>
+  </programme>
+  <programme start="20210327211500 +0100" stop="20210327230000 +0100" channel="NET TV">
+    <title lang="sl">Peklenski tabor</title>
   </programme>
   <programme start="20210324000000 +0100" stop="20210324001500 +0100" channel="NTV IC Kakanj">
     <title lang="sl">Poročila IC</title>
