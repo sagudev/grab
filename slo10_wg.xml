@@ -1405,16 +1405,13 @@
   <programme start="20211230000000 +0100" stop="20211230020000 +0100" channel="Z1 Televizija">
     <title lang="sl">Astro</title>
   </programme>
-  <programme start="20211230020000 +0100" stop="20211230020500 +0100" channel="Z1 Televizija">
-    <title lang="sl">Hitre novice</title>
-  </programme>
-  <programme start="20211230020500 +0100" stop="20211230040500 +0100" channel="Z1 Televizija">
+  <programme start="20211230020000 +0100" stop="20211230040000 +0100" channel="Z1 Televizija">
     <title lang="sl">Jutrogram</title>
   </programme>
-  <programme start="20211230040500 +0100" stop="20211230043500 +0100" channel="Z1 Televizija">
+  <programme start="20211230040000 +0100" stop="20211230043000 +0100" channel="Z1 Televizija">
     <title lang="sl">Branilci danes</title>
   </programme>
-  <programme start="20211230043500 +0100" stop="20211230053000 +0100" channel="Z1 Televizija">
+  <programme start="20211230043000 +0100" stop="20211230053000 +0100" channel="Z1 Televizija">
     <title lang="sl">Zoom Zagreb</title>
   </programme>
   <programme start="20211230053000 +0100" stop="20211230073000 +0100" channel="Z1 Televizija">
@@ -1507,10 +1504,10 @@
   <programme start="20211230192500 +0100" stop="20211230193000 +0100" channel="Z1 Televizija">
     <title lang="sl">Napovedniki</title>
   </programme>
-  <programme start="20211230193000 +0100" stop="20211230194300 +0100" channel="Z1 Televizija">
-    <title lang="sl">Koncert</title>
+  <programme start="20211230193000 +0100" stop="20211230194500 +0100" channel="Z1 Televizija">
+    <title lang="sl">100 zagrebških zgodb</title>
   </programme>
-  <programme start="20211230194300 +0100" stop="20211230195000 +0100" channel="Z1 Televizija">
+  <programme start="20211230194500 +0100" stop="20211230195000 +0100" channel="Z1 Televizija">
     <title lang="sl">Napovedniki</title>
   </programme>
   <programme start="20211230195000 +0100" stop="20211230200000 +0100" channel="Z1 Televizija">
@@ -1600,10 +1597,10 @@
   <programme start="20211227170000 +0100" stop="20211227171000 +0100" channel="ZDF">
     <title lang="sl">Danes</title>
   </programme>
-  <programme start="20211227171000 +0100" stop="20211227180000 +0100" channel="ZDF">
+  <programme start="20211227171000 +0100" stop="20211227180500 +0100" channel="ZDF">
     <title lang="sl">Ljudje 2020 - leto zvezd</title>
   </programme>
-  <programme start="20211227180000 +0100" stop="20211227190000 +0100" channel="ZDF">
+  <programme start="20211227180500 +0100" stop="20211227190000 +0100" channel="ZDF">
     <title lang="sl">Preiskovalna enota Hamburg</title>
   </programme>
   <programme start="20211227190000 +0100" stop="20211227192000 +0100" channel="ZDF">
@@ -1630,19 +1627,19 @@
   <programme start="20211228002500 +0100" stop="20211228013000 +0100" channel="ZDF">
     <title lang="sl">V najboljši postavi</title>
   </programme>
-  <programme start="20211228013000 +0100" stop="20211228025500 +0100" channel="ZDF">
+  <programme start="20211228013000 +0100" stop="20211228025000 +0100" channel="ZDF">
     <title lang="sl">Rosamunde Pilcher: Zimsko sonce</title>
   </programme>
-  <programme start="20211228025500 +0100" stop="20211228042000 +0100" channel="ZDF">
+  <programme start="20211228025000 +0100" stop="20211228042000 +0100" channel="ZDF">
     <title lang="sl">Rosamunde Pilcher: Zimsko sonce</title>
   </programme>
-  <programme start="20211228042000 +0100" stop="20211228050500 +0100" channel="ZDF">
+  <programme start="20211228042000 +0100" stop="20211228050000 +0100" channel="ZDF">
     <title lang="sl">Otoki v Indijskem oceanu: Življenje v ogroženem raju</title>
   </programme>
-  <programme start="20211228050500 +0100" stop="20211228051500 +0100" channel="ZDF">
+  <programme start="20211228050000 +0100" stop="20211228051000 +0100" channel="ZDF">
     <title lang="sl">zdf.formstark</title>
   </programme>
-  <programme start="20211228051500 +0100" stop="20211228053000 +0100" channel="ZDF">
+  <programme start="20211228051000 +0100" stop="20211228053000 +0100" channel="ZDF">
     <title lang="sl">Zimsko potovanje na Bajkalsko jezero</title>
   </programme>
   <programme start="20211228053000 +0100" stop="20211228090000 +0100" channel="ZDF">
@@ -2332,8 +2329,11 @@
   <programme start="20211228030000 +0100" stop="20211228050000 +0100" channel="Šport TV 1">
     <title lang="sl">Košarka (M): Lokomotiv Kuban - Partizan, Eurocup</title>
   </programme>
-  <programme start="20211228050000 +0100" stop="20211228070000 +0100" channel="Šport TV 1">
-    <title lang="sl">Hokej: Spenglerjev pokal</title>
+  <programme start="20211228050000 +0100" stop="20211228060000 +0100" channel="Šport TV 1">
+    <title lang="sl">Motokros: MXGP, VN Rusije, 1. dirka</title>
+  </programme>
+  <programme start="20211228060000 +0100" stop="20211228070000 +0100" channel="Šport TV 1">
+    <title lang="sl">Motokros: MXGP, VN Rusije, 2. dirka</title>
   </programme>
   <programme start="20211228070000 +0100" stop="20211228090000 +0100" channel="Šport TV 1">
     <title lang="sl">Nogomet (M): Tabor Sežana - Olimpija, Prva liga Telemach</title>
@@ -2347,13 +2347,16 @@
   <programme start="20211228113000 +0100" stop="20211228131500 +0100" channel="Šport TV 1">
     <title lang="sl">Košarka (M): Treviso - Brescia, Italijanska liga</title>
   </programme>
-  <programme start="20211228131500 +0100" stop="20211228150500 +0100" channel="Šport TV 1">
-    <title lang="sl">Hokej: Spenglerjev pokal</title>
+  <programme start="20211228131500 +0100" stop="20211228151500 +0100" channel="Šport TV 1">
+    <title lang="sl">Nogomet (M): Leipzig - Borussia Dortmund, Bundesliga</title>
   </programme>
-  <programme start="20211228150500 +0100" stop="20211228174500 +0100" channel="Šport TV 1">
-    <title lang="sl">Hokej: Spenglerjev pokal</title>
+  <programme start="20211228151500 +0100" stop="20211228171500 +0100" channel="Šport TV 1">
+    <title lang="sl">Nogomet (M): Olimpija - Koper, Prva liga Telemach</title>
   </programme>
-  <programme start="20211228174500 +0100" stop="20211228184000 +0100" channel="Šport TV 1">
+  <programme start="20211228171500 +0100" stop="20211228174000 +0100" channel="Šport TV 1">
+    <title lang="sl">XTERRA Adventures</title>
+  </programme>
+  <programme start="20211228174000 +0100" stop="20211228184000 +0100" channel="Šport TV 1">
     <title lang="sl">Nogomet (M): Eredivisie, pregled po prvi polovici sezone</title>
   </programme>
   <programme start="20211228184000 +0100" stop="20211228185000 +0100" channel="Šport TV 1">
@@ -2366,7 +2369,7 @@
     <title lang="sl">Košarka (M): Brindisi - Pesaro, Italijanska liga</title>
   </programme>
   <programme start="20211228233000 +0100" stop="20211229013000 +0100" channel="Šport TV 1">
-    <title lang="sl">Hokej: Spenglerjev pokal</title>
+    <title lang="sl">Nogomet (M): Bayer Leverkusen - Bayern Munchen, Bundesliga</title>
   </programme>
   <programme start="20211229013000 +0100" stop="20211229023000 +0100" channel="Šport TV 1">
     <title lang="sl">Nogomet (M): Bundesliga: Pregled po prvi polovici sezone</title>
@@ -2375,16 +2378,19 @@
     <title lang="sl">FIA Pure Motorsport</title>
   </programme>
   <programme start="20211229030000 +0100" stop="20211229050000 +0100" channel="Šport TV 1">
-    <title lang="sl">Košarka (M): Trento - Varese, Italijanska liga</title>
+    <title lang="sl">Nogomet (M): Zwolle - Ajax, Eredivisie</title>
   </programme>
-  <programme start="20211229050000 +0100" stop="20211229070000 +0100" channel="Šport TV 1">
-    <title lang="sl">Hokej: Spenglerjev pokal</title>
+  <programme start="20211229050000 +0100" stop="20211229060000 +0100" channel="Šport TV 1">
+    <title lang="sl">Motokros: MXGP, VN Velike Britanije, 1. dirka</title>
+  </programme>
+  <programme start="20211229060000 +0100" stop="20211229070000 +0100" channel="Šport TV 1">
+    <title lang="sl">Motokros: MXGP, VN Velike Britanije, 2. dirka</title>
   </programme>
   <programme start="20211229070000 +0100" stop="20211229090000 +0100" channel="Šport TV 1">
     <title lang="sl">Nogomet (M): Olimpija - Koper, Prva liga Telemach</title>
   </programme>
   <programme start="20211229090000 +0100" stop="20211229110000 +0100" channel="Šport TV 1">
-    <title lang="sl">Hokej: Spenglerjev pokal</title>
+    <title lang="sl">Nogomet (M): Wolfsburg - Borussia Dortmund, Bundesliga</title>
   </programme>
   <programme start="20211229110000 +0100" stop="20211229113000 +0100" channel="Šport TV 1">
     <title lang="sl">XTERRA Adventures</title>
@@ -2392,23 +2398,29 @@
   <programme start="20211229113000 +0100" stop="20211229131500 +0100" channel="Šport TV 1">
     <title lang="sl">Košarka (M): Brindisi - Pesaro, Italijanska liga</title>
   </programme>
-  <programme start="20211229131500 +0100" stop="20211229150500 +0100" channel="Šport TV 1">
+  <programme start="20211229131500 +0100" stop="20211229151500 +0100" channel="Šport TV 1">
     <title lang="sl">Hokej (M): Jesenice - Vienna Capitals Silver, Alpska liga</title>
   </programme>
-  <programme start="20211229150500 +0100" stop="20211229174500 +0100" channel="Šport TV 1">
-    <title lang="sl">Hokej: Spenglerjev pokal</title>
+  <programme start="20211229151500 +0100" stop="20211229171500 +0100" channel="Šport TV 1">
+    <title lang="sl">Nogomet (M): Koper - Maribor, Prva liga Telemach</title>
+  </programme>
+  <programme start="20211229171500 +0100" stop="20211229174500 +0100" channel="Šport TV 1">
+    <title lang="sl">Svet ekstremnih športov</title>
   </programme>
   <programme start="20211229174500 +0100" stop="20211229194500 +0100" channel="Šport TV 1">
     <title lang="sl">Košarka (M): Valencia - Cedevita Olimpija, Eurocup</title>
   </programme>
-  <programme start="20211229194500 +0100" stop="20211229201000 +0100" channel="Šport TV 1">
+  <programme start="20211229194500 +0100" stop="20211229201500 +0100" channel="Šport TV 1">
     <title lang="sl">Nogomet (M): Bundesliga magazin: Analiza, drugi del</title>
   </programme>
-  <programme start="20211229201000 +0100" stop="20211229224500 +0100" channel="Šport TV 1">
-    <title lang="sl">Hokej: Spenglerjev pokal</title>
+  <programme start="20211229201500 +0100" stop="20211229221500 +0100" channel="Šport TV 1">
+    <title lang="sl">Hokej (M): Pustertal - Olimpija, ICE Hockey League</title>
+  </programme>
+  <programme start="20211229221500 +0100" stop="20211229224500 +0100" channel="Šport TV 1">
+    <title lang="sl">FIA Pure Motorsport</title>
   </programme>
   <programme start="20211229224500 +0100" stop="20211230003000 +0100" channel="Šport TV 1">
-    <title lang="sl">Košarka (M): Trento - Varese, Italijanska liga</title>
+    <title lang="sl">Košarka (M): Treviso - Brescia, Italijanska liga</title>
   </programme>
   <programme start="20211230003000 +0100" stop="20211230023000 +0100" channel="Šport TV 1">
     <title lang="sl">Nogomet (M): Bayern Munchen - Hertha, Bundesliga</title>
@@ -2417,10 +2429,13 @@
     <title lang="sl">Svet ekstremnih športov</title>
   </programme>
   <programme start="20211230030000 +0100" stop="20211230050000 +0100" channel="Šport TV 1">
-    <title lang="sl">Košarka (M): Treviso - Brescia, Italijanska liga</title>
+    <title lang="sl">Nogomet (M): Ajax - Cambuur, Eredivisie</title>
   </programme>
-  <programme start="20211230050000 +0100" stop="20211230070000 +0100" channel="Šport TV 1">
-    <title lang="sl">Hokej: Spenglerjev pokal</title>
+  <programme start="20211230050000 +0100" stop="20211230060000 +0100" channel="Šport TV 1">
+    <title lang="sl">Motokros: MXGP, VN Italije, 1. dirka</title>
+  </programme>
+  <programme start="20211230060000 +0100" stop="20211230070000 +0100" channel="Šport TV 1">
+    <title lang="sl">Motokros: MXGP, VN Italije, 2. dirka</title>
   </programme>
   <programme start="20211230070000 +0100" stop="20211230090000 +0100" channel="Šport TV 1">
     <title lang="sl">Nogomet (M): Koper - Maribor, Prva liga Telemach</title>
@@ -2434,11 +2449,14 @@
   <programme start="20211230113000 +0100" stop="20211230131500 +0100" channel="Šport TV 1">
     <title lang="sl">Košarka (M): Treviso - Brescia, Italijanska liga</title>
   </programme>
-  <programme start="20211230131500 +0100" stop="20211230150500 +0100" channel="Šport TV 1">
-    <title lang="sl">Hokej: Spenglerjev pokal</title>
+  <programme start="20211230131500 +0100" stop="20211230151500 +0100" channel="Šport TV 1">
+    <title lang="sl">Hokej (M): Pustertal - Olimpija, ICE Hockey League</title>
   </programme>
-  <programme start="20211230150500 +0100" stop="20211230174500 +0100" channel="Šport TV 1">
-    <title lang="sl">Hokej: Spenglerjev pokal, polfinale</title>
+  <programme start="20211230151500 +0100" stop="20211230171500 +0100" channel="Šport TV 1">
+    <title lang="sl">Nogomet (M): Maribor - Olimpija, Prva liga Telemach</title>
+  </programme>
+  <programme start="20211230171500 +0100" stop="20211230174500 +0100" channel="Šport TV 1">
+    <title lang="sl">Nogomet (M): Bundesliga magazin: Analiza, drugi del</title>
   </programme>
   <programme start="20211230174500 +0100" stop="20211230193500 +0100" channel="Šport TV 1">
     <title lang="sl">Košarka (M): Brindisi - Pesaro, Italijanska liga</title>
@@ -2507,10 +2525,10 @@
     <title lang="sl">Hokej (M): Pustertal - Olimpija, ICE Hockey League</title>
   </programme>
   <programme start="20211228090000 +0100" stop="20211228110000 +0100" channel="Šport TV 2">
-    <title lang="sl">Košarka (M): Trento - Varese, Italijanska liga</title>
+    <title lang="sl">Nogomet (M): Ajax - Groningen, Eredivisie</title>
   </programme>
   <programme start="20211228110000 +0100" stop="20211228130000 +0100" channel="Šport TV 2">
-    <title lang="sl">Hokej: Spenglerjev pokal</title>
+    <title lang="sl">Nogomet (M): Celje - Maribor, Prva liga Telemach</title>
   </programme>
   <programme start="20211228130000 +0100" stop="20211228150000 +0100" channel="Šport TV 2">
     <title lang="sl">Nogomet (M): Borussia Monchengladbach - Bayern Munchen, Bundesliga</title>
@@ -2524,11 +2542,11 @@
   <programme start="20211228184500 +0100" stop="20211228194500 +0100" channel="Šport TV 2">
     <title lang="sl">Nogomet (M): Bundesliga: Pregled po prvi polovici sezone</title>
   </programme>
-  <programme start="20211228194500 +0100" stop="20211228201000 +0100" channel="Šport TV 2">
-    <title lang="sl">Svet ekstremnih športov</title>
+  <programme start="20211228194500 +0100" stop="20211228204500 +0100" channel="Šport TV 2">
+    <title lang="sl">Nogomet (M): Eredivisie, pregled po prvi polovici sezone</title>
   </programme>
-  <programme start="20211228201000 +0100" stop="20211228224500 +0100" channel="Šport TV 2">
-    <title lang="sl">Hokej: Spenglerjev pokal</title>
+  <programme start="20211228204500 +0100" stop="20211228224500 +0100" channel="Šport TV 2">
+    <title lang="sl">Nogomet (M): Ajax - PSV, Eredivisie</title>
   </programme>
   <programme start="20211228224500 +0100" stop="20211229004500 +0100" channel="Šport TV 2">
     <title lang="sl">Hokej (M): Jesenice - Vienna Capitals Silver, Alpska liga</title>
@@ -2542,8 +2560,11 @@
   <programme start="20211229020000 +0100" stop="20211229030000 +0100" channel="Šport TV 2">
     <title lang="sl">Motokros: MXGP, VN Rusije, 2. dirka</title>
   </programme>
-  <programme start="20211229030000 +0100" stop="20211229050000 +0100" channel="Šport TV 2">
-    <title lang="sl">Hokej: Spenglerjev pokal</title>
+  <programme start="20211229030000 +0100" stop="20211229040000 +0100" channel="Šport TV 2">
+    <title lang="sl">Motokros: MX2, VN Rusije, 1. dirka</title>
+  </programme>
+  <programme start="20211229040000 +0100" stop="20211229050000 +0100" channel="Šport TV 2">
+    <title lang="sl">Motokros: MX2, VN Rusije, 2. dirka</title>
   </programme>
   <programme start="20211229050000 +0100" stop="20211229070000 +0100" channel="Šport TV 2">
     <title lang="sl">Nogomet (M): Greuther Furth - Bayern Munchen, Bundesliga</title>
@@ -2552,10 +2573,10 @@
     <title lang="sl">Hokej (M): Jesenice - Vienna Capitals Silver, Alpska liga</title>
   </programme>
   <programme start="20211229090000 +0100" stop="20211229110000 +0100" channel="Šport TV 2">
-    <title lang="sl">Košarka (M): Trento - Varese, Italijanska liga</title>
+    <title lang="sl">Nogomet (M): Ajax - Utrecht, Eredivisie</title>
   </programme>
   <programme start="20211229110000 +0100" stop="20211229130000 +0100" channel="Šport TV 2">
-    <title lang="sl">Hokej: Spenglerjev pokal</title>
+    <title lang="sl">Nogomet (M): Maribor - Domžale, Prva liga Telemach</title>
   </programme>
   <programme start="20211229130000 +0100" stop="20211229150000 +0100" channel="Šport TV 2">
     <title lang="sl">Nogomet (M): Borussia Dortmund - Eintracht Frankfurt, Bundesliga</title>
@@ -2573,7 +2594,7 @@
     <title lang="sl">Košarka (M): Brindisi - Pesaro, Italijanska liga</title>
   </programme>
   <programme start="20211229224500 +0100" stop="20211230004500 +0100" channel="Šport TV 2">
-    <title lang="sl">Hokej: Spenglerjev pokal</title>
+    <title lang="sl">Hokej (M): Pustertal - Olimpija, ICE Hockey League</title>
   </programme>
   <programme start="20211230004500 +0100" stop="20211230010000 +0100" channel="Šport TV 2">
     <title lang="sl">Nogomet (M): Bundesliga, intervju meseca: Erling Haaland</title>
@@ -2584,8 +2605,11 @@
   <programme start="20211230020000 +0100" stop="20211230030000 +0100" channel="Šport TV 2">
     <title lang="sl">Motokros: MXGP, VN Velike Britanije, 2. dirka</title>
   </programme>
-  <programme start="20211230030000 +0100" stop="20211230050000 +0100" channel="Šport TV 2">
-    <title lang="sl">Hokej: Spenglerjev pokal</title>
+  <programme start="20211230030000 +0100" stop="20211230040000 +0100" channel="Šport TV 2">
+    <title lang="sl">Motokros: MX2, VN Velike Britanije, 1. dirka</title>
+  </programme>
+  <programme start="20211230040000 +0100" stop="20211230050000 +0100" channel="Šport TV 2">
+    <title lang="sl">Motokros: MX2, VN Velike Britanije, 1. dirka</title>
   </programme>
   <programme start="20211230050000 +0100" stop="20211230070000 +0100" channel="Šport TV 2">
     <title lang="sl">Nogomet (M): Borussia Monchengladbach - Borussia Dortmund, Bundesliga</title>
@@ -2597,15 +2621,15 @@
     <title lang="sl">Košarka (M): Brindisi - Pesaro, Italijanska liga</title>
   </programme>
   <programme start="20211230110000 +0100" stop="20211230130000 +0100" channel="Šport TV 2">
-    <title lang="sl">Hokej: Spenglerjev pokal</title>
+    <title lang="sl">Hokej (M): Jesenice - Vienna Capitals Silver, Alpska liga</title>
   </programme>
   <programme start="20211230130000 +0100" stop="20211230150000 +0100" channel="Šport TV 2">
     <title lang="sl">Nogomet (M): Bayern Munchen - Koln, Bundesliga</title>
   </programme>
-  <programme start="20211230150000 +0100" stop="20211230170000 +0100" channel="Šport TV 2">
-    <title lang="sl">Košarka (M): Trento - Varese, Italijanska liga</title>
+  <programme start="20211230150000 +0100" stop="20211230165500 +0100" channel="Šport TV 2">
+    <title lang="sl">Košarka (M): Treviso - Brescia, Italijanska liga</title>
   </programme>
-  <programme start="20211230170000 +0100" stop="20211230185000 +0100" channel="Šport TV 2">
+  <programme start="20211230165500 +0100" stop="20211230185000 +0100" channel="Šport TV 2">
     <title lang="sl">Nogomet (M): Maribor - Domžale, Prva liga Telemach</title>
   </programme>
   <programme start="20211230185000 +0100" stop="20211230213000 +0100" channel="Šport TV 2">
@@ -2692,10 +2716,10 @@
   <programme start="20211228123000 +0100" stop="20211228133000 +0100" channel="Šport TV 3">
     <title lang="sl">Nogomet (M): Eredivisie, pregled po prvi polovici sezone</title>
   </programme>
-  <programme start="20211228133000 +0100" stop="20211228151500 +0100" channel="Šport TV 3">
-    <title lang="sl">Košarka (M): Trento - Varese, Italijanska liga</title>
+  <programme start="20211228133000 +0100" stop="20211228153000 +0100" channel="Šport TV 3">
+    <title lang="sl">Hokej (M): Pustertal - Olimpija, ICE Hockey League</title>
   </programme>
-  <programme start="20211228151500 +0100" stop="20211228171500 +0100" channel="Šport TV 3">
+  <programme start="20211228153000 +0100" stop="20211228171500 +0100" channel="Šport TV 3">
     <title lang="sl">Nogomet (M): Borussia Dortmund - Stuttgart, 2. Bundesliga</title>
   </programme>
   <programme start="20211228171500 +0100" stop="20211228190000 +0100" channel="Šport TV 3">
@@ -2711,7 +2735,7 @@
     <title lang="sl">Nogomet (M): Studio: Mura - Olimpija, Prva liga Telemach</title>
   </programme>
   <programme start="20211229004500 +0100" stop="20211229024500 +0100" channel="Šport TV 3">
-    <title lang="sl">Hokej: Spenglerjev pokal</title>
+    <title lang="sl">Hokej (M): Jesenice - Vienna Capitals Silver, Alpska liga</title>
   </programme>
   <programme start="20211229024500 +0100" stop="20211229031500 +0100" channel="Šport TV 3">
     <title lang="sl">Svet ekstremnih športov</title>
@@ -2723,7 +2747,7 @@
     <title lang="sl">Košarka (M): Valencia - Cedevita Olimpija, Eurocup</title>
   </programme>
   <programme start="20211229064500 +0100" stop="20211229083000 +0100" channel="Šport TV 3">
-    <title lang="sl">Košarka (M): Trento - Varese, Italijanska liga</title>
+    <title lang="sl">Nogomet (M): PSV - Go Ahead Eagles, Eredivisie</title>
   </programme>
   <programme start="20211229083000 +0100" stop="20211229093000 +0100" channel="Šport TV 3">
     <title lang="sl">Motokros: MX2, VN Flandrije, 1. dirka</title>
@@ -2747,7 +2771,7 @@
     <title lang="sl">Košarka (M): Brindisi - Pesaro, Italijanska liga</title>
   </programme>
   <programme start="20211229180000 +0100" stop="20211229200000 +0100" channel="Šport TV 3">
-    <title lang="sl">Hokej: Spenglerjev pokal</title>
+    <title lang="sl">Hokej (M): Jesenice - Vienna Capitals Silver, Alpska liga</title>
   </programme>
   <programme start="20211229200000 +0100" stop="20211229214500 +0100" channel="Šport TV 3">
     <title lang="sl">Nogomet (M): Ajax - Fortuna Sittard, Eredivisie</title>
@@ -2759,7 +2783,7 @@
     <title lang="sl">Nogomet (M): Maribor - Mura, Prva liga Telemach</title>
   </programme>
   <programme start="20211230004500 +0100" stop="20211230024500 +0100" channel="Šport TV 3">
-    <title lang="sl">Hokej: Spenglerjev pokal</title>
+    <title lang="sl">Hokej (M): Pustertal - Olimpija, ICE Hockey League</title>
   </programme>
   <programme start="20211230024500 +0100" stop="20211230031500 +0100" channel="Šport TV 3">
     <title lang="sl">XTERRA Adventures</title>
@@ -2794,17 +2818,17 @@
   <programme start="20211230151500 +0100" stop="20211230171500 +0100" channel="Šport TV 3">
     <title lang="sl">Nogomet (M): Borussia Dortmund - Koln, Bundesliga</title>
   </programme>
-  <programme start="20211230171500 +0100" stop="20211230190000 +0100" channel="Šport TV 3">
-    <title lang="sl">Košarka (M): Trento - Varese, Italijanska liga</title>
+  <programme start="20211230171500 +0100" stop="20211230191500 +0100" channel="Šport TV 3">
+    <title lang="sl">Hokej (M): Pustertal - Olimpija, ICE Hockey League</title>
   </programme>
-  <programme start="20211230190000 +0100" stop="20211230200000 +0100" channel="Šport TV 3">
+  <programme start="20211230191500 +0100" stop="20211230201500 +0100" channel="Šport TV 3">
     <title lang="sl">Nogomet (M): Bundesliga: Pregled po prvi polovici sezone</title>
   </programme>
-  <programme start="20211230200000 +0100" stop="20211230201000 +0100" channel="Šport TV 3">
-    <title lang="sl">Nogomet (M): Bundesliga, intervju meseca: Erling Haaland</title>
+  <programme start="20211230201500 +0100" stop="20211230221500 +0100" channel="Šport TV 3">
+    <title lang="sl">Košarka (M): Valencia - Cedevita Olimpija, Eurocup</title>
   </programme>
-  <programme start="20211230201000 +0100" stop="20211230224500 +0100" channel="Šport TV 3">
-    <title lang="sl">Hokej: Spenglerjev pokal, polfinale</title>
+  <programme start="20211230221500 +0100" stop="20211230224500 +0100" channel="Šport TV 3">
+    <title lang="sl">Nogomet (M): Bundesliga magazin: Analiza, drugi del</title>
   </programme>
   <programme start="20211227000500 +0100" stop="20211227003000 +0100" channel="NickToons">
     <title lang="sl">Kung Fu Panda: Super legende: Sova se vrača</title>
@@ -4356,221 +4380,5 @@
   </programme>
   <programme start="20211229232000 +0100" stop="20211229235000 +0100" channel="Nick Jr">
     <title lang="sl">Tačke na patrulji: Kužki rešijo zamrznjeno taborjenje / Kužki rešijo šumeče kumarice</title>
-  </programme>
-  <programme start="20211229235000 +0100" stop="20211230001500 +0100" channel="Nick Jr">
-    <title lang="sl">Tačke na patrulji: Kužki rešijo obir-o-matik / Kužki rešijo maskoto</title>
-  </programme>
-  <programme start="20211230001500 +0100" stop="20211230004500 +0100" channel="Nick Jr">
-    <title lang="sl">Rogovilčki: Gospod Jekleni razume živali / Izgubljeni v labirintu</title>
-  </programme>
-  <programme start="20211230004500 +0100" stop="20211230011500 +0100" channel="Nick Jr">
-    <title lang="sl">Rogovilčki: Napad dronov / Sluz napada</title>
-  </programme>
-  <programme start="20211230011500 +0100" stop="20211230014500 +0100" channel="Nick Jr">
-    <title lang="sl">Tačke na patrulji: Kužki rešijo igrivega zmaja / Kužki rešijo živalce</title>
-  </programme>
-  <programme start="20211230014500 +0100" stop="20211230020500 +0100" channel="Nick Jr">
-    <title lang="sl">Tačke na patrulji: Kužki rešijo prespanje / Kužki rešijo karneval</title>
-  </programme>
-  <programme start="20211230020500 +0100" stop="20211230023000 +0100" channel="Nick Jr">
-    <title lang="sl">Blaze in megakolesniki: Iskrivi hrošč</title>
-  </programme>
-  <programme start="20211230023000 +0100" stop="20211230025000 +0100" channel="Nick Jr">
-    <title lang="sl">Blaze in megakolesniki: Blaze hiti na pomoč</title>
-  </programme>
-  <programme start="20211230025000 +0100" stop="20211230031500 +0100" channel="Nick Jr">
-    <title lang="sl">Blaze in megakolesniki: Grand Prix Turbomesta</title>
-  </programme>
-  <programme start="20211230031500 +0100" stop="20211230033500 +0100" channel="Nick Jr">
-    <title lang="sl">Ribji repki: Ljubezen do kužka</title>
-  </programme>
-  <programme start="20211230033500 +0100" stop="20211230040000 +0100" channel="Nick Jr">
-    <title lang="sl">Ribji repki: Prostor za zabaviščni park</title>
-  </programme>
-  <programme start="20211230040000 +0100" stop="20211230042000 +0100" channel="Nick Jr">
-    <title lang="sl">Blaze in megakolesniki: Dino hec</title>
-  </programme>
-  <programme start="20211230042000 +0100" stop="20211230044500 +0100" channel="Nick Jr">
-    <title lang="sl">Blaze in megakolesniki: Pujsek 500</title>
-  </programme>
-  <programme start="20211230044500 +0100" stop="20211230051000 +0100" channel="Nick Jr">
-    <title lang="sl">Tačke na patrulji: Kužki rešijo kužke balone / Kužki rešijo vohune pajkov</title>
-  </programme>
-  <programme start="20211230051000 +0100" stop="20211230053000 +0100" channel="Nick Jr">
-    <title lang="sl">Tačke na patrulji: Kužki rešijo medvede / Kužki rešijo kmetijo brez kmetov</title>
-  </programme>
-  <programme start="20211230053000 +0100" stop="20211230060000 +0100" channel="Nick Jr">
-    <title lang="sl">Tačke na patrulji: Kužki rešijo belega volka / Kužki rešijo raziskovalca, ki je zašel</title>
-  </programme>
-  <programme start="20211230060000 +0100" stop="20211230062500 +0100" channel="Nick Jr">
-    <title lang="sl">Blaze in megakolesniki: Dirkaška super zvezda</title>
-  </programme>
-  <programme start="20211230062500 +0100" stop="20211230065500 +0100" channel="Nick Jr">
-    <title lang="sl">Blaze in megakolesniki: Dirka na Orlovo pečino</title>
-  </programme>
-  <programme start="20211230065500 +0100" stop="20211230072000 +0100" channel="Nick Jr">
-    <title lang="sl">Sinjemorski Santiago: Princesa in piratski kuža / Zaliv Caracol</title>
-  </programme>
-  <programme start="20211230072000 +0100" stop="20211230073500 +0100" channel="Nick Jr">
-    <title lang="sl">Sinjemorski Santiago: Kokoška Abuelo</title>
-  </programme>
-  <programme start="20211230073500 +0100" stop="20211230080500 +0100" channel="Nick Jr">
-    <title lang="sl">Tačke na patrulji: Kužki rešijo sliko, narisano s kredo / Kužki rešijo vroč krompir</title>
-  </programme>
-  <programme start="20211230080500 +0100" stop="20211230082000 +0100" channel="Nick Jr">
-    <title lang="sl">Veliki šov malega morskega psa</title>
-  </programme>
-  <programme start="20211230082000 +0100" stop="20211230085000 +0100" channel="Nick Jr">
-    <title lang="sl">Rogovilčki: Razjarjena morska pošast / Obtičala sta skupaj</title>
-  </programme>
-  <programme start="20211230085000 +0100" stop="20211230091500 +0100" channel="Nick Jr">
-    <title lang="sl">Namigi z Blue: Tvoj rojstni dan je</title>
-  </programme>
-  <programme start="20211230091500 +0100" stop="20211230094500 +0100" channel="Nick Jr">
-    <title lang="sl">Barbapapa: Kolcanizem / Tišina, prosim</title>
-  </programme>
-  <programme start="20211230094500 +0100" stop="20211230095500 +0100" channel="Nick Jr">
-    <title lang="sl">Barbapapa: Naj bo pravici zadoščeno</title>
-  </programme>
-  <programme start="20211230095500 +0100" stop="20211230102500 +0100" channel="Nick Jr">
-    <title lang="sl">Paddingtonove dogodivščine: Paddington dela palačinke / Paddington igra nogomet</title>
-  </programme>
-  <programme start="20211230102500 +0100" stop="20211230103000 +0100" channel="Nick Jr">
-    <title lang="sl">Pujsa Pepa: Risanje</title>
-  </programme>
-  <programme start="20211230103000 +0100" stop="20211230103500 +0100" channel="Nick Jr">
-    <title lang="sl">Pujsa Pepa: Ura kukavica</title>
-  </programme>
-  <programme start="20211230103500 +0100" stop="20211230104000 +0100" channel="Nick Jr">
-    <title lang="sl">Pujsa Pepa: Dedi na igrišču</title>
-  </programme>
-  <programme start="20211230104000 +0100" stop="20211230105000 +0100" channel="Nick Jr">
-    <title lang="sl">Pujsa Pepa: Kolesarjenje</title>
-  </programme>
-  <programme start="20211230105000 +0100" stop="20211230105500 +0100" channel="Nick Jr">
-    <title lang="sl">Calvinova in Kaisonova moč igre: Podvodna umetnost</title>
-  </programme>
-  <programme start="20211230105500 +0100" stop="20211230110500 +0100" channel="Nick Jr">
-    <title lang="sl">Calvinova in Kaisonova moč igre: Super strašna zabava presenečenja!</title>
-  </programme>
-  <programme start="20211230110500 +0100" stop="20211230113500 +0100" channel="Nick Jr">
-    <title lang="sl">Tačke na patrulji: Kužki rešijo ekstremno kosilo / Kužki rešijo mačjega tatiča</title>
-  </programme>
-  <programme start="20211230113500 +0100" stop="20211230120000 +0100" channel="Nick Jr">
-    <title lang="sl">Tačke na patrulji: Kužki rešijo metuljčke / Kužki rešijo podzemno kokoš</title>
-  </programme>
-  <programme start="20211230120000 +0100" stop="20211230123000 +0100" channel="Nick Jr">
-    <title lang="sl">Blaze in megakolesniki: Pobegla raketa</title>
-  </programme>
-  <programme start="20211230123000 +0100" stop="20211230125500 +0100" channel="Nick Jr">
-    <title lang="sl">Blaze in megakolesniki: Dino hec</title>
-  </programme>
-  <programme start="20211230125500 +0100" stop="20211230132500 +0100" channel="Nick Jr">
-    <title lang="sl">Sinjemorski Santiago: Legenda kapitana Calavere</title>
-  </programme>
-  <programme start="20211230132500 +0100" stop="20211230135500 +0100" channel="Nick Jr">
-    <title lang="sl">Ribji repki: Zaboj s kostumi!</title>
-  </programme>
-  <programme start="20211230135500 +0100" stop="20211230140500 +0100" channel="Nick Jr">
-    <title lang="sl">Veliki šov malega morskega psa</title>
-  </programme>
-  <programme start="20211230140500 +0100" stop="20211230142500 +0100" channel="Nick Jr">
-    <title lang="sl">Tačke na patrulji: Piščeleta</title>
-  </programme>
-  <programme start="20211230142500 +0100" stop="20211230145000 +0100" channel="Nick Jr">
-    <title lang="sl">Tačke na patrulji: Kužki rešijo Kosmatka / Kužki rešijo letečo mucko</title>
-  </programme>
-  <programme start="20211230145000 +0100" stop="20211230152000 +0100" channel="Nick Jr">
-    <title lang="sl">Paddingtonove dogodivščine: Paddington izdela strašilo / Paddington se igra skrivalnice</title>
-  </programme>
-  <programme start="20211230152000 +0100" stop="20211230154600 +0100" channel="Nick Jr">
-    <title lang="sl">Namigi z Blue: Smejmo se z Blue</title>
-  </programme>
-  <programme start="20211230154600 +0100" stop="20211230155100 +0100" channel="Nick Jr">
-    <title lang="sl">Pujsa Pepa: Skrivalnice</title>
-  </programme>
-  <programme start="20211230155100 +0100" stop="20211230155500 +0100" channel="Nick Jr">
-    <title lang="sl">Pujsa Pepa: Igralne urice</title>
-  </programme>
-  <programme start="20211230155500 +0100" stop="20211230160500 +0100" channel="Nick Jr">
-    <title lang="sl">Pujsa Pepa: Mama Pujsa pri delu</title>
-  </programme>
-  <programme start="20211230160500 +0100" stop="20211230163500 +0100" channel="Nick Jr">
-    <title lang="sl">Barbapapa: Barbabright ima skrivnost / Super duper kul</title>
-  </programme>
-  <programme start="20211230163500 +0100" stop="20211230170000 +0100" channel="Nick Jr">
-    <title lang="sl">Rogovilčki: Dvojne težave / Ne preveč pametna škatla</title>
-  </programme>
-  <programme start="20211230170000 +0100" stop="20211230171500 +0100" channel="Nick Jr">
-    <title lang="sl">Rogovilčki: Ples uničenja</title>
-  </programme>
-  <programme start="20211230171500 +0100" stop="20211230174500 +0100" channel="Nick Jr">
-    <title lang="sl">Tačke na patrulji: Kužki rešijo padalca / Kužki rešijo tortice</title>
-  </programme>
-  <programme start="20211230174500 +0100" stop="20211230181500 +0100" channel="Nick Jr">
-    <title lang="sl">Blaze in megakolesniki: Blaze hiti na pomoč</title>
-  </programme>
-  <programme start="20211230181500 +0100" stop="20211230184000 +0100" channel="Nick Jr">
-    <title lang="sl">Sinjemorski Santiago: Presenečenje za Tomasa / Družinsko iskanje zaklada</title>
-  </programme>
-  <programme start="20211230184000 +0100" stop="20211230185500 +0100" channel="Nick Jr">
-    <title lang="sl">Veliki šov malega morskega psa</title>
-  </programme>
-  <programme start="20211230185500 +0100" stop="20211230192000 +0100" channel="Nick Jr">
-    <title lang="sl">Barbapapa: Boris / Rojen za divjino</title>
-  </programme>
-  <programme start="20211230192000 +0100" stop="20211230195000 +0100" channel="Nick Jr">
-    <title lang="sl">Barbapapa: Barbabright ima skrivnost / Super duper kul</title>
-  </programme>
-  <programme start="20211230195000 +0100" stop="20211230201500 +0100" channel="Nick Jr">
-    <title lang="sl">Paddingtonove dogodivščine: Paddington in kost / Paddington igra v bendu</title>
-  </programme>
-  <programme start="20211230201500 +0100" stop="20211230204500 +0100" channel="Nick Jr">
-    <title lang="sl">Paddingtonove dogodivščine: Paddington in baloni / Policist Paddington</title>
-  </programme>
-  <programme start="20211230204500 +0100" stop="20211230211000 +0100" channel="Nick Jr">
-    <title lang="sl">Tačke na patrulji: Kužki rešijo nogometno tekmo / Kužki rešijo srečno ovratnico</title>
-  </programme>
-  <programme start="20211230211000 +0100" stop="20211230211500 +0100" channel="Nick Jr">
-    <title lang="sl">Pujsa Pepa: Zebra Zoja</title>
-  </programme>
-  <programme start="20211230211500 +0100" stop="20211230212700 +0100" channel="Nick Jr">
-    <title lang="sl">Pujsa Pepa: Risanje</title>
-  </programme>
-  <programme start="20211230212700 +0100" stop="20211230213200 +0100" channel="Nick Jr">
-    <title lang="sl">Pujsa Pepa: Ura kukavica</title>
-  </programme>
-  <programme start="20211230213200 +0100" stop="20211230213700 +0100" channel="Nick Jr">
-    <title lang="sl">Pujsa Pepa: Kolesarjenje</title>
-  </programme>
-  <programme start="20211230213700 +0100" stop="20211230214200 +0100" channel="Nick Jr">
-    <title lang="sl">Pujsa Pepa: Zobozdravnik</title>
-  </programme>
-  <programme start="20211230214200 +0100" stop="20211230214500 +0100" channel="Nick Jr">
-    <title lang="sl">Pujsa Pepa: Hišica</title>
-  </programme>
-  <programme start="20211230214500 +0100" stop="20211230215500 +0100" channel="Nick Jr">
-    <title lang="sl">Pujsa Pepa: Dedkov mali vlakec</title>
-  </programme>
-  <programme start="20211230215500 +0100" stop="20211230222600 +0100" channel="Nick Jr">
-    <title lang="sl">Barbapapa: Barbazoo ne zna reči ne / Dvojnik</title>
-  </programme>
-  <programme start="20211230222600 +0100" stop="20211230223000 +0100" channel="Nick Jr">
-    <title lang="sl">Pujsa Pepa: Skrivalnice</title>
-  </programme>
-  <programme start="20211230223000 +0100" stop="20211230223500 +0100" channel="Nick Jr">
-    <title lang="sl">Pujsa Pepa: Igralna skupina</title>
-  </programme>
-  <programme start="20211230223500 +0100" stop="20211230224000 +0100" channel="Nick Jr">
-    <title lang="sl">Pujsa Pepa: Mama Pujsa pri delu</title>
-  </programme>
-  <programme start="20211230224000 +0100" stop="20211230225000 +0100" channel="Nick Jr">
-    <title lang="sl">Pujsa Pepa: Pujsek v sredini</title>
-  </programme>
-  <programme start="20211230225000 +0100" stop="20211230232000 +0100" channel="Nick Jr">
-    <title lang="sl">Ribji repki: Baletni super pokal</title>
-  </programme>
-  <programme start="20211230232000 +0100" stop="20211230235000 +0100" channel="Nick Jr">
-    <title lang="sl">Tačke na patrulji: Kužki rešijo Asicino rojstnodnevno presenečenje / Kužki rešijo stolp pic!</title>
   </programme>
 </tv>
