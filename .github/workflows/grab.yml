@@ -3,6 +3,7 @@ name: CI
 on:
   push:
     branches: [ master ]
+  workflow_dispatch:
   schedule:
     # 4:02 everyday
     - cron:  '2 2,16 * * *'
