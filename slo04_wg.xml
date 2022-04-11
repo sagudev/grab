@@ -1,0 +1,522 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.4.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Kabel 1">
+    <display-name lang="sl">Kabel 1</display-name>
+    <url>http://www.siol.net</url>
+  </channel>
+  <channel id="Kanal 5">
+    <display-name lang="sl">Kanal 5</display-name>
+    <url>http://www.siol.net</url>
+  </channel>
+  <channel id="Kanal A">
+    <display-name lang="sl">Kanal A</display-name>
+    <url>http://www.siol.net</url>
+  </channel>
+  <channel id="Kino">
+    <display-name lang="sl">Kino</display-name>
+    <url>http://www.siol.net</url>
+  </channel>
+  <channel id="Klasik TV">
+    <display-name lang="sl">Klasik TV</display-name>
+    <url>http://www.siol.net</url>
+  </channel>
+  <channel id="Lov in ribolov">
+    <display-name lang="sl">Lov in ribolov</display-name>
+    <url>http://www.siol.net</url>
+  </channel>
+  <channel id="MTV 1">
+    <display-name lang="sl">MTV 1</display-name>
+    <url>http://www.siol.net</url>
+  </channel>
+  <channel id="MTV 2">
+    <display-name lang="sl">MTV 2</display-name>
+    <url>http://www.siol.net</url>
+  </channel>
+  <channel id="MTV Dance">
+    <display-name lang="sl">MTV Dance</display-name>
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/mtvdance_updated11620133716.png" />
+    <url>http://www.siol.net</url>
+  </channel>
+  <channel id="MTV Hits">
+    <display-name lang="sl">MTV Hits</display-name>
+    <url>http://www.siol.net</url>
+  </channel>
+  <channel id="MTV Rocks">
+    <display-name lang="sl">MTV Rocks</display-name>
+    <url>http://www.siol.net</url>
+  </channel>
+  <channel id="Mediaset Italia">
+    <display-name lang="sl">Mediaset Italia</display-name>
+    <url>http://www.siol.net</url>
+  </channel>
+  <channel id="Mezzo">
+    <display-name lang="sl">Mezzo</display-name>
+    <url>http://www.siol.net</url>
+  </channel>
+  <channel id="Minimax">
+    <display-name lang="sl">Minimax</display-name>
+    <url>http://www.siol.net</url>
+  </channel>
+  <channel id="Motorvision TV HD">
+    <display-name lang="sl">Motorvision TV HD</display-name>
+    <url>http://www.siol.net</url>
+  </channel>
+  <channel id="N1">
+    <display-name lang="sl">N1</display-name>
+    <url>http://www.siol.net</url>
+  </channel>
+  <channel id="NET TV">
+    <display-name lang="sl">NET TV</display-name>
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/net_updated181218115252.png" />
+    <url>http://www.siol.net</url>
+  </channel>
+  <channel id="NTV IC Kakanj">
+    <display-name lang="sl">NTV IC Kakanj</display-name>
+    <url>http://www.siol.net</url>
+  </channel>
+  <channel id="Narodna TV">
+    <display-name lang="sl">Narodna TV</display-name>
+    <url>http://www.siol.net</url>
+  </channel>
+  <programme start="20220411004000 +0200" stop="20220411013000 +0200" channel="NET TV">
+    <title lang="sl">Samra</title>
+  </programme>
+  <programme start="20220411013000 +0200" stop="20220411070000 +0200" channel="NET TV">
+    <title lang="sl">Nočni program</title>
+  </programme>
+  <programme start="20220411070000 +0200" stop="20220411080000 +0200" channel="NET TV">
+    <title lang="sl">Državnozborske volitve 2022</title>
+  </programme>
+  <programme start="20220411080000 +0200" stop="20220411090000 +0200" channel="NET TV">
+    <title lang="sl">TV Market</title>
+  </programme>
+  <programme start="20220411090000 +0200" stop="20220411093000 +0200" channel="NET TV">
+    <title lang="sl">Regionalno</title>
+  </programme>
+  <programme start="20220411093000 +0200" stop="20220411103000 +0200" channel="NET TV">
+    <title lang="sl">TV Market</title>
+  </programme>
+  <programme start="20220411103000 +0200" stop="20220411113000 +0200" channel="NET TV">
+    <title lang="sl">Prevarantka</title>
+  </programme>
+  <programme start="20220411113000 +0200" stop="20220411123000 +0200" channel="NET TV">
+    <title lang="sl">Kandidat: Franc Kangler</title>
+  </programme>
+  <programme start="20220411123000 +0200" stop="20220411130000 +0200" channel="NET TV">
+    <title lang="sl">TV Market</title>
+  </programme>
+  <programme start="20220411130000 +0200" stop="20220411133000 +0200" channel="NET TV">
+    <title lang="sl">Regionalno</title>
+  </programme>
+  <programme start="20220411133000 +0200" stop="20220411140000 +0200" channel="NET TV">
+    <title lang="sl">TV Market</title>
+  </programme>
+  <programme start="20220411140000 +0200" stop="20220411150000 +0200" channel="NET TV">
+    <title lang="sl">Samra</title>
+  </programme>
+  <programme start="20220411150000 +0200" stop="20220411163000 +0200" channel="NET TV">
+    <title lang="sl">Narava zdravi</title>
+  </programme>
+  <programme start="20220411163000 +0200" stop="20220411173000 +0200" channel="NET TV">
+    <title lang="sl">Narava zdravi tržnica</title>
+  </programme>
+  <programme start="20220411173000 +0200" stop="20220411183000 +0200" channel="NET TV">
+    <title lang="sl">Prevarantka</title>
+  </programme>
+  <programme start="20220411183000 +0200" stop="20220411190000 +0200" channel="NET TV">
+    <title lang="sl">Regionalno</title>
+  </programme>
+  <programme start="20220411190000 +0200" stop="20220411200000 +0200" channel="NET TV">
+    <title lang="sl">Šlager parada</title>
+  </programme>
+  <programme start="20220411200000 +0200" stop="20220411210000 +0200" channel="NET TV">
+    <title lang="sl">Bogastvo zemlje</title>
+  </programme>
+  <programme start="20220411210000 +0200" stop="20220411220000 +0200" channel="NET TV">
+    <title lang="sl">Morski psi</title>
+  </programme>
+  <programme start="20220411220000 +0200" stop="20220411223000 +0200" channel="NET TV">
+    <title lang="sl">Regionalno</title>
+  </programme>
+  <programme start="20220411223000 +0200" stop="20220412004000 +0200" channel="NET TV">
+    <title lang="sl">Narava zdravi</title>
+  </programme>
+  <programme start="20220412004000 +0200" stop="20220412013000 +0200" channel="NET TV">
+    <title lang="sl">Samra</title>
+  </programme>
+  <programme start="20220412013000 +0200" stop="20220412070000 +0200" channel="NET TV">
+    <title lang="sl">Nočni program</title>
+  </programme>
+  <programme start="20220412070000 +0200" stop="20220412080000 +0200" channel="NET TV">
+    <title lang="sl">Državnozborske volitve 2022</title>
+  </programme>
+  <programme start="20220412080000 +0200" stop="20220412090000 +0200" channel="NET TV">
+    <title lang="sl">TV Market</title>
+  </programme>
+  <programme start="20220412090000 +0200" stop="20220412093000 +0200" channel="NET TV">
+    <title lang="sl">Regionalno</title>
+  </programme>
+  <programme start="20220412093000 +0200" stop="20220412103000 +0200" channel="NET TV">
+    <title lang="sl">TV Market</title>
+  </programme>
+  <programme start="20220412103000 +0200" stop="20220412113000 +0200" channel="NET TV">
+    <title lang="sl">Prevarantka</title>
+  </programme>
+  <programme start="20220412113000 +0200" stop="20220412123000 +0200" channel="NET TV">
+    <title lang="sl">Kandidat: Franc Kangler</title>
+  </programme>
+  <programme start="20220412123000 +0200" stop="20220412130000 +0200" channel="NET TV">
+    <title lang="sl">TV Market</title>
+  </programme>
+  <programme start="20220412130000 +0200" stop="20220412133000 +0200" channel="NET TV">
+    <title lang="sl">Regionalno</title>
+  </programme>
+  <programme start="20220412133000 +0200" stop="20220412140000 +0200" channel="NET TV">
+    <title lang="sl">TV Market</title>
+  </programme>
+  <programme start="20220412140000 +0200" stop="20220412150000 +0200" channel="NET TV">
+    <title lang="sl">Samra</title>
+  </programme>
+  <programme start="20220412150000 +0200" stop="20220412163000 +0200" channel="NET TV">
+    <title lang="sl">Narava zdravi</title>
+  </programme>
+  <programme start="20220412163000 +0200" stop="20220412173000 +0200" channel="NET TV">
+    <title lang="sl">Narava zdravi tržnica</title>
+  </programme>
+  <programme start="20220412173000 +0200" stop="20220412183000 +0200" channel="NET TV">
+    <title lang="sl">Prevarantka</title>
+  </programme>
+  <programme start="20220412183000 +0200" stop="20220412190000 +0200" channel="NET TV">
+    <title lang="sl">Regionalno</title>
+  </programme>
+  <programme start="20220412190000 +0200" stop="20220412200000 +0200" channel="NET TV">
+    <title lang="sl">Šlager parada</title>
+  </programme>
+  <programme start="20220412200000 +0200" stop="20220412210000 +0200" channel="NET TV">
+    <title lang="sl">Bogastvo zemlje</title>
+  </programme>
+  <programme start="20220412210000 +0200" stop="20220412220000 +0200" channel="NET TV">
+    <title lang="sl">Morski psi</title>
+  </programme>
+  <programme start="20220412220000 +0200" stop="20220412223000 +0200" channel="NET TV">
+    <title lang="sl">Regionalno</title>
+  </programme>
+  <programme start="20220412223000 +0200" stop="20220413004000 +0200" channel="NET TV">
+    <title lang="sl">Narava zdravi</title>
+  </programme>
+  <programme start="20220413004000 +0200" stop="20220413013000 +0200" channel="NET TV">
+    <title lang="sl">Samra</title>
+  </programme>
+  <programme start="20220413013000 +0200" stop="20220413070000 +0200" channel="NET TV">
+    <title lang="sl">Nočni program</title>
+  </programme>
+  <programme start="20220413070000 +0200" stop="20220413080000 +0200" channel="NET TV">
+    <title lang="sl">Državnozborske volitve 2022</title>
+  </programme>
+  <programme start="20220413080000 +0200" stop="20220413090000 +0200" channel="NET TV">
+    <title lang="sl">TV Market</title>
+  </programme>
+  <programme start="20220413090000 +0200" stop="20220413093000 +0200" channel="NET TV">
+    <title lang="sl">Regionalno</title>
+  </programme>
+  <programme start="20220413093000 +0200" stop="20220413103000 +0200" channel="NET TV">
+    <title lang="sl">TV Market</title>
+  </programme>
+  <programme start="20220413103000 +0200" stop="20220413113000 +0200" channel="NET TV">
+    <title lang="sl">Prevarantka</title>
+  </programme>
+  <programme start="20220413113000 +0200" stop="20220413123000 +0200" channel="NET TV">
+    <title lang="sl">Kandidat: Franc Kangler</title>
+  </programme>
+  <programme start="20220413123000 +0200" stop="20220413130000 +0200" channel="NET TV">
+    <title lang="sl">TV Market</title>
+  </programme>
+  <programme start="20220413130000 +0200" stop="20220413133000 +0200" channel="NET TV">
+    <title lang="sl">Regionalno</title>
+  </programme>
+  <programme start="20220413133000 +0200" stop="20220413140000 +0200" channel="NET TV">
+    <title lang="sl">TV Market</title>
+  </programme>
+  <programme start="20220413140000 +0200" stop="20220413150000 +0200" channel="NET TV">
+    <title lang="sl">Samra</title>
+  </programme>
+  <programme start="20220413150000 +0200" stop="20220413163000 +0200" channel="NET TV">
+    <title lang="sl">Narava zdravi</title>
+  </programme>
+  <programme start="20220413163000 +0200" stop="20220413173000 +0200" channel="NET TV">
+    <title lang="sl">Narava zdravi tržnica</title>
+  </programme>
+  <programme start="20220413173000 +0200" stop="20220413183000 +0200" channel="NET TV">
+    <title lang="sl">Prevarantka</title>
+  </programme>
+  <programme start="20220413183000 +0200" stop="20220413190000 +0200" channel="NET TV">
+    <title lang="sl">Regionalno</title>
+  </programme>
+  <programme start="20220413190000 +0200" stop="20220413200000 +0200" channel="NET TV">
+    <title lang="sl">Šlager parada</title>
+  </programme>
+  <programme start="20220413200000 +0200" stop="20220413210000 +0200" channel="NET TV">
+    <title lang="sl">Bogastvo zemlje</title>
+  </programme>
+  <programme start="20220413210000 +0200" stop="20220413220000 +0200" channel="NET TV">
+    <title lang="sl">Morski psi</title>
+  </programme>
+  <programme start="20220413220000 +0200" stop="20220413223000 +0200" channel="NET TV">
+    <title lang="sl">Regionalno</title>
+  </programme>
+  <programme start="20220413223000 +0200" stop="20220414004000 +0200" channel="NET TV">
+    <title lang="sl">Narava zdravi</title>
+  </programme>
+  <programme start="20220414004000 +0200" stop="20220414013000 +0200" channel="NET TV">
+    <title lang="sl">Samra</title>
+  </programme>
+  <programme start="20220414013000 +0200" stop="20220414070000 +0200" channel="NET TV">
+    <title lang="sl">Nočni program</title>
+  </programme>
+  <programme start="20220414070000 +0200" stop="20220414080000 +0200" channel="NET TV">
+    <title lang="sl">Državnozborske volitve 2022</title>
+  </programme>
+  <programme start="20220414080000 +0200" stop="20220414090000 +0200" channel="NET TV">
+    <title lang="sl">TV Market</title>
+  </programme>
+  <programme start="20220414090000 +0200" stop="20220414093000 +0200" channel="NET TV">
+    <title lang="sl">Regionalno</title>
+  </programme>
+  <programme start="20220414093000 +0200" stop="20220414103000 +0200" channel="NET TV">
+    <title lang="sl">TV Market</title>
+  </programme>
+  <programme start="20220414103000 +0200" stop="20220414113000 +0200" channel="NET TV">
+    <title lang="sl">Prevarantka</title>
+  </programme>
+  <programme start="20220414113000 +0200" stop="20220414123000 +0200" channel="NET TV">
+    <title lang="sl">Kandidat: Franc Kangler</title>
+  </programme>
+  <programme start="20220414123000 +0200" stop="20220414130000 +0200" channel="NET TV">
+    <title lang="sl">TV Market</title>
+  </programme>
+  <programme start="20220414130000 +0200" stop="20220414133000 +0200" channel="NET TV">
+    <title lang="sl">Regionalno</title>
+  </programme>
+  <programme start="20220414133000 +0200" stop="20220414140000 +0200" channel="NET TV">
+    <title lang="sl">TV Market</title>
+  </programme>
+  <programme start="20220414140000 +0200" stop="20220414150000 +0200" channel="NET TV">
+    <title lang="sl">Samra</title>
+  </programme>
+  <programme start="20220414150000 +0200" stop="20220414163000 +0200" channel="NET TV">
+    <title lang="sl">Narava zdravi</title>
+  </programme>
+  <programme start="20220414163000 +0200" stop="20220414173000 +0200" channel="NET TV">
+    <title lang="sl">Narava zdravi tržnica</title>
+  </programme>
+  <programme start="20220414173000 +0200" stop="20220414183000 +0200" channel="NET TV">
+    <title lang="sl">Prevarantka</title>
+  </programme>
+  <programme start="20220414183000 +0200" stop="20220414190000 +0200" channel="NET TV">
+    <title lang="sl">Regionalno</title>
+  </programme>
+  <programme start="20220414190000 +0200" stop="20220414200000 +0200" channel="NET TV">
+    <title lang="sl">Šlager parada</title>
+  </programme>
+  <programme start="20220414200000 +0200" stop="20220414210000 +0200" channel="NET TV">
+    <title lang="sl">Bogastvo zemlje</title>
+  </programme>
+  <programme start="20220414210000 +0200" stop="20220414220000 +0200" channel="NET TV">
+    <title lang="sl">Morski psi</title>
+  </programme>
+  <programme start="20220414220000 +0200" stop="20220414223000 +0200" channel="NET TV">
+    <title lang="sl">Regionalno</title>
+  </programme>
+  <programme start="20220414223000 +0200" stop="20220415004000 +0200" channel="NET TV">
+    <title lang="sl">Narava zdravi</title>
+  </programme>
+  <programme start="20220415004000 +0200" stop="20220415013000 +0200" channel="NET TV">
+    <title lang="sl">Samra</title>
+  </programme>
+  <programme start="20220415013000 +0200" stop="20220415070000 +0200" channel="NET TV">
+    <title lang="sl">Nočni program</title>
+  </programme>
+  <programme start="20220415070000 +0200" stop="20220415080000 +0200" channel="NET TV">
+    <title lang="sl">Državnozborske volitve 2022</title>
+  </programme>
+  <programme start="20220415080000 +0200" stop="20220415090000 +0200" channel="NET TV">
+    <title lang="sl">TV Market</title>
+  </programme>
+  <programme start="20220415090000 +0200" stop="20220415093000 +0200" channel="NET TV">
+    <title lang="sl">Regionalno</title>
+  </programme>
+  <programme start="20220415093000 +0200" stop="20220415103000 +0200" channel="NET TV">
+    <title lang="sl">TV Market</title>
+  </programme>
+  <programme start="20220415103000 +0200" stop="20220415113000 +0200" channel="NET TV">
+    <title lang="sl">Prevarantka</title>
+  </programme>
+  <programme start="20220415113000 +0200" stop="20220415123000 +0200" channel="NET TV">
+    <title lang="sl">Kandidat: Franc Kangler</title>
+  </programme>
+  <programme start="20220415123000 +0200" stop="20220415130000 +0200" channel="NET TV">
+    <title lang="sl">TV Market</title>
+  </programme>
+  <programme start="20220415130000 +0200" stop="20220415133000 +0200" channel="NET TV">
+    <title lang="sl">Regionalno</title>
+  </programme>
+  <programme start="20220415133000 +0200" stop="20220415140000 +0200" channel="NET TV">
+    <title lang="sl">TV Market</title>
+  </programme>
+  <programme start="20220415140000 +0200" stop="20220415150000 +0200" channel="NET TV">
+    <title lang="sl">Samra</title>
+  </programme>
+  <programme start="20220415150000 +0200" stop="20220415163000 +0200" channel="NET TV">
+    <title lang="sl">Narava zdravi</title>
+  </programme>
+  <programme start="20220415163000 +0200" stop="20220415173000 +0200" channel="NET TV">
+    <title lang="sl">Narava zdravi tržnica</title>
+  </programme>
+  <programme start="20220415173000 +0200" stop="20220415183000 +0200" channel="NET TV">
+    <title lang="sl">Prevarantka</title>
+  </programme>
+  <programme start="20220415183000 +0200" stop="20220415190000 +0200" channel="NET TV">
+    <title lang="sl">Regionalno</title>
+  </programme>
+  <programme start="20220415190000 +0200" stop="20220415200000 +0200" channel="NET TV">
+    <title lang="sl">Šlager parada</title>
+  </programme>
+  <programme start="20220415200000 +0200" stop="20220415210000 +0200" channel="NET TV">
+    <title lang="sl">Bogastvo zemlje</title>
+  </programme>
+  <programme start="20220415210000 +0200" stop="20220415220000 +0200" channel="NET TV">
+    <title lang="sl">Morski psi</title>
+  </programme>
+  <programme start="20220415220000 +0200" stop="20220415223000 +0200" channel="NET TV">
+    <title lang="sl">Regionalno</title>
+  </programme>
+  <programme start="20220415223000 +0200" stop="20220416004000 +0200" channel="NET TV">
+    <title lang="sl">Narava zdravi</title>
+  </programme>
+  <programme start="20220416004000 +0200" stop="20220416013000 +0200" channel="NET TV">
+    <title lang="sl">Samra</title>
+  </programme>
+  <programme start="20220416013000 +0200" stop="20220416070000 +0200" channel="NET TV">
+    <title lang="sl">Nočni program</title>
+  </programme>
+  <programme start="20220416070000 +0200" stop="20220416080000 +0200" channel="NET TV">
+    <title lang="sl">Državnozborske volitve 2022</title>
+  </programme>
+  <programme start="20220416080000 +0200" stop="20220416090000 +0200" channel="NET TV">
+    <title lang="sl">TV Market</title>
+  </programme>
+  <programme start="20220416090000 +0200" stop="20220416093000 +0200" channel="NET TV">
+    <title lang="sl">Regionalno</title>
+  </programme>
+  <programme start="20220416093000 +0200" stop="20220416103000 +0200" channel="NET TV">
+    <title lang="sl">TV Market</title>
+  </programme>
+  <programme start="20220416103000 +0200" stop="20220416113000 +0200" channel="NET TV">
+    <title lang="sl">Prevarantka</title>
+  </programme>
+  <programme start="20220416113000 +0200" stop="20220416123000 +0200" channel="NET TV">
+    <title lang="sl">Kandidat: Franc Kangler</title>
+  </programme>
+  <programme start="20220416123000 +0200" stop="20220416130000 +0200" channel="NET TV">
+    <title lang="sl">TV Market</title>
+  </programme>
+  <programme start="20220416130000 +0200" stop="20220416133000 +0200" channel="NET TV">
+    <title lang="sl">Regionalno</title>
+  </programme>
+  <programme start="20220416133000 +0200" stop="20220416140000 +0200" channel="NET TV">
+    <title lang="sl">TV Market</title>
+  </programme>
+  <programme start="20220416140000 +0200" stop="20220416150000 +0200" channel="NET TV">
+    <title lang="sl">Samra</title>
+  </programme>
+  <programme start="20220416150000 +0200" stop="20220416163000 +0200" channel="NET TV">
+    <title lang="sl">Narava zdravi</title>
+  </programme>
+  <programme start="20220416163000 +0200" stop="20220416173000 +0200" channel="NET TV">
+    <title lang="sl">Narava zdravi tržnica</title>
+  </programme>
+  <programme start="20220416173000 +0200" stop="20220416183000 +0200" channel="NET TV">
+    <title lang="sl">Prevarantka</title>
+  </programme>
+  <programme start="20220416183000 +0200" stop="20220416190000 +0200" channel="NET TV">
+    <title lang="sl">Regionalno</title>
+  </programme>
+  <programme start="20220416190000 +0200" stop="20220416200000 +0200" channel="NET TV">
+    <title lang="sl">Šlager parada</title>
+  </programme>
+  <programme start="20220416200000 +0200" stop="20220416210000 +0200" channel="NET TV">
+    <title lang="sl">Bogastvo zemlje</title>
+  </programme>
+  <programme start="20220416210000 +0200" stop="20220416220000 +0200" channel="NET TV">
+    <title lang="sl">Morski psi</title>
+  </programme>
+  <programme start="20220416220000 +0200" stop="20220416223000 +0200" channel="NET TV">
+    <title lang="sl">Regionalno</title>
+  </programme>
+  <programme start="20220416223000 +0200" stop="20220417004000 +0200" channel="NET TV">
+    <title lang="sl">Narava zdravi</title>
+  </programme>
+  <programme start="20220417004000 +0200" stop="20220417013000 +0200" channel="NET TV">
+    <title lang="sl">Samra</title>
+  </programme>
+  <programme start="20220417013000 +0200" stop="20220417070000 +0200" channel="NET TV">
+    <title lang="sl">Nočni program</title>
+  </programme>
+  <programme start="20220417070000 +0200" stop="20220417080000 +0200" channel="NET TV">
+    <title lang="sl">Državnozborske volitve 2022</title>
+  </programme>
+  <programme start="20220417080000 +0200" stop="20220417090000 +0200" channel="NET TV">
+    <title lang="sl">TV Market</title>
+  </programme>
+  <programme start="20220417090000 +0200" stop="20220417093000 +0200" channel="NET TV">
+    <title lang="sl">Regionalno</title>
+  </programme>
+  <programme start="20220417093000 +0200" stop="20220417103000 +0200" channel="NET TV">
+    <title lang="sl">TV Market</title>
+  </programme>
+  <programme start="20220417103000 +0200" stop="20220417113000 +0200" channel="NET TV">
+    <title lang="sl">Prevarantka</title>
+  </programme>
+  <programme start="20220417113000 +0200" stop="20220417123000 +0200" channel="NET TV">
+    <title lang="sl">Kandidat: Franc Kangler</title>
+  </programme>
+  <programme start="20220417123000 +0200" stop="20220417130000 +0200" channel="NET TV">
+    <title lang="sl">TV Market</title>
+  </programme>
+  <programme start="20220417130000 +0200" stop="20220417133000 +0200" channel="NET TV">
+    <title lang="sl">Regionalno</title>
+  </programme>
+  <programme start="20220417133000 +0200" stop="20220417140000 +0200" channel="NET TV">
+    <title lang="sl">TV Market</title>
+  </programme>
+  <programme start="20220417140000 +0200" stop="20220417150000 +0200" channel="NET TV">
+    <title lang="sl">Samra</title>
+  </programme>
+  <programme start="20220417150000 +0200" stop="20220417163000 +0200" channel="NET TV">
+    <title lang="sl">Narava zdravi</title>
+  </programme>
+  <programme start="20220417163000 +0200" stop="20220417173000 +0200" channel="NET TV">
+    <title lang="sl">Narava zdravi tržnica</title>
+  </programme>
+  <programme start="20220417173000 +0200" stop="20220417183000 +0200" channel="NET TV">
+    <title lang="sl">Prevarantka</title>
+  </programme>
+  <programme start="20220417183000 +0200" stop="20220417190000 +0200" channel="NET TV">
+    <title lang="sl">Regionalno</title>
+  </programme>
+  <programme start="20220417190000 +0200" stop="20220417200000 +0200" channel="NET TV">
+    <title lang="sl">Šlager parada</title>
+  </programme>
+  <programme start="20220417200000 +0200" stop="20220417210000 +0200" channel="NET TV">
+    <title lang="sl">Bogastvo zemlje</title>
+  </programme>
+  <programme start="20220417210000 +0200" stop="20220417220000 +0200" channel="NET TV">
+    <title lang="sl">Morski psi</title>
+  </programme>
+  <programme start="20220417220000 +0200" stop="20220417223000 +0200" channel="NET TV">
+    <title lang="sl">Regionalno</title>
+  </programme>
+  <programme start="20220417223000 +0200" stop="20220418004000 +0200" channel="NET TV">
+    <title lang="sl">Narava zdravi</title>
+  </programme>
+</tv>
