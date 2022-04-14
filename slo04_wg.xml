@@ -11,6 +11,7 @@
   </channel>
   <channel id="Kanal A">
     <display-name lang="sl">Kanal A</display-name>
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/akanal_updated30920122247.png" />
     <url>http://www.siol.net</url>
   </channel>
   <channel id="Kino">
@@ -91,81 +92,6 @@
     <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/narodna.png" />
     <url>http://www.siol.net</url>
   </channel>
-  <programme start="20220413001500 +0200" stop="20220413020500 +0200" channel="Kabel 1">
-    <title lang="sl">Ne izzivaj vraga</title>
-  </programme>
-  <programme start="20220413020500 +0200" stop="20220413021000 +0200" channel="Kabel 1">
-    <title lang="sl">K1 večerne novice</title>
-  </programme>
-  <programme start="20220413021000 +0200" stop="20220413034000 +0200" channel="Kabel 1">
-    <title lang="sl">Kazaam</title>
-  </programme>
-  <programme start="20220413034000 +0200" stop="20220413034500 +0200" channel="Kabel 1">
-    <title lang="sl">K1 večerne novice</title>
-  </programme>
-  <programme start="20220413034500 +0200" stop="20220413042500 +0200" channel="Kabel 1">
-    <title lang="sl">Mentalist: Izguba spomina</title>
-  </programme>
-  <programme start="20220413042500 +0200" stop="20220413050500 +0200" channel="Kabel 1">
-    <title lang="sl">Osnove Sherlocka Holmesa: Slaba novica</title>
-  </programme>
-  <programme start="20220413050500 +0200" stop="20220413052500 +0200" channel="Kabel 1">
-    <title lang="sl">Pustolovščina življenje, posebna oddaja</title>
-  </programme>
-  <programme start="20220413052500 +0200" stop="20220413061500 +0200" channel="Kabel 1">
-    <title lang="sl">Moja restavracija, tvoja restavracija: "Giebmanns American Burgers", Neuhofen</title>
-  </programme>
-  <programme start="20220413061500 +0200" stop="20220413071000 +0200" channel="Kabel 1">
-    <title lang="sl">Moja restavracija, tvoja restavracija: "Fundament", Mannheim</title>
-  </programme>
-  <programme start="20220413071000 +0200" stop="20220413081000 +0200" channel="Kabel 1">
-    <title lang="sl">Moja restavracija, tvoja restavracija: "Rosmarin", Lampertheim</title>
-  </programme>
-  <programme start="20220413081000 +0200" stop="20220413091000 +0200" channel="Kabel 1">
-    <title lang="sl">Moja restavracija, tvoja restavracija: "Meat Factory", Ludwigshafen</title>
-  </programme>
-  <programme start="20220413091000 +0200" stop="20220413101000 +0200" channel="Kabel 1">
-    <title lang="sl">Moja restavracija, tvoja restavracija: "Schwarz", Kirchheim an der Weinstraße</title>
-  </programme>
-  <programme start="20220413101000 +0200" stop="20220413110500 +0200" channel="Kabel 1">
-    <title lang="sl">Preiskovalci na delu: NCIS: Smrt na cesti</title>
-  </programme>
-  <programme start="20220413110500 +0200" stop="20220413120000 +0200" channel="Kabel 1">
-    <title lang="sl">Škorpijon: Spor na Marsu</title>
-  </programme>
-  <programme start="20220413120000 +0200" stop="20220413125500 +0200" channel="Kabel 1">
-    <title lang="sl">Castle: Smrtonosna dekleta</title>
-  </programme>
-  <programme start="20220413125500 +0200" stop="20220413135500 +0200" channel="Kabel 1">
-    <title lang="sl">Castle: Umik</title>
-  </programme>
-  <programme start="20220413135500 +0200" stop="20220413145500 +0200" channel="Kabel 1">
-    <title lang="sl">Osnove Sherlocka Holmesa: Skok v smrt</title>
-  </programme>
-  <programme start="20220413145500 +0200" stop="20220413155000 +0200" channel="Kabel 1">
-    <title lang="sl">Mentalist: Vedno stavi na rdečo</title>
-  </programme>
-  <programme start="20220413155000 +0200" stop="20220413160000 +0200" channel="Kabel 1">
-    <title lang="sl">K1 Novice</title>
-  </programme>
-  <programme start="20220413160000 +0200" stop="20220413165500 +0200" channel="Kabel 1">
-    <title lang="sl">Preiskovalci na delu: NCIS: Tiha noč</title>
-  </programme>
-  <programme start="20220413165500 +0200" stop="20220413175500 +0200" channel="Kabel 1">
-    <title lang="sl">Pustolovščina življenje: Dirk Hoffmann na turneji: Transsibirska železnica</title>
-  </programme>
-  <programme start="20220413175500 +0200" stop="20220413185500 +0200" channel="Kabel 1">
-    <title lang="sl">Moja restavracija, tvoja restavracija: "BAPU", Kleinmachnow</title>
-  </programme>
-  <programme start="20220413185500 +0200" stop="20220413201500 +0200" channel="Kabel 1">
-    <title lang="sl">Pozor, kontrola!</title>
-  </programme>
-  <programme start="20220413201500 +0200" stop="20220413220500 +0200" channel="Kabel 1">
-    <title lang="sl">Shrek tretji</title>
-  </programme>
-  <programme start="20220413220500 +0200" stop="20220414000500 +0200" channel="Kabel 1">
-    <title lang="sl">Policaj z Beverly Hillsa 3</title>
-  </programme>
   <programme start="20220414000500 +0200" stop="20220414015500 +0200" channel="Kabel 1">
     <title lang="sl">Jumpin' Jack Flash</title>
   </programme>
@@ -373,176 +299,350 @@
   <programme start="20220416221500 +0200" stop="20220416232000 +0200" channel="Kabel 1">
     <title lang="sl">MacGyver: Betonska celica</title>
   </programme>
-  <programme start="20220413001000 +0200" stop="20220413023000 +0200" channel="Kino">
+  <programme start="20220414004000 +0200" stop="20220414014500 +0200" channel="Kanal A">
+    <title lang="sl">Otok ljubezni</title>
+  </programme>
+  <programme start="20220414014500 +0200" stop="20220414060000 +0200" channel="Kanal A">
+    <title lang="sl">Glasbeni mikser</title>
+  </programme>
+  <programme start="20220414060000 +0200" stop="20220414063500 +0200" channel="Kanal A">
+    <title lang="sl">Pavza!</title>
+  </programme>
+  <programme start="20220414063500 +0200" stop="20220414073500 +0200" channel="Kanal A">
+    <title lang="sl">Svet</title>
+  </programme>
+  <programme start="20220414073500 +0200" stop="20220414075000 +0200" channel="Kanal A">
+    <title lang="sl">Vaše zdravje, naša skrb</title>
+  </programme>
+  <programme start="20220414075000 +0200" stop="20220414084500 +0200" channel="Kanal A">
+    <title lang="sl">Kuharski mojster: Sladice</title>
+  </programme>
+  <programme start="20220414084500 +0200" stop="20220414091000 +0200" channel="Kanal A">
+    <title lang="sl">Nazaj v šolo</title>
+  </programme>
+  <programme start="20220414091000 +0200" stop="20220414093500 +0200" channel="Kanal A">
+    <title lang="sl">Nazaj v šolo</title>
+  </programme>
+  <programme start="20220414093500 +0200" stop="20220414095000 +0200" channel="Kanal A">
+    <title lang="sl">Vaše zdravje, naša skrb</title>
+  </programme>
+  <programme start="20220414095000 +0200" stop="20220414104500 +0200" channel="Kanal A">
+    <title lang="sl">Lepo je biti sosed</title>
+  </programme>
+  <programme start="20220414104500 +0200" stop="20220414114000 +0200" channel="Kanal A">
+    <title lang="sl">Naša mala klinika</title>
+  </programme>
+  <programme start="20220414114000 +0200" stop="20220414115500 +0200" channel="Kanal A">
+    <title lang="sl">Vaše zdravje, naša skrb</title>
+  </programme>
+  <programme start="20220414115500 +0200" stop="20220414125500 +0200" channel="Kanal A">
+    <title lang="sl">Policistke iz L.A.</title>
+  </programme>
+  <programme start="20220414125500 +0200" stop="20220414135000 +0200" channel="Kanal A">
+    <title lang="sl">Kuharski mojster: Sladice</title>
+  </programme>
+  <programme start="20220414135000 +0200" stop="20220414141500 +0200" channel="Kanal A">
+    <title lang="sl">Nazaj v šolo</title>
+  </programme>
+  <programme start="20220414141500 +0200" stop="20220414144500 +0200" channel="Kanal A">
+    <title lang="sl">Nazaj v šolo</title>
+  </programme>
+  <programme start="20220414144500 +0200" stop="20220414150000 +0200" channel="Kanal A">
+    <title lang="sl">Vaše zdravje, naša skrb</title>
+  </programme>
+  <programme start="20220414150000 +0200" stop="20220414155500 +0200" channel="Kanal A">
+    <title lang="sl">Lepo je biti sosed</title>
+  </programme>
+  <programme start="20220414155500 +0200" stop="20220414165500 +0200" channel="Kanal A">
+    <title lang="sl">Naša mala klinika</title>
+  </programme>
+  <programme start="20220414165500 +0200" stop="20220414175500 +0200" channel="Kanal A">
+    <title lang="sl">Policistke iz L.A.</title>
+  </programme>
+  <programme start="20220414175500 +0200" stop="20220414185500 +0200" channel="Kanal A">
+    <title lang="sl">Svet</title>
+  </programme>
+  <programme start="20220414185500 +0200" stop="20220414192000 +0200" channel="Kanal A">
+    <title lang="sl">Nazaj v šolo</title>
+  </programme>
+  <programme start="20220414192000 +0200" stop="20220414194500 +0200" channel="Kanal A">
+    <title lang="sl">Mladi Sheldon</title>
+  </programme>
+  <programme start="20220414194500 +0200" stop="20220414200000 +0200" channel="Kanal A">
+    <title lang="sl">Svet</title>
+  </programme>
+  <programme start="20220414200000 +0200" stop="20220414204500 +0200" channel="Kanal A">
+    <title lang="sl">V dvoje</title>
+  </programme>
+  <programme start="20220414204500 +0200" stop="20220414225500 +0200" channel="Kanal A">
+    <title lang="sl">Nogomet (M): Barcelona - Eintracht, UEFA Liga Evropa</title>
+  </programme>
+  <programme start="20220414225500 +0200" stop="20220414233500 +0200" channel="Kanal A">
+    <title lang="sl">Alfa Mikić</title>
+  </programme>
+  <programme start="20220414233500 +0200" stop="20220415000500 +0200" channel="Kanal A">
+    <title lang="sl">UEFA Liga Evropa: Vrhunci dneva</title>
+  </programme>
+  <programme start="20220415000500 +0200" stop="20220415011500 +0200" channel="Kanal A">
+    <title lang="sl">Otok ljubezni</title>
+  </programme>
+  <programme start="20220415011500 +0200" stop="20220415021000 +0200" channel="Kanal A">
+    <title lang="sl">Otok ljubezni</title>
+  </programme>
+  <programme start="20220415021000 +0200" stop="20220415060000 +0200" channel="Kanal A">
+    <title lang="sl">Glasbeni mikser</title>
+  </programme>
+  <programme start="20220415060000 +0200" stop="20220415063500 +0200" channel="Kanal A">
+    <title lang="sl">Pavza!</title>
+  </programme>
+  <programme start="20220415063500 +0200" stop="20220415073500 +0200" channel="Kanal A">
+    <title lang="sl">Svet</title>
+  </programme>
+  <programme start="20220415073500 +0200" stop="20220415075000 +0200" channel="Kanal A">
+    <title lang="sl">Vaše zdravje, naša skrb</title>
+  </programme>
+  <programme start="20220415075000 +0200" stop="20220415084500 +0200" channel="Kanal A">
+    <title lang="sl">Kuharski mojster: Sladice</title>
+  </programme>
+  <programme start="20220415084500 +0200" stop="20220415091000 +0200" channel="Kanal A">
+    <title lang="sl">Nazaj v šolo</title>
+  </programme>
+  <programme start="20220415091000 +0200" stop="20220415093500 +0200" channel="Kanal A">
+    <title lang="sl">Nazaj v šolo</title>
+  </programme>
+  <programme start="20220415093500 +0200" stop="20220415095000 +0200" channel="Kanal A">
+    <title lang="sl">Vaše zdravje, naša skrb</title>
+  </programme>
+  <programme start="20220415095000 +0200" stop="20220415104500 +0200" channel="Kanal A">
+    <title lang="sl">Lepo je biti sosed</title>
+  </programme>
+  <programme start="20220415104500 +0200" stop="20220415114000 +0200" channel="Kanal A">
+    <title lang="sl">Naša mala klinika</title>
+  </programme>
+  <programme start="20220415114000 +0200" stop="20220415115500 +0200" channel="Kanal A">
+    <title lang="sl">Vaše zdravje, naša skrb</title>
+  </programme>
+  <programme start="20220415115500 +0200" stop="20220415125500 +0200" channel="Kanal A">
+    <title lang="sl">Policistke iz L.A.</title>
+  </programme>
+  <programme start="20220415125500 +0200" stop="20220415135000 +0200" channel="Kanal A">
+    <title lang="sl">Kuharski mojster: Sladice</title>
+  </programme>
+  <programme start="20220415135000 +0200" stop="20220415141500 +0200" channel="Kanal A">
+    <title lang="sl">Nazaj v šolo</title>
+  </programme>
+  <programme start="20220415141500 +0200" stop="20220415144500 +0200" channel="Kanal A">
+    <title lang="sl">Mladi Sheldon</title>
+  </programme>
+  <programme start="20220415144500 +0200" stop="20220415150000 +0200" channel="Kanal A">
+    <title lang="sl">Vaše zdravje, naša skrb</title>
+  </programme>
+  <programme start="20220415150000 +0200" stop="20220415155500 +0200" channel="Kanal A">
+    <title lang="sl">Lepo je biti sosed</title>
+  </programme>
+  <programme start="20220415155500 +0200" stop="20220415165500 +0200" channel="Kanal A">
+    <title lang="sl">Naša mala klinika</title>
+  </programme>
+  <programme start="20220415165500 +0200" stop="20220415175500 +0200" channel="Kanal A">
+    <title lang="sl">Policistke iz L.A.: Kenguru Jack</title>
+  </programme>
+  <programme start="20220415175500 +0200" stop="20220415185500 +0200" channel="Kanal A">
+    <title lang="sl">Svet</title>
+  </programme>
+  <programme start="20220415185500 +0200" stop="20220415192000 +0200" channel="Kanal A">
+    <title lang="sl">Mladi Sheldon</title>
+  </programme>
+  <programme start="20220415192000 +0200" stop="20220415194500 +0200" channel="Kanal A">
+    <title lang="sl">Mladi Sheldon</title>
+  </programme>
+  <programme start="20220415194500 +0200" stop="20220415200000 +0200" channel="Kanal A">
+    <title lang="sl">Svet</title>
+  </programme>
+  <programme start="20220415200000 +0200" stop="20220415220500 +0200" channel="Kanal A">
+    <title lang="sl">Vstajenje</title>
+  </programme>
+  <programme start="20220415220500 +0200" stop="20220416000500 +0200" channel="Kanal A">
+    <title lang="sl">Usodni val</title>
+  </programme>
+  <programme start="20220416000500 +0200" stop="20220416010500 +0200" channel="Kanal A">
+    <title lang="sl">Otok ljubezni</title>
+  </programme>
+  <programme start="20220416010500 +0200" stop="20220416020500 +0200" channel="Kanal A">
+    <title lang="sl">Otok ljubezni</title>
+  </programme>
+  <programme start="20220416020500 +0200" stop="20220416060000 +0200" channel="Kanal A">
+    <title lang="sl">Glasbeni mikser</title>
+  </programme>
+  <programme start="20220416060000 +0200" stop="20220416065000 +0200" channel="Kanal A">
+    <title lang="sl">Pavza!</title>
+  </programme>
+  <programme start="20220416065000 +0200" stop="20220416072000 +0200" channel="Kanal A">
+    <title lang="sl">Iz dneva v dan</title>
+  </programme>
+  <programme start="20220416072000 +0200" stop="20220416075000 +0200" channel="Kanal A">
+    <title lang="sl">Iz dneva v dan</title>
+  </programme>
+  <programme start="20220416075000 +0200" stop="20220416082000 +0200" channel="Kanal A">
+    <title lang="sl">Iz dneva v dan</title>
+  </programme>
+  <programme start="20220416082000 +0200" stop="20220416083500 +0200" channel="Kanal A">
+    <title lang="sl">Vaše zdravje, naša skrb</title>
+  </programme>
+  <programme start="20220416083500 +0200" stop="20220416103500 +0200" channel="Kanal A">
+    <title lang="sl">Predsednikova hči</title>
+  </programme>
+  <programme start="20220416103500 +0200" stop="20220416105000 +0200" channel="Kanal A">
+    <title lang="sl">Vaše zdravje, naša skrb</title>
+  </programme>
+  <programme start="20220416105000 +0200" stop="20220416124000 +0200" channel="Kanal A">
+    <title lang="sl">Podnajemnik</title>
+  </programme>
+  <programme start="20220416124000 +0200" stop="20220416142500 +0200" channel="Kanal A">
+    <title lang="sl">Lov za zakladom</title>
+  </programme>
+  <programme start="20220416142500 +0200" stop="20220416162500 +0200" channel="Kanal A">
+    <title lang="sl">Policaj z Beverly Hillsa 3</title>
+  </programme>
+  <programme start="20220416162500 +0200" stop="20220416165500 +0200" channel="Kanal A">
+    <title lang="sl">Iz dneva v dan</title>
+  </programme>
+  <programme start="20220416165500 +0200" stop="20220416172500 +0200" channel="Kanal A">
+    <title lang="sl">Iz dneva v dan</title>
+  </programme>
+  <programme start="20220416172500 +0200" stop="20220416180000 +0200" channel="Kanal A">
+    <title lang="sl">Iz dneva v dan</title>
+  </programme>
+  <programme start="20220416180000 +0200" stop="20220416182000 +0200" channel="Kanal A">
+    <title lang="sl">Alfa Mikić</title>
+  </programme>
+  <programme start="20220416182000 +0200" stop="20220416184500 +0200" channel="Kanal A">
+    <title lang="sl">StendAp predstavlja: Gašper Bergant</title>
+  </programme>
+  <programme start="20220416184500 +0200" stop="20220416193000 +0200" channel="Kanal A">
+    <title lang="sl">Pavza!</title>
+  </programme>
+  <programme start="20220416193000 +0200" stop="20220416200000 +0200" channel="Kanal A">
+    <title lang="sl">Karantenske norčije</title>
+  </programme>
+  <programme start="20220416200000 +0200" stop="20220416221500 +0200" channel="Kanal A">
+    <title lang="sl">Bumblebee</title>
+  </programme>
+  <programme start="20220414001000 +0200" stop="20220414023000 +0200" channel="Kino">
     <title lang="sl">Pravičnik 2</title>
   </programme>
-  <programme start="20220413023000 +0200" stop="20220413041500 +0200" channel="Kino">
+  <programme start="20220414023000 +0200" stop="20220414041500 +0200" channel="Kino">
     <title lang="sl">Hudičeva igra</title>
   </programme>
-  <programme start="20220413041500 +0200" stop="20220413060000 +0200" channel="Kino">
+  <programme start="20220414041500 +0200" stop="20220414060000 +0200" channel="Kino">
     <title lang="sl">Nočni program Kino</title>
   </programme>
-  <programme start="20220413060000 +0200" stop="20220413064500 +0200" channel="Kino">
+  <programme start="20220414060000 +0200" stop="20220414064500 +0200" channel="Kino">
     <title lang="sl">Nočni program Kino</title>
   </programme>
-  <programme start="20220413064500 +0200" stop="20220413083000 +0200" channel="Kino">
+  <programme start="20220414064500 +0200" stop="20220414083000 +0200" channel="Kino">
     <title lang="sl">Ko zorijo jagode</title>
   </programme>
-  <programme start="20220413083000 +0200" stop="20220413102500 +0200" channel="Kino">
+  <programme start="20220414083000 +0200" stop="20220414102500 +0200" channel="Kino">
     <title lang="sl">Ko fantje zaplavajo</title>
   </programme>
-  <programme start="20220413102500 +0200" stop="20220413123000 +0200" channel="Kino">
+  <programme start="20220414102500 +0200" stop="20220414123000 +0200" channel="Kino">
     <title lang="sl">Cassandrine sanje</title>
   </programme>
-  <programme start="20220413123000 +0200" stop="20220413140500 +0200" channel="Kino">
+  <programme start="20220414123000 +0200" stop="20220414140500 +0200" channel="Kino">
     <title lang="sl">Najbolj jezen človek v Brooklynu</title>
   </programme>
-  <programme start="20220413140500 +0200" stop="20220413161000 +0200" channel="Kino">
+  <programme start="20220414140500 +0200" stop="20220414161000 +0200" channel="Kino">
     <title lang="sl">Namenjena sva si</title>
   </programme>
-  <programme start="20220413161000 +0200" stop="20220413180000 +0200" channel="Kino">
+  <programme start="20220414161000 +0200" stop="20220414180000 +0200" channel="Kino">
     <title lang="sl">Vroči posnetki</title>
   </programme>
-  <programme start="20220413180000 +0200" stop="20220413200000 +0200" channel="Kino">
+  <programme start="20220414180000 +0200" stop="20220414200000 +0200" channel="Kino">
     <title lang="sl">2 na muhi</title>
   </programme>
-  <programme start="20220413200000 +0200" stop="20220413215500 +0200" channel="Kino">
+  <programme start="20220414200000 +0200" stop="20220414215500 +0200" channel="Kino">
     <title lang="sl">Moč narave</title>
   </programme>
-  <programme start="20220413215500 +0200" stop="20220413233500 +0200" channel="Kino">
+  <programme start="20220414215500 +0200" stop="20220414233500 +0200" channel="Kino">
     <title lang="sl">MacGruber</title>
   </programme>
-  <programme start="20220413233500 +0200" stop="20220414012000 +0200" channel="Kino">
+  <programme start="20220414233500 +0200" stop="20220415012000 +0200" channel="Kino">
     <title lang="sl">Lov za diamantom</title>
   </programme>
-  <programme start="20220414012000 +0200" stop="20220414032000 +0200" channel="Kino">
+  <programme start="20220415012000 +0200" stop="20220415032000 +0200" channel="Kino">
     <title lang="sl">Ubijalski šov</title>
   </programme>
-  <programme start="20220414032000 +0200" stop="20220414050000 +0200" channel="Kino">
+  <programme start="20220415032000 +0200" stop="20220415050000 +0200" channel="Kino">
     <title lang="sl">Smrdeča saga</title>
   </programme>
-  <programme start="20220414050000 +0200" stop="20220414060000 +0200" channel="Kino">
+  <programme start="20220415050000 +0200" stop="20220415060000 +0200" channel="Kino">
     <title lang="sl">Nočni program Kino</title>
   </programme>
-  <programme start="20220414060000 +0200" stop="20220414065000 +0200" channel="Kino">
+  <programme start="20220415060000 +0200" stop="20220415065000 +0200" channel="Kino">
     <title lang="sl">Nočni program Kino</title>
   </programme>
-  <programme start="20220414065000 +0200" stop="20220414085000 +0200" channel="Kino">
+  <programme start="20220415065000 +0200" stop="20220415085000 +0200" channel="Kino">
     <title lang="sl">Instalacija ljubezni</title>
   </programme>
-  <programme start="20220414085000 +0200" stop="20220414104500 +0200" channel="Kino">
+  <programme start="20220415085000 +0200" stop="20220415104500 +0200" channel="Kino">
     <title lang="sl">Skrivnost Nikole Tesle</title>
   </programme>
-  <programme start="20220414104500 +0200" stop="20220414124500 +0200" channel="Kino">
+  <programme start="20220415104500 +0200" stop="20220415124500 +0200" channel="Kino">
     <title lang="sl">Namenjena sva si</title>
   </programme>
-  <programme start="20220414124500 +0200" stop="20220414143500 +0200" channel="Kino">
+  <programme start="20220415124500 +0200" stop="20220415143500 +0200" channel="Kino">
     <title lang="sl">Končno srečen</title>
   </programme>
-  <programme start="20220414143500 +0200" stop="20220414161500 +0200" channel="Kino">
+  <programme start="20220415143500 +0200" stop="20220415161500 +0200" channel="Kino">
     <title lang="sl">MacGruber</title>
   </programme>
-  <programme start="20220414161500 +0200" stop="20220414180000 +0200" channel="Kino">
+  <programme start="20220415161500 +0200" stop="20220415180000 +0200" channel="Kino">
     <title lang="sl">To ni smešno</title>
   </programme>
-  <programme start="20220414180000 +0200" stop="20220414200000 +0200" channel="Kino">
+  <programme start="20220415180000 +0200" stop="20220415200000 +0200" channel="Kino">
     <title lang="sl">Sprehod po gozdu</title>
   </programme>
-  <programme start="20220414200000 +0200" stop="20220414214500 +0200" channel="Kino">
+  <programme start="20220415200000 +0200" stop="20220415214500 +0200" channel="Kino">
     <title lang="sl">Stari, kje je veslo 2: Klic narave</title>
   </programme>
-  <programme start="20220414214500 +0200" stop="20220415005000 +0200" channel="Kino">
+  <programme start="20220415214500 +0200" stop="20220416005000 +0200" channel="Kino">
     <title lang="sl">Hobit: Nepričakovano potovanje</title>
   </programme>
-  <programme start="20220415005000 +0200" stop="20220415024000 +0200" channel="Kino">
+  <programme start="20220416005000 +0200" stop="20220416024000 +0200" channel="Kino">
     <title lang="sl">Najvišja obsodba</title>
   </programme>
-  <programme start="20220415024000 +0200" stop="20220415045000 +0200" channel="Kino">
+  <programme start="20220416024000 +0200" stop="20220416045000 +0200" channel="Kino">
     <title lang="sl">Obsojeni na preživetje</title>
   </programme>
-  <programme start="20220415045000 +0200" stop="20220415060000 +0200" channel="Kino">
+  <programme start="20220416045000 +0200" stop="20220416060000 +0200" channel="Kino">
     <title lang="sl">Nočni program Kino</title>
   </programme>
-  <programme start="20220415060000 +0200" stop="20220415073500 +0200" channel="Kino">
+  <programme start="20220416060000 +0200" stop="20220416073500 +0200" channel="Kino">
     <title lang="sl">Nočni program Kino</title>
   </programme>
-  <programme start="20220415073500 +0200" stop="20220415080500 +0200" channel="Kino">
+  <programme start="20220416073500 +0200" stop="20220416080500 +0200" channel="Kino">
     <title lang="sl">Hollywoodske zgodbe</title>
   </programme>
-  <programme start="20220415080500 +0200" stop="20220415101000 +0200" channel="Kino">
+  <programme start="20220416080500 +0200" stop="20220416101000 +0200" channel="Kino">
     <title lang="sl">Glasba je ostala</title>
   </programme>
-  <programme start="20220415101000 +0200" stop="20220415115000 +0200" channel="Kino">
+  <programme start="20220416101000 +0200" stop="20220416115000 +0200" channel="Kino">
     <title lang="sl">Srečne žogice</title>
   </programme>
-  <programme start="20220415115000 +0200" stop="20220415133500 +0200" channel="Kino">
+  <programme start="20220416115000 +0200" stop="20220416133500 +0200" channel="Kino">
     <title lang="sl">To ni smešno</title>
   </programme>
-  <programme start="20220415133500 +0200" stop="20220415152500 +0200" channel="Kino">
+  <programme start="20220416133500 +0200" stop="20220416152500 +0200" channel="Kino">
     <title lang="sl">Stari, kje je veslo 2: Klic narave</title>
   </programme>
-  <programme start="20220415152500 +0200" stop="20220415171000 +0200" channel="Kino">
+  <programme start="20220416152500 +0200" stop="20220416171000 +0200" channel="Kino">
     <title lang="sl">Knjižničarka</title>
   </programme>
-  <programme start="20220415171000 +0200" stop="20220415200000 +0200" channel="Kino">
+  <programme start="20220416171000 +0200" stop="20220416200000 +0200" channel="Kino">
     <title lang="sl">Transformerji 2: Maščevanje padlih</title>
   </programme>
-  <programme start="20220415200000 +0200" stop="20220415221500 +0200" channel="Kino">
+  <programme start="20220416200000 +0200" stop="20220416221500 +0200" channel="Kino">
     <title lang="sl">Pot zmagovalca</title>
-  </programme>
-  <programme start="20220413012000 +0200" stop="20220413030000 +0200" channel="Klasik TV">
-    <title lang="sl">Dnevnik žalitev</title>
-  </programme>
-  <programme start="20220413030000 +0200" stop="20220413035500 +0200" channel="Klasik TV">
-    <title lang="sl">Policaj s Petelinjega hriba</title>
-  </programme>
-  <programme start="20220413035500 +0200" stop="20220413060000 +0200" channel="Klasik TV">
-    <title lang="sl">Pot do Balija</title>
-  </programme>
-  <programme start="20220413060000 +0200" stop="20220413074500 +0200" channel="Klasik TV">
-    <title lang="sl">Razumeš, stari moj</title>
-  </programme>
-  <programme start="20220413074500 +0200" stop="20220413081500 +0200" channel="Klasik TV">
-    <title lang="sl">Alkemija Balkana: Kosovo</title>
-  </programme>
-  <programme start="20220413081500 +0200" stop="20220413084500 +0200" channel="Klasik TV">
-    <title lang="sl">Alkemija Balkana: Kosovo</title>
-  </programme>
-  <programme start="20220413084500 +0200" stop="20220413101500 +0200" channel="Klasik TV">
-    <title lang="sl">Tri Ane</title>
-  </programme>
-  <programme start="20220413101500 +0200" stop="20220413114500 +0200" channel="Klasik TV">
-    <title lang="sl">Glasujem za ljubezen</title>
-  </programme>
-  <programme start="20220413114500 +0200" stop="20220413132000 +0200" channel="Klasik TV">
-    <title lang="sl">Trenutki odločitve</title>
-  </programme>
-  <programme start="20220413132000 +0200" stop="20220413142000 +0200" channel="Klasik TV">
-    <title lang="sl">Bela ladja</title>
-  </programme>
-  <programme start="20220413142000 +0200" stop="20220413151000 +0200" channel="Klasik TV">
-    <title lang="sl">Bela ladja</title>
-  </programme>
-  <programme start="20220413151000 +0200" stop="20220413171000 +0200" channel="Klasik TV">
-    <title lang="sl">Klobuk profesorja Koste Vujića</title>
-  </programme>
-  <programme start="20220413171000 +0200" stop="20220413184000 +0200" channel="Klasik TV">
-    <title lang="sl">Bumerang</title>
-  </programme>
-  <programme start="20220413184000 +0200" stop="20220413200000 +0200" channel="Klasik TV">
-    <title lang="sl">Ko bom mrtev in bled</title>
-  </programme>
-  <programme start="20220413200000 +0200" stop="20220413210500 +0200" channel="Klasik TV">
-    <title lang="sl">Bela ladja</title>
-  </programme>
-  <programme start="20220413210500 +0200" stop="20220413220500 +0200" channel="Klasik TV">
-    <title lang="sl">Bela ladja</title>
-  </programme>
-  <programme start="20220413220500 +0200" stop="20220413233500 +0200" channel="Klasik TV">
-    <title lang="sl">Bela obleka</title>
-  </programme>
-  <programme start="20220413233500 +0200" stop="20220414011000 +0200" channel="Klasik TV">
-    <title lang="sl">Posebna vzgoja</title>
   </programme>
   <programme start="20220414011000 +0200" stop="20220414024000 +0200" channel="Klasik TV">
     <title lang="sl">Živeti kot vsi ostali</title>
@@ -702,141 +802,6 @@
   </programme>
   <programme start="20220416214500 +0200" stop="20220416231000 +0200" channel="Klasik TV">
     <title lang="sl">Žikina dinastija</title>
-  </programme>
-  <programme start="20220413014000 +0200" stop="20220413021000 +0200" channel="MTV 1">
-    <title lang="sl">Dnevnik 2</title>
-  </programme>
-  <programme start="20220413021000 +0200" stop="20220413021700 +0200" channel="MTV 1">
-    <title lang="sl">Šport</title>
-  </programme>
-  <programme start="20220413021700 +0200" stop="20220413022000 +0200" channel="MTV 1">
-    <title lang="sl">Vreme</title>
-  </programme>
-  <programme start="20220413022000 +0200" stop="20220413052000 +0200" channel="MTV 1">
-    <title lang="sl">Makedonija zjutraj</title>
-  </programme>
-  <programme start="20220413052000 +0200" stop="20220413055000 +0200" channel="MTV 1">
-    <title lang="sl">Glasbeni intermezzo</title>
-  </programme>
-  <programme start="20220413055000 +0200" stop="20220413061800 +0200" channel="MTV 1">
-    <title lang="sl">Vitraž</title>
-  </programme>
-  <programme start="20220413061800 +0200" stop="20220413064500 +0200" channel="MTV 1">
-    <title lang="sl">Makedonske ljudske pravljice</title>
-  </programme>
-  <programme start="20220413064500 +0200" stop="20220413094500 +0200" channel="MTV 1">
-    <title lang="sl">Makedonija zjutraj</title>
-  </programme>
-  <programme start="20220413094500 +0200" stop="20220413100000 +0200" channel="MTV 1">
-    <title lang="sl">7 minut za zdravje</title>
-  </programme>
-  <programme start="20220413100000 +0200" stop="20220413102000 +0200" channel="MTV 1">
-    <title lang="sl">Poročila</title>
-  </programme>
-  <programme start="20220413102000 +0200" stop="20220413102500 +0200" channel="MTV 1">
-    <title lang="sl">Vreme</title>
-  </programme>
-  <programme start="20220413102500 +0200" stop="20220413103000 +0200" channel="MTV 1">
-    <title lang="sl">Ali veste?</title>
-  </programme>
-  <programme start="20220413103000 +0200" stop="20220413112000 +0200" channel="MTV 1">
-    <title lang="sl">Zvon</title>
-  </programme>
-  <programme start="20220413112000 +0200" stop="20220413112500 +0200" channel="MTV 1">
-    <title lang="sl">Od A do Š</title>
-  </programme>
-  <programme start="20220413112500 +0200" stop="20220413113500 +0200" channel="MTV 1">
-    <title lang="sl">Elmov svet</title>
-  </programme>
-  <programme start="20220413113500 +0200" stop="20220413114500 +0200" channel="MTV 1">
-    <title lang="sl">Risanka</title>
-  </programme>
-  <programme start="20220413114500 +0200" stop="20220413115500 +0200" channel="MTV 1">
-    <title lang="sl">Risanka</title>
-  </programme>
-  <programme start="20220413115500 +0200" stop="20220413123000 +0200" channel="MTV 1">
-    <title lang="sl">Glasba, prosim</title>
-  </programme>
-  <programme start="20220413123000 +0200" stop="20220413130000 +0200" channel="MTV 1">
-    <title lang="sl">Bumerang</title>
-  </programme>
-  <programme start="20220413130000 +0200" stop="20220413132000 +0200" channel="MTV 1">
-    <title lang="sl">Poročila</title>
-  </programme>
-  <programme start="20220413132000 +0200" stop="20220413132500 +0200" channel="MTV 1">
-    <title lang="sl">Vreme</title>
-  </programme>
-  <programme start="20220413132500 +0200" stop="20220413140500 +0200" channel="MTV 1">
-    <title lang="sl">Kmetijstvo</title>
-  </programme>
-  <programme start="20220413140500 +0200" stop="20220413150000 +0200" channel="MTV 1">
-    <title lang="sl">Pevci in pesmi: Efto Pupinovski</title>
-  </programme>
-  <programme start="20220413150000 +0200" stop="20220413152500 +0200" channel="MTV 1">
-    <title lang="sl">Poročila</title>
-  </programme>
-  <programme start="20220413152500 +0200" stop="20220413154000 +0200" channel="MTV 1">
-    <title lang="sl">Od blizu</title>
-  </programme>
-  <programme start="20220413154000 +0200" stop="20220413161000 +0200" channel="MTV 1">
-    <title lang="sl">Znanstveni spekter</title>
-  </programme>
-  <programme start="20220413161000 +0200" stop="20220413170000 +0200" channel="MTV 1">
-    <title lang="sl">Dokumentarna nadaljevanka</title>
-  </programme>
-  <programme start="20220413170000 +0200" stop="20220413173000 +0200" channel="MTV 1">
-    <title lang="sl">Dnevnik 1</title>
-  </programme>
-  <programme start="20220413173000 +0200" stop="20220413174000 +0200" channel="MTV 1">
-    <title lang="sl">Šport</title>
-  </programme>
-  <programme start="20220413174000 +0200" stop="20220413174500 +0200" channel="MTV 1">
-    <title lang="sl">Vreme</title>
-  </programme>
-  <programme start="20220413174500 +0200" stop="20220413182000 +0200" channel="MTV 1">
-    <title lang="sl">Preprosto zapeljivo</title>
-  </programme>
-  <programme start="20220413182000 +0200" stop="20220413184500 +0200" channel="MTV 1">
-    <title lang="sl">Magazin Lige prvakov</title>
-  </programme>
-  <programme start="20220413184500 +0200" stop="20220413191500 +0200" channel="MTV 1">
-    <title lang="sl">Glasba, prosim</title>
-  </programme>
-  <programme start="20220413191500 +0200" stop="20220413192000 +0200" channel="MTV 1">
-    <title lang="sl">Ali veste?</title>
-  </programme>
-  <programme start="20220413192000 +0200" stop="20220413193000 +0200" channel="MTV 1">
-    <title lang="sl">7 minut za zdravje</title>
-  </programme>
-  <programme start="20220413193000 +0200" stop="20220413200000 +0200" channel="MTV 1">
-    <title lang="sl">Dnevnik 2</title>
-  </programme>
-  <programme start="20220413200000 +0200" stop="20220413201000 +0200" channel="MTV 1">
-    <title lang="sl">Šport</title>
-  </programme>
-  <programme start="20220413201000 +0200" stop="20220413201500 +0200" channel="MTV 1">
-    <title lang="sl">Vreme</title>
-  </programme>
-  <programme start="20220413201500 +0200" stop="20220413205500 +0200" channel="MTV 1">
-    <title lang="sl">UEFA Liga prvakov</title>
-  </programme>
-  <programme start="20220413205500 +0200" stop="20220413225000 +0200" channel="MTV 1">
-    <title lang="sl">Nogomet (M): Atletico Madrid - Manchester City, UEFA Liga prvakov</title>
-  </programme>
-  <programme start="20220413225000 +0200" stop="20220413230000 +0200" channel="MTV 1">
-    <title lang="sl">UEFA Liga prvakov</title>
-  </programme>
-  <programme start="20220413230000 +0200" stop="20220413231500 +0200" channel="MTV 1">
-    <title lang="sl">Dnevnik 3</title>
-  </programme>
-  <programme start="20220413231500 +0200" stop="20220413232500 +0200" channel="MTV 1">
-    <title lang="sl">Šport</title>
-  </programme>
-  <programme start="20220413232500 +0200" stop="20220413233000 +0200" channel="MTV 1">
-    <title lang="sl">Vreme</title>
-  </programme>
-  <programme start="20220413233000 +0200" stop="20220414000000 +0200" channel="MTV 1">
-    <title lang="sl">UEFA Liga prvakov: Pregled</title>
   </programme>
   <programme start="20220414000000 +0200" stop="20220414003300 +0200" channel="MTV 1">
     <title lang="sl">Preprosto zapeljivo</title>
@@ -1114,14 +1079,8 @@
   <programme start="20220416020500 +0200" stop="20220416021000 +0200" channel="MTV 1">
     <title lang="sl">Vreme</title>
   </programme>
-  <programme start="20220416021000 +0200" stop="20220416051000 +0200" channel="MTV 1">
+  <programme start="20220416021000 +0200" stop="20220416062000 +0200" channel="MTV 1">
     <title lang="sl">Makedonija zjutraj</title>
-  </programme>
-  <programme start="20220416051000 +0200" stop="20220416052000 +0200" channel="MTV 1">
-    <title lang="sl">Glasbeni intermezzo</title>
-  </programme>
-  <programme start="20220416052000 +0200" stop="20220416062000 +0200" channel="MTV 1">
-    <title lang="sl">Folk džuboks</title>
   </programme>
   <programme start="20220416062000 +0200" stop="20220416064500 +0200" channel="MTV 1">
     <title lang="sl">Makedonske ljudske pravljice</title>
@@ -1215,141 +1174,6 @@
   </programme>
   <programme start="20220416230000 +0200" stop="20220416230500 +0200" channel="MTV 1">
     <title lang="sl">Vreme</title>
-  </programme>
-  <programme start="20220413000000 +0200" stop="20220413000500 +0200" channel="MTV 2">
-    <title lang="sl">Kratka poročila</title>
-  </programme>
-  <programme start="20220413000500 +0200" stop="20220413002700 +0200" channel="MTV 2">
-    <title lang="sl">Motiv</title>
-  </programme>
-  <programme start="20220413002700 +0200" stop="20220413012700 +0200" channel="MTV 2">
-    <title lang="sl">Džez na zaslonu</title>
-  </programme>
-  <programme start="20220413012700 +0200" stop="20220413015700 +0200" channel="MTV 2">
-    <title lang="sl">Dnevnik 2</title>
-  </programme>
-  <programme start="20220413015700 +0200" stop="20220413020200 +0200" channel="MTV 2">
-    <title lang="sl">Vreme</title>
-  </programme>
-  <programme start="20220413020200 +0200" stop="20220413035000 +0200" channel="MTV 2">
-    <title lang="sl">Ritem dneva</title>
-  </programme>
-  <programme start="20220413035000 +0200" stop="20220413040000 +0200" channel="MTV 2">
-    <title lang="sl">7 minut za zdravje</title>
-  </programme>
-  <programme start="20220413040000 +0200" stop="20220413051200 +0200" channel="MTV 2">
-    <title lang="sl">Argument</title>
-  </programme>
-  <programme start="20220413051200 +0200" stop="20220413055600 +0200" channel="MTV 2">
-    <title lang="sl">Verska etika</title>
-  </programme>
-  <programme start="20220413055600 +0200" stop="20220413062800 +0200" channel="MTV 2">
-    <title lang="sl">Nadaljevanka</title>
-  </programme>
-  <programme start="20220413062800 +0200" stop="20220413070000 +0200" channel="MTV 2">
-    <title lang="sl">Velika vrata</title>
-  </programme>
-  <programme start="20220413070000 +0200" stop="20220413071700 +0200" channel="MTV 2">
-    <title lang="sl">Top poročila</title>
-  </programme>
-  <programme start="20220413071700 +0200" stop="20220413090300 +0200" channel="MTV 2">
-    <title lang="sl">Ritem dneva</title>
-  </programme>
-  <programme start="20220413090300 +0200" stop="20220413091500 +0200" channel="MTV 2">
-    <title lang="sl">Glasbeni spoti</title>
-  </programme>
-  <programme start="20220413091500 +0200" stop="20220413093300 +0200" channel="MTV 2">
-    <title lang="sl">Top poročila</title>
-  </programme>
-  <programme start="20220413093300 +0200" stop="20220413100000 +0200" channel="MTV 2">
-    <title lang="sl">Lalaloopsy</title>
-  </programme>
-  <programme start="20220413100000 +0200" stop="20220413103000 +0200" channel="MTV 2">
-    <title lang="sl">Otroška oddaja</title>
-  </programme>
-  <programme start="20220413103000 +0200" stop="20220413104800 +0200" channel="MTV 2">
-    <title lang="sl">Top poročila</title>
-  </programme>
-  <programme start="20220413104800 +0200" stop="20220413111500 +0200" channel="MTV 2">
-    <title lang="sl">Glasbeni spoti</title>
-  </programme>
-  <programme start="20220413111500 +0200" stop="20220413120000 +0200" channel="MTV 2">
-    <title lang="sl">Verska etika</title>
-  </programme>
-  <programme start="20220413120000 +0200" stop="20220413122200 +0200" channel="MTV 2">
-    <title lang="sl">Poročila</title>
-  </programme>
-  <programme start="20220413122200 +0200" stop="20220413123400 +0200" channel="MTV 2">
-    <title lang="sl">Argument</title>
-  </programme>
-  <programme start="20220413123400 +0200" stop="20220413140000 +0200" channel="MTV 2">
-    <title lang="sl">Glasbeni spoti</title>
-  </programme>
-  <programme start="20220413140000 +0200" stop="20220413155100 +0200" channel="MTV 2">
-    <title lang="sl">Ritem dneva</title>
-  </programme>
-  <programme start="20220413155100 +0200" stop="20220413160000 +0200" channel="MTV 2">
-    <title lang="sl">7 minut za zdravje</title>
-  </programme>
-  <programme start="20220413160000 +0200" stop="20220413162800 +0200" channel="MTV 2">
-    <title lang="sl">Poročila</title>
-  </programme>
-  <programme start="20220413162800 +0200" stop="20220413165400 +0200" channel="MTV 2">
-    <title lang="sl">Lalaloopsy</title>
-  </programme>
-  <programme start="20220413165400 +0200" stop="20220413172500 +0200" channel="MTV 2">
-    <title lang="sl">Otroška oddaja</title>
-  </programme>
-  <programme start="20220413172500 +0200" stop="20220413173400 +0200" channel="MTV 2">
-    <title lang="sl">Ali veste?</title>
-  </programme>
-  <programme start="20220413173400 +0200" stop="20220413175600 +0200" channel="MTV 2">
-    <title lang="sl">Glasbeni spoti</title>
-  </programme>
-  <programme start="20220413175600 +0200" stop="20220413183000 +0200" channel="MTV 2">
-    <title lang="sl">Nadaljevanka</title>
-  </programme>
-  <programme start="20220413183000 +0200" stop="20220413190500 +0200" channel="MTV 2">
-    <title lang="sl">Dnevnik 1</title>
-  </programme>
-  <programme start="20220413190500 +0200" stop="20220413191000 +0200" channel="MTV 2">
-    <title lang="sl">Vreme</title>
-  </programme>
-  <programme start="20220413191000 +0200" stop="20220413191900 +0200" channel="MTV 2">
-    <title lang="sl">7 minut za zdravje</title>
-  </programme>
-  <programme start="20220413191900 +0200" stop="20220413192400 +0200" channel="MTV 2">
-    <title lang="sl">Azan</title>
-  </programme>
-  <programme start="20220413192400 +0200" stop="20220413201700 +0200" channel="MTV 2">
-    <title lang="sl">Verska etika</title>
-  </programme>
-  <programme start="20220413201700 +0200" stop="20220413204500 +0200" channel="MTV 2">
-    <title lang="sl">V svetu tehnologije</title>
-  </programme>
-  <programme start="20220413204500 +0200" stop="20220413211900 +0200" channel="MTV 2">
-    <title lang="sl">Vajenec</title>
-  </programme>
-  <programme start="20220413211900 +0200" stop="20220413215000 +0200" channel="MTV 2">
-    <title lang="sl">Dejstva</title>
-  </programme>
-  <programme start="20220413215000 +0200" stop="20220413220000 +0200" channel="MTV 2">
-    <title lang="sl">Intermezzo</title>
-  </programme>
-  <programme start="20220413220000 +0200" stop="20220413223000 +0200" channel="MTV 2">
-    <title lang="sl">Dnevnik 2</title>
-  </programme>
-  <programme start="20220413223000 +0200" stop="20220413223400 +0200" channel="MTV 2">
-    <title lang="sl">Vreme</title>
-  </programme>
-  <programme start="20220413223400 +0200" stop="20220413230100 +0200" channel="MTV 2">
-    <title lang="sl">Velika vrata</title>
-  </programme>
-  <programme start="20220413230100 +0200" stop="20220413233400 +0200" channel="MTV 2">
-    <title lang="sl">Nadaljevanka</title>
-  </programme>
-  <programme start="20220413233400 +0200" stop="20220414000000 +0200" channel="MTV 2">
-    <title lang="sl">Pro vita</title>
   </programme>
   <programme start="20220414000000 +0200" stop="20220414000500 +0200" channel="MTV 2">
     <title lang="sl">Kratka poročila</title>
@@ -1636,80 +1460,26 @@
   <programme start="20220416000000 +0200" stop="20220416000500 +0200" channel="MTV 2">
     <title lang="sl">Kratka poročila</title>
   </programme>
-  <programme start="20220416000500 +0200" stop="20220416014200 +0200" channel="MTV 2">
+  <programme start="20220416000500 +0200" stop="20220416054600 +0200" channel="MTV 2">
     <title lang="sl">Palmetto</title>
   </programme>
-  <programme start="20220416014200 +0200" stop="20220416025400 +0200" channel="MTV 2">
-    <title lang="sl">Argument</title>
-  </programme>
-  <programme start="20220416025400 +0200" stop="20220416032400 +0200" channel="MTV 2">
-    <title lang="sl">Dnevnik 2</title>
-  </programme>
-  <programme start="20220416032400 +0200" stop="20220416032800 +0200" channel="MTV 2">
-    <title lang="sl">Vreme</title>
-  </programme>
-  <programme start="20220416032800 +0200" stop="20220416051500 +0200" channel="MTV 2">
-    <title lang="sl">Ritem dneva</title>
-  </programme>
-  <programme start="20220416051500 +0200" stop="20220416054600 +0200" channel="MTV 2">
-    <title lang="sl">Verska etika</title>
-  </programme>
-  <programme start="20220416054600 +0200" stop="20220416055500 +0200" channel="MTV 2">
+  <programme start="20220416054600 +0200" stop="20220416091800 +0200" channel="MTV 2">
     <title lang="sl">7 minut za zdravje</title>
   </programme>
-  <programme start="20220416055500 +0200" stop="20220416063000 +0200" channel="MTV 2">
-    <title lang="sl">Nadaljevanka</title>
-  </programme>
-  <programme start="20220416063000 +0200" stop="20220416070000 +0200" channel="MTV 2">
-    <title lang="sl">Velika vrata</title>
-  </programme>
-  <programme start="20220416070000 +0200" stop="20220416071700 +0200" channel="MTV 2">
-    <title lang="sl">Top poročila</title>
-  </programme>
-  <programme start="20220416071700 +0200" stop="20220416080200 +0200" channel="MTV 2">
-    <title lang="sl">Top lista zabavnih pesmi</title>
-  </programme>
-  <programme start="20220416080200 +0200" stop="20220416084700 +0200" channel="MTV 2">
-    <title lang="sl">Top lista narodnih pesmi</title>
-  </programme>
-  <programme start="20220416084700 +0200" stop="20220416090000 +0200" channel="MTV 2">
-    <title lang="sl">Glasbeni spoti</title>
-  </programme>
-  <programme start="20220416090000 +0200" stop="20220416091800 +0200" channel="MTV 2">
-    <title lang="sl">Top poročila</title>
-  </programme>
-  <programme start="20220416091800 +0200" stop="20220416103400 +0200" channel="MTV 2">
+  <programme start="20220416091800 +0200" stop="20220416110200 +0200" channel="MTV 2">
     <title lang="sl">Lalaloopsy</title>
   </programme>
-  <programme start="20220416103400 +0200" stop="20220416110200 +0200" channel="MTV 2">
-    <title lang="sl">Evropa v središču</title>
-  </programme>
-  <programme start="20220416110200 +0200" stop="20220416120000 +0200" channel="MTV 2">
+  <programme start="20220416110200 +0200" stop="20220416131900 +0200" channel="MTV 2">
     <title lang="sl">Top 5 osebnosti</title>
-  </programme>
-  <programme start="20220416120000 +0200" stop="20220416121700 +0200" channel="MTV 2">
-    <title lang="sl">Top poročila</title>
-  </programme>
-  <programme start="20220416121700 +0200" stop="20220416124800 +0200" channel="MTV 2">
-    <title lang="sl">Verska etika</title>
-  </programme>
-  <programme start="20220416124800 +0200" stop="20220416131900 +0200" channel="MTV 2">
-    <title lang="sl">TV arhiv</title>
   </programme>
   <programme start="20220416131900 +0200" stop="20220416142100 +0200" channel="MTV 2">
     <title lang="sl">Open</title>
   </programme>
-  <programme start="20220416142100 +0200" stop="20220416145600 +0200" channel="MTV 2">
+  <programme start="20220416142100 +0200" stop="20220416155500 +0200" channel="MTV 2">
     <title lang="sl">Dokumentarna nadaljevanka</title>
   </programme>
-  <programme start="20220416145600 +0200" stop="20220416155500 +0200" channel="MTV 2">
-    <title lang="sl">Nadaljevanka</title>
-  </programme>
-  <programme start="20220416155500 +0200" stop="20220416164600 +0200" channel="MTV 2">
+  <programme start="20220416155500 +0200" stop="20220416170000 +0200" channel="MTV 2">
     <title lang="sl">Nogomet (M): Makedonska prva liga</title>
-  </programme>
-  <programme start="20220416164600 +0200" stop="20220416170000 +0200" channel="MTV 2">
-    <title lang="sl">Nadaljevanka</title>
   </programme>
   <programme start="20220416170000 +0200" stop="20220416175200 +0200" channel="MTV 2">
     <title lang="sl">Nogomet (M): Makedonska prva liga</title>
@@ -1717,71 +1487,17 @@
   <programme start="20220416175200 +0200" stop="20220416182400 +0200" channel="MTV 2">
     <title lang="sl">Alo alo vip</title>
   </programme>
-  <programme start="20220416182400 +0200" stop="20220416183000 +0200" channel="MTV 2">
+  <programme start="20220416182400 +0200" stop="20220416190500 +0200" channel="MTV 2">
     <title lang="sl">Intermezzo</title>
   </programme>
-  <programme start="20220416183000 +0200" stop="20220416190500 +0200" channel="MTV 2">
-    <title lang="sl">Dnevnik 1</title>
-  </programme>
-  <programme start="20220416190500 +0200" stop="20220416190800 +0200" channel="MTV 2">
+  <programme start="20220416190500 +0200" stop="20220416210200 +0200" channel="MTV 2">
     <title lang="sl">Vreme</title>
   </programme>
-  <programme start="20220416190800 +0200" stop="20220416192200 +0200" channel="MTV 2">
-    <title lang="sl">Verska etika</title>
-  </programme>
-  <programme start="20220416192200 +0200" stop="20220416192700 +0200" channel="MTV 2">
-    <title lang="sl">Azan</title>
-  </programme>
-  <programme start="20220416192700 +0200" stop="20220416195300 +0200" channel="MTV 2">
-    <title lang="sl">Verska etika</title>
-  </programme>
-  <programme start="20220416195300 +0200" stop="20220416200000 +0200" channel="MTV 2">
-    <title lang="sl">Intermezzo</title>
-  </programme>
-  <programme start="20220416200000 +0200" stop="20220416204700 +0200" channel="MTV 2">
-    <title lang="sl">Motiv</title>
-  </programme>
-  <programme start="20220416204700 +0200" stop="20220416210200 +0200" channel="MTV 2">
-    <title lang="sl">Glasbeni spoti</title>
-  </programme>
-  <programme start="20220416210200 +0200" stop="20220416214300 +0200" channel="MTV 2">
+  <programme start="20220416210200 +0200" stop="20220416223000 +0200" channel="MTV 2">
     <title lang="sl">Kompromis</title>
-  </programme>
-  <programme start="20220416214300 +0200" stop="20220416220000 +0200" channel="MTV 2">
-    <title lang="sl">Glasbeni spoti</title>
-  </programme>
-  <programme start="20220416220000 +0200" stop="20220416223000 +0200" channel="MTV 2">
-    <title lang="sl">Dnevnik 2</title>
   </programme>
   <programme start="20220416223000 +0200" stop="20220416223400 +0200" channel="MTV 2">
     <title lang="sl">Vreme</title>
-  </programme>
-  <programme start="20220413040000 +0200" stop="20220413090000 +0200" channel="MTV Dance">
-    <title lang="sl">Non-stop udarni hiti</title>
-  </programme>
-  <programme start="20220413090000 +0200" stop="20220413100000 +0200" channel="MTV Dance">
-    <title lang="sl">Ponovimo klubske klasike</title>
-  </programme>
-  <programme start="20220413100000 +0200" stop="20220413120000 +0200" channel="MTV Dance">
-    <title lang="sl">The Chainsmokers proti Alanu Walkerju</title>
-  </programme>
-  <programme start="20220413120000 +0200" stop="20220413150000 +0200" channel="MTV Dance">
-    <title lang="sl">Non-stop udarni hiti</title>
-  </programme>
-  <programme start="20220413150000 +0200" stop="20220413160000 +0200" channel="MTV Dance">
-    <title lang="sl">Najboljši rap in RnB</title>
-  </programme>
-  <programme start="20220413160000 +0200" stop="20220413200000 +0200" channel="MTV Dance">
-    <title lang="sl">Non-stop udarni hiti</title>
-  </programme>
-  <programme start="20220413200000 +0200" stop="20220413210000 +0200" channel="MTV Dance">
-    <title lang="sl">Ponovimo klubske klasike</title>
-  </programme>
-  <programme start="20220413210000 +0200" stop="20220413220000 +0200" channel="MTV Dance">
-    <title lang="sl">Najboljši rap in RnB</title>
-  </programme>
-  <programme start="20220413220000 +0200" stop="20220414040000 +0200" channel="MTV Dance">
-    <title lang="sl">Veliki hiti</title>
   </programme>
   <programme start="20220414040000 +0200" stop="20220414090000 +0200" channel="MTV Dance">
     <title lang="sl">Non-stop udarni hiti</title>
@@ -1857,36 +1573,6 @@
   </programme>
   <programme start="20220416220000 +0200" stop="20220416230000 +0200" channel="MTV Dance">
     <title lang="sl">Ponovimo klubske klasike</title>
-  </programme>
-  <programme start="20220413040000 +0200" stop="20220413080000 +0200" channel="MTV Hits">
-    <title lang="sl">Non-stop hiti</title>
-  </programme>
-  <programme start="20220413080000 +0200" stop="20220413090000 +0200" channel="MTV Hits">
-    <title lang="sl">MTV Evropa: Top 20</title>
-  </programme>
-  <programme start="20220413090000 +0200" stop="20220413120000 +0200" channel="MTV Hits">
-    <title lang="sl">Totalno 10-ta</title>
-  </programme>
-  <programme start="20220413120000 +0200" stop="20220413130000 +0200" channel="MTV Hits">
-    <title lang="sl">Današnji top hiti</title>
-  </programme>
-  <programme start="20220413130000 +0200" stop="20220413150000 +0200" channel="MTV Hits">
-    <title lang="sl">Totalno 10-ta</title>
-  </programme>
-  <programme start="20220413150000 +0200" stop="20220413170000 +0200" channel="MTV Hits">
-    <title lang="sl">Svetovni hiti</title>
-  </programme>
-  <programme start="20220413170000 +0200" stop="20220413180000 +0200" channel="MTV Hits">
-    <title lang="sl">David Guetta X Calvin Harris</title>
-  </programme>
-  <programme start="20220413180000 +0200" stop="20220413190000 +0200" channel="MTV Hits">
-    <title lang="sl">Totalno 10-ta</title>
-  </programme>
-  <programme start="20220413190000 +0200" stop="20220413230000 +0200" channel="MTV Hits">
-    <title lang="sl">Svetovni hiti</title>
-  </programme>
-  <programme start="20220413230000 +0200" stop="20220414040000 +0200" channel="MTV Hits">
-    <title lang="sl">Non-stop hiti</title>
   </programme>
   <programme start="20220414040000 +0200" stop="20220414080000 +0200" channel="MTV Hits">
     <title lang="sl">Non-stop hiti</title>
@@ -1975,36 +1661,6 @@
   <programme start="20220416170000 +0200" stop="20220416180000 +0200" channel="MTV Hits">
     <title lang="sl">Ed Sheeran proti Taylor Swift proti Adele</title>
   </programme>
-  <programme start="20220413040000 +0200" stop="20220413050000 +0200" channel="MTV Rocks">
-    <title lang="sl">Glasbena lista iz 90-ih</title>
-  </programme>
-  <programme start="20220413050000 +0200" stop="20220413080000 +0200" channel="MTV Rocks">
-    <title lang="sl">Glasbena lista iz 90-ih</title>
-  </programme>
-  <programme start="20220413080000 +0200" stop="20220413120000 +0200" channel="MTV Rocks">
-    <title lang="sl">Mmm Bop! Popoln pop iz 90-ih</title>
-  </programme>
-  <programme start="20220413120000 +0200" stop="20220413150000 +0200" channel="MTV Rocks">
-    <title lang="sl">90-ta so nas rešila</title>
-  </programme>
-  <programme start="20220413150000 +0200" stop="20220413160000 +0200" channel="MTV Rocks">
-    <title lang="sl">Nabito z žensko energijo</title>
-  </programme>
-  <programme start="20220413160000 +0200" stop="20220413190000 +0200" channel="MTV Rocks">
-    <title lang="sl">Nikoli ne bomo pozabili 90-ih</title>
-  </programme>
-  <programme start="20220413190000 +0200" stop="20220413200000 +0200" channel="MTV Rocks">
-    <title lang="sl">Miks iz 90-ih</title>
-  </programme>
-  <programme start="20220413200000 +0200" stop="20220413220000 +0200" channel="MTV Rocks">
-    <title lang="sl">Hip hop in še kaj iz 90-ih</title>
-  </programme>
-  <programme start="20220413220000 +0200" stop="20220413230000 +0200" channel="MTV Rocks">
-    <title lang="sl">Alternativa iz 90-ih</title>
-  </programme>
-  <programme start="20220413230000 +0200" stop="20220414040000 +0200" channel="MTV Rocks">
-    <title lang="sl">Glasbena lista iz 90-ih</title>
-  </programme>
   <programme start="20220414040000 +0200" stop="20220414050000 +0200" channel="MTV Rocks">
     <title lang="sl">Glasbena lista iz 90-ih</title>
   </programme>
@@ -2026,17 +1682,23 @@
   <programme start="20220414190000 +0200" stop="20220414200000 +0200" channel="MTV Rocks">
     <title lang="sl">Miks iz 90-ih</title>
   </programme>
-  <programme start="20220414200000 +0200" stop="20220415000000 +0200" channel="MTV Rocks">
-    <title lang="sl">1993 proti 1998! Top 50</title>
+  <programme start="20220414200000 +0200" stop="20220414220000 +0200" channel="MTV Rocks">
+    <title lang="sl">Hip hop in še kaj iz 90-ih</title>
   </programme>
-  <programme start="20220415000000 +0200" stop="20220415050000 +0200" channel="MTV Rocks">
+  <programme start="20220414220000 +0200" stop="20220414230000 +0200" channel="MTV Rocks">
+    <title lang="sl">Alternativa iz 90-ih</title>
+  </programme>
+  <programme start="20220414230000 +0200" stop="20220415040000 +0200" channel="MTV Rocks">
+    <title lang="sl">Glasbena lista iz 90-ih</title>
+  </programme>
+  <programme start="20220415040000 +0200" stop="20220415050000 +0200" channel="MTV Rocks">
     <title lang="sl">Glasbena lista iz 90-ih</title>
   </programme>
   <programme start="20220415050000 +0200" stop="20220415080000 +0200" channel="MTV Rocks">
     <title lang="sl">Glasbena lista iz 90-ih</title>
   </programme>
   <programme start="20220415080000 +0200" stop="20220415120000 +0200" channel="MTV Rocks">
-    <title lang="sl">1990 proti 1995! Top 50</title>
+    <title lang="sl">Mmm Bop! Popoln pop iz 90-ih</title>
   </programme>
   <programme start="20220415120000 +0200" stop="20220415150000 +0200" channel="MTV Rocks">
     <title lang="sl">90-ta so nas rešila</title>
@@ -2050,83 +1712,29 @@
   <programme start="20220415190000 +0200" stop="20220415200000 +0200" channel="MTV Rocks">
     <title lang="sl">Miks iz 90-ih</title>
   </programme>
-  <programme start="20220413003800 +0200" stop="20220413010900 +0200" channel="Mediaset Italia">
-    <title lang="sl">Plazi se za novico</title>
+  <programme start="20220415200000 +0200" stop="20220416000000 +0200" channel="MTV Rocks">
+    <title lang="sl">1993 proti 1998! Top 50</title>
   </programme>
-  <programme start="20220413010900 +0200" stop="20220413041000 +0200" channel="Mediaset Italia">
-    <title lang="sl">Četrta republika</title>
+  <programme start="20220416000000 +0200" stop="20220416050000 +0200" channel="MTV Rocks">
+    <title lang="sl">Glasbena lista iz 90-ih</title>
   </programme>
-  <programme start="20220413041000 +0200" stop="20220413050300 +0200" channel="Mediaset Italia">
-    <title lang="sl">Italija nocoj</title>
+  <programme start="20220416050000 +0200" stop="20220416080000 +0200" channel="MTV Rocks">
+    <title lang="sl">Glasbena lista iz 90-ih</title>
   </programme>
-  <programme start="20220413050300 +0200" stop="20220413050800 +0200" channel="Mediaset Italia">
-    <title lang="sl">Ženska pustolovščina: Popotovanja</title>
+  <programme start="20220416080000 +0200" stop="20220416120000 +0200" channel="MTV Rocks">
+    <title lang="sl">1990 proti 1995! Top 50</title>
   </programme>
-  <programme start="20220413050800 +0200" stop="20220413053600 +0200" channel="Mediaset Italia">
-    <title lang="sl">Trgovina</title>
+  <programme start="20220416120000 +0200" stop="20220416150000 +0200" channel="MTV Rocks">
+    <title lang="sl">90-ta so nas rešila</title>
   </programme>
-  <programme start="20220413053600 +0200" stop="20220413060100 +0200" channel="Mediaset Italia">
-    <title lang="sl">Trgovina</title>
+  <programme start="20220416150000 +0200" stop="20220416160000 +0200" channel="MTV Rocks">
+    <title lang="sl">Nabito z žensko energijo</title>
   </programme>
-  <programme start="20220413060100 +0200" stop="20220413062500 +0200" channel="Mediaset Italia">
-    <title lang="sl">Sto izložb</title>
+  <programme start="20220416160000 +0200" stop="20220416190000 +0200" channel="MTV Rocks">
+    <title lang="sl">Nikoli ne bomo pozabili 90-ih</title>
   </programme>
-  <programme start="20220413062500 +0200" stop="20220413065000 +0200" channel="Mediaset Italia">
-    <title lang="sl">Nadzorna točka</title>
-  </programme>
-  <programme start="20220413065000 +0200" stop="20220413083000 +0200" channel="Mediaset Italia">
-    <title lang="sl">Jutro</title>
-  </programme>
-  <programme start="20220413083000 +0200" stop="20220413085500 +0200" channel="Mediaset Italia">
-    <title lang="sl">Orazio</title>
-  </programme>
-  <programme start="20220413085500 +0200" stop="20220413102000 +0200" channel="Mediaset Italia">
-    <title lang="sl">Forum</title>
-  </programme>
-  <programme start="20220413102000 +0200" stop="20220413112500 +0200" channel="Mediaset Italia">
-    <title lang="sl">Forum</title>
-  </programme>
-  <programme start="20220413112500 +0200" stop="20220413121300 +0200" channel="Mediaset Italia">
-    <title lang="sl">Otok slavnih</title>
-  </programme>
-  <programme start="20220413121300 +0200" stop="20220413130200 +0200" channel="Mediaset Italia">
-    <title lang="sl">Italija nocoj</title>
-  </programme>
-  <programme start="20220413130200 +0200" stop="20220413135100 +0200" channel="Mediaset Italia">
-    <title lang="sl">Recepti italijanske kuhinje</title>
-  </programme>
-  <programme start="20220413135100 +0200" stop="20220413140000 +0200" channel="Mediaset Italia">
-    <title lang="sl">Skuhaj in pojej: Dnevni meni</title>
-  </programme>
-  <programme start="20220413140000 +0200" stop="20220413143500 +0200" channel="Mediaset Italia">
-    <title lang="sl">Dnevnik</title>
-  </programme>
-  <programme start="20220413143500 +0200" stop="20220413154000 +0200" channel="Mediaset Italia">
-    <title lang="sl">Ženska lepota: December</title>
-  </programme>
-  <programme start="20220413154000 +0200" stop="20220413172000 +0200" channel="Mediaset Italia">
-    <title lang="sl">Jutro</title>
-  </programme>
-  <programme start="20220413172000 +0200" stop="20220413182400 +0200" channel="Mediaset Italia">
-    <title lang="sl">Moški in ženske</title>
-  </programme>
-  <programme start="20220413182400 +0200" stop="20220413191500 +0200" channel="Mediaset Italia">
-    <title lang="sl">Prosim, naslednji</title>
-  </programme>
-  <programme start="20220413191500 +0200" stop="20220413194400 +0200" channel="Mediaset Italia">
-    <title lang="sl">Šport</title>
-  </programme>
-  <programme start="20220413194400 +0200" stop="20220413200400 +0200" channel="Mediaset Italia">
-    <title lang="sl">Prijatelji</title>
-  </programme>
-  <programme start="20220413200400 +0200" stop="20220413210000 +0200" channel="Mediaset Italia">
-    <title lang="sl">Popoldan</title>
-  </programme>
-  <programme start="20220413210000 +0200" stop="20220413213500 +0200" channel="Mediaset Italia">
-    <title lang="sl">Dnevnik</title>
-  </programme>
-  <programme start="20220413213500 +0200" stop="20220414000900 +0200" channel="Mediaset Italia">
-    <title lang="sl">Freedom: Preko meje</title>
+  <programme start="20220416190000 +0200" stop="20220416200000 +0200" channel="MTV Rocks">
+    <title lang="sl">Miks iz 90-ih</title>
   </programme>
   <programme start="20220414000900 +0200" stop="20220414004000 +0200" channel="Mediaset Italia">
     <title lang="sl">Plazi se za novico</title>
@@ -2377,57 +1985,6 @@
   <programme start="20220416232400 +0200" stop="20220416235500 +0200" channel="Mediaset Italia">
     <title lang="sl">Plazi se za novico</title>
   </programme>
-  <programme start="20220413011500 +0200" stop="20220413021500 +0200" channel="Mezzo">
-    <title lang="sl">Jazz koncert; Shai Maestro kvartet: Človeško</title>
-  </programme>
-  <programme start="20220413021500 +0200" stop="20220413031500 +0200" channel="Mezzo">
-    <title lang="sl">Jazz koncert; Vijay Iyer in The Ritual Ensemble</title>
-  </programme>
-  <programme start="20220413031500 +0200" stop="20220413034500 +0200" channel="Mezzo">
-    <title lang="sl">Legende jazza: Modern Jazz Quartet II</title>
-  </programme>
-  <programme start="20220413034500 +0200" stop="20220413044500 +0200" channel="Mezzo">
-    <title lang="sl">Legende jazza: Lionel Hampton</title>
-  </programme>
-  <programme start="20220413044500 +0200" stop="20220413053500 +0200" channel="Mezzo">
-    <title lang="sl">Jazz koncert; Bachar Mar-Khalifé &amp; Bojan Z; Jazz a la Villette</title>
-  </programme>
-  <programme start="20220413053500 +0200" stop="20220413063500 +0200" channel="Mezzo">
-    <title lang="sl">Jazz koncert; Bobby McFerrin in Chick Corea; Jazz na Dunaju</title>
-  </programme>
-  <programme start="20220413063500 +0200" stop="20220413090000 +0200" channel="Mezzo">
-    <title lang="sl">Intermezzo</title>
-  </programme>
-  <programme start="20220413090000 +0200" stop="20220413103000 +0200" channel="Mezzo">
-    <title lang="sl">Ples; Ghost Light, kor. John Neumeier, balet iz Hamburga</title>
-  </programme>
-  <programme start="20220413103000 +0200" stop="20220413123000 +0200" channel="Mezzo">
-    <title lang="sl">Koncert klasične glasbe; dir. John Eliot Gardiner, dela Berlioza, Revolucionarni in romantični orkester</title>
-  </programme>
-  <programme start="20220413123000 +0200" stop="20220413140000 +0200" channel="Mezzo">
-    <title lang="sl">Mozartwoche 2021: Martha Argerich, Daniel Barenboim</title>
-  </programme>
-  <programme start="20220413140000 +0200" stop="20220413144500 +0200" channel="Mezzo">
-    <title lang="sl">Koncert klasične glasbe; glasba na Sorboni</title>
-  </programme>
-  <programme start="20220413144500 +0200" stop="20220413160000 +0200" channel="Mezzo">
-    <title lang="sl">Intermezzo</title>
-  </programme>
-  <programme start="20220413160000 +0200" stop="20220413190000 +0200" channel="Mezzo">
-    <title lang="sl">Klasična opera; Dvořák: Rusalka, Madrid</title>
-  </programme>
-  <programme start="20220413190000 +0200" stop="20220413203000 +0200" channel="Mezzo">
-    <title lang="sl">Koncert klasične glasbe; Jonas Kaufmann; recital v OZN</title>
-  </programme>
-  <programme start="20220413203000 +0200" stop="20220413213000 +0200" channel="Mezzo">
-    <title lang="sl">Klasična opera; Charpentier: Actéon, Théâtre du Châtelet, Pariz</title>
-  </programme>
-  <programme start="20220413213000 +0200" stop="20220413232000 +0200" channel="Mezzo">
-    <title lang="sl">Klasična opera; Leoš Janáček: Lisičje prigode; opera Pariz</title>
-  </programme>
-  <programme start="20220413232000 +0200" stop="20220414000000 +0200" channel="Mezzo">
-    <title lang="sl">Koncert klasične glasbe; dunajski filharmoniki, Christian Thielemann: Beethoven: 7. simfonija</title>
-  </programme>
   <programme start="20220414000000 +0200" stop="20220414010000 +0200" channel="Mezzo">
     <title lang="sl">Jazz koncert; Bobby McFerrin in Chick Corea; Jazz na Dunaju</title>
   </programme>
@@ -2595,204 +2152,6 @@
   </programme>
   <programme start="20220416203000 +0200" stop="20220416234000 +0200" channel="Mezzo">
     <title lang="sl">Klasična opera; Dvořák: Rusalka, Madrid</title>
-  </programme>
-  <programme start="20220413000000 +0200" stop="20220413001000 +0200" channel="Minimax">
-    <title lang="sl">Govoreči Tom in prijatelji</title>
-  </programme>
-  <programme start="20220413001000 +0200" stop="20220413002000 +0200" channel="Minimax">
-    <title lang="sl">Govoreči Tom in prijatelji</title>
-  </programme>
-  <programme start="20220413002000 +0200" stop="20220413003500 +0200" channel="Minimax">
-    <title lang="sl">Govoreči Tom in prijatelji</title>
-  </programme>
-  <programme start="20220413003500 +0200" stop="20220413004500 +0200" channel="Minimax">
-    <title lang="sl">Govoreči Tom in prijatelji</title>
-  </programme>
-  <programme start="20220413004500 +0200" stop="20220413010000 +0200" channel="Minimax">
-    <title lang="sl">Govoreči Tom in prijatelji</title>
-  </programme>
-  <programme start="20220413010000 +0200" stop="20220413013000 +0200" channel="Minimax">
-    <title lang="sl">Mia in jaz: Solze sreče</title>
-  </programme>
-  <programme start="20220413013000 +0200" stop="20220413020000 +0200" channel="Minimax">
-    <title lang="sl">Skrivnostni ranč</title>
-  </programme>
-  <programme start="20220413020000 +0200" stop="20220413021000 +0200" channel="Minimax">
-    <title lang="sl">Govoreči Tom in prijatelji</title>
-  </programme>
-  <programme start="20220413021000 +0200" stop="20220413022000 +0200" channel="Minimax">
-    <title lang="sl">Govoreči Tom in prijatelji</title>
-  </programme>
-  <programme start="20220413022000 +0200" stop="20220413023500 +0200" channel="Minimax">
-    <title lang="sl">Govoreči Tom in prijatelji</title>
-  </programme>
-  <programme start="20220413023500 +0200" stop="20220413024500 +0200" channel="Minimax">
-    <title lang="sl">Govoreči Tom in prijatelji</title>
-  </programme>
-  <programme start="20220413024500 +0200" stop="20220413030000 +0200" channel="Minimax">
-    <title lang="sl">Govoreči Tom in prijatelji</title>
-  </programme>
-  <programme start="20220413030000 +0200" stop="20220413033000 +0200" channel="Minimax">
-    <title lang="sl">Mia in jaz: Solze sreče</title>
-  </programme>
-  <programme start="20220413033000 +0200" stop="20220413040000 +0200" channel="Minimax">
-    <title lang="sl">Skrivnostni ranč</title>
-  </programme>
-  <programme start="20220413040000 +0200" stop="20220413041000 +0200" channel="Minimax">
-    <title lang="sl">Govoreči Tom in prijatelji</title>
-  </programme>
-  <programme start="20220413041000 +0200" stop="20220413042000 +0200" channel="Minimax">
-    <title lang="sl">Govoreči Tom in prijatelji</title>
-  </programme>
-  <programme start="20220413042000 +0200" stop="20220413043500 +0200" channel="Minimax">
-    <title lang="sl">Govoreči Tom in prijatelji</title>
-  </programme>
-  <programme start="20220413043500 +0200" stop="20220413044500 +0200" channel="Minimax">
-    <title lang="sl">Govoreči Tom in prijatelji</title>
-  </programme>
-  <programme start="20220413044500 +0200" stop="20220413050000 +0200" channel="Minimax">
-    <title lang="sl">Govoreči Tom in prijatelji</title>
-  </programme>
-  <programme start="20220413050000 +0200" stop="20220413053000 +0200" channel="Minimax">
-    <title lang="sl">Mia in jaz: Solze sreče</title>
-  </programme>
-  <programme start="20220413053000 +0200" stop="20220413060000 +0200" channel="Minimax">
-    <title lang="sl">Skrivnostni ranč</title>
-  </programme>
-  <programme start="20220413060000 +0200" stop="20220413062500 +0200" channel="Minimax">
-    <title lang="sl">Zora Krudovih</title>
-  </programme>
-  <programme start="20220413062500 +0200" stop="20220413065000 +0200" channel="Minimax">
-    <title lang="sl">Zora Krudovih</title>
-  </programme>
-  <programme start="20220413065000 +0200" stop="20220413070000 +0200" channel="Minimax">
-    <title lang="sl">Sova in druščina</title>
-  </programme>
-  <programme start="20220413070000 +0200" stop="20220413071000 +0200" channel="Minimax">
-    <title lang="sl">Sova in druščina</title>
-  </programme>
-  <programme start="20220413071000 +0200" stop="20220413072000 +0200" channel="Minimax">
-    <title lang="sl">Lego prijateljice: Punce na misiji</title>
-  </programme>
-  <programme start="20220413072000 +0200" stop="20220413073500 +0200" channel="Minimax">
-    <title lang="sl">Lego prijateljice: Punce na misiji</title>
-  </programme>
-  <programme start="20220413073500 +0200" stop="20220413074500 +0200" channel="Minimax">
-    <title lang="sl">SESTRI</title>
-  </programme>
-  <programme start="20220413074500 +0200" stop="20220413080000 +0200" channel="Minimax">
-    <title lang="sl">SESTRI</title>
-  </programme>
-  <programme start="20220413080000 +0200" stop="20220413092000 +0200" channel="Minimax">
-    <title lang="sl">Radovedni George: Nazaj v džunglo</title>
-  </programme>
-  <programme start="20220413092000 +0200" stop="20220413094500 +0200" channel="Minimax">
-    <title lang="sl">Spirit – klic svobode</title>
-  </programme>
-  <programme start="20220413094500 +0200" stop="20220413101000 +0200" channel="Minimax">
-    <title lang="sl">Spirit – klic svobode</title>
-  </programme>
-  <programme start="20220413101000 +0200" stop="20220413103500 +0200" channel="Minimax">
-    <title lang="sl">Skrivnostni ranč</title>
-  </programme>
-  <programme start="20220413103500 +0200" stop="20220413110000 +0200" channel="Minimax">
-    <title lang="sl">Skrivnostni ranč</title>
-  </programme>
-  <programme start="20220413110000 +0200" stop="20220413112500 +0200" channel="Minimax">
-    <title lang="sl">Divja brata Kratt: Dvorogi narval</title>
-  </programme>
-  <programme start="20220413112500 +0200" stop="20220413115000 +0200" channel="Minimax">
-    <title lang="sl">Divja brata Kratt: Plavanje morske vidre</title>
-  </programme>
-  <programme start="20220413115000 +0200" stop="20220413121500 +0200" channel="Minimax">
-    <title lang="sl">Ekipa Dronix</title>
-  </programme>
-  <programme start="20220413121500 +0200" stop="20220413124000 +0200" channel="Minimax">
-    <title lang="sl">Ekipa Dronix</title>
-  </programme>
-  <programme start="20220413124000 +0200" stop="20220413130500 +0200" channel="Minimax">
-    <title lang="sl">Hitri in drzni: Vohunski dirkači</title>
-  </programme>
-  <programme start="20220413130500 +0200" stop="20220413142500 +0200" channel="Minimax">
-    <title lang="sl">Charlottina mreža 2: Wilburjeva velika dogodivščina</title>
-  </programme>
-  <programme start="20220413142500 +0200" stop="20220413145000 +0200" channel="Minimax">
-    <title lang="sl">Pustolovščine obutega mačka: Sezuti Kriki</title>
-  </programme>
-  <programme start="20220413145000 +0200" stop="20220413151500 +0200" channel="Minimax">
-    <title lang="sl">Pustolovščine obutega mačka: Mračna Zemlja</title>
-  </programme>
-  <programme start="20220413151500 +0200" stop="20220413154000 +0200" channel="Minimax">
-    <title lang="sl">Super ptička</title>
-  </programme>
-  <programme start="20220413154000 +0200" stop="20220413160000 +0200" channel="Minimax">
-    <title lang="sl">Super ptička</title>
-  </programme>
-  <programme start="20220413160000 +0200" stop="20220413162500 +0200" channel="Minimax">
-    <title lang="sl">Radovedni George</title>
-  </programme>
-  <programme start="20220413162500 +0200" stop="20220413165000 +0200" channel="Minimax">
-    <title lang="sl">Radovedni George</title>
-  </programme>
-  <programme start="20220413165000 +0200" stop="20220413171500 +0200" channel="Minimax">
-    <title lang="sl">Radovedni George</title>
-  </programme>
-  <programme start="20220413171500 +0200" stop="20220413173000 +0200" channel="Minimax">
-    <title lang="sl">Maša in medved</title>
-  </programme>
-  <programme start="20220413173000 +0200" stop="20220413175000 +0200" channel="Minimax">
-    <title lang="sl">100 odstotno volk: Legenda luninega kamna</title>
-  </programme>
-  <programme start="20220413175000 +0200" stop="20220413181500 +0200" channel="Minimax">
-    <title lang="sl">100 odstotno volk: Legenda luninega kamna</title>
-  </programme>
-  <programme start="20220413181500 +0200" stop="20220413183500 +0200" channel="Minimax">
-    <title lang="sl">Marsupilami</title>
-  </programme>
-  <programme start="20220413183500 +0200" stop="20220413190000 +0200" channel="Minimax">
-    <title lang="sl">Marsupilami</title>
-  </programme>
-  <programme start="20220413190000 +0200" stop="20220413192500 +0200" channel="Minimax">
-    <title lang="sl">Mali šef – spet v akciji</title>
-  </programme>
-  <programme start="20220413192500 +0200" stop="20220413195500 +0200" channel="Minimax">
-    <title lang="sl">Mali šef – spet v akciji</title>
-  </programme>
-  <programme start="20220413195500 +0200" stop="20220413200500 +0200" channel="Minimax">
-    <title lang="sl">Oswaldo</title>
-  </programme>
-  <programme start="20220413200500 +0200" stop="20220413202000 +0200" channel="Minimax">
-    <title lang="sl">Oswaldo</title>
-  </programme>
-  <programme start="20220413202000 +0200" stop="20220413204500 +0200" channel="Minimax">
-    <title lang="sl">Pet prijateljev rešuje primer: Primer o deskarju, ki je res nevljuden</title>
-  </programme>
-  <programme start="20220413204500 +0200" stop="20220413211000 +0200" channel="Minimax">
-    <title lang="sl">Ekipa Dronix</title>
-  </programme>
-  <programme start="20220413211000 +0200" stop="20220413213500 +0200" channel="Minimax">
-    <title lang="sl">Ekipa Dronix</title>
-  </programme>
-  <programme start="20220413213500 +0200" stop="20220413220000 +0200" channel="Minimax">
-    <title lang="sl">Zikova tablica</title>
-  </programme>
-  <programme start="20220413220000 +0200" stop="20220413222500 +0200" channel="Minimax">
-    <title lang="sl">Hitri in drzni: Vohunski dirkači</title>
-  </programme>
-  <programme start="20220413222500 +0200" stop="20220413225000 +0200" channel="Minimax">
-    <title lang="sl">Zorro</title>
-  </programme>
-  <programme start="20220413225000 +0200" stop="20220413231000 +0200" channel="Minimax">
-    <title lang="sl">Marsupilami</title>
-  </programme>
-  <programme start="20220413231000 +0200" stop="20220413233500 +0200" channel="Minimax">
-    <title lang="sl">Marsupilami</title>
-  </programme>
-  <programme start="20220413233500 +0200" stop="20220413234500 +0200" channel="Minimax">
-    <title lang="sl">Berry Bees - Čebelji klan</title>
-  </programme>
-  <programme start="20220413234500 +0200" stop="20220414000000 +0200" channel="Minimax">
-    <title lang="sl">Berry Bees - Čebelji klan</title>
   </programme>
   <programme start="20220414000000 +0200" stop="20220414001000 +0200" channel="Minimax">
     <title lang="sl">Govoreči Tom in prijatelji</title>
@@ -3379,126 +2738,6 @@
   <programme start="20220416233500 +0200" stop="20220416234500 +0200" channel="Minimax">
     <title lang="sl">Berry Bees - Čebelji klan</title>
   </programme>
-  <programme start="20220413013500 +0200" stop="20220413022500 +0200" channel="Motorvision TV HD">
-    <title lang="sl">Ferrari Challenge v Evropi: Dirkališče Automotodrom Brno, Češka</title>
-  </programme>
-  <programme start="20220413022500 +0200" stop="20220413031500 +0200" channel="Motorvision TV HD">
-    <title lang="sl">Extreme E vrhunci 2021: Dirka 3, Kangerlussuaq, Grenlandija</title>
-  </programme>
-  <programme start="20220413031500 +0200" stop="20220413041000 +0200" channel="Motorvision TV HD">
-    <title lang="sl">Vzdržljivostna serija GT Evropa: Dirkališče Autodromo Internazionale Enzo e Dino Ferrari, Monza, Italija</title>
-  </programme>
-  <programme start="20220413041000 +0200" stop="20220413045500 +0200" channel="Motorvision TV HD">
-    <title lang="sl">Prvenstvo IMSA WeatherTech SportsCar Championship: Rolex 24, mednarodno dirkališče Daytona</title>
-  </programme>
-  <programme start="20220413045500 +0200" stop="20220413055000 +0200" channel="Motorvision TV HD">
-    <title lang="sl">Evropska serija Le Mans: Dirkališče Circuit Paul Ricard, Le Castellet, Francija</title>
-  </programme>
-  <programme start="20220413055000 +0200" stop="20220413060000 +0200" channel="Motorvision TV HD">
-    <title lang="sl">Nesreča</title>
-  </programme>
-  <programme start="20220413060000 +0200" stop="20220413063000 +0200" channel="Motorvision TV HD">
-    <title lang="sl">4x4: Ekstremno terensko vozilo</title>
-  </programme>
-  <programme start="20220413063000 +0200" stop="20220413065500 +0200" channel="Motorvision TV HD">
-    <title lang="sl">Klasična vozila: Mobilnost v Vzhodni Evropi</title>
-  </programme>
-  <programme start="20220413065500 +0200" stop="20220413072000 +0200" channel="Motorvision TV HD">
-    <title lang="sl">Sanjski avtomobili: Velika Britanija</title>
-  </programme>
-  <programme start="20220413072000 +0200" stop="20220413074500 +0200" channel="Motorvision TV HD">
-    <title lang="sl">Extreme E: Električna odisejada</title>
-  </programme>
-  <programme start="20220413074500 +0200" stop="20220413083500 +0200" channel="Motorvision TV HD">
-    <title lang="sl">SRO E-Sport GT Series: Nurburgring, Nemčija</title>
-  </programme>
-  <programme start="20220413083500 +0200" stop="20220413085500 +0200" channel="Motorvision TV HD">
-    <title lang="sl">Mojstri za steze</title>
-  </programme>
-  <programme start="20220413085500 +0200" stop="20220413092000 +0200" channel="Motorvision TV HD">
-    <title lang="sl">Top 10: Najugodnejši hibridi</title>
-  </programme>
-  <programme start="20220413092000 +0200" stop="20220413094500 +0200" channel="Motorvision TV HD">
-    <title lang="sl">Superavtomobili: Športni terenci</title>
-  </programme>
-  <programme start="20220413094500 +0200" stop="20220413101000 +0200" channel="Motorvision TV HD">
-    <title lang="sl">Popolno vozilo: Turbodizelski motor</title>
-  </programme>
-  <programme start="20220413101000 +0200" stop="20220413103500 +0200" channel="Motorvision TV HD">
-    <title lang="sl">Vaš avto po TV-ju</title>
-  </programme>
-  <programme start="20220413103500 +0200" stop="20220413110500 +0200" channel="Motorvision TV HD">
-    <title lang="sl">Specialno: Izziv Racechip</title>
-  </programme>
-  <programme start="20220413110500 +0200" stop="20220413115500 +0200" channel="Motorvision TV HD">
-    <title lang="sl">Opaženi</title>
-  </programme>
-  <programme start="20220413115500 +0200" stop="20220413122000 +0200" channel="Motorvision TV HD">
-    <title lang="sl">4x4: Karavani s 4-kolesnim pogonom</title>
-  </programme>
-  <programme start="20220413122000 +0200" stop="20220413124500 +0200" channel="Motorvision TV HD">
-    <title lang="sl">Klasična vozila: 50 let Opla KAD</title>
-  </programme>
-  <programme start="20220413124500 +0200" stop="20220413131500 +0200" channel="Motorvision TV HD">
-    <title lang="sl">Sanjski avtomobili: Ameriški mišičnjaki</title>
-  </programme>
-  <programme start="20220413131500 +0200" stop="20220413134000 +0200" channel="Motorvision TV HD">
-    <title lang="sl">Extreme E: Električna odisejada</title>
-  </programme>
-  <programme start="20220413134000 +0200" stop="20220413142500 +0200" channel="Motorvision TV HD">
-    <title lang="sl">SRO E-Sport GT Series: Circuit de Spa-Francorchamps, Belgija</title>
-  </programme>
-  <programme start="20220413142500 +0200" stop="20220413145000 +0200" channel="Motorvision TV HD">
-    <title lang="sl">Svetovno prvenstvo FIM Enduro: Velika nagrada Mantove, Italija</title>
-  </programme>
-  <programme start="20220413145000 +0200" stop="20220413151500 +0200" channel="Motorvision TV HD">
-    <title lang="sl">FIM Trial Svetovno prvenstvo: Velika nagrada Velike Britanije, Tong</title>
-  </programme>
-  <programme start="20220413151500 +0200" stop="20220413154000 +0200" channel="Motorvision TV HD">
-    <title lang="sl">Svetovno prvenstvo FIM Superenduro: Velika nagrada Madžarske, Budimpešta</title>
-  </programme>
-  <programme start="20220413154000 +0200" stop="20220413160500 +0200" channel="Motorvision TV HD">
-    <title lang="sl">Svet motociklizma</title>
-  </programme>
-  <programme start="20220413160500 +0200" stop="20220413170000 +0200" channel="Motorvision TV HD">
-    <title lang="sl">Kralj cest: Scarborough Gold Cup</title>
-  </programme>
-  <programme start="20220413170000 +0200" stop="20220413180000 +0200" channel="Motorvision TV HD">
-    <title lang="sl">Prvenstvo AMA Enduro Cross</title>
-  </programme>
-  <programme start="20220413180000 +0200" stop="20220413182000 +0200" channel="Motorvision TV HD">
-    <title lang="sl">4x4: Srednje veliki terenci</title>
-  </programme>
-  <programme start="20220413182000 +0200" stop="20220413184500 +0200" channel="Motorvision TV HD">
-    <title lang="sl">Klasična vozila: Kabrioleti za izlet na podeželje</title>
-  </programme>
-  <programme start="20220413184500 +0200" stop="20220413191500 +0200" channel="Motorvision TV HD">
-    <title lang="sl">Sanjski avtomobili: E-avti</title>
-  </programme>
-  <programme start="20220413191500 +0200" stop="20220413194000 +0200" channel="Motorvision TV HD">
-    <title lang="sl">Extreme E: Električna odisejada</title>
-  </programme>
-  <programme start="20220413194000 +0200" stop="20220413202500 +0200" channel="Motorvision TV HD">
-    <title lang="sl">SRO E-Sport GT Series: Circuit de Barcelona-Catalunya, Španija</title>
-  </programme>
-  <programme start="20220413202500 +0200" stop="20220413211500 +0200" channel="Motorvision TV HD">
-    <title lang="sl">Avstralsko prvenstvo V8 Superboats: Griffith, Novi Južni Wales, 5. dirka</title>
-  </programme>
-  <programme start="20220413211500 +0200" stop="20220413220000 +0200" channel="Motorvision TV HD">
-    <title lang="sl">Prvenstvo New Zealand Jetsprint Championship: Waitara, Methanex Aquatrack Nova Zelandija</title>
-  </programme>
-  <programme start="20220413220000 +0200" stop="20220413224500 +0200" channel="Motorvision TV HD">
-    <title lang="sl">Prvenstvo P1 ZDA AquaX: Daytona Beach, Florida</title>
-  </programme>
-  <programme start="20220413224500 +0200" stop="20220413233000 +0200" channel="Motorvision TV HD">
-    <title lang="sl">Prvenstvo Uim Class 1 Powerboat: Sarasot Powerboat Grand Prix</title>
-  </programme>
-  <programme start="20220413233000 +0200" stop="20220413235500 +0200" channel="Motorvision TV HD">
-    <title lang="sl">Visokooktansko: Jet ski - svetovno prvenstvo</title>
-  </programme>
-  <programme start="20220413235500 +0200" stop="20220414002000 +0200" channel="Motorvision TV HD">
-    <title lang="sl">4x4: Karavani s 4-kolesnim pogonom</title>
-  </programme>
   <programme start="20220414002000 +0200" stop="20220414004500 +0200" channel="Motorvision TV HD">
     <title lang="sl">Klasična vozila: 50 let Opla KAD</title>
   </programme>
@@ -3898,75 +3137,6 @@
   <programme start="20220416230500 +0200" stop="20220416235500 +0200" channel="Motorvision TV HD">
     <title lang="sl">Special: Testna vožnja z Land Roverjem</title>
   </programme>
-  <programme start="20220413000000 +0200" stop="20220413005000 +0200" channel="NET TV">
-    <title lang="sl">Prevarantka</title>
-  </programme>
-  <programme start="20220413005000 +0200" stop="20220413014000 +0200" channel="NET TV">
-    <title lang="sl">Samra</title>
-  </programme>
-  <programme start="20220413014000 +0200" stop="20220413070000 +0200" channel="NET TV">
-    <title lang="sl">Nočni program</title>
-  </programme>
-  <programme start="20220413070000 +0200" stop="20220413080000 +0200" channel="NET TV">
-    <title lang="sl">Bogastvo zemlje</title>
-  </programme>
-  <programme start="20220413080000 +0200" stop="20220413090000 +0200" channel="NET TV">
-    <title lang="sl">TV Market</title>
-  </programme>
-  <programme start="20220413090000 +0200" stop="20220413093000 +0200" channel="NET TV">
-    <title lang="sl">Regionalno</title>
-  </programme>
-  <programme start="20220413093000 +0200" stop="20220413103000 +0200" channel="NET TV">
-    <title lang="sl">TV Market</title>
-  </programme>
-  <programme start="20220413103000 +0200" stop="20220413113000 +0200" channel="NET TV">
-    <title lang="sl">Prevarantka</title>
-  </programme>
-  <programme start="20220413113000 +0200" stop="20220413130000 +0200" channel="NET TV">
-    <title lang="sl">Državnozborske volitve 2022</title>
-  </programme>
-  <programme start="20220413130000 +0200" stop="20220413133000 +0200" channel="NET TV">
-    <title lang="sl">Regionalno</title>
-  </programme>
-  <programme start="20220413133000 +0200" stop="20220413140000 +0200" channel="NET TV">
-    <title lang="sl">TV Market</title>
-  </programme>
-  <programme start="20220413140000 +0200" stop="20220413150000 +0200" channel="NET TV">
-    <title lang="sl">Samra</title>
-  </programme>
-  <programme start="20220413150000 +0200" stop="20220413160000 +0200" channel="NET TV">
-    <title lang="sl">To je bil moj čas</title>
-  </programme>
-  <programme start="20220413160000 +0200" stop="20220413173000 +0200" channel="NET TV">
-    <title lang="sl">TV Market</title>
-  </programme>
-  <programme start="20220413173000 +0200" stop="20220413183000 +0200" channel="NET TV">
-    <title lang="sl">Prevarantka</title>
-  </programme>
-  <programme start="20220413183000 +0200" stop="20220413190000 +0200" channel="NET TV">
-    <title lang="sl">Regionalno</title>
-  </programme>
-  <programme start="20220413190000 +0200" stop="20220413193000 +0200" channel="NET TV">
-    <title lang="sl">Slovenski video Coctail</title>
-  </programme>
-  <programme start="20220413193000 +0200" stop="20220413210000 +0200" channel="NET TV">
-    <title lang="sl">Narava zdravi</title>
-  </programme>
-  <programme start="20220413210000 +0200" stop="20220413220000 +0200" channel="NET TV">
-    <title lang="sl">Narava zdravi tržnica</title>
-  </programme>
-  <programme start="20220413220000 +0200" stop="20220413223000 +0200" channel="NET TV">
-    <title lang="sl">Regionalno</title>
-  </programme>
-  <programme start="20220413223000 +0200" stop="20220413233000 +0200" channel="NET TV">
-    <title lang="sl">To je bil moj čas</title>
-  </programme>
-  <programme start="20220413233000 +0200" stop="20220413235000 +0200" channel="NET TV">
-    <title lang="sl">Domči #zidasvojdomči</title>
-  </programme>
-  <programme start="20220413235000 +0200" stop="20220414004000 +0200" channel="NET TV">
-    <title lang="sl">Prevarantka</title>
-  </programme>
   <programme start="20220414004000 +0200" stop="20220414013000 +0200" channel="NET TV">
     <title lang="sl">Samra</title>
   </programme>
@@ -4162,167 +3332,20 @@
   <programme start="20220416222500 +0200" stop="20220416232500 +0200" channel="NET TV">
     <title lang="sl">Kandidat: Franc Kangler</title>
   </programme>
-  <programme start="20220413000000 +0200" stop="20220413001500 +0200" channel="NTV IC Kakanj">
-    <title lang="sl">Poročila IC</title>
-  </programme>
-  <programme start="20220413001500 +0200" stop="20220413002000 +0200" channel="NTV IC Kakanj">
-    <title lang="sl">Vremenska napoved</title>
-  </programme>
-  <programme start="20220413002000 +0200" stop="20220413014000 +0200" channel="NTV IC Kakanj">
-    <title lang="sl">Serija</title>
-  </programme>
-  <programme start="20220413014000 +0200" stop="20220413020000 +0200" channel="NTV IC Kakanj">
-    <title lang="sl">O vi koji vjerujete, ramazanski program</title>
-  </programme>
-  <programme start="20220413020000 +0200" stop="20220413032000 +0200" channel="NTV IC Kakanj">
-    <title lang="sl">TV Mukabela</title>
-  </programme>
-  <programme start="20220413032000 +0200" stop="20220413033000 +0200" channel="NTV IC Kakanj">
-    <title lang="sl">Džamije Mimara Sinana</title>
-  </programme>
-  <programme start="20220413033000 +0200" stop="20220413040000 +0200" channel="NTV IC Kakanj">
-    <title lang="sl">Koranova oaza</title>
-  </programme>
-  <programme start="20220413040000 +0200" stop="20220413044000 +0200" channel="NTV IC Kakanj">
-    <title lang="sl">Sehurski program</title>
-  </programme>
-  <programme start="20220413044000 +0200" stop="20220413044500 +0200" channel="NTV IC Kakanj">
-    <title lang="sl">Začetek posta v Kaknju</title>
-  </programme>
-  <programme start="20220413044500 +0200" stop="20220413054000 +0200" channel="NTV IC Kakanj">
-    <title lang="sl">TV Mukabela</title>
-  </programme>
-  <programme start="20220413054000 +0200" stop="20220413085500 +0200" channel="NTV IC Kakanj">
-    <title lang="sl">Odjava programa</title>
-  </programme>
-  <programme start="20220413085500 +0200" stop="20220413090000 +0200" channel="NTV IC Kakanj">
-    <title lang="sl">Himna BiH</title>
-  </programme>
-  <programme start="20220413090000 +0200" stop="20220413100000 +0200" channel="NTV IC Kakanj">
-    <title lang="sl">TV Mukabela</title>
-  </programme>
-  <programme start="20220413100000 +0200" stop="20220413101200 +0200" channel="NTV IC Kakanj">
-    <title lang="sl">TV SUFARA, razamanski program</title>
-  </programme>
-  <programme start="20220413101200 +0200" stop="20220413101500 +0200" channel="NTV IC Kakanj">
-    <title lang="sl">Šola Kur’ana Travnik</title>
-  </programme>
-  <programme start="20220413101500 +0200" stop="20220413110000 +0200" channel="NTV IC Kakanj">
-    <title lang="sl">Hazreti Omer</title>
-  </programme>
-  <programme start="20220413110000 +0200" stop="20220413113000 +0200" channel="NTV IC Kakanj">
-    <title lang="sl">O vi koji vjerujete, ramazanski program</title>
-  </programme>
-  <programme start="20220413113000 +0200" stop="20220413115800 +0200" channel="NTV IC Kakanj">
-    <title lang="sl">Sultani srca</title>
-  </programme>
-  <programme start="20220413115800 +0200" stop="20220413120000 +0200" channel="NTV IC Kakanj">
-    <title lang="sl">Mali oglasi</title>
-  </programme>
-  <programme start="20220413120000 +0200" stop="20220413133000 +0200" channel="NTV IC Kakanj">
-    <title lang="sl">Serija</title>
-  </programme>
-  <programme start="20220413133000 +0200" stop="20220413134500 +0200" channel="NTV IC Kakanj">
-    <title lang="sl">Svetloba Kandilj, ramazanski program</title>
-  </programme>
-  <programme start="20220413134500 +0200" stop="20220413140000 +0200" channel="NTV IC Kakanj">
-    <title lang="sl">TV SUFARA, razamanski program</title>
-  </programme>
-  <programme start="20220413140000 +0200" stop="20220413150000 +0200" channel="NTV IC Kakanj">
-    <title lang="sl">TV Mukabela</title>
-  </programme>
-  <programme start="20220413150000 +0200" stop="20220413160000 +0200" channel="NTV IC Kakanj">
-    <title lang="sl">Hazreti Merjem</title>
-  </programme>
-  <programme start="20220413160000 +0200" stop="20220413163000 +0200" channel="NTV IC Kakanj">
-    <title lang="sl">Sultani srca</title>
-  </programme>
-  <programme start="20220413163000 +0200" stop="20220413165800 +0200" channel="NTV IC Kakanj">
-    <title lang="sl">Utrdbe v BiH: Staro mesto Jajce</title>
-  </programme>
-  <programme start="20220413165800 +0200" stop="20220413170000 +0200" channel="NTV IC Kakanj">
-    <title lang="sl">Mali oglasi</title>
-  </programme>
-  <programme start="20220413170000 +0200" stop="20220413170500 +0200" channel="NTV IC Kakanj">
-    <title lang="sl">Flash poročila</title>
-  </programme>
-  <programme start="20220413170500 +0200" stop="20220413173000 +0200" channel="NTV IC Kakanj">
-    <title lang="sl">Marketing</title>
-  </programme>
-  <programme start="20220413173000 +0200" stop="20220413174500 +0200" channel="NTV IC Kakanj">
-    <title lang="sl">Najlepši vzor, ramazanski program</title>
-  </programme>
-  <programme start="20220413174500 +0200" stop="20220413180000 +0200" channel="NTV IC Kakanj">
-    <title lang="sl">On je Alah, ramazanski program</title>
-  </programme>
-  <programme start="20220413180000 +0200" stop="20220413184200 +0200" channel="NTV IC Kakanj">
-    <title lang="sl">Hazreti Omer</title>
-  </programme>
-  <programme start="20220413184200 +0200" stop="20220413184500 +0200" channel="NTV IC Kakanj">
-    <title lang="sl">Mali oglasi</title>
-  </programme>
-  <programme start="20220413184500 +0200" stop="20220413192200 +0200" channel="NTV IC Kakanj">
-    <title lang="sl">Ramazan, mesec milosti, prediftarski program</title>
-  </programme>
-  <programme start="20220413192200 +0200" stop="20220413192500 +0200" channel="NTV IC Kakanj">
-    <title lang="sl">Čas iftarja v Kaknju</title>
-  </programme>
-  <programme start="20220413192500 +0200" stop="20220413193000 +0200" channel="NTV IC Kakanj">
-    <title lang="sl">Marketing</title>
-  </programme>
-  <programme start="20220413193000 +0200" stop="20220413193400 +0200" channel="NTV IC Kakanj">
-    <title lang="sl">Predah ob iftarju</title>
-  </programme>
-  <programme start="20220413193400 +0200" stop="20220413193500 +0200" channel="NTV IC Kakanj">
-    <title lang="sl">Marketing</title>
-  </programme>
-  <programme start="20220413193500 +0200" stop="20220413195000 +0200" channel="NTV IC Kakanj">
-    <title lang="sl">Poročila IC</title>
-  </programme>
-  <programme start="20220413195000 +0200" stop="20220413202500 +0200" channel="NTV IC Kakanj">
-    <title lang="sl">Marketing</title>
-  </programme>
-  <programme start="20220413202500 +0200" stop="20220413205500 +0200" channel="NTV IC Kakanj">
-    <title lang="sl">Akra</title>
-  </programme>
-  <programme start="20220413205500 +0200" stop="20220413210000 +0200" channel="NTV IC Kakanj">
-    <title lang="sl">Marketing</title>
-  </programme>
-  <programme start="20220413210000 +0200" stop="20220413214500 +0200" channel="NTV IC Kakanj">
-    <title lang="sl">Hazreti Omer</title>
-  </programme>
-  <programme start="20220413214500 +0200" stop="20220413215800 +0200" channel="NTV IC Kakanj">
-    <title lang="sl">Z ljubljenim, ramazanski program</title>
-  </programme>
-  <programme start="20220413215800 +0200" stop="20220413220000 +0200" channel="NTV IC Kakanj">
-    <title lang="sl">Mali oglasi</title>
-  </programme>
-  <programme start="20220413220000 +0200" stop="20220413222000 +0200" channel="NTV IC Kakanj">
-    <title lang="sl">Marketing</title>
-  </programme>
-  <programme start="20220413222000 +0200" stop="20220413223000 +0200" channel="NTV IC Kakanj">
-    <title lang="sl">Kdo smo Bošnjaki, ramazanski program</title>
-  </programme>
-  <programme start="20220413223000 +0200" stop="20220413230000 +0200" channel="NTV IC Kakanj">
-    <title lang="sl">Sultani srca</title>
-  </programme>
-  <programme start="20220413230000 +0200" stop="20220414000000 +0200" channel="NTV IC Kakanj">
-    <title lang="sl">Hazreti Merjem</title>
-  </programme>
   <programme start="20220414000000 +0200" stop="20220414001500 +0200" channel="NTV IC Kakanj">
     <title lang="sl">Poročila IC</title>
   </programme>
   <programme start="20220414001500 +0200" stop="20220414002000 +0200" channel="NTV IC Kakanj">
     <title lang="sl">Vremenska napoved</title>
   </programme>
-  <programme start="20220414002000 +0200" stop="20220414020000 +0200" channel="NTV IC Kakanj">
+  <programme start="20220414002000 +0200" stop="20220414014000 +0200" channel="NTV IC Kakanj">
     <title lang="sl">Serija</title>
   </programme>
-  <programme start="20220414020000 +0200" stop="20220414031000 +0200" channel="NTV IC Kakanj">
-    <title lang="sl">TV Mukabela</title>
+  <programme start="20220414014000 +0200" stop="20220414020000 +0200" channel="NTV IC Kakanj">
+    <title lang="sl">O vi koji vjerujete, ramazanski program</title>
   </programme>
-  <programme start="20220414031000 +0200" stop="20220414032000 +0200" channel="NTV IC Kakanj">
-    <title lang="sl">Sužnji usmiljenega, ramazanski program</title>
+  <programme start="20220414020000 +0200" stop="20220414032000 +0200" channel="NTV IC Kakanj">
+    <title lang="sl">TV Mukabela</title>
   </programme>
   <programme start="20220414032000 +0200" stop="20220414033000 +0200" channel="NTV IC Kakanj">
     <title lang="sl">Džamije Mimara Sinana</title>
@@ -4366,11 +3389,8 @@
   <programme start="20220414115800 +0200" stop="20220414120000 +0200" channel="NTV IC Kakanj">
     <title lang="sl">Mali oglasi</title>
   </programme>
-  <programme start="20220414120000 +0200" stop="20220414132000 +0200" channel="NTV IC Kakanj">
+  <programme start="20220414120000 +0200" stop="20220414133000 +0200" channel="NTV IC Kakanj">
     <title lang="sl">Serija</title>
-  </programme>
-  <programme start="20220414132000 +0200" stop="20220414133000 +0200" channel="NTV IC Kakanj">
-    <title lang="sl">Sužnji usmiljenega, ramazanski program</title>
   </programme>
   <programme start="20220414133000 +0200" stop="20220414134500 +0200" channel="NTV IC Kakanj">
     <title lang="sl">Svetloba Kandilj, ramazanski program</title>
@@ -4388,7 +3408,7 @@
     <title lang="sl">Sultani srca</title>
   </programme>
   <programme start="20220414163000 +0200" stop="20220414165800 +0200" channel="NTV IC Kakanj">
-    <title lang="sl">Akra</title>
+    <title lang="sl">Utrdbe v BiH: Staro mesto Jajce</title>
   </programme>
   <programme start="20220414165800 +0200" stop="20220414170000 +0200" channel="NTV IC Kakanj">
     <title lang="sl">Mali oglasi</title>
@@ -4457,7 +3477,7 @@
     <title lang="sl">Sultani srca</title>
   </programme>
   <programme start="20220414230000 +0200" stop="20220415000000 +0200" channel="NTV IC Kakanj">
-    <title lang="sl">Alija Izetbegović</title>
+    <title lang="sl">Hazreti Merjem</title>
   </programme>
   <programme start="20220415000000 +0200" stop="20220415001500 +0200" channel="NTV IC Kakanj">
     <title lang="sl">Poročila IC</title>
@@ -4465,17 +3485,17 @@
   <programme start="20220415001500 +0200" stop="20220415002000 +0200" channel="NTV IC Kakanj">
     <title lang="sl">Vremenska napoved</title>
   </programme>
-  <programme start="20220415002000 +0200" stop="20220415015000 +0200" channel="NTV IC Kakanj">
+  <programme start="20220415002000 +0200" stop="20220415020000 +0200" channel="NTV IC Kakanj">
     <title lang="sl">Serija</title>
   </programme>
-  <programme start="20220415015000 +0200" stop="20220415020000 +0200" channel="NTV IC Kakanj">
-    <title lang="sl">Sužnji usmiljenega, ramazanski program</title>
-  </programme>
-  <programme start="20220415020000 +0200" stop="20220415030500 +0200" channel="NTV IC Kakanj">
+  <programme start="20220415020000 +0200" stop="20220415031000 +0200" channel="NTV IC Kakanj">
     <title lang="sl">TV Mukabela</title>
   </programme>
-  <programme start="20220415030500 +0200" stop="20220415033000 +0200" channel="NTV IC Kakanj">
-    <title lang="sl">O vi koji vjerujete, ramazanski program</title>
+  <programme start="20220415031000 +0200" stop="20220415032000 +0200" channel="NTV IC Kakanj">
+    <title lang="sl">Sužnji usmiljenega, ramazanski program</title>
+  </programme>
+  <programme start="20220415032000 +0200" stop="20220415033000 +0200" channel="NTV IC Kakanj">
+    <title lang="sl">Džamije Mimara Sinana</title>
   </programme>
   <programme start="20220415033000 +0200" stop="20220415040000 +0200" channel="NTV IC Kakanj">
     <title lang="sl">Koranova oaza</title>
@@ -4489,41 +3509,155 @@
   <programme start="20220415044500 +0200" stop="20220415054000 +0200" channel="NTV IC Kakanj">
     <title lang="sl">TV Mukabela</title>
   </programme>
-  <programme start="20220413000000 +0200" stop="20220413020000 +0200" channel="Narodna TV">
-    <title lang="sl">Glasbeni spoti</title>
+  <programme start="20220415054000 +0200" stop="20220415085500 +0200" channel="NTV IC Kakanj">
+    <title lang="sl">Odjava programa</title>
   </programme>
-  <programme start="20220413020000 +0200" stop="20220413040000 +0200" channel="Narodna TV">
-    <title lang="sl">Glasbeni spoti</title>
+  <programme start="20220415085500 +0200" stop="20220415090000 +0200" channel="NTV IC Kakanj">
+    <title lang="sl">Himna BiH</title>
   </programme>
-  <programme start="20220413040000 +0200" stop="20220413060000 +0200" channel="Narodna TV">
-    <title lang="sl">Glasbeni spoti</title>
+  <programme start="20220415090000 +0200" stop="20220415100000 +0200" channel="NTV IC Kakanj">
+    <title lang="sl">TV Mukabela</title>
   </programme>
-  <programme start="20220413060000 +0200" stop="20220413080000 +0200" channel="Narodna TV">
-    <title lang="sl">Glasbeni spoti</title>
+  <programme start="20220415100000 +0200" stop="20220415101200 +0200" channel="NTV IC Kakanj">
+    <title lang="sl">TV SUFARA, razamanski program</title>
   </programme>
-  <programme start="20220413080000 +0200" stop="20220413100000 +0200" channel="Narodna TV">
-    <title lang="sl">Glasbeni spoti</title>
+  <programme start="20220415101200 +0200" stop="20220415101500 +0200" channel="NTV IC Kakanj">
+    <title lang="sl">Šola Kur’ana Travnik</title>
   </programme>
-  <programme start="20220413100000 +0200" stop="20220413120000 +0200" channel="Narodna TV">
-    <title lang="sl">Glasbeni spoti</title>
+  <programme start="20220415101500 +0200" stop="20220415110000 +0200" channel="NTV IC Kakanj">
+    <title lang="sl">Hazreti Omer</title>
   </programme>
-  <programme start="20220413120000 +0200" stop="20220413140000 +0200" channel="Narodna TV">
-    <title lang="sl">Glasbeni spoti</title>
+  <programme start="20220415110000 +0200" stop="20220415113000 +0200" channel="NTV IC Kakanj">
+    <title lang="sl">O vi koji vjerujete, ramazanski program</title>
   </programme>
-  <programme start="20220413140000 +0200" stop="20220413160000 +0200" channel="Narodna TV">
-    <title lang="sl">Glasbeni spoti</title>
+  <programme start="20220415113000 +0200" stop="20220415115800 +0200" channel="NTV IC Kakanj">
+    <title lang="sl">Sultani srca</title>
   </programme>
-  <programme start="20220413160000 +0200" stop="20220413180000 +0200" channel="Narodna TV">
-    <title lang="sl">Glasbeni spoti</title>
+  <programme start="20220415115800 +0200" stop="20220415120000 +0200" channel="NTV IC Kakanj">
+    <title lang="sl">Mali oglasi</title>
   </programme>
-  <programme start="20220413180000 +0200" stop="20220413200000 +0200" channel="Narodna TV">
-    <title lang="sl">Glasbeni spoti</title>
+  <programme start="20220415120000 +0200" stop="20220415132000 +0200" channel="NTV IC Kakanj">
+    <title lang="sl">Serija</title>
   </programme>
-  <programme start="20220413200000 +0200" stop="20220413220000 +0200" channel="Narodna TV">
-    <title lang="sl">Glasbeni spoti</title>
+  <programme start="20220415132000 +0200" stop="20220415133000 +0200" channel="NTV IC Kakanj">
+    <title lang="sl">Sužnji usmiljenega, ramazanski program</title>
   </programme>
-  <programme start="20220413220000 +0200" stop="20220414000000 +0200" channel="Narodna TV">
-    <title lang="sl">Glasbeni spoti</title>
+  <programme start="20220415133000 +0200" stop="20220415134500 +0200" channel="NTV IC Kakanj">
+    <title lang="sl">Svetloba Kandilj, ramazanski program</title>
+  </programme>
+  <programme start="20220415134500 +0200" stop="20220415140000 +0200" channel="NTV IC Kakanj">
+    <title lang="sl">TV SUFARA, razamanski program</title>
+  </programme>
+  <programme start="20220415140000 +0200" stop="20220415150000 +0200" channel="NTV IC Kakanj">
+    <title lang="sl">TV Mukabela</title>
+  </programme>
+  <programme start="20220415150000 +0200" stop="20220415160000 +0200" channel="NTV IC Kakanj">
+    <title lang="sl">Hazreti Merjem</title>
+  </programme>
+  <programme start="20220415160000 +0200" stop="20220415163000 +0200" channel="NTV IC Kakanj">
+    <title lang="sl">Sultani srca</title>
+  </programme>
+  <programme start="20220415163000 +0200" stop="20220415165800 +0200" channel="NTV IC Kakanj">
+    <title lang="sl">Akra</title>
+  </programme>
+  <programme start="20220415165800 +0200" stop="20220415170000 +0200" channel="NTV IC Kakanj">
+    <title lang="sl">Mali oglasi</title>
+  </programme>
+  <programme start="20220415170000 +0200" stop="20220415170500 +0200" channel="NTV IC Kakanj">
+    <title lang="sl">Flash poročila</title>
+  </programme>
+  <programme start="20220415170500 +0200" stop="20220415173000 +0200" channel="NTV IC Kakanj">
+    <title lang="sl">Marketing</title>
+  </programme>
+  <programme start="20220415173000 +0200" stop="20220415174500 +0200" channel="NTV IC Kakanj">
+    <title lang="sl">Najlepši vzor, ramazanski program</title>
+  </programme>
+  <programme start="20220415174500 +0200" stop="20220415180000 +0200" channel="NTV IC Kakanj">
+    <title lang="sl">On je Alah, ramazanski program</title>
+  </programme>
+  <programme start="20220415180000 +0200" stop="20220415184200 +0200" channel="NTV IC Kakanj">
+    <title lang="sl">Hazreti Omer</title>
+  </programme>
+  <programme start="20220415184200 +0200" stop="20220415184500 +0200" channel="NTV IC Kakanj">
+    <title lang="sl">Mali oglasi</title>
+  </programme>
+  <programme start="20220415184500 +0200" stop="20220415192200 +0200" channel="NTV IC Kakanj">
+    <title lang="sl">Ramazan, mesec milosti, prediftarski program</title>
+  </programme>
+  <programme start="20220415192200 +0200" stop="20220415192500 +0200" channel="NTV IC Kakanj">
+    <title lang="sl">Čas iftarja v Kaknju</title>
+  </programme>
+  <programme start="20220415192500 +0200" stop="20220415193000 +0200" channel="NTV IC Kakanj">
+    <title lang="sl">Marketing</title>
+  </programme>
+  <programme start="20220415193000 +0200" stop="20220415193400 +0200" channel="NTV IC Kakanj">
+    <title lang="sl">Predah ob iftarju</title>
+  </programme>
+  <programme start="20220415193400 +0200" stop="20220415193500 +0200" channel="NTV IC Kakanj">
+    <title lang="sl">Marketing</title>
+  </programme>
+  <programme start="20220415193500 +0200" stop="20220415195000 +0200" channel="NTV IC Kakanj">
+    <title lang="sl">Poročila IC</title>
+  </programme>
+  <programme start="20220415195000 +0200" stop="20220415202500 +0200" channel="NTV IC Kakanj">
+    <title lang="sl">Marketing</title>
+  </programme>
+  <programme start="20220415202500 +0200" stop="20220415205500 +0200" channel="NTV IC Kakanj">
+    <title lang="sl">Akra</title>
+  </programme>
+  <programme start="20220415205500 +0200" stop="20220415210000 +0200" channel="NTV IC Kakanj">
+    <title lang="sl">Marketing</title>
+  </programme>
+  <programme start="20220415210000 +0200" stop="20220415214500 +0200" channel="NTV IC Kakanj">
+    <title lang="sl">Hazreti Omer</title>
+  </programme>
+  <programme start="20220415214500 +0200" stop="20220415215800 +0200" channel="NTV IC Kakanj">
+    <title lang="sl">Z ljubljenim, ramazanski program</title>
+  </programme>
+  <programme start="20220415215800 +0200" stop="20220415220000 +0200" channel="NTV IC Kakanj">
+    <title lang="sl">Mali oglasi</title>
+  </programme>
+  <programme start="20220415220000 +0200" stop="20220415222000 +0200" channel="NTV IC Kakanj">
+    <title lang="sl">Marketing</title>
+  </programme>
+  <programme start="20220415222000 +0200" stop="20220415223000 +0200" channel="NTV IC Kakanj">
+    <title lang="sl">Kdo smo Bošnjaki, ramazanski program</title>
+  </programme>
+  <programme start="20220415223000 +0200" stop="20220415230000 +0200" channel="NTV IC Kakanj">
+    <title lang="sl">Sultani srca</title>
+  </programme>
+  <programme start="20220415230000 +0200" stop="20220416000000 +0200" channel="NTV IC Kakanj">
+    <title lang="sl">Alija Izetbegović</title>
+  </programme>
+  <programme start="20220416000000 +0200" stop="20220416001500 +0200" channel="NTV IC Kakanj">
+    <title lang="sl">Poročila IC</title>
+  </programme>
+  <programme start="20220416001500 +0200" stop="20220416002000 +0200" channel="NTV IC Kakanj">
+    <title lang="sl">Vremenska napoved</title>
+  </programme>
+  <programme start="20220416002000 +0200" stop="20220416015000 +0200" channel="NTV IC Kakanj">
+    <title lang="sl">Serija</title>
+  </programme>
+  <programme start="20220416015000 +0200" stop="20220416020000 +0200" channel="NTV IC Kakanj">
+    <title lang="sl">Sužnji usmiljenega, ramazanski program</title>
+  </programme>
+  <programme start="20220416020000 +0200" stop="20220416030500 +0200" channel="NTV IC Kakanj">
+    <title lang="sl">TV Mukabela</title>
+  </programme>
+  <programme start="20220416030500 +0200" stop="20220416033000 +0200" channel="NTV IC Kakanj">
+    <title lang="sl">O vi koji vjerujete, ramazanski program</title>
+  </programme>
+  <programme start="20220416033000 +0200" stop="20220416040000 +0200" channel="NTV IC Kakanj">
+    <title lang="sl">Koranova oaza</title>
+  </programme>
+  <programme start="20220416040000 +0200" stop="20220416044000 +0200" channel="NTV IC Kakanj">
+    <title lang="sl">Sehurski program</title>
+  </programme>
+  <programme start="20220416044000 +0200" stop="20220416044500 +0200" channel="NTV IC Kakanj">
+    <title lang="sl">Začetek posta v Kaknju</title>
+  </programme>
+  <programme start="20220416044500 +0200" stop="20220416054000 +0200" channel="NTV IC Kakanj">
+    <title lang="sl">TV Mukabela</title>
   </programme>
   <programme start="20220414000000 +0200" stop="20220414020000 +0200" channel="Narodna TV">
     <title lang="sl">Glasbeni spoti</title>
