@@ -81,6 +81,7 @@
   </channel>
   <channel id="VOX">
     <display-name lang="sl">VOX</display-name>
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/vox.png" />
     <url>http://www.siol.net</url>
   </channel>
   <channel id="Viasat Explore">
@@ -93,87 +94,6 @@
     <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/history_updated1222130850.png" />
     <url>http://www.siol.net</url>
   </channel>
-  <programme start="20221116003000 +0100" stop="20221116074500 +0100" channel="TV3 Medias">
-    <title lang="sl">Glasbeni utrip</title>
-  </programme>
-  <programme start="20221116074500 +0100" stop="20221116080000 +0100" channel="TV3 Medias">
-    <title lang="sl">TV prodaja</title>
-  </programme>
-  <programme start="20221116080000 +0100" stop="20221116083000 +0100" channel="TV3 Medias">
-    <title lang="sl">Sanjsko moštvo</title>
-  </programme>
-  <programme start="20221116083000 +0100" stop="20221116093000 +0100" channel="TV3 Medias">
-    <title lang="sl">Vaše zdravje, naša skrb</title>
-  </programme>
-  <programme start="20221116093000 +0100" stop="20221116094500 +0100" channel="TV3 Medias">
-    <title lang="sl">TV prodaja</title>
-  </programme>
-  <programme start="20221116094500 +0100" stop="20221116100000 +0100" channel="TV3 Medias">
-    <title lang="sl">TOP 4</title>
-  </programme>
-  <programme start="20221116100000 +0100" stop="20221116103000 +0100" channel="TV3 Medias">
-    <title lang="sl">TV prodaja</title>
-  </programme>
-  <programme start="20221116103000 +0100" stop="20221116111500 +0100" channel="TV3 Medias">
-    <title lang="sl">Klepet ob kavi</title>
-  </programme>
-  <programme start="20221116111500 +0100" stop="20221116113000 +0100" channel="TV3 Medias">
-    <title lang="sl">TV prodaja</title>
-  </programme>
-  <programme start="20221116113000 +0100" stop="20221116121500 +0100" channel="TV3 Medias">
-    <title lang="sl">Faktor</title>
-  </programme>
-  <programme start="20221116121500 +0100" stop="20221116123000 +0100" channel="TV3 Medias">
-    <title lang="sl">TV prodaja</title>
-  </programme>
-  <programme start="20221116123000 +0100" stop="20221116133000 +0100" channel="TV3 Medias">
-    <title lang="sl">Potovalni vodniki: Bologna</title>
-  </programme>
-  <programme start="20221116133000 +0100" stop="20221116143000 +0100" channel="TV3 Medias">
-    <title lang="sl">Vaše zdravje, naša skrb</title>
-  </programme>
-  <programme start="20221116143000 +0100" stop="20221116145000 +0100" channel="TV3 Medias">
-    <title lang="sl">Zlati ključi: Mislinja</title>
-  </programme>
-  <programme start="20221116145000 +0100" stop="20221116150000 +0100" channel="TV3 Medias">
-    <title lang="sl">TV prodaja</title>
-  </programme>
-  <programme start="20221116150000 +0100" stop="20221116154000 +0100" channel="TV3 Medias">
-    <title lang="sl">Parada plesa: ImPulsTanz 2021</title>
-  </programme>
-  <programme start="20221116154000 +0100" stop="20221116163000 +0100" channel="TV3 Medias">
-    <title lang="sl">Specialna enota Dunaj</title>
-  </programme>
-  <programme start="20221116163000 +0100" stop="20221116173000 +0100" channel="TV3 Medias">
-    <title lang="sl">Vaše zdravje, naša skrb</title>
-  </programme>
-  <programme start="20221116173000 +0100" stop="20221116180000 +0100" channel="TV3 Medias">
-    <title lang="sl">TOP 4</title>
-  </programme>
-  <programme start="20221116180000 +0100" stop="20221116185000 +0100" channel="TV3 Medias">
-    <title lang="sl">Klepet ob kavi</title>
-  </programme>
-  <programme start="20221116185000 +0100" stop="20221116191500 +0100" channel="TV3 Medias">
-    <title lang="sl">Kdor zna, zna</title>
-  </programme>
-  <programme start="20221116191500 +0100" stop="20221116200000 +0100" channel="TV3 Medias">
-    <title lang="sl">Faktor</title>
-  </programme>
-  <programme start="20221116200000 +0100" stop="20221116210000 +0100" channel="TV3 Medias">
-    <title lang="sl">Specialna enota Dunaj</title>
-  </programme>
-  <programme start="20221116210000 +0100" stop="20221116213000 +0100" channel="TV3 Medias">
-    <title lang="sl">Zlati ključi: Mislinja</title>
-  </programme>
-  <programme start="20221116213000 +0100" stop="20221116223000 +0100" channel="TV3 Medias">
-    <title lang="sl">Potovalni vodniki</title>
-  </programme>
-  <programme start="20221116223000 +0100" stop="20221116234500 +0100" channel="TV3 Medias">
-    <title lang="sl">Vedeževalec Blaž</title>
-  </programme>
-  <programme start="20221116234500 +0100" stop="20221117003000 +0100" channel="TV3 Medias">
-    <title lang="sl">Faktor</title>
-  </programme>
   <programme start="20221117003000 +0100" stop="20221117074500 +0100" channel="TV3 Medias">
     <title lang="sl">Glasbeni utrip</title>
   </programme>
@@ -396,122 +316,71 @@
   <programme start="20221119213500 +0100" stop="20221119224500 +0100" channel="TV3 Medias">
     <title lang="sl">Vinilni časi</title>
   </programme>
-  <programme start="20221116011000 +0100" stop="20221116014500 +0100" channel="TV5MONDE">
-    <title lang="sl">Novice iz Afrike</title>
+  <programme start="20221119224500 +0100" stop="20221120002000 +0100" channel="TV3 Medias">
+    <title lang="sl">Warren</title>
   </programme>
-  <programme start="20221116014500 +0100" stop="20221116024000 +0100" channel="TV5MONDE">
-    <title lang="sl">Pika</title>
+  <programme start="20221120002000 +0100" stop="20221120010000 +0100" channel="TV3 Medias">
+    <title lang="sl">Faktor</title>
   </programme>
-  <programme start="20221116024000 +0100" stop="20221116033000 +0100" channel="TV5MONDE">
-    <title lang="sl">Dedinje</title>
+  <programme start="20221120010000 +0100" stop="20221120093500 +0100" channel="TV3 Medias">
+    <title lang="sl">Glasbeni utrip</title>
   </programme>
-  <programme start="20221116033000 +0100" stop="20221116040000 +0100" channel="TV5MONDE">
-    <title lang="sl">Šik</title>
+  <programme start="20221120093500 +0100" stop="20221120101500 +0100" channel="TV3 Medias">
+    <title lang="sl">Faktor</title>
   </programme>
-  <programme start="20221116040000 +0100" stop="20221116042500 +0100" channel="TV5MONDE">
-    <title lang="sl">Skrivnosti ljubezni</title>
+  <programme start="20221120101500 +0100" stop="20221120103000 +0100" channel="TV3 Medias">
+    <title lang="sl">TV prodaja</title>
   </programme>
-  <programme start="20221116042500 +0100" stop="20221116053000 +0100" channel="TV5MONDE">
-    <title lang="sl">V zraku</title>
+  <programme start="20221120103000 +0100" stop="20221120113000 +0100" channel="TV3 Medias">
+    <title lang="sl">Vaše zdravje, naša skrb</title>
   </programme>
-  <programme start="20221116053000 +0100" stop="20221116060000 +0100" channel="TV5MONDE">
-    <title lang="sl">Wari</title>
+  <programme start="20221120113000 +0100" stop="20221120114500 +0100" channel="TV3 Medias">
+    <title lang="sl">TV prodaja</title>
   </programme>
-  <programme start="20221116060000 +0100" stop="20221116063000 +0100" channel="TV5MONDE">
-    <title lang="sl">Novice ob 6. uri</title>
+  <programme start="20221120114500 +0100" stop="20221120121500 +0100" channel="TV3 Medias">
+    <title lang="sl">Na kavi z Giannijem</title>
   </programme>
-  <programme start="20221116063000 +0100" stop="20221116070000 +0100" channel="TV5MONDE">
-    <title lang="sl">Dobro jutro</title>
+  <programme start="20221120121500 +0100" stop="20221120123000 +0100" channel="TV3 Medias">
+    <title lang="sl">TV prodaja</title>
   </programme>
-  <programme start="20221116070000 +0100" stop="20221116073000 +0100" channel="TV5MONDE">
-    <title lang="sl">Dobro jutro</title>
+  <programme start="20221120123000 +0100" stop="20221120133500 +0100" channel="TV3 Medias">
+    <title lang="sl">Odkrivanje čudovitih kanalov: Kanal Rideau, Kanada</title>
   </programme>
-  <programme start="20221116073000 +0100" stop="20221116074600 +0100" channel="TV5MONDE">
-    <title lang="sl">Dobro jutro</title>
+  <programme start="20221120133500 +0100" stop="20221120140000 +0100" channel="TV3 Medias">
+    <title lang="sl">Zlati ključi: Mislinja</title>
   </programme>
-  <programme start="20221116074600 +0100" stop="20221116080000 +0100" channel="TV5MONDE">
-    <title lang="sl">Gost</title>
+  <programme start="20221120140000 +0100" stop="20221120142500 +0100" channel="TV3 Medias">
+    <title lang="sl">Zlati ključi: Mislinja</title>
   </programme>
-  <programme start="20221116080000 +0100" stop="20221116082600 +0100" channel="TV5MONDE">
-    <title lang="sl">Dnevnik Radia Kanada</title>
+  <programme start="20221120142500 +0100" stop="20221120144000 +0100" channel="TV3 Medias">
+    <title lang="sl">Zlati ključi: Mislinja</title>
   </programme>
-  <programme start="20221116082600 +0100" stop="20221116083700 +0100" channel="TV5MONDE">
-    <title lang="sl">Tv5 Svet: dnevnik</title>
+  <programme start="20221120144000 +0100" stop="20221120150000 +0100" channel="TV3 Medias">
+    <title lang="sl">TV prodaja</title>
   </programme>
-  <programme start="20221116083700 +0100" stop="20221116090000 +0100" channel="TV5MONDE">
-    <title lang="sl">Mediteran</title>
+  <programme start="20221120150000 +0100" stop="20221120163000 +0100" channel="TV3 Medias">
+    <title lang="sl">Vinilni časi</title>
   </programme>
-  <programme start="20221116090000 +0100" stop="20221116093000 +0100" channel="TV5MONDE">
-    <title lang="sl">5 mojstrov v kuhinji</title>
+  <programme start="20221120163000 +0100" stop="20221120173000 +0100" channel="TV3 Medias">
+    <title lang="sl">Odkrivanje čudovitih kanalov: Vodne poti Vietnama in Kambodže</title>
   </programme>
-  <programme start="20221116093000 +0100" stop="20221116100000 +0100" channel="TV5MONDE">
-    <title lang="sl">Kamen v želodcu</title>
+  <programme start="20221120173000 +0100" stop="20221120184500 +0100" channel="TV3 Medias">
+    <title lang="sl">Vaše zdravje, naša skrb</title>
   </programme>
-  <programme start="20221116100000 +0100" stop="20221116103000 +0100" channel="TV5MONDE">
-    <title lang="sl">Jugozahod</title>
+  <programme start="20221120184500 +0100" stop="20221120191500 +0100" channel="TV3 Medias">
+    <title lang="sl">Parada plesa: Kaja Vidič &amp; Vesna Stojnič &amp; Nina Grmovšek Seljak</title>
   </programme>
-  <programme start="20221116103000 +0100" stop="20221116110000 +0100" channel="TV5MONDE">
-    <title lang="sl">Delikatesa</title>
+  <programme start="20221120191500 +0100" stop="20221120200000 +0100" channel="TV3 Medias">
+    <title lang="sl">Faktor</title>
   </programme>
-  <programme start="20221116110000 +0100" stop="20221116111500 +0100" channel="TV5MONDE">
-    <title lang="sl">Novice iz Afrike</title>
+  <programme start="20221120200000 +0100" stop="20221120212500 +0100" channel="TV3 Medias">
+    <title lang="sl">Warren</title>
   </programme>
-  <programme start="20221116111500 +0100" stop="20221116112000 +0100" channel="TV5MONDE">
-    <title lang="sl">Vremenska napoved</title>
+  <programme start="20221120212500 +0100" stop="20221120223000 +0100" channel="TV3 Medias">
+    <title lang="sl">Izgubljeni v vinu</title>
   </programme>
-  <programme start="20221116112000 +0100" stop="20221116114500 +0100" channel="TV5MONDE">
-    <title lang="sl">Tako veliko sonce</title>
-  </programme>
-  <programme start="20221116114500 +0100" stop="20221116123000 +0100" channel="TV5MONDE">
-    <title lang="sl">Vsak si želi mesto zase</title>
-  </programme>
-  <programme start="20221116123000 +0100" stop="20221116133000 +0100" channel="TV5MONDE">
-    <title lang="sl">Mojstri baskovskih okusov</title>
-  </programme>
-  <programme start="20221116133000 +0100" stop="20221116140300 +0100" channel="TV5MONDE">
-    <title lang="sl">Dnevnik belgijske radiotelevizije</title>
-  </programme>
-  <programme start="20221116140300 +0100" stop="20221116160000 +0100" channel="TV5MONDE">
-    <title lang="sl">Velika knjigarna</title>
-  </programme>
-  <programme start="20221116160000 +0100" stop="20221116163000 +0100" channel="TV5MONDE">
-    <title lang="sl">Tako veliko sonce</title>
-  </programme>
-  <programme start="20221116163000 +0100" stop="20221116170000 +0100" channel="TV5MONDE">
-    <title lang="sl">Vprašanja za prvaka</title>
-  </programme>
-  <programme start="20221116170000 +0100" stop="20221116180000 +0100" channel="TV5MONDE">
-    <title lang="sl">V središču</title>
-  </programme>
-  <programme start="20221116180000 +0100" stop="20221116182200 +0100" channel="TV5MONDE">
-    <title lang="sl">64 minut, svet po francosko</title>
-  </programme>
-  <programme start="20221116182200 +0100" stop="20221116182500 +0100" channel="TV5MONDE">
-    <title lang="sl">Novice iz gospodarstva</title>
-  </programme>
-  <programme start="20221116182500 +0100" stop="20221116183100 +0100" channel="TV5MONDE">
-    <title lang="sl">Vremenska napoved</title>
-  </programme>
-  <programme start="20221116183100 +0100" stop="20221116184000 +0100" channel="TV5MONDE">
-    <title lang="sl">Gost</title>
-  </programme>
-  <programme start="20221116184000 +0100" stop="20221116203000 +0100" channel="TV5MONDE">
-    <title lang="sl">Umori na otokih Frioul</title>
-  </programme>
-  <programme start="20221116203000 +0100" stop="20221116205600 +0100" channel="TV5MONDE">
-    <title lang="sl">Dnevnik programa France 2</title>
-  </programme>
-  <programme start="20221116205600 +0100" stop="20221116210100 +0100" channel="TV5MONDE">
-    <title lang="sl">Vremenska napoved</title>
-  </programme>
-  <programme start="20221116210100 +0100" stop="20221116230000 +0100" channel="TV5MONDE">
-    <title lang="sl">Tunizija, sredozemska lepotica</title>
-  </programme>
-  <programme start="20221116230000 +0100" stop="20221116233000 +0100" channel="TV5MONDE">
-    <title lang="sl">Dnevnik švicarske radiotelevizije</title>
-  </programme>
-  <programme start="20221116233000 +0100" stop="20221117011500 +0100" channel="TV5MONDE">
-    <title lang="sl">(Skoraj) popolna ljubezen</title>
+  <programme start="20221120223000 +0100" stop="20221120230000 +0100" channel="TV3 Medias">
+    <title lang="sl">Potep z Leo</title>
   </programme>
   <programme start="20221117011500 +0100" stop="20221117014500 +0100" channel="TV5MONDE">
     <title lang="sl">Novice iz Afrike</title>
@@ -894,65 +763,131 @@
   <programme start="20221119231500 +0100" stop="20221119234500 +0100" channel="TV5MONDE">
     <title lang="sl">Dnevnik švicarske radiotelevizije</title>
   </programme>
-  <programme start="20221116003500 +0100" stop="20221116024000 +0100" channel="TVE">
-    <title lang="sl">Noč v 24 urah</title>
+  <programme start="20221119234500 +0100" stop="20221120004500 +0100" channel="TV5MONDE">
+    <title lang="sl">Umori na otokih Frioul</title>
   </programme>
-  <programme start="20221116024000 +0100" stop="20221116030000 +0100" channel="TVE">
-    <title lang="sl">Zoom net</title>
+  <programme start="20221120004500 +0100" stop="20221120012000 +0100" channel="TV5MONDE">
+    <title lang="sl">Novice iz Afrike</title>
   </programme>
-  <programme start="20221116030000 +0100" stop="20221116050000 +0100" channel="TVE">
-    <title lang="sl">Novice 24 ur</title>
+  <programme start="20221120012000 +0100" stop="20221120031000 +0100" channel="TV5MONDE">
+    <title lang="sl">Kajn</title>
   </programme>
-  <programme start="20221116050000 +0100" stop="20221116053000 +0100" channel="TVE">
-    <title lang="sl">Kultura v glavni vlogi</title>
+  <programme start="20221120031000 +0100" stop="20221120040000 +0100" channel="TV5MONDE">
+    <title lang="sl">Eko-bivališče</title>
   </programme>
-  <programme start="20221116053000 +0100" stop="20221116063000 +0100" channel="TVE">
-    <title lang="sl">Pustolovščina znanja</title>
+  <programme start="20221120040000 +0100" stop="20221120043000 +0100" channel="TV5MONDE">
+    <title lang="sl">Veliki šef</title>
   </programme>
-  <programme start="20221116063000 +0100" stop="20221116080000 +0100" channel="TVE">
-    <title lang="sl">Jutranji dnevnik</title>
+  <programme start="20221120043000 +0100" stop="20221120053000 +0100" channel="TV5MONDE">
+    <title lang="sl">V zraku</title>
   </programme>
-  <programme start="20221116080000 +0100" stop="20221116110000 +0100" channel="TVE">
-    <title lang="sl">Čas za novice</title>
+  <programme start="20221120053000 +0100" stop="20221120060000 +0100" channel="TV5MONDE">
+    <title lang="sl">Jugozahod</title>
   </programme>
-  <programme start="20221116110000 +0100" stop="20221116113000 +0100" channel="TVE">
-    <title lang="sl">Čas za novice: Sedanjost</title>
+  <programme start="20221120060000 +0100" stop="20221120063000 +0100" channel="TV5MONDE">
+    <title lang="sl">In če bi mi povedali vso resnico?</title>
   </programme>
-  <programme start="20221116113000 +0100" stop="20221116144500 +0100" channel="TVE">
-    <title lang="sl">Jasno in odkrito o novicah</title>
+  <programme start="20221120063000 +0100" stop="20221120065500 +0100" channel="TV5MONDE">
+    <title lang="sl">Wari</title>
   </programme>
-  <programme start="20221116144500 +0100" stop="20221116150000 +0100" channel="TVE">
-    <title lang="sl">Vreme</title>
+  <programme start="20221120065500 +0100" stop="20221120080000 +0100" channel="TV5MONDE">
+    <title lang="sl">Taljenje permafrosta: tiktakajoča tempirana bomba</title>
   </programme>
-  <programme start="20221116150000 +0100" stop="20221116154500 +0100" channel="TVE">
-    <title lang="sl">Dnevnik 1</title>
+  <programme start="20221120080000 +0100" stop="20221120082100 +0100" channel="TV5MONDE">
+    <title lang="sl">Dnevnik Radia Kanada</title>
   </programme>
-  <programme start="20221116154500 +0100" stop="20221116163000 +0100" channel="TVE">
-    <title lang="sl">Vedeti in zmagati</title>
+  <programme start="20221120082100 +0100" stop="20221120082300 +0100" channel="TV5MONDE">
+    <title lang="sl">Vremenska napoved</title>
   </programme>
-  <programme start="20221116163000 +0100" stop="20221116173500 +0100" channel="TVE">
-    <title lang="sl">Za vašo varnost in zaščito</title>
+  <programme start="20221120082300 +0100" stop="20221120083800 +0100" channel="TV5MONDE">
+    <title lang="sl">Tv5 Svet: dnevnik</title>
   </programme>
-  <programme start="20221116173500 +0100" stop="20221116183000 +0100" channel="TVE">
-    <title lang="sl">Osrednja tržnica</title>
+  <programme start="20221120083800 +0100" stop="20221120090400 +0100" channel="TV5MONDE">
+    <title lang="sl">Magreb-Orient-Ekspres</title>
   </programme>
-  <programme start="20221116183000 +0100" stop="20221116192500 +0100" channel="TVE">
-    <title lang="sl">Adut</title>
+  <programme start="20221120090400 +0100" stop="20221120091500 +0100" channel="TV5MONDE">
+    <title lang="sl">Najstniški Crumpetovi</title>
   </programme>
-  <programme start="20221116192500 +0100" stop="20221116203000 +0100" channel="TVE">
-    <title lang="sl">Lovec</title>
+  <programme start="20221120091500 +0100" stop="20221120092500 +0100" channel="TV5MONDE">
+    <title lang="sl">Moka</title>
   </programme>
-  <programme start="20221116203000 +0100" stop="20221116210000 +0100" channel="TVE">
-    <title lang="sl">Tukaj Zemlja</title>
+  <programme start="20221120092500 +0100" stop="20221120092900 +0100" channel="TV5MONDE">
+    <title lang="sl">Nawak</title>
   </programme>
-  <programme start="20221116210000 +0100" stop="20221116220000 +0100" channel="TVE">
-    <title lang="sl">Dnevnik 2</title>
+  <programme start="20221120092900 +0100" stop="20221120094000 +0100" channel="TV5MONDE">
+    <title lang="sl">Wanda Jemly pripoveduje</title>
   </programme>
-  <programme start="20221116220000 +0100" stop="20221116232000 +0100" channel="TVE">
-    <title lang="sl">Krvne vezi: Debata</title>
+  <programme start="20221120094000 +0100" stop="20221120100500 +0100" channel="TV5MONDE">
+    <title lang="sl">Heidi</title>
   </programme>
-  <programme start="20221116232000 +0100" stop="20221117002500 +0100" channel="TVE">
-    <title lang="sl">Krvne vezi: Manolo Escobar</title>
+  <programme start="20221120100500 +0100" stop="20221120103000 +0100" channel="TV5MONDE">
+    <title lang="sl">Mutanti</title>
+  </programme>
+  <programme start="20221120103000 +0100" stop="20221120110000 +0100" channel="TV5MONDE">
+    <title lang="sl">Molierissimo</title>
+  </programme>
+  <programme start="20221120110000 +0100" stop="20221120111200 +0100" channel="TV5MONDE">
+    <title lang="sl">Tv5 Svet: dnevnik</title>
+  </programme>
+  <programme start="20221120111200 +0100" stop="20221120111700 +0100" channel="TV5MONDE">
+    <title lang="sl">Vremenska napoved</title>
+  </programme>
+  <programme start="20221120111700 +0100" stop="20221120114000 +0100" channel="TV5MONDE">
+    <title lang="sl">Dnevnik teritorijev</title>
+  </programme>
+  <programme start="20221120114000 +0100" stop="20221120121500 +0100" channel="TV5MONDE">
+    <title lang="sl">Les Sables d'Olonne 2022</title>
+  </programme>
+  <programme start="20221120121500 +0100" stop="20221120123000 +0100" channel="TV5MONDE">
+    <title lang="sl">Francoska ozemlja</title>
+  </programme>
+  <programme start="20221120123000 +0100" stop="20221120130000 +0100" channel="TV5MONDE">
+    <title lang="sl">Novo</title>
+  </programme>
+  <programme start="20221120130000 +0100" stop="20221120133000 +0100" channel="TV5MONDE">
+    <title lang="sl">Švica na prizorišču</title>
+  </programme>
+  <programme start="20221120133000 +0100" stop="20221120140300 +0100" channel="TV5MONDE">
+    <title lang="sl">Dnevnik belgijske radiotelevizije</title>
+  </programme>
+  <programme start="20221120140300 +0100" stop="20221120152000 +0100" channel="TV5MONDE">
+    <title lang="sl">Komaj čakam nedeljo</title>
+  </programme>
+  <programme start="20221120152000 +0100" stop="20221120160000 +0100" channel="TV5MONDE">
+    <title lang="sl">Užitkar</title>
+  </programme>
+  <programme start="20221120160000 +0100" stop="20221120163000 +0100" channel="TV5MONDE">
+    <title lang="sl">Po francosko</title>
+  </programme>
+  <programme start="20221120163000 +0100" stop="20221120170000 +0100" channel="TV5MONDE">
+    <title lang="sl">Na stenah</title>
+  </programme>
+  <programme start="20221120170000 +0100" stop="20221120180000 +0100" channel="TV5MONDE">
+    <title lang="sl">400 milijonov kritik</title>
+  </programme>
+  <programme start="20221120180000 +0100" stop="20221120182700 +0100" channel="TV5MONDE">
+    <title lang="sl">64 minut, svet po francosko</title>
+  </programme>
+  <programme start="20221120182700 +0100" stop="20221120183000 +0100" channel="TV5MONDE">
+    <title lang="sl">Vremenska napoved</title>
+  </programme>
+  <programme start="20221120183000 +0100" stop="20221120184000 +0100" channel="TV5MONDE">
+    <title lang="sl">Gost</title>
+  </programme>
+  <programme start="20221120184000 +0100" stop="20221120193000 +0100" channel="TV5MONDE">
+    <title lang="sl">Najlepše poti za treking</title>
+  </programme>
+  <programme start="20221120193000 +0100" stop="20221120203000 +0100" channel="TV5MONDE">
+    <title lang="sl">Divje življenje: potovanja v divjino</title>
+  </programme>
+  <programme start="20221120203000 +0100" stop="20221120210000 +0100" channel="TV5MONDE">
+    <title lang="sl">Dnevnik programa France 2</title>
+  </programme>
+  <programme start="20221120210000 +0100" stop="20221120223000 +0100" channel="TV5MONDE">
+    <title lang="sl">Moj dragi otrok</title>
+  </programme>
+  <programme start="20221120223000 +0100" stop="20221120230000 +0100" channel="TV5MONDE">
+    <title lang="sl">Dnevnik švicarske radiotelevizije</title>
   </programme>
   <programme start="20221117002500 +0100" stop="20221117023000 +0100" channel="TVE">
     <title lang="sl">Noč v 24 urah</title>
@@ -1149,104 +1084,104 @@
   <programme start="20221119213000 +0100" stop="20221119220500 +0100" channel="TVE">
     <title lang="sl">Tedensko poročilo</title>
   </programme>
-  <programme start="20221116010000 +0100" stop="20221116070000 +0100" channel="Tele Maribor">
-    <title lang="sl">Infokanal - TV Maribor</title>
+  <programme start="20221119220500 +0100" stop="20221120000500 +0100" channel="TVE">
+    <title lang="sl">Velika zmešnjava</title>
   </programme>
-  <programme start="20221116070000 +0100" stop="20221116092000 +0100" channel="Tele Maribor">
-    <title lang="sl">Infokanal - TV Maribor</title>
+  <programme start="20221120000500 +0100" stop="20221120003500 +0100" channel="TVE">
+    <title lang="sl">Pozor, delamo!</title>
   </programme>
-  <programme start="20221116092000 +0100" stop="20221116100000 +0100" channel="Tele Maribor">
-    <title lang="sl">TV nakup</title>
+  <programme start="20221120003500 +0100" stop="20221120010000 +0100" channel="TVE">
+    <title lang="sl">Repor</title>
   </programme>
-  <programme start="20221116100000 +0100" stop="20221116102500 +0100" channel="Tele Maribor">
-    <title lang="sl">Tele M</title>
+  <programme start="20221120010000 +0100" stop="20221120014500 +0100" channel="TVE">
+    <title lang="sl">V prvi vrsti, bikoborbe</title>
   </programme>
-  <programme start="20221116102500 +0100" stop="20221116105000 +0100" channel="Tele Maribor">
-    <title lang="sl">Odmevi</title>
+  <programme start="20221120014500 +0100" stop="20221120021500 +0100" channel="TVE">
+    <title lang="sl">Tedensko poročilo</title>
   </programme>
-  <programme start="20221116105000 +0100" stop="20221116110000 +0100" channel="Tele Maribor">
-    <title lang="sl">Šport</title>
+  <programme start="20221120021500 +0100" stop="20221120023000 +0100" channel="TVE">
+    <title lang="sl">Zoom net</title>
   </programme>
-  <programme start="20221116110000 +0100" stop="20221116111000 +0100" channel="Tele Maribor">
-    <title lang="sl">Kultura</title>
+  <programme start="20221120023000 +0100" stop="20221120060000 +0100" channel="TVE">
+    <title lang="sl">Novice 24 ur</title>
   </programme>
-  <programme start="20221116111000 +0100" stop="20221116114000 +0100" channel="Tele Maribor">
-    <title lang="sl">Kanape - Kanapé</title>
+  <programme start="20221120060000 +0100" stop="20221120070000 +0100" channel="TVE">
+    <title lang="sl">Novice 24 ur</title>
   </programme>
-  <programme start="20221116114000 +0100" stop="20221116121500 +0100" channel="Tele Maribor">
-    <title lang="sl">TV nakup</title>
+  <programme start="20221120070000 +0100" stop="20221120071500 +0100" channel="TVE">
+    <title lang="sl">Medina na TVE</title>
   </programme>
-  <programme start="20221116121500 +0100" stop="20221116132500 +0100" channel="Tele Maribor">
-    <title lang="sl">Referendum 2022: Zakon o dolgotrajni oskrbi s slovenskim znakovnim jezikom</title>
+  <programme start="20221120071500 +0100" stop="20221120073000 +0100" channel="TVE">
+    <title lang="sl">Dobre novice</title>
   </programme>
-  <programme start="20221116132500 +0100" stop="20221116135000 +0100" channel="Tele Maribor">
-    <title lang="sl">Na vrtu</title>
+  <programme start="20221120073000 +0100" stop="20221120074500 +0100" channel="TVE">
+    <title lang="sl">Shalom</title>
   </programme>
-  <programme start="20221116135000 +0100" stop="20221116144000 +0100" channel="Tele Maribor">
-    <title lang="sl">Ljudje in zemlja</title>
+  <programme start="20221120074500 +0100" stop="20221120081000 +0100" channel="TVE">
+    <title lang="sl">Poslednja vprašanja</title>
   </programme>
-  <programme start="20221116144000 +0100" stop="20221116154500 +0100" channel="Tele Maribor">
-    <title lang="sl">Dobro jutro</title>
+  <programme start="20221120081000 +0100" stop="20221120081500 +0100" channel="TVE">
+    <title lang="sl">Pričevanje</title>
   </programme>
-  <programme start="20221116154500 +0100" stop="20221116160500 +0100" channel="Tele Maribor">
-    <title lang="sl">TV nakup</title>
+  <programme start="20221120081500 +0100" stop="20221120084500 +0100" channel="TVE">
+    <title lang="sl">Božje ljudstvo</title>
   </programme>
-  <programme start="20221116160500 +0100" stop="20221116163500 +0100" channel="Tele Maribor">
-    <title lang="sl">Mostovi - Hidak</title>
+  <programme start="20221120084500 +0100" stop="20221120091500 +0100" channel="TVE">
+    <title lang="sl">Program za otroke</title>
   </programme>
-  <programme start="20221116163500 +0100" stop="20221116173000 +0100" channel="Tele Maribor">
-    <title lang="sl">Country glasba je večna: Milan Pečovnik – Pidži</title>
+  <programme start="20221120091500 +0100" stop="20221120094500 +0100" channel="TVE">
+    <title lang="sl">Srebrna pot: dnevnik kolesarja: Villanueva de Campean - La Baneza</title>
   </programme>
-  <programme start="20221116173000 +0100" stop="20221116180000 +0100" channel="Tele Maribor">
-    <title lang="sl">Free Spirits - Samosvoji: Renato, Samira, Mohamad</title>
+  <programme start="20221120094500 +0100" stop="20221120101500 +0100" channel="TVE">
+    <title lang="sl">Zeleni skarabej</title>
   </programme>
-  <programme start="20221116180000 +0100" stop="20221116182500 +0100" channel="Tele Maribor">
-    <title lang="sl">Tele M</title>
+  <programme start="20221120101500 +0100" stop="20221120104500 +0100" channel="TVE">
+    <title lang="sl">Vrtovi z zgodovino: Córdoba-Medina Azahara</title>
   </programme>
-  <programme start="20221116182500 +0100" stop="20221116183000 +0100" channel="Tele Maribor">
-    <title lang="sl">Pravljica s Simono: Kako je čebelica rešila zajčka</title>
+  <programme start="20221120104500 +0100" stop="20221120111500 +0100" channel="TVE">
+    <title lang="sl">Po poteh španske književnosti: Santander</title>
   </programme>
-  <programme start="20221116183000 +0100" stop="20221116183500 +0100" channel="Tele Maribor">
-    <title lang="sl">Zgodbe iz školjke: Čudogozd: Novo prijateljstvo</title>
+  <programme start="20221120111500 +0100" stop="20221120121000 +0100" channel="TVE">
+    <title lang="sl">Znati živeti</title>
   </programme>
-  <programme start="20221116183500 +0100" stop="20221116185700 +0100" channel="Tele Maribor">
-    <title lang="sl">Zgodbe iz školjke: Martina in ptičje strašilo: Kino</title>
+  <programme start="20221120121000 +0100" stop="20221120124000 +0100" channel="TVE">
+    <title lang="sl">Reševanje</title>
   </programme>
-  <programme start="20221116185700 +0100" stop="20221116192000 +0100" channel="Tele Maribor">
-    <title lang="sl">Dnevnik s slovenskim znakovnim jezikom</title>
+  <programme start="20221120124000 +0100" stop="20221120131500 +0100" channel="TVE">
+    <title lang="sl">Kmečki turizem po svetu: Nemčija: Od Berlina, po vzhodni Nemčiji</title>
   </programme>
-  <programme start="20221116192000 +0100" stop="20221116193500 +0100" channel="Tele Maribor">
-    <title lang="sl">Slovenska kronika s slovenskim znakovnim jezikom</title>
+  <programme start="20221120131500 +0100" stop="20221120140000 +0100" channel="TVE">
+    <title lang="sl">Program</title>
   </programme>
-  <programme start="20221116193500 +0100" stop="20221116194500 +0100" channel="Tele Maribor">
-    <title lang="sl">Šport s slovenskim znakovnim jezikom</title>
+  <programme start="20221120140000 +0100" stop="20221120143000 +0100" channel="TVE">
+    <title lang="sl">Moda</title>
   </programme>
-  <programme start="20221116194500 +0100" stop="20221116195500 +0100" channel="Tele Maribor">
-    <title lang="sl">Kultura s slovenskim znakovnim jezikom</title>
+  <programme start="20221120143000 +0100" stop="20221120150000 +0100" channel="TVE">
+    <title lang="sl">Srce</title>
   </programme>
-  <programme start="20221116195500 +0100" stop="20221116200000 +0100" channel="Tele Maribor">
-    <title lang="sl">Vreme s slovenskim znakovnim jezikom</title>
+  <programme start="20221120150000 +0100" stop="20221120160000 +0100" channel="TVE">
+    <title lang="sl">Dnevnik 1</title>
   </programme>
-  <programme start="20221116200000 +0100" stop="20221116202500 +0100" channel="Tele Maribor">
-    <title lang="sl">O živalih in ljudeh</title>
+  <programme start="20221120160000 +0100" stop="20221120164500 +0100" channel="TVE">
+    <title lang="sl">Vedeti in zmagati</title>
   </programme>
-  <programme start="20221116202500 +0100" stop="20221116210000 +0100" channel="Tele Maribor">
-    <title lang="sl">Tele M</title>
+  <programme start="20221120164500 +0100" stop="20221120190000 +0100" channel="TVE">
+    <title lang="sl">Nenavadni dueti</title>
   </programme>
-  <programme start="20221116210000 +0100" stop="20221116220000 +0100" channel="Tele Maribor">
-    <title lang="sl">Volitve 2022: Soočenje kandidatov za župana mestne občine - Velenje s slovenskim znakovnim jezikom</title>
+  <programme start="20221120190000 +0100" stop="20221120203000 +0100" channel="TVE">
+    <title lang="sl">Krvne vezi: José Luis López Vázquez</title>
   </programme>
-  <programme start="20221116220000 +0100" stop="20221116223000 +0100" channel="Tele Maribor">
-    <title lang="sl">Mostovi - Hidak</title>
+  <programme start="20221120203000 +0100" stop="20221120210000 +0100" channel="TVE">
+    <title lang="sl">Tukaj Zemlja</title>
   </programme>
-  <programme start="20221116223000 +0100" stop="20221116230000 +0100" channel="Tele Maribor">
-    <title lang="sl">Osmi dan</title>
+  <programme start="20221120210000 +0100" stop="20221120220000 +0100" channel="TVE">
+    <title lang="sl">Dnevnik 2</title>
   </programme>
-  <programme start="20221116230000 +0100" stop="20221116232500 +0100" channel="Tele Maribor">
-    <title lang="sl">Ugriznimo znanost: Izolacija stavb</title>
+  <programme start="20221120220000 +0100" stop="20221120230000 +0100" channel="TVE">
+    <title lang="sl">Aktualno</title>
   </programme>
-  <programme start="20221116232500 +0100" stop="20221117010000 +0100" channel="Tele Maribor">
-    <title lang="sl">Rokomet (Ž): Madžarska – Slovenija, evropsko prvenstvo</title>
+  <programme start="20221120230000 +0100" stop="20221120234500 +0100" channel="TVE">
+    <title lang="sl">Aktualno</title>
   </programme>
   <programme start="20221117010000 +0100" stop="20221117070000 +0100" channel="Tele Maribor">
     <title lang="sl">Infokanal - TV Maribor</title>
@@ -1281,17 +1216,17 @@
   <programme start="20221117125000 +0100" stop="20221117131500 +0100" channel="Tele Maribor">
     <title lang="sl">O živalih in ljudeh</title>
   </programme>
-  <programme start="20221117131500 +0100" stop="20221117141500 +0100" channel="Tele Maribor">
+  <programme start="20221117131500 +0100" stop="20221117140500 +0100" channel="Tele Maribor">
     <title lang="sl">Zanimivi ljudje s podeželja</title>
   </programme>
-  <programme start="20221117141500 +0100" stop="20221117154500 +0100" channel="Tele Maribor">
+  <programme start="20221117140500 +0100" stop="20221117154500 +0100" channel="Tele Maribor">
     <title lang="sl">Dobro jutro</title>
   </programme>
   <programme start="20221117154500 +0100" stop="20221117160500 +0100" channel="Tele Maribor">
     <title lang="sl">TV nakup</title>
   </programme>
   <programme start="20221117160500 +0100" stop="20221117164000 +0100" channel="Tele Maribor">
-    <title lang="sl">Težišče - Súlypont</title>
+    <title lang="sl">Težišče - Súlypont: A szentek kultusza/Kult svetnikov</title>
   </programme>
   <programme start="20221117164000 +0100" stop="20221117172000 +0100" channel="Tele Maribor">
     <title lang="sl">Operna noč v Mestnem parku 2017</title>
@@ -1326,22 +1261,19 @@
   <programme start="20221117195500 +0100" stop="20221117200000 +0100" channel="Tele Maribor">
     <title lang="sl">Vreme s slovenskim znakovnim jezikom</title>
   </programme>
-  <programme start="20221117200000 +0100" stop="20221117202000 +0100" channel="Tele Maribor">
+  <programme start="20221117200000 +0100" stop="20221117202500 +0100" channel="Tele Maribor">
     <title lang="sl">Rojaki</title>
   </programme>
-  <programme start="20221117202000 +0100" stop="20221117205000 +0100" channel="Tele Maribor">
+  <programme start="20221117202500 +0100" stop="20221117205000 +0100" channel="Tele Maribor">
     <title lang="sl">Tele M</title>
   </programme>
   <programme start="20221117205000 +0100" stop="20221117222000 +0100" channel="Tele Maribor">
     <title lang="sl">Volitve 2022: Soočenje kandidatov za župana mestne občine - Ljubljana s slovenskim znakovnim jezikom</title>
   </programme>
-  <programme start="20221117222000 +0100" stop="20221117234000 +0100" channel="Tele Maribor">
-    <title lang="sl">Referendum 2022: Zakon o RTV Slovenija s slovenskim znakovnim jezikom</title>
-  </programme>
-  <programme start="20221117234000 +0100" stop="20221118002500 +0100" channel="Tele Maribor">
+  <programme start="20221117222000 +0100" stop="20221118000000 +0100" channel="Tele Maribor">
     <title lang="sl">Narodno-zabavna glasba</title>
   </programme>
-  <programme start="20221118002500 +0100" stop="20221118070000 +0100" channel="Tele Maribor">
+  <programme start="20221118000000 +0100" stop="20221118070000 +0100" channel="Tele Maribor">
     <title lang="sl">Infokanal - TV Maribor</title>
   </programme>
   <programme start="20221118070000 +0100" stop="20221118092000 +0100" channel="Tele Maribor">
@@ -1363,7 +1295,7 @@
     <title lang="sl">Kultura</title>
   </programme>
   <programme start="20221118111000 +0100" stop="20221118114000 +0100" channel="Tele Maribor">
-    <title lang="sl">Težišče - Súlypont</title>
+    <title lang="sl">Težišče - Súlypont: A szentek kultusza/Kult svetnikov</title>
   </programme>
   <programme start="20221118114000 +0100" stop="20221118121500 +0100" channel="Tele Maribor">
     <title lang="sl">TV nakup</title>
@@ -1417,7 +1349,7 @@
     <title lang="sl">Vreme s slovenskim znakovnim jezikom</title>
   </programme>
   <programme start="20221118200000 +0100" stop="20221118203000 +0100" channel="Tele Maribor">
-    <title lang="sl">Circom Regional</title>
+    <title lang="sl">Circom Regional: Valovi</title>
   </programme>
   <programme start="20221118203000 +0100" stop="20221118210000 +0100" channel="Tele Maribor">
     <title lang="sl">New Neighbours – Novi sosedje: Tako Bog hoče</title>
@@ -1513,160 +1445,97 @@
     <title lang="sl">Bomži, cestni otroci v Makejevki</title>
   </programme>
   <programme start="20221119213000 +0100" stop="20221119215500 +0100" channel="Tele Maribor">
-    <title lang="sl">Obrazi naših rojakov</title>
+    <title lang="sl">Obrazi naših rojakov: Marijan Velik</title>
   </programme>
   <programme start="20221119215500 +0100" stop="20221119222000 +0100" channel="Tele Maribor">
     <title lang="sl">Preglednik TV Maribor</title>
   </programme>
-  <programme start="20221119222000 +0100" stop="20221119225000 +0100" channel="Tele Maribor">
+  <programme start="20221119222000 +0100" stop="20221119224500 +0100" channel="Tele Maribor">
     <title lang="sl">Opus</title>
   </programme>
-  <programme start="20221119225000 +0100" stop="20221119233000 +0100" channel="Tele Maribor">
+  <programme start="20221119224500 +0100" stop="20221119233000 +0100" channel="Tele Maribor">
     <title lang="sl">Koncert Radia SI: Sam's Fever</title>
   </programme>
-  <programme start="20221116000000 +0100" stop="20221116003000 +0100" channel="Top TV">
-    <title lang="sl">Top Aktualno</title>
+  <programme start="20221119233000 +0100" stop="20221120003000 +0100" channel="Tele Maribor">
+    <title lang="sl">Alpsko smučanje (Ž): Slalom, 2. vožnja, svetovni pokal</title>
   </programme>
-  <programme start="20221116003000 +0100" stop="20221116010000 +0100" channel="Top TV">
-    <title lang="sl">Top Aktualno</title>
+  <programme start="20221120003000 +0100" stop="20221120021000 +0100" channel="Tele Maribor">
+    <title lang="sl">Rokomet (Ž): Polfinale, evropsko prvenstvo</title>
   </programme>
-  <programme start="20221116010000 +0100" stop="20221116013000 +0100" channel="Top TV">
-    <title lang="sl">Top Aktualno</title>
+  <programme start="20221120021000 +0100" stop="20221120070000 +0100" channel="Tele Maribor">
+    <title lang="sl">Infokanal - TV Maribor</title>
   </programme>
-  <programme start="20221116013000 +0100" stop="20221116020000 +0100" channel="Top TV">
-    <title lang="sl">Top Aktualno</title>
+  <programme start="20221120070000 +0100" stop="20221120092000 +0100" channel="Tele Maribor">
+    <title lang="sl">Infokanal - TV Maribor</title>
   </programme>
-  <programme start="20221116020000 +0100" stop="20221116023000 +0100" channel="Top TV">
-    <title lang="sl">Top Aktualno</title>
+  <programme start="20221120092000 +0100" stop="20221120100000 +0100" channel="Tele Maribor">
+    <title lang="sl">TV nakup</title>
   </programme>
-  <programme start="20221116023000 +0100" stop="20221116030000 +0100" channel="Top TV">
-    <title lang="sl">Top Aktualno</title>
+  <programme start="20221120100000 +0100" stop="20221120102500 +0100" channel="Tele Maribor">
+    <title lang="sl">Preglednik TV Maribor</title>
   </programme>
-  <programme start="20221116030000 +0100" stop="20221116033000 +0100" channel="Top TV">
-    <title lang="sl">Top Aktualno</title>
+  <programme start="20221120102500 +0100" stop="20221120105000 +0100" channel="Tele Maribor">
+    <title lang="sl">Obrazi naših rojakov: Marijan Velik</title>
   </programme>
-  <programme start="20221116033000 +0100" stop="20221116040000 +0100" channel="Top TV">
-    <title lang="sl">Top Aktualno</title>
+  <programme start="20221120105000 +0100" stop="20221120111500 +0100" channel="Tele Maribor">
+    <title lang="sl">Slovenski utrinki</title>
   </programme>
-  <programme start="20221116040000 +0100" stop="20221116043000 +0100" channel="Top TV">
-    <title lang="sl">Top Aktualno</title>
+  <programme start="20221120111500 +0100" stop="20221120115000 +0100" channel="Tele Maribor">
+    <title lang="sl">TV nakup</title>
   </programme>
-  <programme start="20221116043000 +0100" stop="20221116050000 +0100" channel="Top TV">
-    <title lang="sl">Top Aktualno</title>
+  <programme start="20221120115000 +0100" stop="20221120141500 +0100" channel="Tele Maribor">
+    <title lang="sl">Mariborski oktet, jubilejni koncert ob 40-letnici</title>
   </programme>
-  <programme start="20221116050000 +0100" stop="20221116053000 +0100" channel="Top TV">
-    <title lang="sl">Top Aktualno</title>
+  <programme start="20221120141500 +0100" stop="20221120144000 +0100" channel="Tele Maribor">
+    <title lang="sl">TV nakup</title>
   </programme>
-  <programme start="20221116053000 +0100" stop="20221116060000 +0100" channel="Top TV">
-    <title lang="sl">Top Aktualno</title>
+  <programme start="20221120144000 +0100" stop="20221120152500 +0100" channel="Tele Maribor">
+    <title lang="sl">Koncert Radia SI: Zala Gašper</title>
   </programme>
-  <programme start="20221116060000 +0100" stop="20221116063000 +0100" channel="Top TV">
-    <title lang="sl">Top Aktualno</title>
+  <programme start="20221120152500 +0100" stop="20221120155000 +0100" channel="Tele Maribor">
+    <title lang="sl">O živalih in ljudeh</title>
   </programme>
-  <programme start="20221116063000 +0100" stop="20221116070000 +0100" channel="Top TV">
-    <title lang="sl">Top Aktualno</title>
+  <programme start="20221120155000 +0100" stop="20221120161500 +0100" channel="Tele Maribor">
+    <title lang="sl">Na vrtu</title>
   </programme>
-  <programme start="20221116070000 +0100" stop="20221116073000 +0100" channel="Top TV">
-    <title lang="sl">Top Aktualno</title>
+  <programme start="20221120161500 +0100" stop="20221120164000 +0100" channel="Tele Maribor">
+    <title lang="sl">Sledi: 100 let razvoja s Falo in Tovarno dušika</title>
   </programme>
-  <programme start="20221116073000 +0100" stop="20221116080000 +0100" channel="Top TV">
-    <title lang="sl">Top Aktualno</title>
+  <programme start="20221120164000 +0100" stop="20221120180000 +0100" channel="Tele Maribor">
+    <title lang="sl">Ptuj 2015: 46. festival narodno-zabavne glasbe Slovenije</title>
   </programme>
-  <programme start="20221116080000 +0100" stop="20221116083000 +0100" channel="Top TV">
-    <title lang="sl">Top Aktualno</title>
+  <programme start="20221120180000 +0100" stop="20221120182500 +0100" channel="Tele Maribor">
+    <title lang="sl">Preglednik TV Maribor</title>
   </programme>
-  <programme start="20221116083000 +0100" stop="20221116090000 +0100" channel="Top TV">
-    <title lang="sl">Top Aktualno</title>
+  <programme start="20221120182500 +0100" stop="20221120183100 +0100" channel="Tele Maribor">
+    <title lang="sl">Pravljica s Simono: Kruh, darilo reke Drave</title>
   </programme>
-  <programme start="20221116090000 +0100" stop="20221116093000 +0100" channel="Top TV">
-    <title lang="sl">Top Aktualno</title>
+  <programme start="20221120183100 +0100" stop="20221120184000 +0100" channel="Tele Maribor">
+    <title lang="sl">Zgodbe iz školjke: Čudogozd: Dolgčas</title>
   </programme>
-  <programme start="20221116093000 +0100" stop="20221116100000 +0100" channel="Top TV">
-    <title lang="sl">Top Aktualno</title>
+  <programme start="20221120184000 +0100" stop="20221120185700 +0100" channel="Tele Maribor">
+    <title lang="sl">Zgodbe iz školjke: Martina in ptičje strašilo: Spričevalo</title>
   </programme>
-  <programme start="20221116100000 +0100" stop="20221116103000 +0100" channel="Top TV">
-    <title lang="sl">Top Aktualno</title>
+  <programme start="20221120185700 +0100" stop="20221120192000 +0100" channel="Tele Maribor">
+    <title lang="sl">Dnevnik s slovenskim znakovnim jezikom</title>
   </programme>
-  <programme start="20221116103000 +0100" stop="20221116110000 +0100" channel="Top TV">
-    <title lang="sl">Top Aktualno</title>
+  <programme start="20221120192000 +0100" stop="20221120193000 +0100" channel="Tele Maribor">
+    <title lang="sl">Slovenska kronika s slovenskim znakovnim jezikom</title>
   </programme>
-  <programme start="20221116110000 +0100" stop="20221116113000 +0100" channel="Top TV">
-    <title lang="sl">Top Aktualno</title>
+  <programme start="20221120193000 +0100" stop="20221120194500 +0100" channel="Tele Maribor">
+    <title lang="sl">Zrcalo tedna s slovenskim znakovnim jezikom</title>
   </programme>
-  <programme start="20221116113000 +0100" stop="20221116120000 +0100" channel="Top TV">
-    <title lang="sl">Top Aktualno</title>
+  <programme start="20221120194500 +0100" stop="20221120195500 +0100" channel="Tele Maribor">
+    <title lang="sl">Šport s slovenskim znakovnim jezikom</title>
   </programme>
-  <programme start="20221116120000 +0100" stop="20221116123000 +0100" channel="Top TV">
-    <title lang="sl">Top Aktualno</title>
+  <programme start="20221120195500 +0100" stop="20221120200000 +0100" channel="Tele Maribor">
+    <title lang="sl">Vreme s slovenskim znakovnim jezikom</title>
   </programme>
-  <programme start="20221116123000 +0100" stop="20221116130000 +0100" channel="Top TV">
-    <title lang="sl">TV prodaja</title>
+  <programme start="20221120200000 +0100" stop="20221120213000 +0100" channel="Tele Maribor">
+    <title lang="sl">Volitve 2022</title>
   </programme>
-  <programme start="20221116130000 +0100" stop="20221116133000 +0100" channel="Top TV">
-    <title lang="sl">Top Aktualno</title>
-  </programme>
-  <programme start="20221116133000 +0100" stop="20221116140000 +0100" channel="Top TV">
-    <title lang="sl">TV prodaja</title>
-  </programme>
-  <programme start="20221116140000 +0100" stop="20221116143000 +0100" channel="Top TV">
-    <title lang="sl">Top Aktualno</title>
-  </programme>
-  <programme start="20221116143000 +0100" stop="20221116150000 +0100" channel="Top TV">
-    <title lang="sl">Top Aktualno</title>
-  </programme>
-  <programme start="20221116150000 +0100" stop="20221116153000 +0100" channel="Top TV">
-    <title lang="sl">Top Aktualno</title>
-  </programme>
-  <programme start="20221116153000 +0100" stop="20221116160000 +0100" channel="Top TV">
-    <title lang="sl">TV prodaja</title>
-  </programme>
-  <programme start="20221116160000 +0100" stop="20221116163000 +0100" channel="Top TV">
-    <title lang="sl">Top Aktualno</title>
-  </programme>
-  <programme start="20221116163000 +0100" stop="20221116170000 +0100" channel="Top TV">
-    <title lang="sl">TV prodaja</title>
-  </programme>
-  <programme start="20221116170000 +0100" stop="20221116173000 +0100" channel="Top TV">
-    <title lang="sl">Top Aktualno</title>
-  </programme>
-  <programme start="20221116173000 +0100" stop="20221116180000 +0100" channel="Top TV">
-    <title lang="sl">TV prodaja</title>
-  </programme>
-  <programme start="20221116180000 +0100" stop="20221116183000 +0100" channel="Top TV">
-    <title lang="sl">Top Aktualno</title>
-  </programme>
-  <programme start="20221116183000 +0100" stop="20221116190000 +0100" channel="Top TV">
-    <title lang="sl">TV prodaja</title>
-  </programme>
-  <programme start="20221116190000 +0100" stop="20221116193000 +0100" channel="Top TV">
-    <title lang="sl">Top Aktualno</title>
-  </programme>
-  <programme start="20221116193000 +0100" stop="20221116200000 +0100" channel="Top TV">
-    <title lang="sl">Top Aktualno</title>
-  </programme>
-  <programme start="20221116200000 +0100" stop="20221116203000 +0100" channel="Top TV">
-    <title lang="sl">Top Aktualno</title>
-  </programme>
-  <programme start="20221116203000 +0100" stop="20221116210000 +0100" channel="Top TV">
-    <title lang="sl">Top Aktualno</title>
-  </programme>
-  <programme start="20221116210000 +0100" stop="20221116213000 +0100" channel="Top TV">
-    <title lang="sl">Top Aktualno</title>
-  </programme>
-  <programme start="20221116213000 +0100" stop="20221116220000 +0100" channel="Top TV">
-    <title lang="sl">Top Aktualno</title>
-  </programme>
-  <programme start="20221116220000 +0100" stop="20221116223000 +0100" channel="Top TV">
-    <title lang="sl">Top Aktualno</title>
-  </programme>
-  <programme start="20221116223000 +0100" stop="20221116230000 +0100" channel="Top TV">
-    <title lang="sl">Top Aktualno</title>
-  </programme>
-  <programme start="20221116230000 +0100" stop="20221116233000 +0100" channel="Top TV">
-    <title lang="sl">Top Aktualno</title>
-  </programme>
-  <programme start="20221116233000 +0100" stop="20221117000000 +0100" channel="Top TV">
-    <title lang="sl">Top Aktualno</title>
+  <programme start="20221120213000 +0100" stop="20221120215500 +0100" channel="Tele Maribor">
+    <title lang="sl">Preglednik TV Maribor</title>
   </programme>
   <programme start="20221117000000 +0100" stop="20221117003000 +0100" channel="Top TV">
     <title lang="sl">Top Aktualno</title>
@@ -2019,10 +1888,7 @@
   <programme start="20221119100000 +0100" stop="20221119103000 +0100" channel="Top TV">
     <title lang="sl">Top Aktualno</title>
   </programme>
-  <programme start="20221119103000 +0100" stop="20221119110000 +0100" channel="Top TV">
-    <title lang="sl">Top Aktualno</title>
-  </programme>
-  <programme start="20221119110000 +0100" stop="20221119113000 +0100" channel="Top TV">
+  <programme start="20221119103000 +0100" stop="20221119113000 +0100" channel="Top TV">
     <title lang="sl">Top Aktualno</title>
   </programme>
   <programme start="20221119113000 +0100" stop="20221119120000 +0100" channel="Top TV">
@@ -2097,152 +1963,140 @@
   <programme start="20221119230000 +0100" stop="20221119233000 +0100" channel="Top TV">
     <title lang="sl">Top Aktualno</title>
   </programme>
-  <programme start="20221116000000 +0100" stop="20221116003000 +0100" channel="Trace Sport">
-    <title lang="sl">Športni velikani: Laudrup vs Eriksen</title>
+  <programme start="20221119233000 +0100" stop="20221120000000 +0100" channel="Top TV">
+    <title lang="sl">Top Aktualno</title>
   </programme>
-  <programme start="20221116003000 +0100" stop="20221116010000 +0100" channel="Trace Sport">
-    <title lang="sl">Resnica o ...: Trenerji</title>
+  <programme start="20221120000000 +0100" stop="20221120003000 +0100" channel="Top TV">
+    <title lang="sl">Top Aktualno</title>
   </programme>
-  <programme start="20221116010000 +0100" stop="20221116012500 +0100" channel="Trace Sport">
-    <title lang="sl">Pot do Katarja: Nizozemska</title>
+  <programme start="20221120003000 +0100" stop="20221120010000 +0100" channel="Top TV">
+    <title lang="sl">Top Aktualno</title>
   </programme>
-  <programme start="20221116012500 +0100" stop="20221116015500 +0100" channel="Trace Sport">
-    <title lang="sl">Klubi: Clasico Barca &amp; Real</title>
+  <programme start="20221120010000 +0100" stop="20221120013000 +0100" channel="Top TV">
+    <title lang="sl">Top Aktualno</title>
   </programme>
-  <programme start="20221116015500 +0100" stop="20221116022000 +0100" channel="Trace Sport">
-    <title lang="sl">Nogometni zvezdniki: Oktoberfest</title>
+  <programme start="20221120013000 +0100" stop="20221120020000 +0100" channel="Top TV">
+    <title lang="sl">Top Aktualno</title>
   </programme>
-  <programme start="20221116022000 +0100" stop="20221116025000 +0100" channel="Trace Sport">
-    <title lang="sl">Športni velikani: Gerrard - Alli</title>
+  <programme start="20221120020000 +0100" stop="20221120023000 +0100" channel="Top TV">
+    <title lang="sl">Top Aktualno</title>
   </programme>
-  <programme start="20221116025000 +0100" stop="20221116031500 +0100" channel="Trace Sport">
-    <title lang="sl">Pot do Katarja: ZDA</title>
+  <programme start="20221120023000 +0100" stop="20221120043000 +0100" channel="Top TV">
+    <title lang="sl">Top Aktualno</title>
   </programme>
-  <programme start="20221116031500 +0100" stop="20221116034500 +0100" channel="Trace Sport">
-    <title lang="sl">Klubi: Los Angeles Galaxy</title>
+  <programme start="20221120043000 +0100" stop="20221120050000 +0100" channel="Top TV">
+    <title lang="sl">Top Aktualno</title>
   </programme>
-  <programme start="20221116034500 +0100" stop="20221116041000 +0100" channel="Trace Sport">
-    <title lang="sl">Resnica o ...: Lionel Messi</title>
+  <programme start="20221120050000 +0100" stop="20221120053000 +0100" channel="Top TV">
+    <title lang="sl">Top Aktualno</title>
   </programme>
-  <programme start="20221116041000 +0100" stop="20221116044000 +0100" channel="Trace Sport">
-    <title lang="sl">The immortals: Lionel Messi</title>
+  <programme start="20221120053000 +0100" stop="20221120060000 +0100" channel="Top TV">
+    <title lang="sl">Top Aktualno</title>
   </programme>
-  <programme start="20221116044000 +0100" stop="20221116050500 +0100" channel="Trace Sport">
-    <title lang="sl">Nogometni zvezdniki: Družina Messi</title>
+  <programme start="20221120060000 +0100" stop="20221120063000 +0100" channel="Top TV">
+    <title lang="sl">Top Aktualno</title>
   </programme>
-  <programme start="20221116050500 +0100" stop="20221116053500 +0100" channel="Trace Sport">
-    <title lang="sl">Heroji: Lionel Messi</title>
+  <programme start="20221120063000 +0100" stop="20221120070000 +0100" channel="Top TV">
+    <title lang="sl">Top Aktualno</title>
   </programme>
-  <programme start="20221116053500 +0100" stop="20221116060000 +0100" channel="Trace Sport">
-    <title lang="sl">Športni velikani: Maradona proti Messiju</title>
+  <programme start="20221120070000 +0100" stop="20221120073000 +0100" channel="Top TV">
+    <title lang="sl">Top Aktualno</title>
   </programme>
-  <programme start="20221116060000 +0100" stop="20221116063000 +0100" channel="Trace Sport">
-    <title lang="sl">O tekmovalcih:Nogometno prvenstvo Amerike</title>
+  <programme start="20221120073000 +0100" stop="20221120080000 +0100" channel="Top TV">
+    <title lang="sl">Top Aktualno</title>
   </programme>
-  <programme start="20221116063000 +0100" stop="20221116065500 +0100" channel="Trace Sport">
-    <title lang="sl">Pot do Katarja: Hrvaška</title>
+  <programme start="20221120080000 +0100" stop="20221120083000 +0100" channel="Top TV">
+    <title lang="sl">Top Aktualno</title>
   </programme>
-  <programme start="20221116065500 +0100" stop="20221116072500 +0100" channel="Trace Sport">
-    <title lang="sl">Klubi: Inter Milan</title>
+  <programme start="20221120083000 +0100" stop="20221120090000 +0100" channel="Top TV">
+    <title lang="sl">Top Aktualno</title>
   </programme>
-  <programme start="20221116072500 +0100" stop="20221116075000 +0100" channel="Trace Sport">
-    <title lang="sl">Nogometni zvezdniki: Ljubljenci medijev</title>
+  <programme start="20221120090000 +0100" stop="20221120093000 +0100" channel="Top TV">
+    <title lang="sl">Top Aktualno</title>
   </programme>
-  <programme start="20221116075000 +0100" stop="20221116082000 +0100" channel="Trace Sport">
-    <title lang="sl">Športni velikani: Laudrup vs Eriksen</title>
+  <programme start="20221120093000 +0100" stop="20221120100000 +0100" channel="Top TV">
+    <title lang="sl">Top Aktualno</title>
   </programme>
-  <programme start="20221116082000 +0100" stop="20221116084500 +0100" channel="Trace Sport">
-    <title lang="sl">Pot do Katarja: ZDA</title>
+  <programme start="20221120100000 +0100" stop="20221120103000 +0100" channel="Top TV">
+    <title lang="sl">Top Aktualno</title>
   </programme>
-  <programme start="20221116084500 +0100" stop="20221116091500 +0100" channel="Trace Sport">
-    <title lang="sl">Klubi: Los Angeles Galaxy</title>
+  <programme start="20221120103000 +0100" stop="20221120110000 +0100" channel="Top TV">
+    <title lang="sl">Top Aktualno</title>
   </programme>
-  <programme start="20221116091500 +0100" stop="20221116101000 +0100" channel="Trace Sport">
-    <title lang="sl">Nogometne sanje</title>
+  <programme start="20221120110000 +0100" stop="20221120113000 +0100" channel="Top TV">
+    <title lang="sl">Top Aktualno</title>
   </programme>
-  <programme start="20221116101000 +0100" stop="20221116110500 +0100" channel="Trace Sport">
-    <title lang="sl">Nogometne sanje</title>
+  <programme start="20221120113000 +0100" stop="20221120120000 +0100" channel="Top TV">
+    <title lang="sl">Top Aktualno</title>
   </programme>
-  <programme start="20221116110500 +0100" stop="20221116120000 +0100" channel="Trace Sport">
-    <title lang="sl">Nogometne sanje</title>
+  <programme start="20221120120000 +0100" stop="20221120123000 +0100" channel="Top TV">
+    <title lang="sl">Top Aktualno</title>
   </programme>
-  <programme start="20221116120000 +0100" stop="20221116122500 +0100" channel="Trace Sport">
-    <title lang="sl">Pot do Katarja: Južna Koreja</title>
+  <programme start="20221120123000 +0100" stop="20221120130000 +0100" channel="Top TV">
+    <title lang="sl">TV prodaja</title>
   </programme>
-  <programme start="20221116122500 +0100" stop="20221116125500 +0100" channel="Trace Sport">
-    <title lang="sl">Klubi: Inter Milan</title>
+  <programme start="20221120130000 +0100" stop="20221120133000 +0100" channel="Top TV">
+    <title lang="sl">Top Aktualno</title>
   </programme>
-  <programme start="20221116125500 +0100" stop="20221116132000 +0100" channel="Trace Sport">
-    <title lang="sl">Nogometni zvezdniki: Gianluigi Donnarumma</title>
+  <programme start="20221120133000 +0100" stop="20221120140000 +0100" channel="Top TV">
+    <title lang="sl">TV prodaja</title>
   </programme>
-  <programme start="20221116132000 +0100" stop="20221116135000 +0100" channel="Trace Sport">
-    <title lang="sl">Športni velikani: Modrić - Rakitić</title>
+  <programme start="20221120140000 +0100" stop="20221120143000 +0100" channel="Top TV">
+    <title lang="sl">Top Aktualno</title>
   </programme>
-  <programme start="20221116135000 +0100" stop="20221116141500 +0100" channel="Trace Sport">
-    <title lang="sl">Sanjsko moštvo: Bundesliga</title>
+  <programme start="20221120143000 +0100" stop="20221120150000 +0100" channel="Top TV">
+    <title lang="sl">Top Aktualno</title>
   </programme>
-  <programme start="20221116141500 +0100" stop="20221116144500 +0100" channel="Trace Sport">
-    <title lang="sl">Klubi: Bayern Munich</title>
+  <programme start="20221120150000 +0100" stop="20221120153000 +0100" channel="Top TV">
+    <title lang="sl">Top Aktualno</title>
   </programme>
-  <programme start="20221116144500 +0100" stop="20221116151000 +0100" channel="Trace Sport">
-    <title lang="sl">National Icons: Özil – Draxler</title>
+  <programme start="20221120153000 +0100" stop="20221120160000 +0100" channel="Top TV">
+    <title lang="sl">TV prodaja</title>
   </programme>
-  <programme start="20221116151000 +0100" stop="20221116154000 +0100" channel="Trace Sport">
-    <title lang="sl">Klubi: Dortmund pod vodstvom Kloppa</title>
+  <programme start="20221120160000 +0100" stop="20221120163000 +0100" channel="Top TV">
+    <title lang="sl">Top Aktualno</title>
   </programme>
-  <programme start="20221116154000 +0100" stop="20221116160500 +0100" channel="Trace Sport">
-    <title lang="sl">Športni velikani: Lahm - Kimmich</title>
+  <programme start="20221120163000 +0100" stop="20221120170000 +0100" channel="Top TV">
+    <title lang="sl">TV prodaja</title>
   </programme>
-  <programme start="20221116160500 +0100" stop="20221116163500 +0100" channel="Trace Sport">
-    <title lang="sl">Nogometni zvezdniki: Oktoberfest</title>
+  <programme start="20221120170000 +0100" stop="20221120173000 +0100" channel="Top TV">
+    <title lang="sl">Top Aktualno</title>
   </programme>
-  <programme start="20221116163500 +0100" stop="20221116170000 +0100" channel="Trace Sport">
-    <title lang="sl">Pot do Katarja: Portugalska</title>
+  <programme start="20221120173000 +0100" stop="20221120180000 +0100" channel="Top TV">
+    <title lang="sl">TV prodaja</title>
   </programme>
-  <programme start="20221116170000 +0100" stop="20221116173000 +0100" channel="Trace Sport">
-    <title lang="sl">Klubi: Olympique Lyonnais</title>
+  <programme start="20221120180000 +0100" stop="20221120183000 +0100" channel="Top TV">
+    <title lang="sl">Top Aktualno</title>
   </programme>
-  <programme start="20221116173000 +0100" stop="20221116175500 +0100" channel="Trace Sport">
-    <title lang="sl">Nogometni zvezdniki: Ronniejeva velika zalega</title>
+  <programme start="20221120183000 +0100" stop="20221120190000 +0100" channel="Top TV">
+    <title lang="sl">TV prodaja</title>
   </programme>
-  <programme start="20221116175500 +0100" stop="20221116182500 +0100" channel="Trace Sport">
-    <title lang="sl">Športni velikani: Lahm - Kimmich</title>
+  <programme start="20221120190000 +0100" stop="20221120193000 +0100" channel="Top TV">
+    <title lang="sl">Top Aktualno</title>
   </programme>
-  <programme start="20221116182500 +0100" stop="20221116185000 +0100" channel="Trace Sport">
-    <title lang="sl">Resnica o ...: Evropska prvenstva</title>
+  <programme start="20221120193000 +0100" stop="20221120200000 +0100" channel="Top TV">
+    <title lang="sl">Top Aktualno</title>
   </programme>
-  <programme start="20221116185000 +0100" stop="20221116192000 +0100" channel="Trace Sport">
-    <title lang="sl">Pot do Katarja: Nizozemska</title>
+  <programme start="20221120200000 +0100" stop="20221120203000 +0100" channel="Top TV">
+    <title lang="sl">Top Aktualno</title>
   </programme>
-  <programme start="20221116192000 +0100" stop="20221116194500 +0100" channel="Trace Sport">
-    <title lang="sl">Klubi: Clasico Barca &amp; Real</title>
+  <programme start="20221120203000 +0100" stop="20221120210000 +0100" channel="Top TV">
+    <title lang="sl">Top Aktualno</title>
   </programme>
-  <programme start="20221116194500 +0100" stop="20221116201500 +0100" channel="Trace Sport">
-    <title lang="sl">Sanjsko moštvo: Bundesliga</title>
+  <programme start="20221120210000 +0100" stop="20221120213000 +0100" channel="Top TV">
+    <title lang="sl">Top Aktualno</title>
   </programme>
-  <programme start="20221116201500 +0100" stop="20221116204000 +0100" channel="Trace Sport">
-    <title lang="sl">Klubi: Bayern Munich</title>
+  <programme start="20221120213000 +0100" stop="20221120220000 +0100" channel="Top TV">
+    <title lang="sl">Top Aktualno</title>
   </programme>
-  <programme start="20221116204000 +0100" stop="20221116211000 +0100" channel="Trace Sport">
-    <title lang="sl">National Icons: Özil – Draxler</title>
+  <programme start="20221120220000 +0100" stop="20221120223000 +0100" channel="Top TV">
+    <title lang="sl">Top Aktualno</title>
   </programme>
-  <programme start="20221116211000 +0100" stop="20221116213500 +0100" channel="Trace Sport">
-    <title lang="sl">Klubi: Dortmund pod vodstvom Kloppa</title>
+  <programme start="20221120223000 +0100" stop="20221120230000 +0100" channel="Top TV">
+    <title lang="sl">Top Aktualno</title>
   </programme>
-  <programme start="20221116213500 +0100" stop="20221116220500 +0100" channel="Trace Sport">
-    <title lang="sl">Športni velikani: Lahm - Kimmich</title>
-  </programme>
-  <programme start="20221116220500 +0100" stop="20221116223000 +0100" channel="Trace Sport">
-    <title lang="sl">Nogometni zvezdniki: Oktoberfest</title>
-  </programme>
-  <programme start="20221116223000 +0100" stop="20221116230000 +0100" channel="Trace Sport">
-    <title lang="sl">Pot do Katarja: Portugalska</title>
-  </programme>
-  <programme start="20221116230000 +0100" stop="20221116233000 +0100" channel="Trace Sport">
-    <title lang="sl">Klubi: Olympique Lyonnais</title>
-  </programme>
-  <programme start="20221116233000 +0100" stop="20221117000000 +0100" channel="Trace Sport">
-    <title lang="sl">Nogometni zvezdniki: Ronniejeva velika zalega</title>
+  <programme start="20221120230000 +0100" stop="20221120233000 +0100" channel="Top TV">
+    <title lang="sl">Top Aktualno</title>
   </programme>
   <programme start="20221117000000 +0100" stop="20221117003000 +0100" channel="Trace Sport">
     <title lang="sl">Športni velikani: Lahm - Kimmich</title>
@@ -2709,78 +2563,6 @@
   <programme start="20221119230000 +0100" stop="20221119233000 +0100" channel="Trace Sport">
     <title lang="sl">Klubi: Arsenal FC</title>
   </programme>
-  <programme start="20221116000000 +0100" stop="20221116004500 +0100" channel="Trace Urban">
-    <title lang="sl">Ameriški hiti</title>
-  </programme>
-  <programme start="20221116004500 +0100" stop="20221116010000 +0100" channel="Trace Urban">
-    <title lang="sl">Hiti brez prekinitev</title>
-  </programme>
-  <programme start="20221116010000 +0100" stop="20221116040000 +0100" channel="Trace Urban">
-    <title lang="sl">Zvoki Tracea</title>
-  </programme>
-  <programme start="20221116040000 +0100" stop="20221116050000 +0100" channel="Trace Urban">
-    <title lang="sl">Novosti</title>
-  </programme>
-  <programme start="20221116050000 +0100" stop="20221116070000 +0100" channel="Trace Urban">
-    <title lang="sl">Hiti brez prekinitev</title>
-  </programme>
-  <programme start="20221116070000 +0100" stop="20221116080000 +0100" channel="Trace Urban">
-    <title lang="sl">100-odstotne dame</title>
-  </programme>
-  <programme start="20221116080000 +0100" stop="20221116100000 +0100" channel="Trace Urban">
-    <title lang="sl">Urbani zvoki</title>
-  </programme>
-  <programme start="20221116100000 +0100" stop="20221116105600 +0100" channel="Trace Urban">
-    <title lang="sl">Fokus</title>
-  </programme>
-  <programme start="20221116105600 +0100" stop="20221116110000 +0100" channel="Trace Urban">
-    <title lang="sl">Hiti brez prekinitev</title>
-  </programme>
-  <programme start="20221116110000 +0100" stop="20221116114500 +0100" channel="Trace Urban">
-    <title lang="sl">10 hitov</title>
-  </programme>
-  <programme start="20221116114500 +0100" stop="20221116120000 +0100" channel="Trace Urban">
-    <title lang="sl">Hiti brez prekinitev</title>
-  </programme>
-  <programme start="20221116120000 +0100" stop="20221116150000 +0100" channel="Trace Urban">
-    <title lang="sl">Zvoki Tracea</title>
-  </programme>
-  <programme start="20221116150000 +0100" stop="20221116160000 +0100" channel="Trace Urban">
-    <title lang="sl">100-odstotne dame</title>
-  </programme>
-  <programme start="20221116160000 +0100" stop="20221116180000 +0100" channel="Trace Urban">
-    <title lang="sl">Hiti brez prekinitev</title>
-  </programme>
-  <programme start="20221116180000 +0100" stop="20221116181500 +0100" channel="Trace Urban">
-    <title lang="sl">Hiti brez prekinitev</title>
-  </programme>
-  <programme start="20221116181500 +0100" stop="20221116190000 +0100" channel="Trace Urban">
-    <title lang="sl">10 hitov</title>
-  </programme>
-  <programme start="20221116190000 +0100" stop="20221116200000 +0100" channel="Trace Urban">
-    <title lang="sl">Hiti in besedila</title>
-  </programme>
-  <programme start="20221116200000 +0100" stop="20221116200100 +0100" channel="Trace Urban">
-    <title lang="sl">Hiti brez prekinitev</title>
-  </programme>
-  <programme start="20221116200100 +0100" stop="20221116210100 +0100" channel="Trace Urban">
-    <title lang="sl">Novosti</title>
-  </programme>
-  <programme start="20221116210100 +0100" stop="20221116210200 +0100" channel="Trace Urban">
-    <title lang="sl">Hiti brez prekinitev</title>
-  </programme>
-  <programme start="20221116210200 +0100" stop="20221116214700 +0100" channel="Trace Urban">
-    <title lang="sl">Najboljši francoski hiti</title>
-  </programme>
-  <programme start="20221116214700 +0100" stop="20221116220000 +0100" channel="Trace Urban">
-    <title lang="sl">Hiti brez prekinitev</title>
-  </programme>
-  <programme start="20221116220000 +0100" stop="20221116230000 +0100" channel="Trace Urban">
-    <title lang="sl">Stari posnetki</title>
-  </programme>
-  <programme start="20221116230000 +0100" stop="20221117000000 +0100" channel="Trace Urban">
-    <title lang="sl">Poslastice</title>
-  </programme>
   <programme start="20221117000000 +0100" stop="20221117004500 +0100" channel="Trace Urban">
     <title lang="sl">Pop 10</title>
   </programme>
@@ -2972,78 +2754,6 @@
   </programme>
   <programme start="20221119200000 +0100" stop="20221119214500 +0100" channel="Trace Urban">
     <title lang="sl">30 hitov</title>
-  </programme>
-  <programme start="20221116000000 +0100" stop="20221116010000 +0100" channel="Travel Channel">
-    <title lang="sl">Strašljiva mesta: Gettysburg</title>
-  </programme>
-  <programme start="20221116010000 +0100" stop="20221116020000 +0100" channel="Travel Channel">
-    <title lang="sl">V primežu paranormalnega: Sanatorij Wildwood</title>
-  </programme>
-  <programme start="20221116020000 +0100" stop="20221116030000 +0100" channel="Travel Channel">
-    <title lang="sl">V primežu paranormalnega: Sanatorij Waverley Hills</title>
-  </programme>
-  <programme start="20221116030000 +0100" stop="20221116040000 +0100" channel="Travel Channel">
-    <title lang="sl">Nasini nepojasnjeni dokumenti: Skrivno maščevanje</title>
-  </programme>
-  <programme start="20221116040000 +0100" stop="20221116050000 +0100" channel="Travel Channel">
-    <title lang="sl">Nasini nepojasnjeni dokumenti: Saturnova zvezda smrti</title>
-  </programme>
-  <programme start="20221116050000 +0100" stop="20221116060000 +0100" channel="Travel Channel">
-    <title lang="sl">Skrivnostna odprava: Razkritje starodavnih prednikov</title>
-  </programme>
-  <programme start="20221116060000 +0100" stop="20221116070000 +0100" channel="Travel Channel">
-    <title lang="sl">Muzejske skrivnosti: Dekle, ki je padlo na Zemljo, in še marsikaj</title>
-  </programme>
-  <programme start="20221116070000 +0100" stop="20221116080000 +0100" channel="Travel Channel">
-    <title lang="sl">Muzejske skrivnosti: Ugrabljen filmar, Pinkyjin prstan svobode in karirasta igra življenja</title>
-  </programme>
-  <programme start="20221116080000 +0100" stop="20221116090000 +0100" channel="Travel Channel">
-    <title lang="sl">Vesoljska avtocesta: Anomalije v Arizoni</title>
-  </programme>
-  <programme start="20221116090000 +0100" stop="20221116100000 +0100" channel="Travel Channel">
-    <title lang="sl">Ledeno zlato: Nesoglasje</title>
-  </programme>
-  <programme start="20221116100000 +0100" stop="20221116110000 +0100" channel="Travel Channel">
-    <title lang="sl">Kode in zarote: Poskusni vojaki</title>
-  </programme>
-  <programme start="20221116110000 +0100" stop="20221116120000 +0100" channel="Travel Channel">
-    <title lang="sl">Nezemljani na Aljaski: Matična ladja</title>
-  </programme>
-  <programme start="20221116120000 +0100" stop="20221116130000 +0100" channel="Travel Channel">
-    <title lang="sl">Skrivnostna odprava: Razkritje starodavnih prednikov</title>
-  </programme>
-  <programme start="20221116130000 +0100" stop="20221116140000 +0100" channel="Travel Channel">
-    <title lang="sl">Muzejske skrivnosti: Rune iz Kensingtona, Nasmehnite se, ugrabili smo vas, Vohunka Harriet</title>
-  </programme>
-  <programme start="20221116140000 +0100" stop="20221116150000 +0100" channel="Travel Channel">
-    <title lang="sl">Muzejske skrivnosti: Pobeg Hedy Lamarr, dvojčka Kray in svetloba v Macu</title>
-  </programme>
-  <programme start="20221116150000 +0100" stop="20221116160000 +0100" channel="Travel Channel">
-    <title lang="sl">Vesoljska avtocesta: Pobeg iz Območja 51</title>
-  </programme>
-  <programme start="20221116160000 +0100" stop="20221116170000 +0100" channel="Travel Channel">
-    <title lang="sl">Ledeno zlato: Greben odrešitve</title>
-  </programme>
-  <programme start="20221116170000 +0100" stop="20221116180000 +0100" channel="Travel Channel">
-    <title lang="sl">Kode in zarote</title>
-  </programme>
-  <programme start="20221116180000 +0100" stop="20221116190000 +0100" channel="Travel Channel">
-    <title lang="sl">Nezemljani na Aljaski: Daleč proč</title>
-  </programme>
-  <programme start="20221116190000 +0100" stop="20221116200000 +0100" channel="Travel Channel">
-    <title lang="sl">Skrivnostna odprava: Iskanje sultanovega srca</title>
-  </programme>
-  <programme start="20221116200000 +0100" stop="20221116210000 +0100" channel="Travel Channel">
-    <title lang="sl">Nasini nepojasnjeni dokumenti: Marsova najgloblja skrivnost</title>
-  </programme>
-  <programme start="20221116210000 +0100" stop="20221116220000 +0100" channel="Travel Channel">
-    <title lang="sl">Strašljiva mesta: Cape May, New Jersey</title>
-  </programme>
-  <programme start="20221116220000 +0100" stop="20221116230000 +0100" channel="Travel Channel">
-    <title lang="sl">Sorodne duše (duhovi): Prtljažnik</title>
-  </programme>
-  <programme start="20221116230000 +0100" stop="20221117000000 +0100" channel="Travel Channel">
-    <title lang="sl">V primežu paranormalnega: Posestvo Oliver House</title>
   </programme>
   <programme start="20221117000000 +0100" stop="20221117010000 +0100" channel="Travel Channel">
     <title lang="sl">Dosjeji preminulih: Daritev - Sedona, Arizona</title>
@@ -3258,11 +2968,77 @@
   <programme start="20221119220000 +0100" stop="20221119230000 +0100" channel="Travel Channel">
     <title lang="sl">Aljaški trikotnik: Zakleta koča in velikani</title>
   </programme>
-  <programme start="20221116060000 +0100" stop="20221116180000 +0100" channel="Tring 7">
-    <title lang="sl">Spored trenutno ni na voljo</title>
+  <programme start="20221119230000 +0100" stop="20221120000000 +0100" channel="Travel Channel">
+    <title lang="sl">Vrata v pekel: Glasbeni svet Bobbyja Mackeyja</title>
   </programme>
-  <programme start="20221116180000 +0100" stop="20221117060000 +0100" channel="Tring 7">
-    <title lang="sl">Spored trenutno ni na voljo</title>
+  <programme start="20221120000000 +0100" stop="20221120010000 +0100" channel="Travel Channel">
+    <title lang="sl">Razkritje paranormalnega: Pošasti iz globin</title>
+  </programme>
+  <programme start="20221120010000 +0100" stop="20221120020000 +0100" channel="Travel Channel">
+    <title lang="sl">Skrivnosti gradov: Prekletstvo mumije in nacistična prevara z umetninami</title>
+  </programme>
+  <programme start="20221120020000 +0100" stop="20221120030000 +0100" channel="Travel Channel">
+    <title lang="sl">Osbournovi želijo verjeti: Vernik</title>
+  </programme>
+  <programme start="20221120030000 +0100" stop="20221120040000 +0100" channel="Travel Channel">
+    <title lang="sl">Aljaški trikotnik: Pogrešani Douglas</title>
+  </programme>
+  <programme start="20221120040000 +0100" stop="20221120050000 +0100" channel="Travel Channel">
+    <title lang="sl">Aljaški trikotnik: Kosmatež iz Port Chathama</title>
+  </programme>
+  <programme start="20221120050000 +0100" stop="20221120060000 +0100" channel="Travel Channel">
+    <title lang="sl">Kode in zarote: NLP zarota</title>
+  </programme>
+  <programme start="20221120060000 +0100" stop="20221120070000 +0100" channel="Travel Channel">
+    <title lang="sl">Nezemljani na Aljaski: Ujeti</title>
+  </programme>
+  <programme start="20221120070000 +0100" stop="20221120080000 +0100" channel="Travel Channel">
+    <title lang="sl">Nezemljani na Aljaski: Matična ladja</title>
+  </programme>
+  <programme start="20221120080000 +0100" stop="20221120090000 +0100" channel="Travel Channel">
+    <title lang="sl">Nezemljani na Aljaski: Daleč proč</title>
+  </programme>
+  <programme start="20221120090000 +0100" stop="20221120100000 +0100" channel="Travel Channel">
+    <title lang="sl">Avtocesta nezemljanov: Kaos v Missouriju</title>
+  </programme>
+  <programme start="20221120100000 +0100" stop="20221120110000 +0100" channel="Travel Channel">
+    <title lang="sl">Vesoljska avtocesta: Ustrahovanje</title>
+  </programme>
+  <programme start="20221120110000 +0100" stop="20221120120000 +0100" channel="Travel Channel">
+    <title lang="sl">Kode in zarote: Bordeli</title>
+  </programme>
+  <programme start="20221120120000 +0100" stop="20221120130000 +0100" channel="Travel Channel">
+    <title lang="sl">Kode in zarote: Poskusni vojaki</title>
+  </programme>
+  <programme start="20221120130000 +0100" stop="20221120140000 +0100" channel="Travel Channel">
+    <title lang="sl">Kode in zarote</title>
+  </programme>
+  <programme start="20221120140000 +0100" stop="20221120150000 +0100" channel="Travel Channel">
+    <title lang="sl">Kode in zarote: Skrivni zapori</title>
+  </programme>
+  <programme start="20221120150000 +0100" stop="20221120160000 +0100" channel="Travel Channel">
+    <title lang="sl">Kode in zarote: Pearl Harbor</title>
+  </programme>
+  <programme start="20221120160000 +0100" stop="20221120170000 +0100" channel="Travel Channel">
+    <title lang="sl">Vesoljska avtocesta: Južna Kalifornija</title>
+  </programme>
+  <programme start="20221120170000 +0100" stop="20221120180000 +0100" channel="Travel Channel">
+    <title lang="sl">Vesoljska avtocesta: Anomalije v Arizoni</title>
+  </programme>
+  <programme start="20221120180000 +0100" stop="20221120190000 +0100" channel="Travel Channel">
+    <title lang="sl">Vesoljska avtocesta: Pobeg iz Območja 51</title>
+  </programme>
+  <programme start="20221120190000 +0100" stop="20221120200000 +0100" channel="Travel Channel">
+    <title lang="sl">Nezemljani na Aljaski: Nočna mora pod ničlo</title>
+  </programme>
+  <programme start="20221120200000 +0100" stop="20221120210000 +0100" channel="Travel Channel">
+    <title lang="sl">Nezemljani na Aljaski: Možje v črnem</title>
+  </programme>
+  <programme start="20221120210000 +0100" stop="20221120220000 +0100" channel="Travel Channel">
+    <title lang="sl">V primežu paranormalnega: Šola Higginsport</title>
+  </programme>
+  <programme start="20221120220000 +0100" stop="20221120230000 +0100" channel="Travel Channel">
+    <title lang="sl">V primežu paranormalnega: Hiša v Bellairu</title>
   </programme>
   <programme start="20221117060000 +0100" stop="20221117180000 +0100" channel="Tring 7">
     <title lang="sl">Spored trenutno ni na voljo</title>
@@ -3279,10 +3055,10 @@
   <programme start="20221119060000 +0100" stop="20221119180000 +0100" channel="Tring 7">
     <title lang="sl">Spored trenutno ni na voljo</title>
   </programme>
-  <programme start="20221116060000 +0100" stop="20221116180000 +0100" channel="Tring Max">
+  <programme start="20221119180000 +0100" stop="20221120060000 +0100" channel="Tring 7">
     <title lang="sl">Spored trenutno ni na voljo</title>
   </programme>
-  <programme start="20221116180000 +0100" stop="20221117060000 +0100" channel="Tring Max">
+  <programme start="20221120060000 +0100" stop="20221120180000 +0100" channel="Tring 7">
     <title lang="sl">Spored trenutno ni na voljo</title>
   </programme>
   <programme start="20221117060000 +0100" stop="20221117180000 +0100" channel="Tring Max">
@@ -3297,10 +3073,10 @@
   <programme start="20221118180000 +0100" stop="20221119060000 +0100" channel="Tring Max">
     <title lang="sl">Spored trenutno ni na voljo</title>
   </programme>
-  <programme start="20221116060000 +0100" stop="20221116180000 +0100" channel="Tring Shiqip">
+  <programme start="20221119060000 +0100" stop="20221119060000 +0100" channel="Tring Max">
     <title lang="sl">Spored trenutno ni na voljo</title>
   </programme>
-  <programme start="20221116180000 +0100" stop="20221117060000 +0100" channel="Tring Shiqip">
+  <programme start="20221119060000 +0100" stop="20221119180000 +0100" channel="Tring Max">
     <title lang="sl">Spored trenutno ni na voljo</title>
   </programme>
   <programme start="20221117060000 +0100" stop="20221117180000 +0100" channel="Tring Shiqip">
@@ -3318,13 +3094,10 @@
   <programme start="20221119060000 +0100" stop="20221119180000 +0100" channel="Tring Shiqip">
     <title lang="sl">Spored trenutno ni na voljo</title>
   </programme>
-  <programme start="20221116060000 +0100" stop="20221116060000 +0100" channel="Tring Tring">
+  <programme start="20221119180000 +0100" stop="20221120060000 +0100" channel="Tring Shiqip">
     <title lang="sl">Spored trenutno ni na voljo</title>
   </programme>
-  <programme start="20221116060000 +0100" stop="20221116180000 +0100" channel="Tring Tring">
-    <title lang="sl">Spored trenutno ni na voljo</title>
-  </programme>
-  <programme start="20221116180000 +0100" stop="20221117060000 +0100" channel="Tring Tring">
+  <programme start="20221120060000 +0100" stop="20221120180000 +0100" channel="Tring Shiqip">
     <title lang="sl">Spored trenutno ni na voljo</title>
   </programme>
   <programme start="20221117060000 +0100" stop="20221117180000 +0100" channel="Tring Tring">
@@ -3336,10 +3109,16 @@
   <programme start="20221118060000 +0100" stop="20221118180000 +0100" channel="Tring Tring">
     <title lang="sl">Spored trenutno ni na voljo</title>
   </programme>
-  <programme start="20221116060000 +0100" stop="20221116180000 +0100" channel="Tring Vizion+">
+  <programme start="20221118180000 +0100" stop="20221119060000 +0100" channel="Tring Tring">
     <title lang="sl">Spored trenutno ni na voljo</title>
   </programme>
-  <programme start="20221116180000 +0100" stop="20221117060000 +0100" channel="Tring Vizion+">
+  <programme start="20221119060000 +0100" stop="20221119180000 +0100" channel="Tring Tring">
+    <title lang="sl">Spored trenutno ni na voljo</title>
+  </programme>
+  <programme start="20221119180000 +0100" stop="20221120060000 +0100" channel="Tring Tring">
+    <title lang="sl">Spored trenutno ni na voljo</title>
+  </programme>
+  <programme start="20221120060000 +0100" stop="20221120180000 +0100" channel="Tring Tring">
     <title lang="sl">Spored trenutno ni na voljo</title>
   </programme>
   <programme start="20221117060000 +0100" stop="20221117180000 +0100" channel="Tring Vizion+">
@@ -3357,29 +3136,11 @@
   <programme start="20221119060000 +0100" stop="20221119180000 +0100" channel="Tring Vizion+">
     <title lang="sl">Spored trenutno ni na voljo</title>
   </programme>
-  <programme start="20221116020000 +0100" stop="20221116040000 +0100" channel="VH1">
-    <title lang="sl">Nostalgija</title>
+  <programme start="20221119180000 +0100" stop="20221120060000 +0100" channel="Tring Vizion+">
+    <title lang="sl">Spored trenutno ni na voljo</title>
   </programme>
-  <programme start="20221116040000 +0100" stop="20221116080000 +0100" channel="VH1">
-    <title lang="sl">Nostalgija</title>
-  </programme>
-  <programme start="20221116080000 +0100" stop="20221116090000 +0100" channel="VH1">
-    <title lang="sl">Dva za enega</title>
-  </programme>
-  <programme start="20221116090000 +0100" stop="20221116140000 +0100" channel="VH1">
-    <title lang="sl">Obožujemo 00-ta</title>
-  </programme>
-  <programme start="20221116140000 +0100" stop="20221116150000 +0100" channel="VH1">
-    <title lang="sl">Dva za enega</title>
-  </programme>
-  <programme start="20221116150000 +0100" stop="20221116190000 +0100" channel="VH1">
-    <title lang="sl">Hiti ne lažejo!</title>
-  </programme>
-  <programme start="20221116190000 +0100" stop="20221116200000 +0100" channel="VH1">
-    <title lang="sl">Nepogrešljive pop balade</title>
-  </programme>
-  <programme start="20221116200000 +0100" stop="20221117020000 +0100" channel="VH1">
-    <title lang="sl">Nostalgija</title>
+  <programme start="20221120060000 +0100" stop="20221120180000 +0100" channel="Tring Vizion+">
+    <title lang="sl">Spored trenutno ni na voljo</title>
   </programme>
   <programme start="20221117020000 +0100" stop="20221117040000 +0100" channel="VH1">
     <title lang="sl">Nostalgija</title>
@@ -3453,29 +3214,32 @@
   <programme start="20221119190000 +0100" stop="20221119200000 +0100" channel="VH1">
     <title lang="sl">Rock'N'Roll melodije</title>
   </programme>
-  <programme start="20221116020000 +0100" stop="20221116040000 +0100" channel="VH1 Classic">
-    <title lang="sl">Pristna 80-ta</title>
+  <programme start="20221119200000 +0100" stop="20221120020000 +0100" channel="VH1">
+    <title lang="sl">Nostalgija</title>
   </programme>
-  <programme start="20221116040000 +0100" stop="20221116080000 +0100" channel="VH1 Classic">
-    <title lang="sl">Non-stop hiti iz 80-ih</title>
+  <programme start="20221120020000 +0100" stop="20221120040000 +0100" channel="VH1">
+    <title lang="sl">Nostalgija</title>
   </programme>
-  <programme start="20221116080000 +0100" stop="20221116120000 +0100" channel="VH1 Classic">
-    <title lang="sl">Čisto zlato! Najboljši hiti iz 80-ih</title>
+  <programme start="20221120040000 +0100" stop="20221120080000 +0100" channel="VH1">
+    <title lang="sl">Nostalgija</title>
   </programme>
-  <programme start="20221116120000 +0100" stop="20221116160000 +0100" channel="VH1 Classic">
-    <title lang="sl">Top hiti iz l. 1988</title>
+  <programme start="20221120080000 +0100" stop="20221120090000 +0100" channel="VH1">
+    <title lang="sl">Letnik 2009</title>
   </programme>
-  <programme start="20221116160000 +0100" stop="20221116180000 +0100" channel="VH1 Classic">
-    <title lang="sl">80-ta za vedno</title>
+  <programme start="20221120090000 +0100" stop="20221120110000 +0100" channel="VH1">
+    <title lang="sl">Obožujemo 00-ta</title>
   </programme>
-  <programme start="20221116180000 +0100" stop="20221116200000 +0100" channel="VH1 Classic">
-    <title lang="sl">Moč ljubezni</title>
+  <programme start="20221120110000 +0100" stop="20221120140000 +0100" channel="VH1">
+    <title lang="sl">Top 40 r'n'b in hip hop proti dance hitom</title>
   </programme>
-  <programme start="20221116200000 +0100" stop="20221116210000 +0100" channel="VH1 Classic">
-    <title lang="sl">Najboljši rock iz 80-ih: Navijmo na glas</title>
+  <programme start="20221120140000 +0100" stop="20221120150000 +0100" channel="VH1">
+    <title lang="sl">Letnik 2009</title>
   </programme>
-  <programme start="20221116210000 +0100" stop="20221117020000 +0100" channel="VH1 Classic">
-    <title lang="sl">Pristna 80-ta</title>
+  <programme start="20221120150000 +0100" stop="20221120190000 +0100" channel="VH1">
+    <title lang="sl">Hiti ne lažejo!</title>
+  </programme>
+  <programme start="20221120190000 +0100" stop="20221120200000 +0100" channel="VH1">
+    <title lang="sl">Noro zaljubljeni</title>
   </programme>
   <programme start="20221117020000 +0100" stop="20221117040000 +0100" channel="VH1 Classic">
     <title lang="sl">Pristna 80-ta</title>
@@ -3540,86 +3304,293 @@
   <programme start="20221119180000 +0100" stop="20221119220000 +0100" channel="VH1 Classic">
     <title lang="sl">Šola rocka iz 80-ih: Fantje</title>
   </programme>
-  <programme start="20221116001000 +0100" stop="20221116010500 +0100" channel="Viasat Explore">
-    <title lang="sl">Avstralski tovornjakarji</title>
+  <programme start="20221117000000 +0100" stop="20221117002000 +0100" channel="VOX">
+    <title lang="sl">Vox novice</title>
   </programme>
-  <programme start="20221116010500 +0100" stop="20221116020000 +0100" channel="Viasat Explore">
-    <title lang="sl">Avstralski tovornjakarji</title>
+  <programme start="20221117002000 +0100" stop="20221117012000 +0100" channel="VOX">
+    <title lang="sl">Medicinski detektivi: Skrivnosti sodne medicine</title>
   </programme>
-  <programme start="20221116020000 +0100" stop="20221116025000 +0100" channel="Viasat Explore">
-    <title lang="sl">Avstralski tovornjakarji</title>
+  <programme start="20221117012000 +0100" stop="20221117021000 +0100" channel="VOX">
+    <title lang="sl">Medicinski detektivi: Skrivnosti sodne medicine</title>
   </programme>
-  <programme start="20221116025000 +0100" stop="20221116034000 +0100" channel="Viasat Explore">
-    <title lang="sl">Avstralski tovornjakarji</title>
+  <programme start="20221117021000 +0100" stop="20221117030000 +0100" channel="VOX">
+    <title lang="sl">Medicinski detektivi: Skrivnosti sodne medicine</title>
   </programme>
-  <programme start="20221116034000 +0100" stop="20221116043000 +0100" channel="Viasat Explore">
-    <title lang="sl">Avstralski tovornjakarji</title>
+  <programme start="20221117030000 +0100" stop="20221117035000 +0100" channel="VOX">
+    <title lang="sl">Medicinski detektivi: Skrivnosti sodne medicine</title>
   </programme>
-  <programme start="20221116043000 +0100" stop="20221116052000 +0100" channel="Viasat Explore">
-    <title lang="sl">Avstralski tovornjakarji</title>
+  <programme start="20221117035000 +0100" stop="20221117043500 +0100" channel="VOX">
+    <title lang="sl">Medicinski detektivi: Skrivnosti sodne medicine</title>
   </programme>
-  <programme start="20221116052000 +0100" stop="20221116060000 +0100" channel="Viasat Explore">
-    <title lang="sl">Avstralski tovornjakarji</title>
+  <programme start="20221117043500 +0100" stop="20221117050000 +0100" channel="VOX">
+    <title lang="sl">Medicinski detektivi: Skrivnosti sodne medicine</title>
   </programme>
-  <programme start="20221116060000 +0100" stop="20221116065500 +0100" channel="Viasat Explore">
-    <title lang="sl">Avstralski lovci na zlato</title>
+  <programme start="20221117050000 +0100" stop="20221117054500 +0100" channel="VOX">
+    <title lang="sl">Na kraju zločina: New York</title>
   </programme>
-  <programme start="20221116065500 +0100" stop="20221116075000 +0100" channel="Viasat Explore">
-    <title lang="sl">Avstralski pomorski reševalci: Najboljši človekov prijatelj</title>
+  <programme start="20221117054500 +0100" stop="20221117063000 +0100" channel="VOX">
+    <title lang="sl">Na kraju zločina: New York</title>
   </programme>
-  <programme start="20221116075000 +0100" stop="20221116084500 +0100" channel="Viasat Explore">
-    <title lang="sl">Avstralski tovornjakarji</title>
+  <programme start="20221117063000 +0100" stop="20221117071500 +0100" channel="VOX">
+    <title lang="sl">Na kraju zločina: New York</title>
   </programme>
-  <programme start="20221116084500 +0100" stop="20221116094000 +0100" channel="Viasat Explore">
-    <title lang="sl">Avstralski lovci na zlato</title>
+  <programme start="20221117071500 +0100" stop="20221117081000 +0100" channel="VOX">
+    <title lang="sl">Na kraju zločina</title>
   </programme>
-  <programme start="20221116094000 +0100" stop="20221116104000 +0100" channel="Viasat Explore">
-    <title lang="sl">Avstralski lovci na zlato</title>
+  <programme start="20221117081000 +0100" stop="20221117090500 +0100" channel="VOX">
+    <title lang="sl">Na kraju zločina</title>
   </programme>
-  <programme start="20221116104000 +0100" stop="20221116110500 +0100" channel="Viasat Explore">
-    <title lang="sl">Žadasta mrzlica: Velik kos zelenine</title>
+  <programme start="20221117090500 +0100" stop="20221117100000 +0100" channel="VOX">
+    <title lang="sl">Na kraju zločina: Miami</title>
   </programme>
-  <programme start="20221116110500 +0100" stop="20221116113500 +0100" channel="Viasat Explore">
-    <title lang="sl">Žadasta mrzlica: Blatna zagata</title>
+  <programme start="20221117100000 +0100" stop="20221117105500 +0100" channel="VOX">
+    <title lang="sl">Na kraju zločina: Miami</title>
   </programme>
-  <programme start="20221116113500 +0100" stop="20221116123500 +0100" channel="Viasat Explore">
-    <title lang="sl">Umetniki rušenja - Avstralija: Nared za rušenje</title>
+  <programme start="20221117105500 +0100" stop="20221117115000 +0100" channel="VOX">
+    <title lang="sl">Na kraju zločina: Miami</title>
   </programme>
-  <programme start="20221116123500 +0100" stop="20221116133500 +0100" channel="Viasat Explore">
-    <title lang="sl">Avstralski tovornjakarji</title>
+  <programme start="20221117115000 +0100" stop="20221117115500 +0100" channel="VOX">
+    <title lang="sl">Vox novice</title>
   </programme>
-  <programme start="20221116133500 +0100" stop="20221116143000 +0100" channel="Viasat Explore">
-    <title lang="sl">Avstralski lovci na zlato</title>
+  <programme start="20221117115500 +0100" stop="20221117125500 +0100" channel="VOX">
+    <title lang="sl">Kraljica nakupov</title>
   </programme>
-  <programme start="20221116143000 +0100" stop="20221116152500 +0100" channel="Viasat Explore">
-    <title lang="sl">Avstralski lovci na zlato</title>
+  <programme start="20221117125500 +0100" stop="20221117135500 +0100" channel="VOX">
+    <title lang="sl">Med tančico in solzami</title>
   </programme>
-  <programme start="20221116152500 +0100" stop="20221116162000 +0100" channel="Viasat Explore">
-    <title lang="sl">Avstralska lovca na avtomobile: Ford Capri in Holden Commodore</title>
+  <programme start="20221117135500 +0100" stop="20221117150000 +0100" channel="VOX">
+    <title lang="sl">Moj otrok, tvoj otrok - kako ga vzgojiti?</title>
   </programme>
-  <programme start="20221116162000 +0100" stop="20221116172000 +0100" channel="Viasat Explore">
-    <title lang="sl">Stare kripe na avkciji</title>
+  <programme start="20221117150000 +0100" stop="20221117160000 +0100" channel="VOX">
+    <title lang="sl">Kraljica nakupov</title>
   </programme>
-  <programme start="20221116172000 +0100" stop="20221116181500 +0100" channel="Viasat Explore">
-    <title lang="sl">Prenova krip: MGB</title>
+  <programme start="20221117160000 +0100" stop="20221117170000 +0100" channel="VOX">
+    <title lang="sl">Guidova kraljica dekoracije</title>
   </programme>
-  <programme start="20221116181500 +0100" stop="20221116191500 +0100" channel="Viasat Explore">
-    <title lang="sl">Ekstremna reševanja vlečnih služb</title>
+  <programme start="20221117170000 +0100" stop="20221117180000 +0100" channel="VOX">
+    <title lang="sl">Med tančico in solzami</title>
   </programme>
-  <programme start="20221116191500 +0100" stop="20221116201000 +0100" channel="Viasat Explore">
-    <title lang="sl">Avstralski lovci na zlato</title>
+  <programme start="20221117180000 +0100" stop="20221117190000 +0100" channel="VOX">
+    <title lang="sl">Prvi zmenek: Miza za dva</title>
   </programme>
-  <programme start="20221116201000 +0100" stop="20221116210500 +0100" channel="Viasat Explore">
-    <title lang="sl">Največje inženirske napake</title>
+  <programme start="20221117190000 +0100" stop="20221117201500 +0100" channel="VOX">
+    <title lang="sl">Popolna večerja</title>
   </programme>
-  <programme start="20221116210500 +0100" stop="20221116221000 +0100" channel="Viasat Explore">
-    <title lang="sl">Največji gradbeni spodrsljaji</title>
+  <programme start="20221117201500 +0100" stop="20221117230500 +0100" channel="VOX">
+    <title lang="sl">Maščevalci: Ultronova doba</title>
   </programme>
-  <programme start="20221116221000 +0100" stop="20221116230500 +0100" channel="Viasat Explore">
-    <title lang="sl">Avstralski lovci na zlato</title>
+  <programme start="20221117230500 +0100" stop="20221118005000 +0100" channel="VOX">
+    <title lang="sl">Hancock</title>
   </programme>
-  <programme start="20221116230500 +0100" stop="20221117000000 +0100" channel="Viasat Explore">
-    <title lang="sl">Avstralski lovci na zlato</title>
+  <programme start="20221118005000 +0100" stop="20221118011500 +0100" channel="VOX">
+    <title lang="sl">Vox novice</title>
+  </programme>
+  <programme start="20221118011500 +0100" stop="20221118020000 +0100" channel="VOX">
+    <title lang="sl">Medicinski detektivi: Skrivnosti sodne medicine</title>
+  </programme>
+  <programme start="20221118020000 +0100" stop="20221118025000 +0100" channel="VOX">
+    <title lang="sl">Medicinski detektivi: Skrivnosti sodne medicine</title>
+  </programme>
+  <programme start="20221118025000 +0100" stop="20221118034000 +0100" channel="VOX">
+    <title lang="sl">Medicinski detektivi: Skrivnosti sodne medicine</title>
+  </programme>
+  <programme start="20221118034000 +0100" stop="20221118043000 +0100" channel="VOX">
+    <title lang="sl">Medicinski detektivi: Skrivnosti sodne medicine</title>
+  </programme>
+  <programme start="20221118043000 +0100" stop="20221118045500 +0100" channel="VOX">
+    <title lang="sl">Medicinski detektivi: Skrivnosti sodne medicine</title>
+  </programme>
+  <programme start="20221118045500 +0100" stop="20221118054500 +0100" channel="VOX">
+    <title lang="sl">Na kraju zločina: New York</title>
+  </programme>
+  <programme start="20221118054500 +0100" stop="20221118063000 +0100" channel="VOX">
+    <title lang="sl">Na kraju zločina: New York</title>
+  </programme>
+  <programme start="20221118063000 +0100" stop="20221118072000 +0100" channel="VOX">
+    <title lang="sl">Na kraju zločina: New York</title>
+  </programme>
+  <programme start="20221118072000 +0100" stop="20221118081500 +0100" channel="VOX">
+    <title lang="sl">Na kraju zločina</title>
+  </programme>
+  <programme start="20221118081500 +0100" stop="20221118091000 +0100" channel="VOX">
+    <title lang="sl">Na kraju zločina</title>
+  </programme>
+  <programme start="20221118091000 +0100" stop="20221118100500 +0100" channel="VOX">
+    <title lang="sl">Na kraju zločina: Miami</title>
+  </programme>
+  <programme start="20221118100500 +0100" stop="20221118110000 +0100" channel="VOX">
+    <title lang="sl">Na kraju zločina: Miami</title>
+  </programme>
+  <programme start="20221118110000 +0100" stop="20221118115500 +0100" channel="VOX">
+    <title lang="sl">Na kraju zločina: Miami</title>
+  </programme>
+  <programme start="20221118115500 +0100" stop="20221118120000 +0100" channel="VOX">
+    <title lang="sl">Vox novice</title>
+  </programme>
+  <programme start="20221118120000 +0100" stop="20221118130000 +0100" channel="VOX">
+    <title lang="sl">Kraljica nakupov</title>
+  </programme>
+  <programme start="20221118130000 +0100" stop="20221118140000 +0100" channel="VOX">
+    <title lang="sl">Med tančico in solzami</title>
+  </programme>
+  <programme start="20221118140000 +0100" stop="20221118150000 +0100" channel="VOX">
+    <title lang="sl">Moj otrok, tvoj otrok - kako ga vzgojiti?</title>
+  </programme>
+  <programme start="20221118150000 +0100" stop="20221118160000 +0100" channel="VOX">
+    <title lang="sl">Kraljica nakupov</title>
+  </programme>
+  <programme start="20221118160000 +0100" stop="20221118170000 +0100" channel="VOX">
+    <title lang="sl">Guidova kraljica dekoracije</title>
+  </programme>
+  <programme start="20221118170000 +0100" stop="20221118180000 +0100" channel="VOX">
+    <title lang="sl">Med tančico in solzami</title>
+  </programme>
+  <programme start="20221118180000 +0100" stop="20221118190000 +0100" channel="VOX">
+    <title lang="sl">Prvi zmenek: Miza za dva</title>
+  </programme>
+  <programme start="20221118190000 +0100" stop="20221118201500 +0100" channel="VOX">
+    <title lang="sl">Popolna večerja</title>
+  </programme>
+  <programme start="20221118201500 +0100" stop="20221118221500 +0100" channel="VOX">
+    <title lang="sl">Zbogom, Nemčija</title>
+  </programme>
+  <programme start="20221118221500 +0100" stop="20221119010500 +0100" channel="VOX">
+    <title lang="sl">Maščevalci: Ultronova doba</title>
+  </programme>
+  <programme start="20221119010500 +0100" stop="20221119012500 +0100" channel="VOX">
+    <title lang="sl">Vox novice</title>
+  </programme>
+  <programme start="20221119012500 +0100" stop="20221119021500 +0100" channel="VOX">
+    <title lang="sl">Medicinski detektivi: Skrivnosti sodne medicine</title>
+  </programme>
+  <programme start="20221119021500 +0100" stop="20221119030500 +0100" channel="VOX">
+    <title lang="sl">Medicinski detektivi: Skrivnosti sodne medicine</title>
+  </programme>
+  <programme start="20221119030500 +0100" stop="20221119035500 +0100" channel="VOX">
+    <title lang="sl">Medicinski detektivi: Skrivnosti sodne medicine</title>
+  </programme>
+  <programme start="20221119035500 +0100" stop="20221119044500 +0100" channel="VOX">
+    <title lang="sl">Medicinski detektivi: Skrivnosti sodne medicine</title>
+  </programme>
+  <programme start="20221119044500 +0100" stop="20221119050500 +0100" channel="VOX">
+    <title lang="sl">Medicinski detektivi: Skrivnosti sodne medicine</title>
+  </programme>
+  <programme start="20221119050500 +0100" stop="20221119055500 +0100" channel="VOX">
+    <title lang="sl">Medicinski detektivi: Skrivnosti sodne medicine</title>
+  </programme>
+  <programme start="20221119055500 +0100" stop="20221119064000 +0100" channel="VOX">
+    <title lang="sl">Zakon in red: Zločinski naklep</title>
+  </programme>
+  <programme start="20221119064000 +0100" stop="20221119073500 +0100" channel="VOX">
+    <title lang="sl">Zakon in red: Zločinski naklep</title>
+  </programme>
+  <programme start="20221119073500 +0100" stop="20221119083000 +0100" channel="VOX">
+    <title lang="sl">Zakon in red: Zločinski naklep</title>
+  </programme>
+  <programme start="20221119083000 +0100" stop="20221119091500 +0100" channel="VOX">
+    <title lang="sl">Zakon in red: Zločinski naklep</title>
+  </programme>
+  <programme start="20221119091500 +0100" stop="20221119101000 +0100" channel="VOX">
+    <title lang="sl">Zakon in red: Zločinski naklep</title>
+  </programme>
+  <programme start="20221119101000 +0100" stop="20221119110500 +0100" channel="VOX">
+    <title lang="sl">Zakon in red: Zločinski naklep</title>
+  </programme>
+  <programme start="20221119110500 +0100" stop="20221119120000 +0100" channel="VOX">
+    <title lang="sl">Zakon in red: Zločinski naklep</title>
+  </programme>
+  <programme start="20221119120000 +0100" stop="20221119125500 +0100" channel="VOX">
+    <title lang="sl">Zakon in red: Zločinski naklep</title>
+  </programme>
+  <programme start="20221119125500 +0100" stop="20221119135500 +0100" channel="VOX">
+    <title lang="sl">Guidova kraljica dekoracije</title>
+  </programme>
+  <programme start="20221119135500 +0100" stop="20221119145500 +0100" channel="VOX">
+    <title lang="sl">Guidova kraljica dekoracije</title>
+  </programme>
+  <programme start="20221119145500 +0100" stop="20221119155500 +0100" channel="VOX">
+    <title lang="sl">Guidova kraljica dekoracije</title>
+  </programme>
+  <programme start="20221119155500 +0100" stop="20221119165500 +0100" channel="VOX">
+    <title lang="sl">Guidova kraljica dekoracije</title>
+  </programme>
+  <programme start="20221119165500 +0100" stop="20221119180000 +0100" channel="VOX">
+    <title lang="sl">Guidova kraljica dekoracije</title>
+  </programme>
+  <programme start="20221119180000 +0100" stop="20221119191000 +0100" channel="VOX">
+    <title lang="sl">Magazin domačih živali</title>
+  </programme>
+  <programme start="20221119191000 +0100" stop="20221119201500 +0100" channel="VOX">
+    <title lang="sl">Pasji profesionalec na pomoč</title>
+  </programme>
+  <programme start="20221119201500 +0100" stop="20221119223000 +0100" channel="VOX">
+    <title lang="sl">Peti val</title>
+  </programme>
+  <programme start="20221119223000 +0100" stop="20221120001000 +0100" channel="VOX">
+    <title lang="sl">Lovca na čarovnice</title>
+  </programme>
+  <programme start="20221120001000 +0100" stop="20221120011000 +0100" channel="VOX">
+    <title lang="sl">Medicinski detektivi: Skrivnosti sodne medicine</title>
+  </programme>
+  <programme start="20221120011000 +0100" stop="20221120020000 +0100" channel="VOX">
+    <title lang="sl">Medicinski detektivi: Skrivnosti sodne medicine</title>
+  </programme>
+  <programme start="20221120020000 +0100" stop="20221120025000 +0100" channel="VOX">
+    <title lang="sl">Medicinski detektivi: Skrivnosti sodne medicine</title>
+  </programme>
+  <programme start="20221120025000 +0100" stop="20221120034000 +0100" channel="VOX">
+    <title lang="sl">Medicinski detektivi: Skrivnosti sodne medicine</title>
+  </programme>
+  <programme start="20221120034000 +0100" stop="20221120043000 +0100" channel="VOX">
+    <title lang="sl">Medicinski detektivi: Skrivnosti sodne medicine</title>
+  </programme>
+  <programme start="20221120043000 +0100" stop="20221120045000 +0100" channel="VOX">
+    <title lang="sl">Medicinski detektivi: Skrivnosti sodne medicine</title>
+  </programme>
+  <programme start="20221120045000 +0100" stop="20221120054000 +0100" channel="VOX">
+    <title lang="sl">Medicinski detektivi: Skrivnosti sodne medicine</title>
+  </programme>
+  <programme start="20221120054000 +0100" stop="20221120062500 +0100" channel="VOX">
+    <title lang="sl">Zakon in red: Zločinski naklep</title>
+  </programme>
+  <programme start="20221120062500 +0100" stop="20221120072000 +0100" channel="VOX">
+    <title lang="sl">Zakon in red: Zločinski naklep</title>
+  </programme>
+  <programme start="20221120072000 +0100" stop="20221120082000 +0100" channel="VOX">
+    <title lang="sl">Zakon in red: Zločinski naklep</title>
+  </programme>
+  <programme start="20221120082000 +0100" stop="20221120091000 +0100" channel="VOX">
+    <title lang="sl">Zakon in red: Zločinski naklep</title>
+  </programme>
+  <programme start="20221120091000 +0100" stop="20221120100500 +0100" channel="VOX">
+    <title lang="sl">Zakon in red: Zločinski naklep</title>
+  </programme>
+  <programme start="20221120100500 +0100" stop="20221120115500 +0100" channel="VOX">
+    <title lang="sl">Zakon in red: Zločinski naklep</title>
+  </programme>
+  <programme start="20221120115500 +0100" stop="20221120125500 +0100" channel="VOX">
+    <title lang="sl">Zakon in red: Zločinski naklep</title>
+  </programme>
+  <programme start="20221120125500 +0100" stop="20221120135000 +0100" channel="VOX">
+    <title lang="sl">Zakon in red: Zločinski naklep</title>
+  </programme>
+  <programme start="20221120135000 +0100" stop="20221120144500 +0100" channel="VOX">
+    <title lang="sl">Zakon in red: Zločinski naklep</title>
+  </programme>
+  <programme start="20221120144500 +0100" stop="20221120154000 +0100" channel="VOX">
+    <title lang="sl">Zakon in red: Zločinski naklep</title>
+  </programme>
+  <programme start="20221120154000 +0100" stop="20221120170000 +0100" channel="VOX">
+    <title lang="sl">Hancock</title>
+  </programme>
+  <programme start="20221120170000 +0100" stop="20221120181000 +0100" channel="VOX">
+    <title lang="sl">Auto Mobil</title>
+  </programme>
+  <programme start="20221120181000 +0100" stop="20221120201500 +0100" channel="VOX">
+    <title lang="sl">Bratje na vrtu</title>
+  </programme>
+  <programme start="20221120201500 +0100" stop="20221120234000 +0100" channel="VOX">
+    <title lang="sl">Nemogoča kuhinja</title>
   </programme>
   <programme start="20221117000000 +0100" stop="20221117010000 +0100" channel="Viasat Explore">
     <title lang="sl">Umetniki rušenja - Avstralija</title>
@@ -3855,80 +3826,86 @@
   <programme start="20221119221500 +0100" stop="20221119231000 +0100" channel="Viasat Explore">
     <title lang="sl">Avstralski lovci na zlato</title>
   </programme>
-  <programme start="20221116001000 +0100" stop="20221116011000 +0100" channel="Viasat History">
-    <title lang="sl">Podzemna vojska</title>
+  <programme start="20221119231000 +0100" stop="20221120000500 +0100" channel="Viasat Explore">
+    <title lang="sl">Avstralski lovci na zlato</title>
   </programme>
-  <programme start="20221116011000 +0100" stop="20221116021000 +0100" channel="Viasat History">
-    <title lang="sl">2. svetovna vojna - Bitke za Evropo: Bitka za Šeldo</title>
+  <programme start="20221120000500 +0100" stop="20221120010000 +0100" channel="Viasat Explore">
+    <title lang="sl">Avstralski lovci na zlato</title>
   </programme>
-  <programme start="20221116021000 +0100" stop="20221116025500 +0100" channel="Viasat History">
-    <title lang="sl">Prvi Američani</title>
+  <programme start="20221120010000 +0100" stop="20221120020000 +0100" channel="Viasat Explore">
+    <title lang="sl">Avstralski lovci na dragulje: Vihar</title>
   </programme>
-  <programme start="20221116025500 +0100" stop="20221116034500 +0100" channel="Viasat History">
-    <title lang="sl">Starodavno inženirstvo: Prve arene: Kolosej</title>
+  <programme start="20221120020000 +0100" stop="20221120025500 +0100" channel="Viasat Explore">
+    <title lang="sl">Avstralski lovci na dragulje: Kamen in voda</title>
   </programme>
-  <programme start="20221116034500 +0100" stop="20221116044000 +0100" channel="Viasat History">
-    <title lang="sl">Rimske megagradnje: Arles</title>
+  <programme start="20221120025500 +0100" stop="20221120034500 +0100" channel="Viasat Explore">
+    <title lang="sl">Turkizna vročica: Ko enkrat postaneš Otteson, si Otteson za vedno</title>
   </programme>
-  <programme start="20221116044000 +0100" stop="20221116053500 +0100" channel="Viasat History">
-    <title lang="sl">Gradovi - braniki moči: Življenje za zidovi evropskih gradov</title>
+  <programme start="20221120034500 +0100" stop="20221120043500 +0100" channel="Viasat Explore">
+    <title lang="sl">Turkizna vročica: Velika izkopavanja, veliki posli</title>
   </programme>
-  <programme start="20221116053500 +0100" stop="20221116060000 +0100" channel="Viasat History">
-    <title lang="sl">Hudi izumi</title>
+  <programme start="20221120043500 +0100" stop="20221120052500 +0100" channel="Viasat Explore">
+    <title lang="sl">Turkizna vročica: Sreča je biti Otteson</title>
   </programme>
-  <programme start="20221116060000 +0100" stop="20221116070000 +0100" channel="Viasat History">
-    <title lang="sl">Planet zakladov: Srednji vzhod</title>
+  <programme start="20221120052500 +0100" stop="20221120060000 +0100" channel="Viasat Explore">
+    <title lang="sl">Turkizna vročica: V rudniku Cloud 9</title>
   </programme>
-  <programme start="20221116070000 +0100" stop="20221116075500 +0100" channel="Viasat History">
-    <title lang="sl">Skrivnosti nacističnega vojaškega stroja: Luftwaffe</title>
+  <programme start="20221120060000 +0100" stop="20221120065500 +0100" channel="Viasat Explore">
+    <title lang="sl">Reševanje težkih vozil: Avtocesta 401: Velika težava</title>
   </programme>
-  <programme start="20221116075500 +0100" stop="20221116085500 +0100" channel="Viasat History">
-    <title lang="sl">Skrivnosti nacističnega vojaškega stroja: Panzerji</title>
+  <programme start="20221120065500 +0100" stop="20221120075000 +0100" channel="Viasat Explore">
+    <title lang="sl">Reševanje težkih vozil: Avtocesta 401: Sveta nebesa, kakšna zmešnjava!</title>
   </programme>
-  <programme start="20221116085500 +0100" stop="20221116095500 +0100" channel="Viasat History">
-    <title lang="sl">Normandija 1944: Dan D in bitka za Francijo: Izčrpavanje</title>
+  <programme start="20221120075000 +0100" stop="20221120085000 +0100" channel="Viasat Explore">
+    <title lang="sl">Reševanje težkih vozil: Avtocesta 401: Avtocesta pomeni življenje</title>
   </programme>
-  <programme start="20221116095500 +0100" stop="20221116105000 +0100" channel="Viasat History">
-    <title lang="sl">Zasebna življenja kraljevih rodbin: Kralj Karel II.</title>
+  <programme start="20221120085000 +0100" stop="20221120094500 +0100" channel="Viasat Explore">
+    <title lang="sl">Reševanje težkih vozil: Avtocesta 401: Velika katastrofa</title>
   </programme>
-  <programme start="20221116105000 +0100" stop="20221116115000 +0100" channel="Viasat History">
-    <title lang="sl">Podzemna vojska</title>
+  <programme start="20221120094500 +0100" stop="20221120104000 +0100" channel="Viasat Explore">
+    <title lang="sl">Reševanje težkih vozil: Avtocesta 401: Že marsikaj sem doživel</title>
   </programme>
-  <programme start="20221116115000 +0100" stop="20221116125000 +0100" channel="Viasat History">
-    <title lang="sl">2. svetovna vojna - Bitke za Evropo: Bitka za Šeldo</title>
+  <programme start="20221120104000 +0100" stop="20221120114000 +0100" channel="Viasat Explore">
+    <title lang="sl">Reševanje težkih vozil: Avtocesta 401: Nikoli nisi varen</title>
   </programme>
-  <programme start="20221116125000 +0100" stop="20221116134500 +0100" channel="Viasat History">
-    <title lang="sl">Prvi Američani</title>
+  <programme start="20221120114000 +0100" stop="20221120123500 +0100" channel="Viasat Explore">
+    <title lang="sl">Turkizna vročica: Velika izkopavanja, veliki posli</title>
   </programme>
-  <programme start="20221116134500 +0100" stop="20221116144500 +0100" channel="Viasat History">
-    <title lang="sl">Starodavno inženirstvo: Prve arene: Kolosej</title>
+  <programme start="20221120123500 +0100" stop="20221120133000 +0100" channel="Viasat Explore">
+    <title lang="sl">Turkizna vročica: Sreča je biti Otteson</title>
   </programme>
-  <programme start="20221116144500 +0100" stop="20221116155500 +0100" channel="Viasat History">
-    <title lang="sl">Rimske megagradnje: Arles</title>
+  <programme start="20221120133000 +0100" stop="20221120142500 +0100" channel="Viasat Explore">
+    <title lang="sl">Žadasta mrzlica: V globino</title>
   </programme>
-  <programme start="20221116155500 +0100" stop="20221116165500 +0100" channel="Viasat History">
-    <title lang="sl">Gradovi - braniki moči: Življenje za zidovi evropskih gradov</title>
+  <programme start="20221120142500 +0100" stop="20221120152000 +0100" channel="Viasat Explore">
+    <title lang="sl">Avstralski lovci na zlato</title>
   </programme>
-  <programme start="20221116165500 +0100" stop="20221116175500 +0100" channel="Viasat History">
-    <title lang="sl">Zasebna življenja kraljevih rodbin: Al Capone</title>
+  <programme start="20221120152000 +0100" stop="20221120161500 +0100" channel="Viasat Explore">
+    <title lang="sl">Avstralski lovci na zlato</title>
   </programme>
-  <programme start="20221116175500 +0100" stop="20221116185000 +0100" channel="Viasat History">
-    <title lang="sl">Podzemna vojska</title>
+  <programme start="20221120161500 +0100" stop="20221120171000 +0100" channel="Viasat Explore">
+    <title lang="sl">Avstralski lovci na zlato</title>
   </programme>
-  <programme start="20221116185000 +0100" stop="20221116195500 +0100" channel="Viasat History">
-    <title lang="sl">2. svetovna vojna - Bitke za Evropo: Bitka za Siegfriedovo črto</title>
+  <programme start="20221120171000 +0100" stop="20221120181000 +0100" channel="Viasat Explore">
+    <title lang="sl">Avstralski lovci na zlato</title>
   </programme>
-  <programme start="20221116195500 +0100" stop="20221116210000 +0100" channel="Viasat History">
-    <title lang="sl">Vzpon civilizacije: Kartažani</title>
+  <programme start="20221120181000 +0100" stop="20221120191000 +0100" channel="Viasat Explore">
+    <title lang="sl">Avstralski lovci na dragulje: Vihar</title>
   </programme>
-  <programme start="20221116210000 +0100" stop="20221116220500 +0100" channel="Viasat History">
-    <title lang="sl">Stari Egipt - Kronike imperija: Vojne</title>
+  <programme start="20221120191000 +0100" stop="20221120201500 +0100" channel="Viasat Explore">
+    <title lang="sl">Avstralski lovci na dragulje: Kamen in voda</title>
   </programme>
-  <programme start="20221116220500 +0100" stop="20221116231000 +0100" channel="Viasat History">
-    <title lang="sl">Nil pod drobnogledom: Na lovu za faraoni Luksorja</title>
+  <programme start="20221120201500 +0100" stop="20221120211000 +0100" channel="Viasat Explore">
+    <title lang="sl">Avstralski lovci na zlato</title>
   </programme>
-  <programme start="20221116231000 +0100" stop="20221117000500 +0100" channel="Viasat History">
-    <title lang="sl">Prepovedana zgodovina: Skrivnosti piramid</title>
+  <programme start="20221120211000 +0100" stop="20221120220500 +0100" channel="Viasat Explore">
+    <title lang="sl">Avstralski lovci na zlato</title>
+  </programme>
+  <programme start="20221120220500 +0100" stop="20221120230000 +0100" channel="Viasat Explore">
+    <title lang="sl">Avstralski lovci na zlato</title>
+  </programme>
+  <programme start="20221120230000 +0100" stop="20221120235500 +0100" channel="Viasat Explore">
+    <title lang="sl">Avstralski lovci na zlato</title>
   </programme>
   <programme start="20221117000500 +0100" stop="20221117010500 +0100" channel="Viasat History">
     <title lang="sl">Podzemna vojska</title>
@@ -4154,5 +4131,77 @@
   </programme>
   <programme start="20221119221000 +0100" stop="20221119231500 +0100" channel="Viasat History">
     <title lang="sl">Dan D: Na krilih zmage</title>
+  </programme>
+  <programme start="20221119231500 +0100" stop="20221120002000 +0100" channel="Viasat History">
+    <title lang="sl">Drugi Goering - razdvojeno bratstvo</title>
+  </programme>
+  <programme start="20221120002000 +0100" stop="20221120012500 +0100" channel="Viasat History">
+    <title lang="sl">Starodavno inženirstvo: Prve arene: Kolosej</title>
+  </programme>
+  <programme start="20221120012500 +0100" stop="20221120023000 +0100" channel="Viasat History">
+    <title lang="sl">Rimske megagradnje: Arles</title>
+  </programme>
+  <programme start="20221120023000 +0100" stop="20221120032500 +0100" channel="Viasat History">
+    <title lang="sl">Gradovi - braniki moči: Življenje za zidovi evropskih gradov</title>
+  </programme>
+  <programme start="20221120032500 +0100" stop="20221120041500 +0100" channel="Viasat History">
+    <title lang="sl">Dešifriranje kode: Šifra, ki je končala prvo svetovno vojno</title>
+  </programme>
+  <programme start="20221120041500 +0100" stop="20221120051000 +0100" channel="Viasat History">
+    <title lang="sl">Miti: Velike skrivnosti človeštva: Sveti gral</title>
+  </programme>
+  <programme start="20221120051000 +0100" stop="20221120060500 +0100" channel="Viasat History">
+    <title lang="sl">Skrivnosti Bermudskega trikotnika: Skrivnosti iz globin</title>
+  </programme>
+  <programme start="20221120060500 +0100" stop="20221120063500 +0100" channel="Viasat History">
+    <title lang="sl">Hudi izumi</title>
+  </programme>
+  <programme start="20221120063500 +0100" stop="20221120074000 +0100" channel="Viasat History">
+    <title lang="sl">Starodavno inženirstvo: Prve arene: Kolosej</title>
+  </programme>
+  <programme start="20221120074000 +0100" stop="20221120084500 +0100" channel="Viasat History">
+    <title lang="sl">Rimske megagradnje: Arles</title>
+  </programme>
+  <programme start="20221120084500 +0100" stop="20221120095000 +0100" channel="Viasat History">
+    <title lang="sl">Gradovi - braniki moči: Življenje za zidovi evropskih gradov</title>
+  </programme>
+  <programme start="20221120095000 +0100" stop="20221120105500 +0100" channel="Viasat History">
+    <title lang="sl">Kraljeve dinastije: Sla po kroni: Vojna med bratranci</title>
+  </programme>
+  <programme start="20221120105500 +0100" stop="20221120115500 +0100" channel="Viasat History">
+    <title lang="sl">Kraljeve dinastije: Sla po kroni: Nacisti in modra kri</title>
+  </programme>
+  <programme start="20221120115500 +0100" stop="20221120125500 +0100" channel="Viasat History">
+    <title lang="sl">Kraljeve dinastije: Sla po kroni: Povojna amnezija</title>
+  </programme>
+  <programme start="20221120125500 +0100" stop="20221120135500 +0100" channel="Viasat History">
+    <title lang="sl">Kraljeve dinastije: Sla po kroni: Prekinitev tradicije</title>
+  </programme>
+  <programme start="20221120135500 +0100" stop="20221120150000 +0100" channel="Viasat History">
+    <title lang="sl">Kraljeve dinastije: Sla po kroni: Uporniška princesa</title>
+  </programme>
+  <programme start="20221120150000 +0100" stop="20221120160000 +0100" channel="Viasat History">
+    <title lang="sl">Kraljeve dinastije: Sla po kroni: Težnje po normalnosti</title>
+  </programme>
+  <programme start="20221120160000 +0100" stop="20221120165500 +0100" channel="Viasat History">
+    <title lang="sl">Glasovi umrlih: Tutankamonove skrivnosti</title>
+  </programme>
+  <programme start="20221120165500 +0100" stop="20221120175500 +0100" channel="Viasat History">
+    <title lang="sl">Glasovi umrlih: Skrivnosti Vezuva: Odštevanje do katastrofe</title>
+  </programme>
+  <programme start="20221120175500 +0100" stop="20221120185000 +0100" channel="Viasat History">
+    <title lang="sl">Glasovi umrlih: Skrivnosti Vezuva: Izbruh</title>
+  </programme>
+  <programme start="20221120185000 +0100" stop="20221120195500 +0100" channel="Viasat History">
+    <title lang="sl">Egipčanske grobnice: Sakara in pozabljene mumije</title>
+  </programme>
+  <programme start="20221120195500 +0100" stop="20221120210000 +0100" channel="Viasat History">
+    <title lang="sl">Egipčanske grobnice: Skrivnostni egipčanski sarkofagi</title>
+  </programme>
+  <programme start="20221120210000 +0100" stop="20221120220500 +0100" channel="Viasat History">
+    <title lang="sl">Skrivnosti svete sulice</title>
+  </programme>
+  <programme start="20221120220500 +0100" stop="20221120231000 +0100" channel="Viasat History">
+    <title lang="sl">Zlato med razbitinami</title>
   </programme>
 </tv>
