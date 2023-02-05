@@ -57,6 +57,7 @@
   </channel>
   <channel id="TV SLO 1">
     <display-name lang="sl">TV SLO 1</display-name>
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/slo1.png" />
     <url>http://www.siol.net</url>
   </channel>
   <channel id="TV SLO 2">
@@ -1568,20 +1569,29 @@
   <programme start="20230207090000 +0100" stop="20230207093500 +0100" channel="TV Istra">
     <title lang="sl">TV prodaja</title>
   </programme>
-  <programme start="20230207093500 +0100" stop="20230207103000 +0100" channel="TV Istra">
+  <programme start="20230207093500 +0100" stop="20230207100000 +0100" channel="TV Istra">
     <title lang="sl">Video Istra</title>
+  </programme>
+  <programme start="20230207100000 +0100" stop="20230207103000 +0100" channel="TV Istra">
+    <title lang="sl">TV prodaja</title>
   </programme>
   <programme start="20230207103000 +0100" stop="20230207104500 +0100" channel="TV Istra">
     <title lang="sl">Joga in pilates</title>
   </programme>
-  <programme start="20230207104500 +0100" stop="20230207114000 +0100" channel="TV Istra">
+  <programme start="20230207104500 +0100" stop="20230207112000 +0100" channel="TV Istra">
     <title lang="sl">Šolska liga</title>
+  </programme>
+  <programme start="20230207112000 +0100" stop="20230207114000 +0100" channel="TV Istra">
+    <title lang="sl">Glasba</title>
   </programme>
   <programme start="20230207114000 +0100" stop="20230207121500 +0100" channel="TV Istra">
     <title lang="sl">TV prodaja</title>
   </programme>
-  <programme start="20230207121500 +0100" stop="20230207140000 +0100" channel="TV Istra">
+  <programme start="20230207121500 +0100" stop="20230207130000 +0100" channel="TV Istra">
     <title lang="sl">Odprto nebo</title>
+  </programme>
+  <programme start="20230207130000 +0100" stop="20230207140000 +0100" channel="TV Istra">
+    <title lang="sl">Cenzura</title>
   </programme>
   <programme start="20230207140000 +0100" stop="20230207143500 +0100" channel="TV Istra">
     <title lang="sl">Kratki rezi</title>
@@ -1592,7 +1602,13 @@
   <programme start="20230207150500 +0100" stop="20230207153000 +0100" channel="TV Istra">
     <title lang="sl">Vidiki / Kult kulture</title>
   </programme>
-  <programme start="20230207153000 +0100" stop="20230207172000 +0100" channel="TV Istra">
+  <programme start="20230207153000 +0100" stop="20230207160000 +0100" channel="TV Istra">
+    <title lang="sl">TV prodaja</title>
+  </programme>
+  <programme start="20230207160000 +0100" stop="20230207165000 +0100" channel="TV Istra">
+    <title lang="sl">Glasba</title>
+  </programme>
+  <programme start="20230207165000 +0100" stop="20230207172000 +0100" channel="TV Istra">
     <title lang="sl">TV prodaja</title>
   </programme>
   <programme start="20230207172000 +0100" stop="20230207175000 +0100" channel="TV Istra">
@@ -1652,8 +1668,14 @@
   <programme start="20230208112000 +0100" stop="20230208114000 +0100" channel="TV Istra">
     <title lang="sl">Glasba</title>
   </programme>
-  <programme start="20230208114000 +0100" stop="20230208140500 +0100" channel="TV Istra">
+  <programme start="20230208114000 +0100" stop="20230208121500 +0100" channel="TV Istra">
     <title lang="sl">TV prodaja</title>
+  </programme>
+  <programme start="20230208121500 +0100" stop="20230208130000 +0100" channel="TV Istra">
+    <title lang="sl">Odprto nebo</title>
+  </programme>
+  <programme start="20230208130000 +0100" stop="20230208140500 +0100" channel="TV Istra">
+    <title lang="sl">Pisani svet</title>
   </programme>
   <programme start="20230208140500 +0100" stop="20230208143500 +0100" channel="TV Istra">
     <title lang="sl">Kaj pa ti misliš?</title>
@@ -1664,8 +1686,11 @@
   <programme start="20230208150500 +0100" stop="20230208153000 +0100" channel="TV Istra">
     <title lang="sl">Sprememba okvirjev</title>
   </programme>
-  <programme start="20230208153000 +0100" stop="20230208165000 +0100" channel="TV Istra">
+  <programme start="20230208153000 +0100" stop="20230208160000 +0100" channel="TV Istra">
     <title lang="sl">TV prodaja</title>
+  </programme>
+  <programme start="20230208160000 +0100" stop="20230208165000 +0100" channel="TV Istra">
+    <title lang="sl">Priprava, pozornost-šport!</title>
   </programme>
   <programme start="20230208165000 +0100" stop="20230208172000 +0100" channel="TV Istra">
     <title lang="sl">TV prodaja</title>
@@ -1673,23 +1698,38 @@
   <programme start="20230208172000 +0100" stop="20230208175000 +0100" channel="TV Istra">
     <title lang="sl">Iz arhiva</title>
   </programme>
-  <programme start="20230208175000 +0100" stop="20230208184000 +0100" channel="TV Istra">
+  <programme start="20230208175000 +0100" stop="20230208181000 +0100" channel="TV Istra">
     <title lang="sl">TV prodaja</title>
   </programme>
-  <programme start="20230208184000 +0100" stop="20230208194000 +0100" channel="TV Istra">
+  <programme start="20230208181000 +0100" stop="20230208184000 +0100" channel="TV Istra">
+    <title lang="sl">Utrip vesolja</title>
+  </programme>
+  <programme start="20230208184000 +0100" stop="20230208190500 +0100" channel="TV Istra">
     <title lang="sl">Skrivnosti uspeha</title>
   </programme>
-  <programme start="20230208194000 +0100" stop="20230208203000 +0100" channel="TV Istra">
+  <programme start="20230208190500 +0100" stop="20230208194000 +0100" channel="TV Istra">
+    <title lang="sl">Rotor</title>
+  </programme>
+  <programme start="20230208194000 +0100" stop="20230208201500 +0100" channel="TV Istra">
     <title lang="sl">Človek in bog</title>
   </programme>
-  <programme start="20230208203000 +0100" stop="20230208212000 +0100" channel="TV Istra">
+  <programme start="20230208201500 +0100" stop="20230208203000 +0100" channel="TV Istra">
+    <title lang="sl">Varuhinje zgodb</title>
+  </programme>
+  <programme start="20230208203000 +0100" stop="20230208210500 +0100" channel="TV Istra">
     <title lang="sl">Zgodbe brez meja</title>
+  </programme>
+  <programme start="20230208210500 +0100" stop="20230208212000 +0100" channel="TV Istra">
+    <title lang="sl">Link</title>
   </programme>
   <programme start="20230208212000 +0100" stop="20230208221500 +0100" channel="TV Istra">
     <title lang="sl">Ura za zdravje</title>
   </programme>
   <programme start="20230208221500 +0100" stop="20230208224000 +0100" channel="TV Istra">
     <title lang="sl">Utrip vesolja</title>
+  </programme>
+  <programme start="20230208224000 +0100" stop="20230208230000 +0100" channel="TV Istra">
+    <title lang="sl">Glasba</title>
   </programme>
   <programme start="20230205000000 +0100" stop="20230205011500 +0100" channel="TV Jadran">
     <title lang="sl">Vrata usode</title>
@@ -2355,12 +2395,12 @@
     <title lang="sl">Vzhod-zahod</title>
   </programme>
   <programme start="20230207155000 +0100" stop="20230207162000 +0100" channel="TV Koper Capodistria">
-    <title lang="sl">Artevisione magazin</title>
+    <title lang="sl">Artevisione magazin: Pablo Augusto Garelli</title>
   </programme>
-  <programme start="20230207162000 +0100" stop="20230207165500 +0100" channel="TV Koper Capodistria">
+  <programme start="20230207162000 +0100" stop="20230207165000 +0100" channel="TV Koper Capodistria">
     <title lang="sl">Petrarca</title>
   </programme>
-  <programme start="20230207165500 +0100" stop="20230207180000 +0100" channel="TV Koper Capodistria">
+  <programme start="20230207165000 +0100" stop="20230207180000 +0100" channel="TV Koper Capodistria">
     <title lang="sl">Meridiani</title>
   </programme>
   <programme start="20230207180000 +0100" stop="20230207183500 +0100" channel="TV Koper Capodistria">
@@ -2483,6 +2523,636 @@
   <programme start="20230208231500 +0100" stop="20230208234500 +0100" channel="TV Koper Capodistria">
     <title lang="sl">Najlepše besede: Davide Stocovaz</title>
   </programme>
+  <programme start="20230205000500 +0100" stop="20230205003000 +0100" channel="TV SLO 1">
+    <title lang="sl">Dnevnik Slovencev v Italiji</title>
+  </programme>
+  <programme start="20230205003000 +0100" stop="20230205005000 +0100" channel="TV SLO 1">
+    <title lang="sl">Dnevnik</title>
+  </programme>
+  <programme start="20230205005000 +0100" stop="20230205010000 +0100" channel="TV SLO 1">
+    <title lang="sl">Slovenska kronika</title>
+  </programme>
+  <programme start="20230205010000 +0100" stop="20230205011000 +0100" channel="TV SLO 1">
+    <title lang="sl">Utrip</title>
+  </programme>
+  <programme start="20230205011000 +0100" stop="20230205012000 +0100" channel="TV SLO 1">
+    <title lang="sl">Šport</title>
+  </programme>
+  <programme start="20230205012000 +0100" stop="20230205012500 +0100" channel="TV SLO 1">
+    <title lang="sl">Vreme</title>
+  </programme>
+  <programme start="20230205012500 +0100" stop="20230205070000 +0100" channel="TV SLO 1">
+    <title lang="sl">Napovedujemo</title>
+  </programme>
+  <programme start="20230205070000 +0100" stop="20230205071000 +0100" channel="TV SLO 1">
+    <title lang="sl">Profesor Baltazar: Pošast Fu-fu</title>
+  </programme>
+  <programme start="20230205071000 +0100" stop="20230205072000 +0100" channel="TV SLO 1">
+    <title lang="sl">Tilka in prijatelji: Rija in zapestnica</title>
+  </programme>
+  <programme start="20230205072000 +0100" stop="20230205073000 +0100" channel="TV SLO 1">
+    <title lang="sl">Žvenkci: Izgubljeni napev</title>
+  </programme>
+  <programme start="20230205073000 +0100" stop="20230205073500 +0100" channel="TV SLO 1">
+    <title lang="sl">Lahko noč, mladički: Hobotnice</title>
+  </programme>
+  <programme start="20230205073500 +0100" stop="20230205074000 +0100" channel="TV SLO 1">
+    <title lang="sl">Sara in Raček: Barvasta svetloba</title>
+  </programme>
+  <programme start="20230205074000 +0100" stop="20230205075000 +0100" channel="TV SLO 1">
+    <title lang="sl">Skrivni vrt: Čas za pesem</title>
+  </programme>
+  <programme start="20230205075000 +0100" stop="20230205080000 +0100" channel="TV SLO 1">
+    <title lang="sl">Kalimero: Zaplet</title>
+  </programme>
+  <programme start="20230205080000 +0100" stop="20230205080500 +0100" channel="TV SLO 1">
+    <title lang="sl">Kumijine živalske zgodbice: Gorila</title>
+  </programme>
+  <programme start="20230205080500 +0100" stop="20230205081000 +0100" channel="TV SLO 1">
+    <title lang="sl">Dimitri: Pisane vrečke</title>
+  </programme>
+  <programme start="20230205081000 +0100" stop="20230205081500 +0100" channel="TV SLO 1">
+    <title lang="sl">Kepice: Križci in krožci</title>
+  </programme>
+  <programme start="20230205081500 +0100" stop="20230205082000 +0100" channel="TV SLO 1">
+    <title lang="sl">Kepice: Fantastični štirje</title>
+  </programme>
+  <programme start="20230205082000 +0100" stop="20230205083000 +0100" channel="TV SLO 1">
+    <title lang="sl">V Goščavi: Rojstni dan</title>
+  </programme>
+  <programme start="20230205083000 +0100" stop="20230205084000 +0100" channel="TV SLO 1">
+    <title lang="sl">Knjižni molj: Prva knjiga vnovič</title>
+  </programme>
+  <programme start="20230205084000 +0100" stop="20230205084500 +0100" channel="TV SLO 1">
+    <title lang="sl">Luka in Lučka: Oblegani</title>
+  </programme>
+  <programme start="20230205084500 +0100" stop="20230205085500 +0100" channel="TV SLO 1">
+    <title lang="sl">Zvit in Zaja: Jajce</title>
+  </programme>
+  <programme start="20230205085500 +0100" stop="20230205091000 +0100" channel="TV SLO 1">
+    <title lang="sl">Niki Vrum: Spolzka cesta</title>
+  </programme>
+  <programme start="20230205091000 +0100" stop="20230205091500 +0100" channel="TV SLO 1">
+    <title lang="sl">Pujsa Pepa: Računalnik dedija Pujsa</title>
+  </programme>
+  <programme start="20230205091500 +0100" stop="20230205092500 +0100" channel="TV SLO 1">
+    <title lang="sl">Kuhar Štef: Barka sredi morja</title>
+  </programme>
+  <programme start="20230205092500 +0100" stop="20230205093000 +0100" channel="TV SLO 1">
+    <title lang="sl">Bacek Jon: Lasulja</title>
+  </programme>
+  <programme start="20230205093000 +0100" stop="20230205095500 +0100" channel="TV SLO 1">
+    <title lang="sl">Mumindol: Zlati rep</title>
+  </programme>
+  <programme start="20230205095500 +0100" stop="20230205100000 +0100" channel="TV SLO 1">
+    <title lang="sl">Mulčki: Zimske igre</title>
+  </programme>
+  <programme start="20230205100000 +0100" stop="20230205100500 +0100" channel="TV SLO 1">
+    <title lang="sl">Val: Picopek Val</title>
+  </programme>
+  <programme start="20230205100500 +0100" stop="20230205103000 +0100" channel="TV SLO 1">
+    <title lang="sl">Zoki Poki: Pošast iz kleti</title>
+  </programme>
+  <programme start="20230205103000 +0100" stop="20230205112000 +0100" channel="TV SLO 1">
+    <title lang="sl">Nedeljsko bogoslužje, prenos</title>
+  </programme>
+  <programme start="20230205112000 +0100" stop="20230205112500 +0100" channel="TV SLO 1">
+    <title lang="sl">Ozare</title>
+  </programme>
+  <programme start="20230205112500 +0100" stop="20230205120500 +0100" channel="TV SLO 1">
+    <title lang="sl">Obzorja duha: Umetnost za mlade</title>
+  </programme>
+  <programme start="20230205120500 +0100" stop="20230205130000 +0100" channel="TV SLO 1">
+    <title lang="sl">Ljudje in zemlja</title>
+  </programme>
+  <programme start="20230205130000 +0100" stop="20230205132000 +0100" channel="TV SLO 1">
+    <title lang="sl">Prvi dnevnik</title>
+  </programme>
+  <programme start="20230205132000 +0100" stop="20230205133000 +0100" channel="TV SLO 1">
+    <title lang="sl">Šport</title>
+  </programme>
+  <programme start="20230205133000 +0100" stop="20230205133500 +0100" channel="TV SLO 1">
+    <title lang="sl">Vreme</title>
+  </programme>
+  <programme start="20230205133500 +0100" stop="20230205150000 +0100" channel="TV SLO 1">
+    <title lang="sl">V petek zvečer</title>
+  </programme>
+  <programme start="20230205150000 +0100" stop="20230205163000 +0100" channel="TV SLO 1">
+    <title lang="sl">Sparing</title>
+  </programme>
+  <programme start="20230205163000 +0100" stop="20230205165500 +0100" channel="TV SLO 1">
+    <title lang="sl">TV-izložba</title>
+  </programme>
+  <programme start="20230205165500 +0100" stop="20230205171000 +0100" channel="TV SLO 1">
+    <title lang="sl">Poročila ob petih</title>
+  </programme>
+  <programme start="20230205171000 +0100" stop="20230205171500 +0100" channel="TV SLO 1">
+    <title lang="sl">Šport</title>
+  </programme>
+  <programme start="20230205171500 +0100" stop="20230205172000 +0100" channel="TV SLO 1">
+    <title lang="sl">Bacek Jon: Duh</title>
+  </programme>
+  <programme start="20230205172000 +0100" stop="20230205185500 +0100" channel="TV SLO 1">
+    <title lang="sl">Nedeljsko popoldne</title>
+  </programme>
+  <programme start="20230205185500 +0100" stop="20230205185700 +0100" channel="TV SLO 1">
+    <title lang="sl">Vreme</title>
+  </programme>
+  <programme start="20230205185700 +0100" stop="20230205191500 +0100" channel="TV SLO 1">
+    <title lang="sl">Dnevnik</title>
+  </programme>
+  <programme start="20230205191500 +0100" stop="20230205193000 +0100" channel="TV SLO 1">
+    <title lang="sl">Slovenska kronika</title>
+  </programme>
+  <programme start="20230205193000 +0100" stop="20230205194500 +0100" channel="TV SLO 1">
+    <title lang="sl">Zrcalo tedna</title>
+  </programme>
+  <programme start="20230205194500 +0100" stop="20230205195500 +0100" channel="TV SLO 1">
+    <title lang="sl">Šport</title>
+  </programme>
+  <programme start="20230205195500 +0100" stop="20230205200000 +0100" channel="TV SLO 1">
+    <title lang="sl">Vreme</title>
+  </programme>
+  <programme start="20230205200000 +0100" stop="20230205205500 +0100" channel="TV SLO 1">
+    <title lang="sl">Primeri inšpektorja Vrenka 2: Obsedenosti 1. del</title>
+  </programme>
+  <programme start="20230205205500 +0100" stop="20230205215500 +0100" channel="TV SLO 1">
+    <title lang="sl">Intervju: prof. dr. Marko Milosavljević</title>
+  </programme>
+  <programme start="20230205215500 +0100" stop="20230205221000 +0100" channel="TV SLO 1">
+    <title lang="sl">Poročila</title>
+  </programme>
+  <programme start="20230205221000 +0100" stop="20230205222000 +0100" channel="TV SLO 1">
+    <title lang="sl">Šport</title>
+  </programme>
+  <programme start="20230205222000 +0100" stop="20230205222500 +0100" channel="TV SLO 1">
+    <title lang="sl">Vreme</title>
+  </programme>
+  <programme start="20230205222500 +0100" stop="20230205235500 +0100" channel="TV SLO 1">
+    <title lang="sl">Iskre v času, svetovni računalniški podvig</title>
+  </programme>
+  <programme start="20230205235500 +0100" stop="20230206000500 +0100" channel="TV SLO 1">
+    <title lang="sl">Za lahko noč: Ansambel Vedun: Polnina slovenskega blagozvočja</title>
+  </programme>
+  <programme start="20230206000500 +0100" stop="20230206003500 +0100" channel="TV SLO 1">
+    <title lang="sl">Dnevnik Slovencev v Italiji</title>
+  </programme>
+  <programme start="20230206003500 +0100" stop="20230206005000 +0100" channel="TV SLO 1">
+    <title lang="sl">Dnevnik</title>
+  </programme>
+  <programme start="20230206005000 +0100" stop="20230206010000 +0100" channel="TV SLO 1">
+    <title lang="sl">Slovenska kronika</title>
+  </programme>
+  <programme start="20230206010000 +0100" stop="20230206011500 +0100" channel="TV SLO 1">
+    <title lang="sl">Zrcalo tedna</title>
+  </programme>
+  <programme start="20230206011500 +0100" stop="20230206012000 +0100" channel="TV SLO 1">
+    <title lang="sl">Šport</title>
+  </programme>
+  <programme start="20230206012000 +0100" stop="20230206012500 +0100" channel="TV SLO 1">
+    <title lang="sl">Vreme</title>
+  </programme>
+  <programme start="20230206012500 +0100" stop="20230206062000 +0100" channel="TV SLO 1">
+    <title lang="sl">Napovedujemo</title>
+  </programme>
+  <programme start="20230206062000 +0100" stop="20230206063500 +0100" channel="TV SLO 1">
+    <title lang="sl">Utrip</title>
+  </programme>
+  <programme start="20230206063500 +0100" stop="20230206065000 +0100" channel="TV SLO 1">
+    <title lang="sl">Zrcalo tedna</title>
+  </programme>
+  <programme start="20230206065000 +0100" stop="20230206070000 +0100" channel="TV SLO 1">
+    <title lang="sl">Ljubozver: Dan, ko si delimo stvari</title>
+  </programme>
+  <programme start="20230206070000 +0100" stop="20230206080000 +0100" channel="TV SLO 1">
+    <title lang="sl">Dobro jutro</title>
+  </programme>
+  <programme start="20230206080000 +0100" stop="20230206080500 +0100" channel="TV SLO 1">
+    <title lang="sl">Poročila</title>
+  </programme>
+  <programme start="20230206080500 +0100" stop="20230206090000 +0100" channel="TV SLO 1">
+    <title lang="sl">Dobro jutro</title>
+  </programme>
+  <programme start="20230206090000 +0100" stop="20230206090500 +0100" channel="TV SLO 1">
+    <title lang="sl">Poročila</title>
+  </programme>
+  <programme start="20230206090500 +0100" stop="20230206091000 +0100" channel="TV SLO 1">
+    <title lang="sl">Koyaa: Zmrzljivi šal</title>
+  </programme>
+  <programme start="20230206091000 +0100" stop="20230206093000 +0100" channel="TV SLO 1">
+    <title lang="sl">Zverjasec</title>
+  </programme>
+  <programme start="20230206093000 +0100" stop="20230206093500 +0100" channel="TV SLO 1">
+    <title lang="sl">Minuta v muzeju: Auguste Renoir: Ples v Moulin de la Galette</title>
+  </programme>
+  <programme start="20230206093500 +0100" stop="20230206094500 +0100" channel="TV SLO 1">
+    <title lang="sl">Jaz sem Ana, ich bin Peter: Živali</title>
+  </programme>
+  <programme start="20230206094500 +0100" stop="20230206095500 +0100" channel="TV SLO 1">
+    <title lang="sl">MMF - Mladi Mojstri Financ: Osebno bančništvo</title>
+  </programme>
+  <programme start="20230206095500 +0100" stop="20230206100500 +0100" channel="TV SLO 1">
+    <title lang="sl">MMF - Mladi Mojstri Financ: Inflacija</title>
+  </programme>
+  <programme start="20230206100500 +0100" stop="20230206114500 +0100" channel="TV SLO 1">
+    <title lang="sl">Pravo leto</title>
+  </programme>
+  <programme start="20230206114500 +0100" stop="20230206120000 +0100" channel="TV SLO 1">
+    <title lang="sl">TV-izložba</title>
+  </programme>
+  <programme start="20230206120000 +0100" stop="20230206130000 +0100" channel="TV SLO 1">
+    <title lang="sl">V vrtincu ljubezni</title>
+  </programme>
+  <programme start="20230206130000 +0100" stop="20230206132000 +0100" channel="TV SLO 1">
+    <title lang="sl">Prvi dnevnik</title>
+  </programme>
+  <programme start="20230206132000 +0100" stop="20230206133000 +0100" channel="TV SLO 1">
+    <title lang="sl">Šport</title>
+  </programme>
+  <programme start="20230206133000 +0100" stop="20230206133500 +0100" channel="TV SLO 1">
+    <title lang="sl">Vreme</title>
+  </programme>
+  <programme start="20230206133500 +0100" stop="20230206143000 +0100" channel="TV SLO 1">
+    <title lang="sl">Odpotovanja: Tajska</title>
+  </programme>
+  <programme start="20230206143000 +0100" stop="20230206144500 +0100" channel="TV SLO 1">
+    <title lang="sl">TV-izložba</title>
+  </programme>
+  <programme start="20230206144500 +0100" stop="20230206151500 +0100" channel="TV SLO 1">
+    <title lang="sl">S-prehodi: 50. obletnica Tržaškega partizanskega pevskega zbora Pinko Tomažič</title>
+  </programme>
+  <programme start="20230206151500 +0100" stop="20230206154500 +0100" channel="TV SLO 1">
+    <title lang="sl">Dober dan, Koroška</title>
+  </programme>
+  <programme start="20230206154500 +0100" stop="20230206160500 +0100" channel="TV SLO 1">
+    <title lang="sl">TV-izložba</title>
+  </programme>
+  <programme start="20230206160500 +0100" stop="20230206163000 +0100" channel="TV SLO 1">
+    <title lang="sl">Z kot Zofka: Lutkar</title>
+  </programme>
+  <programme start="20230206163000 +0100" stop="20230206165500 +0100" channel="TV SLO 1">
+    <title lang="sl">TV-izložba</title>
+  </programme>
+  <programme start="20230206165500 +0100" stop="20230206171000 +0100" channel="TV SLO 1">
+    <title lang="sl">Poročila ob petih</title>
+  </programme>
+  <programme start="20230206171000 +0100" stop="20230206171500 +0100" channel="TV SLO 1">
+    <title lang="sl">Šport</title>
+  </programme>
+  <programme start="20230206171500 +0100" stop="20230206174500 +0100" channel="TV SLO 1">
+    <title lang="sl">Podjetno naprej: Alja Horvat, ilustratorka in oblikovalka</title>
+  </programme>
+  <programme start="20230206174500 +0100" stop="20230206175500 +0100" channel="TV SLO 1">
+    <title lang="sl">Zvit in Zaja: Ženski klub</title>
+  </programme>
+  <programme start="20230206175500 +0100" stop="20230206182000 +0100" channel="TV SLO 1">
+    <title lang="sl">Šef doma z Mašo: Sirčkova pita z belo čokolado in malinami</title>
+  </programme>
+  <programme start="20230206182000 +0100" stop="20230206185500 +0100" channel="TV SLO 1">
+    <title lang="sl">Vem!</title>
+  </programme>
+  <programme start="20230206185500 +0100" stop="20230206185700 +0100" channel="TV SLO 1">
+    <title lang="sl">Vreme</title>
+  </programme>
+  <programme start="20230206185700 +0100" stop="20230206192000 +0100" channel="TV SLO 1">
+    <title lang="sl">Dnevnik</title>
+  </programme>
+  <programme start="20230206192000 +0100" stop="20230206193500 +0100" channel="TV SLO 1">
+    <title lang="sl">Slovenska kronika</title>
+  </programme>
+  <programme start="20230206193500 +0100" stop="20230206194500 +0100" channel="TV SLO 1">
+    <title lang="sl">Šport</title>
+  </programme>
+  <programme start="20230206194500 +0100" stop="20230206195500 +0100" channel="TV SLO 1">
+    <title lang="sl">Kultura</title>
+  </programme>
+  <programme start="20230206195500 +0100" stop="20230206200000 +0100" channel="TV SLO 1">
+    <title lang="sl">Vreme</title>
+  </programme>
+  <programme start="20230206200000 +0100" stop="20230206210000 +0100" channel="TV SLO 1">
+    <title lang="sl">Tednik</title>
+  </programme>
+  <programme start="20230206210000 +0100" stop="20230206215500 +0100" channel="TV SLO 1">
+    <title lang="sl">Arena: O Svetlani, Evropi in malih borcih</title>
+  </programme>
+  <programme start="20230206215500 +0100" stop="20230206220000 +0100" channel="TV SLO 1">
+    <title lang="sl">Vreme</title>
+  </programme>
+  <programme start="20230206220000 +0100" stop="20230206223000 +0100" channel="TV SLO 1">
+    <title lang="sl">Odmevi</title>
+  </programme>
+  <programme start="20230206223000 +0100" stop="20230206224000 +0100" channel="TV SLO 1">
+    <title lang="sl">Šport</title>
+  </programme>
+  <programme start="20230206224000 +0100" stop="20230206231500 +0100" channel="TV SLO 1">
+    <title lang="sl">Umetni raj: Tržaški filmski festival in Krzysztof Zanussi</title>
+  </programme>
+  <programme start="20230206231500 +0100" stop="20230207004500 +0100" channel="TV SLO 1">
+    <title lang="sl">Glasbeni večer: Otvoritveni koncert Imago Sloveniae in Poletja v stari Ljubljani: Simfonični orkester RTV SLO, solisti, Ana Erčulj in Davorin Mori</title>
+  </programme>
+  <programme start="20230207004500 +0100" stop="20230207011000 +0100" channel="TV SLO 1">
+    <title lang="sl">Dnevnik Slovencev v Italiji</title>
+  </programme>
+  <programme start="20230207011000 +0100" stop="20230207013500 +0100" channel="TV SLO 1">
+    <title lang="sl">Dnevnik</title>
+  </programme>
+  <programme start="20230207013500 +0100" stop="20230207014500 +0100" channel="TV SLO 1">
+    <title lang="sl">Slovenska kronika</title>
+  </programme>
+  <programme start="20230207014500 +0100" stop="20230207015500 +0100" channel="TV SLO 1">
+    <title lang="sl">Šport</title>
+  </programme>
+  <programme start="20230207015500 +0100" stop="20230207020000 +0100" channel="TV SLO 1">
+    <title lang="sl">Kultura</title>
+  </programme>
+  <programme start="20230207020000 +0100" stop="20230207020500 +0100" channel="TV SLO 1">
+    <title lang="sl">Vreme</title>
+  </programme>
+  <programme start="20230207020500 +0100" stop="20230207061000 +0100" channel="TV SLO 1">
+    <title lang="sl">Napovedujemo</title>
+  </programme>
+  <programme start="20230207061000 +0100" stop="20230207063500 +0100" channel="TV SLO 1">
+    <title lang="sl">Odmevi</title>
+  </programme>
+  <programme start="20230207063500 +0100" stop="20230207064500 +0100" channel="TV SLO 1">
+    <title lang="sl">Šport</title>
+  </programme>
+  <programme start="20230207064500 +0100" stop="20230207070000 +0100" channel="TV SLO 1">
+    <title lang="sl">Zvit in Zaja: Ženski klub</title>
+  </programme>
+  <programme start="20230207070000 +0100" stop="20230207080000 +0100" channel="TV SLO 1">
+    <title lang="sl">Dobro jutro</title>
+  </programme>
+  <programme start="20230207080000 +0100" stop="20230207080500 +0100" channel="TV SLO 1">
+    <title lang="sl">Poročila</title>
+  </programme>
+  <programme start="20230207080500 +0100" stop="20230207090000 +0100" channel="TV SLO 1">
+    <title lang="sl">Dobro jutro</title>
+  </programme>
+  <programme start="20230207090000 +0100" stop="20230207090500 +0100" channel="TV SLO 1">
+    <title lang="sl">Poročila</title>
+  </programme>
+  <programme start="20230207090500 +0100" stop="20230207091000 +0100" channel="TV SLO 1">
+    <title lang="sl">Pujsa Pepa: Čolnarska delavnica dedija Zajca</title>
+  </programme>
+  <programme start="20230207091000 +0100" stop="20230207093500 +0100" channel="TV SLO 1">
+    <title lang="sl">Zverjašček</title>
+  </programme>
+  <programme start="20230207093500 +0100" stop="20230207094500 +0100" channel="TV SLO 1">
+    <title lang="sl">Jaz sem Ana, Ich bin Peter: Hrana in pijača</title>
+  </programme>
+  <programme start="20230207094500 +0100" stop="20230207095500 +0100" channel="TV SLO 1">
+    <title lang="sl">MMF - Mladi Mojstri Financ: Posojila in obresti</title>
+  </programme>
+  <programme start="20230207095500 +0100" stop="20230207100500 +0100" channel="TV SLO 1">
+    <title lang="sl">MMF - Mladi Mojstri Financ: Tolarji</title>
+  </programme>
+  <programme start="20230207100500 +0100" stop="20230207101500 +0100" channel="TV SLO 1">
+    <title lang="sl">Mulčki: Vse mi gre narobe</title>
+  </programme>
+  <programme start="20230207101500 +0100" stop="20230207114000 +0100" channel="TV SLO 1">
+    <title lang="sl">Bacek Jon: Farmagedon</title>
+  </programme>
+  <programme start="20230207114000 +0100" stop="20230207120000 +0100" channel="TV SLO 1">
+    <title lang="sl">TV-izložba</title>
+  </programme>
+  <programme start="20230207120000 +0100" stop="20230207130000 +0100" channel="TV SLO 1">
+    <title lang="sl">V vrtincu ljubezni</title>
+  </programme>
+  <programme start="20230207130000 +0100" stop="20230207132000 +0100" channel="TV SLO 1">
+    <title lang="sl">Prvi dnevnik</title>
+  </programme>
+  <programme start="20230207132000 +0100" stop="20230207133000 +0100" channel="TV SLO 1">
+    <title lang="sl">Šport</title>
+  </programme>
+  <programme start="20230207133000 +0100" stop="20230207133500 +0100" channel="TV SLO 1">
+    <title lang="sl">Vreme</title>
+  </programme>
+  <programme start="20230207133500 +0100" stop="20230207142500 +0100" channel="TV SLO 1">
+    <title lang="sl">Odpotovanja: Kambodža</title>
+  </programme>
+  <programme start="20230207142500 +0100" stop="20230207144000 +0100" channel="TV SLO 1">
+    <title lang="sl">TV-izložba</title>
+  </programme>
+  <programme start="20230207144000 +0100" stop="20230207145500 +0100" channel="TV SLO 1">
+    <title lang="sl">Duhovni utrip: Hafiz</title>
+  </programme>
+  <programme start="20230207145500 +0100" stop="20230207151000 +0100" channel="TV SLO 1">
+    <title lang="sl">TV-izložba</title>
+  </programme>
+  <programme start="20230207151000 +0100" stop="20230207153500 +0100" channel="TV SLO 1">
+    <title lang="sl">Rojaki</title>
+  </programme>
+  <programme start="20230207153500 +0100" stop="20230207160500 +0100" channel="TV SLO 1">
+    <title lang="sl">Potepanja - Barangolások</title>
+  </programme>
+  <programme start="20230207160500 +0100" stop="20230207163000 +0100" channel="TV SLO 1">
+    <title lang="sl">Žogomet: Največji rop vseh časov</title>
+  </programme>
+  <programme start="20230207163000 +0100" stop="20230207165500 +0100" channel="TV SLO 1">
+    <title lang="sl">TV-izložba</title>
+  </programme>
+  <programme start="20230207165500 +0100" stop="20230207171000 +0100" channel="TV SLO 1">
+    <title lang="sl">Poročila ob petih</title>
+  </programme>
+  <programme start="20230207171000 +0100" stop="20230207171500 +0100" channel="TV SLO 1">
+    <title lang="sl">Šport</title>
+  </programme>
+  <programme start="20230207171500 +0100" stop="20230207174500 +0100" channel="TV SLO 1">
+    <title lang="sl">Slovenski magazin</title>
+  </programme>
+  <programme start="20230207174500 +0100" stop="20230207175500 +0100" channel="TV SLO 1">
+    <title lang="sl">Superjelen Jani: Jani in Gašperjev rojstni dan</title>
+  </programme>
+  <programme start="20230207175500 +0100" stop="20230207182000 +0100" channel="TV SLO 1">
+    <title lang="sl">Šef doma s Petro: Azijski zvitki z rakci v pečici, široki rezanci z govedino</title>
+  </programme>
+  <programme start="20230207182000 +0100" stop="20230207185500 +0100" channel="TV SLO 1">
+    <title lang="sl">Vem!</title>
+  </programme>
+  <programme start="20230207185500 +0100" stop="20230207185700 +0100" channel="TV SLO 1">
+    <title lang="sl">Vreme</title>
+  </programme>
+  <programme start="20230207185700 +0100" stop="20230207192000 +0100" channel="TV SLO 1">
+    <title lang="sl">Dnevnik</title>
+  </programme>
+  <programme start="20230207192000 +0100" stop="20230207193500 +0100" channel="TV SLO 1">
+    <title lang="sl">Slovenska kronika</title>
+  </programme>
+  <programme start="20230207193500 +0100" stop="20230207194500 +0100" channel="TV SLO 1">
+    <title lang="sl">Šport</title>
+  </programme>
+  <programme start="20230207194500 +0100" stop="20230207195500 +0100" channel="TV SLO 1">
+    <title lang="sl">Kultura</title>
+  </programme>
+  <programme start="20230207195500 +0100" stop="20230207200000 +0100" channel="TV SLO 1">
+    <title lang="sl">Vreme</title>
+  </programme>
+  <programme start="20230207200000 +0100" stop="20230207213000 +0100" channel="TV SLO 1">
+    <title lang="sl">Proslava ob slovenskem kulturnem prazniku s podelitvijo Prešernovih nagrad in nagrad Prešernovega sklada</title>
+  </programme>
+  <programme start="20230207213000 +0100" stop="20230207215500 +0100" channel="TV SLO 1">
+    <title lang="sl">iZBRANE BESEDE</title>
+  </programme>
+  <programme start="20230207215500 +0100" stop="20230207220000 +0100" channel="TV SLO 1">
+    <title lang="sl">Vreme</title>
+  </programme>
+  <programme start="20230207220000 +0100" stop="20230207223000 +0100" channel="TV SLO 1">
+    <title lang="sl">Odmevi</title>
+  </programme>
+  <programme start="20230207223000 +0100" stop="20230207224500 +0100" channel="TV SLO 1">
+    <title lang="sl">Šport</title>
+  </programme>
+  <programme start="20230207224500 +0100" stop="20230208012000 +0100" channel="TV SLO 1">
+    <title lang="sl">Spomini: Izidor Čebron</title>
+  </programme>
+  <programme start="20230208012000 +0100" stop="20230208014500 +0100" channel="TV SLO 1">
+    <title lang="sl">Dnevnik Slovencev v Italiji</title>
+  </programme>
+  <programme start="20230208014500 +0100" stop="20230208021000 +0100" channel="TV SLO 1">
+    <title lang="sl">Dnevnik</title>
+  </programme>
+  <programme start="20230208021000 +0100" stop="20230208022000 +0100" channel="TV SLO 1">
+    <title lang="sl">Slovenska kronika</title>
+  </programme>
+  <programme start="20230208022000 +0100" stop="20230208022500 +0100" channel="TV SLO 1">
+    <title lang="sl">Šport</title>
+  </programme>
+  <programme start="20230208022500 +0100" stop="20230208023500 +0100" channel="TV SLO 1">
+    <title lang="sl">Kultura</title>
+  </programme>
+  <programme start="20230208023500 +0100" stop="20230208024000 +0100" channel="TV SLO 1">
+    <title lang="sl">Vreme</title>
+  </programme>
+  <programme start="20230208024000 +0100" stop="20230208061000 +0100" channel="TV SLO 1">
+    <title lang="sl">Napovedujemo</title>
+  </programme>
+  <programme start="20230208061000 +0100" stop="20230208063500 +0100" channel="TV SLO 1">
+    <title lang="sl">Odmevi</title>
+  </programme>
+  <programme start="20230208063500 +0100" stop="20230208064500 +0100" channel="TV SLO 1">
+    <title lang="sl">Šport</title>
+  </programme>
+  <programme start="20230208064500 +0100" stop="20230208070000 +0100" channel="TV SLO 1">
+    <title lang="sl">Superjelen Jani: Jani in Gašperjev rojstni dan</title>
+  </programme>
+  <programme start="20230208070000 +0100" stop="20230208090000 +0100" channel="TV SLO 1">
+    <title lang="sl">Dobro jutro</title>
+  </programme>
+  <programme start="20230208090000 +0100" stop="20230208090500 +0100" channel="TV SLO 1">
+    <title lang="sl">Pujsa Pepa: Žvenk, tresk in bam!</title>
+  </programme>
+  <programme start="20230208090500 +0100" stop="20230208091000 +0100" channel="TV SLO 1">
+    <title lang="sl">Pujsa Pepa: Prvak oči Pujs</title>
+  </programme>
+  <programme start="20230208091000 +0100" stop="20230208093000 +0100" channel="TV SLO 1">
+    <title lang="sl">Superjelen Jani: Jani in prepovedane ljubezenske zgodbe</title>
+  </programme>
+  <programme start="20230208093000 +0100" stop="20230208093500 +0100" channel="TV SLO 1">
+    <title lang="sl">Minuta v muzeju: Oklep iz štirih ogledal</title>
+  </programme>
+  <programme start="20230208093500 +0100" stop="20230208094500 +0100" channel="TV SLO 1">
+    <title lang="sl">Jaz sem Ana, Ich bin Peter: Rojstni dan</title>
+  </programme>
+  <programme start="20230208094500 +0100" stop="20230208095500 +0100" channel="TV SLO 1">
+    <title lang="sl">MMF - Mladi Mojstri Financ: O ponarejanju denarja</title>
+  </programme>
+  <programme start="20230208095500 +0100" stop="20230208100000 +0100" channel="TV SLO 1">
+    <title lang="sl">Mulčki: Nesporazumi</title>
+  </programme>
+  <programme start="20230208100000 +0100" stop="20230208114500 +0100" channel="TV SLO 1">
+    <title lang="sl">Rocca spreminja svet</title>
+  </programme>
+  <programme start="20230208114500 +0100" stop="20230208120000 +0100" channel="TV SLO 1">
+    <title lang="sl">TV-izložba</title>
+  </programme>
+  <programme start="20230208120000 +0100" stop="20230208130000 +0100" channel="TV SLO 1">
+    <title lang="sl">V vrtincu ljubezni</title>
+  </programme>
+  <programme start="20230208130000 +0100" stop="20230208132000 +0100" channel="TV SLO 1">
+    <title lang="sl">Prvi dnevnik</title>
+  </programme>
+  <programme start="20230208132000 +0100" stop="20230208133000 +0100" channel="TV SLO 1">
+    <title lang="sl">Šport</title>
+  </programme>
+  <programme start="20230208133000 +0100" stop="20230208133500 +0100" channel="TV SLO 1">
+    <title lang="sl">Vreme</title>
+  </programme>
+  <programme start="20230208133500 +0100" stop="20230208143000 +0100" channel="TV SLO 1">
+    <title lang="sl">Odpotovanja: Kanada: Na sever</title>
+  </programme>
+  <programme start="20230208143000 +0100" stop="20230208144500 +0100" channel="TV SLO 1">
+    <title lang="sl">TV-izložba</title>
+  </programme>
+  <programme start="20230208144500 +0100" stop="20230208151500 +0100" channel="TV SLO 1">
+    <title lang="sl">Osmi dan</title>
+  </programme>
+  <programme start="20230208151500 +0100" stop="20230208153000 +0100" channel="TV SLO 1">
+    <title lang="sl">TV-izložba</title>
+  </programme>
+  <programme start="20230208153000 +0100" stop="20230208160000 +0100" channel="TV SLO 1">
+    <title lang="sl">Mostovi - Hidak</title>
+  </programme>
+  <programme start="20230208160000 +0100" stop="20230208165500 +0100" channel="TV SLO 1">
+    <title lang="sl">Male sive celice: OŠ Stranje in OŠ dr. Vita Kraigherja Ljubljana</title>
+  </programme>
+  <programme start="20230208165500 +0100" stop="20230208171000 +0100" channel="TV SLO 1">
+    <title lang="sl">Poročila ob petih</title>
+  </programme>
+  <programme start="20230208171000 +0100" stop="20230208171500 +0100" channel="TV SLO 1">
+    <title lang="sl">Šport</title>
+  </programme>
+  <programme start="20230208171500 +0100" stop="20230208174000 +0100" channel="TV SLO 1">
+    <title lang="sl">Kdo se boji slovenščine?: Šolska glasila</title>
+  </programme>
+  <programme start="20230208174000 +0100" stop="20230208174500 +0100" channel="TV SLO 1">
+    <title lang="sl">Kumijine živalske zgodbice: Meduza</title>
+  </programme>
+  <programme start="20230208174500 +0100" stop="20230208175500 +0100" channel="TV SLO 1">
+    <title lang="sl">Knjižni molj: Portreti</title>
+  </programme>
+  <programme start="20230208175500 +0100" stop="20230208182000 +0100" channel="TV SLO 1">
+    <title lang="sl">Šef doma z Mašo: Kremna juha iz špinače in graha, hitri skutni štruklji</title>
+  </programme>
+  <programme start="20230208182000 +0100" stop="20230208185500 +0100" channel="TV SLO 1">
+    <title lang="sl">Vem!</title>
+  </programme>
+  <programme start="20230208185500 +0100" stop="20230208185700 +0100" channel="TV SLO 1">
+    <title lang="sl">Vreme</title>
+  </programme>
+  <programme start="20230208185700 +0100" stop="20230208192000 +0100" channel="TV SLO 1">
+    <title lang="sl">Dnevnik</title>
+  </programme>
+  <programme start="20230208192000 +0100" stop="20230208193500 +0100" channel="TV SLO 1">
+    <title lang="sl">Slovenska kronika</title>
+  </programme>
+  <programme start="20230208193500 +0100" stop="20230208194500 +0100" channel="TV SLO 1">
+    <title lang="sl">Šport</title>
+  </programme>
+  <programme start="20230208194500 +0100" stop="20230208195500 +0100" channel="TV SLO 1">
+    <title lang="sl">Kultura</title>
+  </programme>
+  <programme start="20230208195500 +0100" stop="20230208200500 +0100" channel="TV SLO 1">
+    <title lang="sl">Vreme</title>
+  </programme>
+  <programme start="20230208200500 +0100" stop="20230208220000 +0100" channel="TV SLO 1">
+    <title lang="sl">Film tedna: Inventura</title>
+  </programme>
+  <programme start="20230208220000 +0100" stop="20230208221500 +0100" channel="TV SLO 1">
+    <title lang="sl">Babičino seksualno življenje</title>
+  </programme>
+  <programme start="20230208221500 +0100" stop="20230208230000 +0100" channel="TV SLO 1">
+    <title lang="sl">Portreti Prešernovih nagrajencev</title>
+  </programme>
+  <programme start="20230208230000 +0100" stop="20230208231500 +0100" channel="TV SLO 1">
+    <title lang="sl">Poročila</title>
+  </programme>
+  <programme start="20230208231500 +0100" stop="20230208232000 +0100" channel="TV SLO 1">
+    <title lang="sl">Šport</title>
+  </programme>
+  <programme start="20230208232000 +0100" stop="20230208232500 +0100" channel="TV SLO 1">
+    <title lang="sl">Vreme</title>
+  </programme>
   <programme start="20230205003000 +0100" stop="20230205060000 +0100" channel="TV SLO 2">
     <title lang="sl">Videonoč</title>
   </programme>
@@ -2552,16 +3222,16 @@
   <programme start="20230206060000 +0100" stop="20230206083000 +0100" channel="TV SLO 2">
     <title lang="sl">Napovedujemo</title>
   </programme>
-  <programme start="20230206083000 +0100" stop="20230206094500 +0100" channel="TV SLO 2">
+  <programme start="20230206083000 +0100" stop="20230206095000 +0100" channel="TV SLO 2">
     <title lang="sl">Videotrak</title>
   </programme>
-  <programme start="20230206094500 +0100" stop="20230206104500 +0100" channel="TV SLO 2">
+  <programme start="20230206095000 +0100" stop="20230206104500 +0100" channel="TV SLO 2">
     <title lang="sl">Obzorja duha: Umetnost za mlade</title>
   </programme>
-  <programme start="20230206104500 +0100" stop="20230206121500 +0100" channel="TV SLO 2">
+  <programme start="20230206104500 +0100" stop="20230206122000 +0100" channel="TV SLO 2">
     <title lang="sl">Alpsko smučanje (Ž): Alpska kombinacija, superveleslalom, svetovno prvenstvo, Méribel</title>
   </programme>
-  <programme start="20230206121500 +0100" stop="20230206130000 +0100" channel="TV SLO 2">
+  <programme start="20230206122000 +0100" stop="20230206130000 +0100" channel="TV SLO 2">
     <title lang="sl">OdBita pot: Afrika</title>
   </programme>
   <programme start="20230206130000 +0100" stop="20230206141500 +0100" channel="TV SLO 2">
@@ -2570,13 +3240,13 @@
   <programme start="20230206141500 +0100" stop="20230206154000 +0100" channel="TV SLO 2">
     <title lang="sl">Alpsko smučanje (Ž): Alpska kombinacija, slalom, svetovno prvenstvo, Méribel</title>
   </programme>
-  <programme start="20230206154000 +0100" stop="20230206163000 +0100" channel="TV SLO 2">
+  <programme start="20230206154000 +0100" stop="20230206163500 +0100" channel="TV SLO 2">
     <title lang="sl">Ljudje in zemlja</title>
   </programme>
-  <programme start="20230206163000 +0100" stop="20230206175000 +0100" channel="TV SLO 2">
+  <programme start="20230206163500 +0100" stop="20230206174500 +0100" channel="TV SLO 2">
     <title lang="sl">Sobotno popoldne</title>
   </programme>
-  <programme start="20230206175000 +0100" stop="20230206181500 +0100" channel="TV SLO 2">
+  <programme start="20230206174500 +0100" stop="20230206181500 +0100" channel="TV SLO 2">
     <title lang="sl">Vizionar – obrtnik in podjetnik: Ivan Cajzek, gradbenik, ki premika meje</title>
   </programme>
   <programme start="20230206181500 +0100" stop="20230206192000 +0100" channel="TV SLO 2">
@@ -2585,10 +3255,10 @@
   <programme start="20230206192000 +0100" stop="20230206193000 +0100" channel="TV SLO 2">
     <title lang="sl">50 skladb, ki so nas zapele: Praslovan</title>
   </programme>
-  <programme start="20230206193000 +0100" stop="20230206195500 +0100" channel="TV SLO 2">
+  <programme start="20230206193000 +0100" stop="20230206195000 +0100" channel="TV SLO 2">
     <title lang="sl">Koda: Višja minimalna plača, manjša posojilna sposobnost</title>
   </programme>
-  <programme start="20230206195500 +0100" stop="20230206210000 +0100" channel="TV SLO 2">
+  <programme start="20230206195000 +0100" stop="20230206210000 +0100" channel="TV SLO 2">
     <title lang="sl">S Simonom Reevom po Mjanmaru</title>
   </programme>
   <programme start="20230206210000 +0100" stop="20230206213000 +0100" channel="TV SLO 2">
@@ -2627,34 +3297,34 @@
   <programme start="20230207121500 +0100" stop="20230207141500 +0100" channel="TV SLO 2">
     <title lang="sl">Dobro jutro</title>
   </programme>
-  <programme start="20230207141500 +0100" stop="20230207153000 +0100" channel="TV SLO 2">
+  <programme start="20230207141500 +0100" stop="20230207153500 +0100" channel="TV SLO 2">
     <title lang="sl">Alpsko smučanje (M): Alpska kombinacija, slalom, svetovno prvenstvo, Courchevel</title>
   </programme>
-  <programme start="20230207153000 +0100" stop="20230207161500 +0100" channel="TV SLO 2">
+  <programme start="20230207153500 +0100" stop="20230207162000 +0100" channel="TV SLO 2">
     <title lang="sl">Umetni raj: Tržaški filmski festival in Krzysztof Zanussi</title>
   </programme>
-  <programme start="20230207161500 +0100" stop="20230207173000 +0100" channel="TV SLO 2">
+  <programme start="20230207162000 +0100" stop="20230207173500 +0100" channel="TV SLO 2">
     <title lang="sl">Misija Liverpool: Predstavitev slovenske skladbe za Pesem Evrovizije</title>
   </programme>
-  <programme start="20230207173000 +0100" stop="20230207183000 +0100" channel="TV SLO 2">
+  <programme start="20230207173500 +0100" stop="20230207183500 +0100" channel="TV SLO 2">
     <title lang="sl">Alpsko smučanje (M): Alpska kombinacija, svetovno prvenstvo, Courchevel</title>
   </programme>
-  <programme start="20230207183000 +0100" stop="20230207192000 +0100" channel="TV SLO 2">
+  <programme start="20230207183500 +0100" stop="20230207192500 +0100" channel="TV SLO 2">
     <title lang="sl">Videotrak</title>
   </programme>
-  <programme start="20230207192000 +0100" stop="20230207195500 +0100" channel="TV SLO 2">
+  <programme start="20230207192500 +0100" stop="20230207200000 +0100" channel="TV SLO 2">
     <title lang="sl">Kdo se boji slovenščine?: Pripovedovanje</title>
   </programme>
-  <programme start="20230207195500 +0100" stop="20230207210000 +0100" channel="TV SLO 2">
+  <programme start="20230207200000 +0100" stop="20230207210000 +0100" channel="TV SLO 2">
     <title lang="sl">V deželi amišev</title>
   </programme>
   <programme start="20230207210000 +0100" stop="20230207213000 +0100" channel="TV SLO 2">
-    <title lang="sl">Za sosedovo mizo: V Yorkshiru</title>
+    <title lang="sl">Za sosedovo mizo: Na otoku Île de Ré</title>
   </programme>
-  <programme start="20230207213000 +0100" stop="20230207215000 +0100" channel="TV SLO 2">
+  <programme start="20230207213000 +0100" stop="20230207215500 +0100" channel="TV SLO 2">
     <title lang="sl">Panorama</title>
   </programme>
-  <programme start="20230207215000 +0100" stop="20230207220000 +0100" channel="TV SLO 2">
+  <programme start="20230207215500 +0100" stop="20230207220000 +0100" channel="TV SLO 2">
     <title lang="sl">Magnet</title>
   </programme>
   <programme start="20230207220000 +0100" stop="20230207231500 +0100" channel="TV SLO 2">
@@ -2672,17 +3342,17 @@
   <programme start="20230208081500 +0100" stop="20230208093000 +0100" channel="TV SLO 2">
     <title lang="sl">Videotrak</title>
   </programme>
-  <programme start="20230208093000 +0100" stop="20230208112500 +0100" channel="TV SLO 2">
+  <programme start="20230208093000 +0100" stop="20230208111500 +0100" channel="TV SLO 2">
     <title lang="sl">Proslava ob slovenskem kulturnem prazniku s podelitvijo Prešernovih nagrad in nagrad Prešernovega sklada</title>
   </programme>
-  <programme start="20230208112500 +0100" stop="20230208124500 +0100" channel="TV SLO 2">
+  <programme start="20230208111500 +0100" stop="20230208124500 +0100" channel="TV SLO 2">
     <title lang="sl">Alpsko smučanje (Ž): Superveleslalom, svetovno prvenstvo, Méribel</title>
   </programme>
   <programme start="20230208124500 +0100" stop="20230208133000 +0100" channel="TV SLO 2">
     <title lang="sl">OdBita pot: Afrika</title>
   </programme>
   <programme start="20230208133000 +0100" stop="20230208144000 +0100" channel="TV SLO 2">
-    <title lang="sl">Arena</title>
+    <title lang="sl">Arena: O Svetlani, Evropi in malih borcih</title>
   </programme>
   <programme start="20230208144000 +0100" stop="20230208161000 +0100" channel="TV SLO 2">
     <title lang="sl">Biatlon: Mešane štafete, svetovni pokal, Oberhof</title>
