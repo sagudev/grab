@@ -6,6 +6,7 @@
   </channel>
   <channel id="Gold TV">
     <display-name lang="sl">Gold TV</display-name>
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/gold.png" />
     <url>http://www.siol.net</url>
   </channel>
   <channel id="Grand 1">
@@ -48,10 +49,12 @@
   </channel>
   <channel id="Happy TV">
     <display-name lang="sl">Happy TV</display-name>
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/happy.png" />
     <url>http://www.siol.net</url>
   </channel>
   <channel id="Hayat">
     <display-name lang="sl">Hayat</display-name>
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/hayat.png" />
     <url>http://www.siol.net</url>
   </channel>
   <channel id="History Channel">
@@ -76,16 +79,225 @@
   </channel>
   <channel id="KCN">
     <display-name lang="sl">KCN</display-name>
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/kcn.png" />
     <url>http://www.siol.net</url>
   </channel>
   <channel id="KCN Music">
     <display-name lang="sl">KCN Music</display-name>
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/kcnm.png" />
     <url>http://www.siol.net</url>
   </channel>
   <channel id="KOHAVISION">
     <display-name lang="sl">KOHAVISION</display-name>
     <url>http://www.siol.net</url>
   </channel>
+  <programme start="20230220050000 +0100" stop="20230220070000 +0100" channel="Gold TV">
+    <title lang="sl">Rana ura, zlata ura</title>
+  </programme>
+  <programme start="20230220070000 +0100" stop="20230220071000 +0100" channel="Gold TV">
+    <title lang="sl">Jutranja molitev z Martinom Golobom</title>
+  </programme>
+  <programme start="20230220071000 +0100" stop="20230220080000 +0100" channel="Gold TV">
+    <title lang="sl">Rana ura, zlata ura</title>
+  </programme>
+  <programme start="20230220080000 +0100" stop="20230220081000 +0100" channel="Gold TV">
+    <title lang="sl">Jutranja molitev z Martinom Golobom</title>
+  </programme>
+  <programme start="20230220081000 +0100" stop="20230220100000 +0100" channel="Gold TV">
+    <title lang="sl">Dober dan, Slovenija</title>
+  </programme>
+  <programme start="20230220100000 +0100" stop="20230220110000 +0100" channel="Gold TV">
+    <title lang="sl">Zakladi narave</title>
+  </programme>
+  <programme start="20230220110000 +0100" stop="20230220120000 +0100" channel="Gold TV">
+    <title lang="sl">Dober dan, Slovenija</title>
+  </programme>
+  <programme start="20230220120000 +0100" stop="20230220140000 +0100" channel="Gold TV">
+    <title lang="sl">Veselo po domače</title>
+  </programme>
+  <programme start="20230220140000 +0100" stop="20230220153000 +0100" channel="Gold TV">
+    <title lang="sl">Glas harmonike</title>
+  </programme>
+  <programme start="20230220153000 +0100" stop="20230220163000 +0100" channel="Gold TV">
+    <title lang="sl">Dolina zdravja</title>
+  </programme>
+  <programme start="20230220163000 +0100" stop="20230220175000 +0100" channel="Gold TV">
+    <title lang="sl">Glas harmonike</title>
+  </programme>
+  <programme start="20230220175000 +0100" stop="20230220185500 +0100" channel="Gold TV">
+    <title lang="sl">Zakladi narave</title>
+  </programme>
+  <programme start="20230220185500 +0100" stop="20230220190000 +0100" channel="Gold TV">
+    <title lang="sl">Glas harmonike</title>
+  </programme>
+  <programme start="20230220190000 +0100" stop="20230220195000 +0100" channel="Gold TV">
+    <title lang="sl">Sveta maša</title>
+  </programme>
+  <programme start="20230220195000 +0100" stop="20230220200000 +0100" channel="Gold TV">
+    <title lang="sl">Večerna molitev z Martinom Golobom</title>
+  </programme>
+  <programme start="20230220200000 +0100" stop="20230220205500 +0100" channel="Gold TV">
+    <title lang="sl">Gruntovčani</title>
+  </programme>
+  <programme start="20230220205500 +0100" stop="20230220215500 +0100" channel="Gold TV">
+    <title lang="sl">Zakladi narave</title>
+  </programme>
+  <programme start="20230220215500 +0100" stop="20230221050000 +0100" channel="Gold TV">
+    <title lang="sl">Nocoj je ena lušna noč</title>
+  </programme>
+  <programme start="20230221050000 +0100" stop="20230221070000 +0100" channel="Gold TV">
+    <title lang="sl">Rana ura, zlata ura</title>
+  </programme>
+  <programme start="20230221070000 +0100" stop="20230221071000 +0100" channel="Gold TV">
+    <title lang="sl">Jutranja molitev z Martinom Golobom</title>
+  </programme>
+  <programme start="20230221071000 +0100" stop="20230221080000 +0100" channel="Gold TV">
+    <title lang="sl">Rana ura, zlata ura</title>
+  </programme>
+  <programme start="20230221080000 +0100" stop="20230221081000 +0100" channel="Gold TV">
+    <title lang="sl">Jutranja molitev z Martinom Golobom</title>
+  </programme>
+  <programme start="20230221081000 +0100" stop="20230221100000 +0100" channel="Gold TV">
+    <title lang="sl">Dober dan, Slovenija</title>
+  </programme>
+  <programme start="20230221100000 +0100" stop="20230221110000 +0100" channel="Gold TV">
+    <title lang="sl">Dolina zdravja</title>
+  </programme>
+  <programme start="20230221110000 +0100" stop="20230221120000 +0100" channel="Gold TV">
+    <title lang="sl">Dober dan, Slovenija</title>
+  </programme>
+  <programme start="20230221120000 +0100" stop="20230221140000 +0100" channel="Gold TV">
+    <title lang="sl">Veselo po domače</title>
+  </programme>
+  <programme start="20230221140000 +0100" stop="20230221153000 +0100" channel="Gold TV">
+    <title lang="sl">Glas harmonike</title>
+  </programme>
+  <programme start="20230221153000 +0100" stop="20230221163000 +0100" channel="Gold TV">
+    <title lang="sl">Zakladi narave</title>
+  </programme>
+  <programme start="20230221163000 +0100" stop="20230221180000 +0100" channel="Gold TV">
+    <title lang="sl">Glas harmonike</title>
+  </programme>
+  <programme start="20230221180000 +0100" stop="20230221190000 +0100" channel="Gold TV">
+    <title lang="sl">Dolina zdravja</title>
+  </programme>
+  <programme start="20230221190000 +0100" stop="20230221195000 +0100" channel="Gold TV">
+    <title lang="sl">Sveta maša</title>
+  </programme>
+  <programme start="20230221195000 +0100" stop="20230221200000 +0100" channel="Gold TV">
+    <title lang="sl">Večerna molitev z Martinom Golobom</title>
+  </programme>
+  <programme start="20230221200000 +0100" stop="20230221210000 +0100" channel="Gold TV">
+    <title lang="sl">Zakladi narave</title>
+  </programme>
+  <programme start="20230221210000 +0100" stop="20230221221500 +0100" channel="Gold TV">
+    <title lang="sl">Večer z Žargonovci</title>
+  </programme>
+  <programme start="20230221221500 +0100" stop="20230221234500 +0100" channel="Gold TV">
+    <title lang="sl">Vedeževalec Blaž</title>
+  </programme>
+  <programme start="20230221234500 +0100" stop="20230222050000 +0100" channel="Gold TV">
+    <title lang="sl">Nocoj je ena lušna noč</title>
+  </programme>
+  <programme start="20230222050000 +0100" stop="20230222070000 +0100" channel="Gold TV">
+    <title lang="sl">Rana ura, zlata ura</title>
+  </programme>
+  <programme start="20230222070000 +0100" stop="20230222071000 +0100" channel="Gold TV">
+    <title lang="sl">Jutranja molitev z Martinom Golobom</title>
+  </programme>
+  <programme start="20230222071000 +0100" stop="20230222080000 +0100" channel="Gold TV">
+    <title lang="sl">Rana ura, zlata ura</title>
+  </programme>
+  <programme start="20230222080000 +0100" stop="20230222081000 +0100" channel="Gold TV">
+    <title lang="sl">Jutranja molitev z Martinom Golobom</title>
+  </programme>
+  <programme start="20230222081000 +0100" stop="20230222100000 +0100" channel="Gold TV">
+    <title lang="sl">Dober dan, Slovenija</title>
+  </programme>
+  <programme start="20230222100000 +0100" stop="20230222110000 +0100" channel="Gold TV">
+    <title lang="sl">Zakladi narave</title>
+  </programme>
+  <programme start="20230222110000 +0100" stop="20230222120000 +0100" channel="Gold TV">
+    <title lang="sl">Dober dan, Slovenija</title>
+  </programme>
+  <programme start="20230222120000 +0100" stop="20230222140000 +0100" channel="Gold TV">
+    <title lang="sl">Veselo po domače</title>
+  </programme>
+  <programme start="20230222140000 +0100" stop="20230222153000 +0100" channel="Gold TV">
+    <title lang="sl">Glas harmonike</title>
+  </programme>
+  <programme start="20230222153000 +0100" stop="20230222163000 +0100" channel="Gold TV">
+    <title lang="sl">Dolina zdravja</title>
+  </programme>
+  <programme start="20230222163000 +0100" stop="20230222180000 +0100" channel="Gold TV">
+    <title lang="sl">Glas harmonike</title>
+  </programme>
+  <programme start="20230222180000 +0100" stop="20230222190000 +0100" channel="Gold TV">
+    <title lang="sl">Zakladi narave</title>
+  </programme>
+  <programme start="20230222190000 +0100" stop="20230222195000 +0100" channel="Gold TV">
+    <title lang="sl">Sveta maša</title>
+  </programme>
+  <programme start="20230222195000 +0100" stop="20230222200000 +0100" channel="Gold TV">
+    <title lang="sl">Večerna molitev z Martinom Golobom</title>
+  </programme>
+  <programme start="20230222200000 +0100" stop="20230222210000 +0100" channel="Gold TV">
+    <title lang="sl">Dolina zdravja</title>
+  </programme>
+  <programme start="20230222210000 +0100" stop="20230222221500 +0100" channel="Gold TV">
+    <title lang="sl">Te domače viže</title>
+  </programme>
+  <programme start="20230222221500 +0100" stop="20230223050000 +0100" channel="Gold TV">
+    <title lang="sl">Nocoj je ena lušna noč</title>
+  </programme>
+  <programme start="20230223050000 +0100" stop="20230223070000 +0100" channel="Gold TV">
+    <title lang="sl">Rana ura, zlata ura</title>
+  </programme>
+  <programme start="20230223070000 +0100" stop="20230223071000 +0100" channel="Gold TV">
+    <title lang="sl">Jutranja molitev z Martinom Golobom</title>
+  </programme>
+  <programme start="20230223071000 +0100" stop="20230223080000 +0100" channel="Gold TV">
+    <title lang="sl">Rana ura, zlata ura</title>
+  </programme>
+  <programme start="20230223080000 +0100" stop="20230223081000 +0100" channel="Gold TV">
+    <title lang="sl">Jutranja molitev z Martinom Golobom</title>
+  </programme>
+  <programme start="20230223081000 +0100" stop="20230223100000 +0100" channel="Gold TV">
+    <title lang="sl">Dober dan, Slovenija</title>
+  </programme>
+  <programme start="20230223100000 +0100" stop="20230223110000 +0100" channel="Gold TV">
+    <title lang="sl">Dolina zdravja</title>
+  </programme>
+  <programme start="20230223110000 +0100" stop="20230223120000 +0100" channel="Gold TV">
+    <title lang="sl">Dober dan, Slovenija</title>
+  </programme>
+  <programme start="20230223120000 +0100" stop="20230223140000 +0100" channel="Gold TV">
+    <title lang="sl">Veselo po domače</title>
+  </programme>
+  <programme start="20230223140000 +0100" stop="20230223153000 +0100" channel="Gold TV">
+    <title lang="sl">Glas harmonike</title>
+  </programme>
+  <programme start="20230223153000 +0100" stop="20230223163000 +0100" channel="Gold TV">
+    <title lang="sl">Zakladi narave</title>
+  </programme>
+  <programme start="20230223163000 +0100" stop="20230223180000 +0100" channel="Gold TV">
+    <title lang="sl">Glas harmonike</title>
+  </programme>
+  <programme start="20230223180000 +0100" stop="20230223190000 +0100" channel="Gold TV">
+    <title lang="sl">Dolina zdravja</title>
+  </programme>
+  <programme start="20230223190000 +0100" stop="20230223195000 +0100" channel="Gold TV">
+    <title lang="sl">Sveta maša</title>
+  </programme>
+  <programme start="20230223195000 +0100" stop="20230223200000 +0100" channel="Gold TV">
+    <title lang="sl">Večerna molitev z Martinom Golobom</title>
+  </programme>
+  <programme start="20230223200000 +0100" stop="20230223210500 +0100" channel="Gold TV">
+    <title lang="sl">Te domače viže</title>
+  </programme>
+  <programme start="20230223210500 +0100" stop="20230223221500 +0100" channel="Gold TV">
+    <title lang="sl">Dolina zdravja</title>
+  </programme>
   <programme start="20230220015500 +0100" stop="20230220030000 +0100" channel="HBO">
     <title lang="sl">The Last of Us</title>
   </programme>
@@ -1172,10 +1384,10 @@
   <programme start="20230220105300 +0100" stop="20230220114800 +0100" channel="HRT 2">
     <title lang="sl">Naravna zavetja</title>
   </programme>
-  <programme start="20230220114800 +0100" stop="20230220121600 +0100" channel="HRT 2">
+  <programme start="20230220114800 +0100" stop="20230220121500 +0100" channel="HRT 2">
     <title lang="sl">Tom Kerridge: Ameriška pojedina</title>
   </programme>
-  <programme start="20230220121600 +0100" stop="20230220132000 +0100" channel="HRT 2">
+  <programme start="20230220121500 +0100" stop="20230220132000 +0100" channel="HRT 2">
     <title lang="sl">Vaš popoln vrt</title>
   </programme>
   <programme start="20230220132000 +0100" stop="20230220142900 +0100" channel="HRT 2">
@@ -1202,10 +1414,10 @@
   <programme start="20230220184500 +0100" stop="20230220191400 +0100" channel="HRT 2">
     <title lang="sl">TV Bingo</title>
   </programme>
-  <programme start="20230220191400 +0100" stop="20230220191900 +0100" channel="HRT 2">
+  <programme start="20230220191400 +0100" stop="20230220192000 +0100" channel="HRT 2">
     <title lang="sl">Hit dneva</title>
   </programme>
-  <programme start="20230220191900 +0100" stop="20230220201500 +0100" channel="HRT 2">
+  <programme start="20230220192000 +0100" stop="20230220201500 +0100" channel="HRT 2">
     <title lang="sl">Naravna zavetja</title>
   </programme>
   <programme start="20230220201500 +0100" stop="20230220210900 +0100" channel="HRT 2">
@@ -1214,112 +1426,112 @@
   <programme start="20230220210900 +0100" stop="20230220230700 +0100" channel="HRT 2">
     <title lang="sl">Škrlatna plima</title>
   </programme>
-  <programme start="20230220230700 +0100" stop="20230220235900 +0100" channel="HRT 2">
+  <programme start="20230220230700 +0100" stop="20230221000000 +0100" channel="HRT 2">
     <title lang="sl">Ray Donovan</title>
   </programme>
-  <programme start="20230220235900 +0100" stop="20230221004500 +0100" channel="HRT 2">
+  <programme start="20230221000000 +0100" stop="20230221004600 +0100" channel="HRT 2">
     <title lang="sl">Ubij Eve</title>
   </programme>
-  <programme start="20230221004500 +0100" stop="20230221013100 +0100" channel="HRT 2">
+  <programme start="20230221004600 +0100" stop="20230221013300 +0100" channel="HRT 2">
     <title lang="sl">Ubij Eve</title>
   </programme>
-  <programme start="20230221013100 +0100" stop="20230221021800 +0100" channel="HRT 2">
+  <programme start="20230221013300 +0100" stop="20230221021800 +0100" channel="HRT 2">
     <title lang="sl">Gorski reševalci</title>
   </programme>
   <programme start="20230221021800 +0100" stop="20230221024800 +0100" channel="HRT 2">
     <title lang="sl">Glasba, glasba ...</title>
   </programme>
-  <programme start="20230221024800 +0100" stop="20230221051500 +0100" channel="HRT 2">
+  <programme start="20230221024800 +0100" stop="20230221051400 +0100" channel="HRT 2">
     <title lang="sl">Nočni glasbeni program - spoti</title>
   </programme>
-  <programme start="20230221051500 +0100" stop="20230221054500 +0100" channel="HRT 2">
+  <programme start="20230221051400 +0100" stop="20230221054400 +0100" channel="HRT 2">
     <title lang="sl">Art a la carte</title>
   </programme>
-  <programme start="20230221054500 +0100" stop="20230221061500 +0100" channel="HRT 2">
+  <programme start="20230221054400 +0100" stop="20230221061500 +0100" channel="HRT 2">
     <title lang="sl">Regionalni dnevnik</title>
   </programme>
-  <programme start="20230221061500 +0100" stop="20230221070000 +0100" channel="HRT 2">
+  <programme start="20230221061500 +0100" stop="20230221070500 +0100" channel="HRT 2">
     <title lang="sl">Dr. Oz</title>
   </programme>
-  <programme start="20230221070000 +0100" stop="20230221073000 +0100" channel="HRT 2">
+  <programme start="20230221070500 +0100" stop="20230221073300 +0100" channel="HRT 2">
     <title lang="sl">Tom Kerridge: Ameriška pojedina</title>
   </programme>
-  <programme start="20230221073000 +0100" stop="20230221083000 +0100" channel="HRT 2">
+  <programme start="20230221073300 +0100" stop="20230221082000 +0100" channel="HRT 2">
     <title lang="sl">Pomoč umazanim vrtovom</title>
   </programme>
-  <programme start="20230221083000 +0100" stop="20230221092500 +0100" channel="HRT 2">
+  <programme start="20230221082000 +0100" stop="20230221091300 +0100" channel="HRT 2">
     <title lang="sl">Prostor pod soncem - doma ali v tujini</title>
   </programme>
-  <programme start="20230221092500 +0100" stop="20230221102000 +0100" channel="HRT 2">
+  <programme start="20230221091300 +0100" stop="20230221101000 +0100" channel="HRT 2">
     <title lang="sl">Paul Hollywood in dobrote Mehike</title>
   </programme>
-  <programme start="20230221102000 +0100" stop="20230221111500 +0100" channel="HRT 2">
+  <programme start="20230221101000 +0100" stop="20230221110000 +0100" channel="HRT 2">
     <title lang="sl">Sanjske kuhinje in kopalnice</title>
   </programme>
-  <programme start="20230221111500 +0100" stop="20230221121500 +0100" channel="HRT 2">
+  <programme start="20230221110000 +0100" stop="20230221115500 +0100" channel="HRT 2">
     <title lang="sl">Naravna zavetja</title>
   </programme>
-  <programme start="20230221121500 +0100" stop="20230221124500 +0100" channel="HRT 2">
+  <programme start="20230221115500 +0100" stop="20230221122500 +0100" channel="HRT 2">
     <title lang="sl">Tom Kerridge: Ameriška pojedina</title>
   </programme>
-  <programme start="20230221124500 +0100" stop="20230221134500 +0100" channel="HRT 2">
+  <programme start="20230221122500 +0100" stop="20230221132000 +0100" channel="HRT 2">
     <title lang="sl">Pomoč umazanim vrtovom</title>
   </programme>
-  <programme start="20230221134500 +0100" stop="20230221143500 +0100" channel="HRT 2">
+  <programme start="20230221132000 +0100" stop="20230221142500 +0100" channel="HRT 2">
     <title lang="sl">Don Matteo</title>
   </programme>
-  <programme start="20230221143500 +0100" stop="20230221160500 +0100" channel="HRT 2">
+  <programme start="20230221142500 +0100" stop="20230221160000 +0100" channel="HRT 2">
     <title lang="sl">Umori na podeželju: Smrt s prepričevanjem</title>
   </programme>
-  <programme start="20230221160500 +0100" stop="20230221162000 +0100" channel="HRT 2">
+  <programme start="20230221160000 +0100" stop="20230221161700 +0100" channel="HRT 2">
     <title lang="sl">TV koledar</title>
   </programme>
-  <programme start="20230221162000 +0100" stop="20230221171500 +0100" channel="HRT 2">
+  <programme start="20230221161700 +0100" stop="20230221171500 +0100" channel="HRT 2">
     <title lang="sl">Kaj je novega v Izraelu</title>
   </programme>
-  <programme start="20230221171500 +0100" stop="20230221174500 +0100" channel="HRT 2">
+  <programme start="20230221171500 +0100" stop="20230221174400 +0100" channel="HRT 2">
     <title lang="sl">Znanstveni krogi</title>
   </programme>
-  <programme start="20230221174500 +0100" stop="20230221182000 +0100" channel="HRT 2">
+  <programme start="20230221174400 +0100" stop="20230221181800 +0100" channel="HRT 2">
     <title lang="sl">Dom na kvadrat</title>
   </programme>
-  <programme start="20230221182000 +0100" stop="20230221184500 +0100" channel="HRT 2">
+  <programme start="20230221181800 +0100" stop="20230221184500 +0100" channel="HRT 2">
     <title lang="sl">Glas domovine</title>
   </programme>
   <programme start="20230221184500 +0100" stop="20230221191000 +0100" channel="HRT 2">
     <title lang="sl">turizem.hrt</title>
   </programme>
-  <programme start="20230221191000 +0100" stop="20230221191500 +0100" channel="HRT 2">
+  <programme start="20230221191000 +0100" stop="20230221191900 +0100" channel="HRT 2">
     <title lang="sl">Hit dneva</title>
   </programme>
-  <programme start="20230221191500 +0100" stop="20230221201500 +0100" channel="HRT 2">
+  <programme start="20230221191900 +0100" stop="20230221201500 +0100" channel="HRT 2">
     <title lang="sl">Naravna zavetja</title>
   </programme>
   <programme start="20230221201500 +0100" stop="20230221211000 +0100" channel="HRT 2">
     <title lang="sl">Evropa od zgoraj: Finska</title>
   </programme>
-  <programme start="20230221211000 +0100" stop="20230221224000 +0100" channel="HRT 2">
+  <programme start="20230221211000 +0100" stop="20230221224900 +0100" channel="HRT 2">
     <title lang="sl">Nerazumen človek</title>
   </programme>
-  <programme start="20230221224000 +0100" stop="20230221233000 +0100" channel="HRT 2">
+  <programme start="20230221224900 +0100" stop="20230221234000 +0100" channel="HRT 2">
     <title lang="sl">Ray Donovan</title>
   </programme>
-  <programme start="20230221233000 +0100" stop="20230222002000 +0100" channel="HRT 2">
+  <programme start="20230221234000 +0100" stop="20230222002700 +0100" channel="HRT 2">
     <title lang="sl">Ubij Eve</title>
   </programme>
-  <programme start="20230222002000 +0100" stop="20230222011000 +0100" channel="HRT 2">
+  <programme start="20230222002700 +0100" stop="20230222011400 +0100" channel="HRT 2">
     <title lang="sl">Ubij Eve</title>
   </programme>
-  <programme start="20230222011000 +0100" stop="20230222015500 +0100" channel="HRT 2">
+  <programme start="20230222011400 +0100" stop="20230222020200 +0100" channel="HRT 2">
     <title lang="sl">Gorski reševalci</title>
   </programme>
-  <programme start="20230222015500 +0100" stop="20230222022500 +0100" channel="HRT 2">
+  <programme start="20230222020200 +0100" stop="20230222023300 +0100" channel="HRT 2">
     <title lang="sl">Glasba, glasba ...</title>
   </programme>
-  <programme start="20230222022500 +0100" stop="20230222044500 +0100" channel="HRT 2">
+  <programme start="20230222023300 +0100" stop="20230222045700 +0100" channel="HRT 2">
     <title lang="sl">Nočni glasbeni program - spoti</title>
   </programme>
-  <programme start="20230222044500 +0100" stop="20230222051500 +0100" channel="HRT 2">
+  <programme start="20230222045700 +0100" stop="20230222051500 +0100" channel="HRT 2">
     <title lang="sl">Sočutna Zemlja</title>
   </programme>
   <programme start="20230222051500 +0100" stop="20230222054500 +0100" channel="HRT 2">
@@ -1371,7 +1583,7 @@
     <title lang="sl">Eko cona</title>
   </programme>
   <programme start="20230222174500 +0100" stop="20230222181500 +0100" channel="HRT 2">
-    <title lang="sl">Diagnoza</title>
+    <title lang="sl">Diagnoza: Bolezni ščitnice</title>
   </programme>
   <programme start="20230222181500 +0100" stop="20230222184000 +0100" channel="HRT 2">
     <title lang="sl">Pogled prek meja - Hrvati v BiH</title>
@@ -1394,22 +1606,22 @@
   <programme start="20230222220500 +0100" stop="20230222225500 +0100" channel="HRT 2">
     <title lang="sl">Nogomet: Osmina finala, 2. polčas, Liga prvakov</title>
   </programme>
-  <programme start="20230222225500 +0100" stop="20230222233000 +0100" channel="HRT 2">
+  <programme start="20230222225500 +0100" stop="20230222234000 +0100" channel="HRT 2">
     <title lang="sl">Nogomet: Oddaja, Liga prvakov</title>
   </programme>
-  <programme start="20230222233000 +0100" stop="20230223002000 +0100" channel="HRT 2">
+  <programme start="20230222234000 +0100" stop="20230223003000 +0100" channel="HRT 2">
     <title lang="sl">Ray Donovan</title>
   </programme>
-  <programme start="20230223002000 +0100" stop="20230223011000 +0100" channel="HRT 2">
+  <programme start="20230223003000 +0100" stop="20230223012000 +0100" channel="HRT 2">
     <title lang="sl">Ubij Eve</title>
   </programme>
-  <programme start="20230223011000 +0100" stop="20230223020000 +0100" channel="HRT 2">
+  <programme start="20230223012000 +0100" stop="20230223021000 +0100" channel="HRT 2">
     <title lang="sl">Ubij Eve</title>
   </programme>
-  <programme start="20230223020000 +0100" stop="20230223023000 +0100" channel="HRT 2">
+  <programme start="20230223021000 +0100" stop="20230223024000 +0100" channel="HRT 2">
     <title lang="sl">Glasba, glasba ...</title>
   </programme>
-  <programme start="20230223023000 +0100" stop="20230223051500 +0100" channel="HRT 2">
+  <programme start="20230223024000 +0100" stop="20230223051500 +0100" channel="HRT 2">
     <title lang="sl">Nočni glasbeni program - spoti</title>
   </programme>
   <programme start="20230223051500 +0100" stop="20230223054500 +0100" channel="HRT 2">
@@ -1727,230 +1939,230 @@
   <programme start="20230221050200 +0100" stop="20230221063500 +0100" channel="HRT 3">
     <title lang="sl">Evropejca</title>
   </programme>
-  <programme start="20230221063500 +0100" stop="20230221063700 +0100" channel="HRT 3">
+  <programme start="20230221063500 +0100" stop="20230221063600 +0100" channel="HRT 3">
     <title lang="sl">Juhuhu</title>
   </programme>
-  <programme start="20230221063700 +0100" stop="20230221065900 +0100" channel="HRT 3">
+  <programme start="20230221063600 +0100" stop="20230221065800 +0100" channel="HRT 3">
     <title lang="sl">Blaze in megakolesniki</title>
   </programme>
-  <programme start="20230221065900 +0100" stop="20230221070000 +0100" channel="HRT 3">
+  <programme start="20230221065800 +0100" stop="20230221065900 +0100" channel="HRT 3">
     <title lang="sl">Juhuhu</title>
   </programme>
-  <programme start="20230221070000 +0100" stop="20230221070300 +0100" channel="HRT 3">
+  <programme start="20230221065900 +0100" stop="20230221070200 +0100" channel="HRT 3">
     <title lang="sl">Pesem Copati</title>
   </programme>
-  <programme start="20230221070300 +0100" stop="20230221071000 +0100" channel="HRT 3">
+  <programme start="20230221070200 +0100" stop="20230221070700 +0100" channel="HRT 3">
     <title lang="sl">Kockaste številke</title>
   </programme>
-  <programme start="20230221071000 +0100" stop="20230221071700 +0100" channel="HRT 3">
+  <programme start="20230221070700 +0100" stop="20230221071400 +0100" channel="HRT 3">
     <title lang="sl">Jojo in lepe besede: Dober tek</title>
   </programme>
-  <programme start="20230221071700 +0100" stop="20230221072400 +0100" channel="HRT 3">
+  <programme start="20230221071400 +0100" stop="20230221072100 +0100" channel="HRT 3">
     <title lang="sl">Bluey</title>
   </programme>
-  <programme start="20230221072400 +0100" stop="20230221072600 +0100" channel="HRT 3">
+  <programme start="20230221072100 +0100" stop="20230221072400 +0100" channel="HRT 3">
     <title lang="sl">Pesmica Skuštrana glava</title>
   </programme>
-  <programme start="20230221072600 +0100" stop="20230221073100 +0100" channel="HRT 3">
+  <programme start="20230221072400 +0100" stop="20230221072900 +0100" channel="HRT 3">
     <title lang="sl">Mišo in Robin</title>
   </programme>
-  <programme start="20230221073100 +0100" stop="20230221073200 +0100" channel="HRT 3">
+  <programme start="20230221072900 +0100" stop="20230221073100 +0100" channel="HRT 3">
     <title lang="sl">Mišo in Robin: Pesmica - Rima</title>
   </programme>
-  <programme start="20230221073200 +0100" stop="20230221073500 +0100" channel="HRT 3">
-    <title lang="sl">Juhuhu Vezalke</title>
-  </programme>
-  <programme start="20230221073500 +0100" stop="20230221074200 +0100" channel="HRT 3">
+  <programme start="20230221073100 +0100" stop="20230221073900 +0100" channel="HRT 3">
     <title lang="sl">Hu Hu</title>
   </programme>
-  <programme start="20230221074200 +0100" stop="20230221074300 +0100" channel="HRT 3">
+  <programme start="20230221073900 +0100" stop="20230221074000 +0100" channel="HRT 3">
     <title lang="sl">Hu Hu</title>
   </programme>
-  <programme start="20230221074300 +0100" stop="20230221074600 +0100" channel="HRT 3">
+  <programme start="20230221074000 +0100" stop="20230221074100 +0100" channel="HRT 3">
     <title lang="sl">Juhuhu</title>
   </programme>
-  <programme start="20230221074600 +0100" stop="20230221074700 +0100" channel="HRT 3">
+  <programme start="20230221074100 +0100" stop="20230221074200 +0100" channel="HRT 3">
     <title lang="sl">Juhuhu</title>
   </programme>
-  <programme start="20230221074700 +0100" stop="20230221075900 +0100" channel="HRT 3">
+  <programme start="20230221074200 +0100" stop="20230221075200 +0100" channel="HRT 3">
     <title lang="sl">Timi gre</title>
   </programme>
-  <programme start="20230221075900 +0100" stop="20230221080400 +0100" channel="HRT 3">
+  <programme start="20230221075200 +0100" stop="20230221075700 +0100" channel="HRT 3">
     <title lang="sl">Pujsa Pepa</title>
   </programme>
-  <programme start="20230221080400 +0100" stop="20230221080900 +0100" channel="HRT 3">
+  <programme start="20230221075700 +0100" stop="20230221080300 +0100" channel="HRT 3">
     <title lang="sl">Elmov svet</title>
   </programme>
-  <programme start="20230221080900 +0100" stop="20230221082000 +0100" channel="HRT 3">
+  <programme start="20230221080300 +0100" stop="20230221081500 +0100" channel="HRT 3">
     <title lang="sl">Žvenkci</title>
   </programme>
-  <programme start="20230221082000 +0100" stop="20230221082100 +0100" channel="HRT 3">
+  <programme start="20230221081500 +0100" stop="20230221081800 +0100" channel="HRT 3">
     <title lang="sl">Pesmica Oči</title>
   </programme>
-  <programme start="20230221082100 +0100" stop="20230221082300 +0100" channel="HRT 3">
+  <programme start="20230221081800 +0100" stop="20230221081900 +0100" channel="HRT 3">
     <title lang="sl">Juhuhu</title>
   </programme>
-  <programme start="20230221082300 +0100" stop="20230221082800 +0100" channel="HRT 3">
+  <programme start="20230221081900 +0100" stop="20230221082400 +0100" channel="HRT 3">
     <title lang="sl">Klepetulja Dee</title>
   </programme>
-  <programme start="20230221082800 +0100" stop="20230221084100 +0100" channel="HRT 3">
+  <programme start="20230221082400 +0100" stop="20230221083600 +0100" channel="HRT 3">
     <title lang="sl">Kosmatinski hotel</title>
   </programme>
-  <programme start="20230221084100 +0100" stop="20230221085300 +0100" channel="HRT 3">
+  <programme start="20230221083600 +0100" stop="20230221084800 +0100" channel="HRT 3">
     <title lang="sl">Zabavajmo se z besedami</title>
   </programme>
-  <programme start="20230221085300 +0100" stop="20230221085700 +0100" channel="HRT 3">
+  <programme start="20230221084800 +0100" stop="20230221085000 +0100" channel="HRT 3">
     <title lang="sl">Juhuhu</title>
   </programme>
-  <programme start="20230221085700 +0100" stop="20230221085900 +0100" channel="HRT 3">
+  <programme start="20230221085000 +0100" stop="20230221085200 +0100" channel="HRT 3">
     <title lang="sl">Pesmica Skuštrana glava</title>
   </programme>
-  <programme start="20230221085900 +0100" stop="20230221092200 +0100" channel="HRT 3">
+  <programme start="20230221085200 +0100" stop="20230221091700 +0100" channel="HRT 3">
     <title lang="sl">Vlak dinozavrov</title>
   </programme>
-  <programme start="20230221092200 +0100" stop="20230221092300 +0100" channel="HRT 3">
+  <programme start="20230221091700 +0100" stop="20230221091900 +0100" channel="HRT 3">
     <title lang="sl">Juhuhu</title>
   </programme>
-  <programme start="20230221092300 +0100" stop="20230221092400 +0100" channel="HRT 3">
+  <programme start="20230221091900 +0100" stop="20230221092100 +0100" channel="HRT 3">
     <title lang="sl">Pesmica Oči</title>
   </programme>
-  <programme start="20230221092400 +0100" stop="20230221093100 +0100" channel="HRT 3">
+  <programme start="20230221092100 +0100" stop="20230221092900 +0100" channel="HRT 3">
     <title lang="sl">Hu Hu</title>
   </programme>
-  <programme start="20230221093100 +0100" stop="20230221094200 +0100" channel="HRT 3">
+  <programme start="20230221092900 +0100" stop="20230221094000 +0100" channel="HRT 3">
     <title lang="sl">Ella, Oscar in Hoo</title>
   </programme>
-  <programme start="20230221094200 +0100" stop="20230221094400 +0100" channel="HRT 3">
+  <programme start="20230221094000 +0100" stop="20230221094200 +0100" channel="HRT 3">
     <title lang="sl">Pesmica Skuštrana glava</title>
   </programme>
-  <programme start="20230221094400 +0100" stop="20230221095500 +0100" channel="HRT 3">
+  <programme start="20230221094200 +0100" stop="20230221095400 +0100" channel="HRT 3">
     <title lang="sl">Roko</title>
   </programme>
-  <programme start="20230221095500 +0100" stop="20230221100600 +0100" channel="HRT 3">
+  <programme start="20230221095400 +0100" stop="20230221100600 +0100" channel="HRT 3">
     <title lang="sl">Roko</title>
   </programme>
   <programme start="20230221100600 +0100" stop="20230221100700 +0100" channel="HRT 3">
     <title lang="sl">Juhuhu</title>
   </programme>
-  <programme start="20230221100700 +0100" stop="20230221100800 +0100" channel="HRT 3">
+  <programme start="20230221100700 +0100" stop="20230221101100 +0100" channel="HRT 3">
     <title lang="sl">Pesem Copati</title>
   </programme>
-  <programme start="20230221100800 +0100" stop="20230221101600 +0100" channel="HRT 3">
+  <programme start="20230221101100 +0100" stop="20230221102200 +0100" channel="HRT 3">
     <title lang="sl">Ollie in Moon</title>
   </programme>
-  <programme start="20230221101600 +0100" stop="20230221102500 +0100" channel="HRT 3">
+  <programme start="20230221102200 +0100" stop="20230221102900 +0100" channel="HRT 3">
     <title lang="sl">Mogočni mali Bheem</title>
   </programme>
-  <programme start="20230221102500 +0100" stop="20230221103600 +0100" channel="HRT 3">
+  <programme start="20230221102900 +0100" stop="20230221104000 +0100" channel="HRT 3">
     <title lang="sl">Remi in Bu</title>
   </programme>
-  <programme start="20230221103600 +0100" stop="20230221104700 +0100" channel="HRT 3">
+  <programme start="20230221104000 +0100" stop="20230221105100 +0100" channel="HRT 3">
     <title lang="sl">Kosmatinski hotel</title>
   </programme>
-  <programme start="20230221104700 +0100" stop="20230221104800 +0100" channel="HRT 3">
+  <programme start="20230221105100 +0100" stop="20230221105200 +0100" channel="HRT 3">
     <title lang="sl">Juhuhu</title>
   </programme>
-  <programme start="20230221104800 +0100" stop="20230221105300 +0100" channel="HRT 3">
+  <programme start="20230221105200 +0100" stop="20230221105700 +0100" channel="HRT 3">
     <title lang="sl">Pujsa Pepa</title>
   </programme>
-  <programme start="20230221105300 +0100" stop="20230221105800 +0100" channel="HRT 3">
-    <title lang="sl">Elmov svet</title>
-  </programme>
-  <programme start="20230221105800 +0100" stop="20230221110900 +0100" channel="HRT 3">
+  <programme start="20230221105700 +0100" stop="20230221110800 +0100" channel="HRT 3">
     <title lang="sl">Žvenkci</title>
   </programme>
-  <programme start="20230221110900 +0100" stop="20230221111000 +0100" channel="HRT 3">
+  <programme start="20230221110800 +0100" stop="20230221111000 +0100" channel="HRT 3">
     <title lang="sl">Pesmica Skuštrana glava</title>
   </programme>
   <programme start="20230221111000 +0100" stop="20230221111500 +0100" channel="HRT 3">
     <title lang="sl">Kockaste številke</title>
   </programme>
-  <programme start="20230221111500 +0100" stop="20230221112600 +0100" channel="HRT 3">
+  <programme start="20230221111500 +0100" stop="20230221112300 +0100" channel="HRT 3">
     <title lang="sl">Bluey</title>
   </programme>
-  <programme start="20230221112600 +0100" stop="20230221114800 +0100" channel="HRT 3">
+  <programme start="20230221112300 +0100" stop="20230221114500 +0100" channel="HRT 3">
     <title lang="sl">Blaze in megakolesniki</title>
   </programme>
-  <programme start="20230221114800 +0100" stop="20230221114900 +0100" channel="HRT 3">
+  <programme start="20230221114500 +0100" stop="20230221114700 +0100" channel="HRT 3">
     <title lang="sl">Juhuhu</title>
   </programme>
-  <programme start="20230221114900 +0100" stop="20230221120200 +0100" channel="HRT 3">
+  <programme start="20230221114700 +0100" stop="20230221120300 +0100" channel="HRT 3">
     <title lang="sl">Andyjeve pustolovščine na safariju</title>
   </programme>
-  <programme start="20230221120200 +0100" stop="20230221122700 +0100" channel="HRT 3">
+  <programme start="20230221120300 +0100" stop="20230221122800 +0100" channel="HRT 3">
     <title lang="sl">Vlak dinozavrov</title>
   </programme>
-  <programme start="20230221122700 +0100" stop="20230221124200 +0100" channel="HRT 3">
+  <programme start="20230221122800 +0100" stop="20230221124300 +0100" channel="HRT 3">
     <title lang="sl">EBU drama: Opičje norčije</title>
   </programme>
-  <programme start="20230221124200 +0100" stop="20230221125700 +0100" channel="HRT 3">
+  <programme start="20230221124300 +0100" stop="20230221125800 +0100" channel="HRT 3">
     <title lang="sl">Sam svoj mojster</title>
-  </programme>
-  <programme start="20230221125700 +0100" stop="20230221125800 +0100" channel="HRT 3">
-    <title lang="sl">Juhuhu</title>
   </programme>
   <programme start="20230221125800 +0100" stop="20230221130000 +0100" channel="HRT 3">
     <title lang="sl">Juhuhu</title>
   </programme>
-  <programme start="20230221130000 +0100" stop="20230221134500 +0100" channel="HRT 3">
+  <programme start="20230221130000 +0100" stop="20230221130200 +0100" channel="HRT 3">
+    <title lang="sl">Juhuhu</title>
+  </programme>
+  <programme start="20230221130200 +0100" stop="20230221134700 +0100" channel="HRT 3">
     <title lang="sl">S spoštovanjem: Edo Murtić</title>
   </programme>
-  <programme start="20230221134500 +0100" stop="20230221140000 +0100" channel="HRT 3">
+  <programme start="20230221134700 +0100" stop="20230221140000 +0100" channel="HRT 3">
     <title lang="sl">Kurnati: Abeceda spominov - Mreže</title>
   </programme>
   <programme start="20230221140000 +0100" stop="20230221145000 +0100" channel="HRT 3">
     <title lang="sl">Surova koža</title>
   </programme>
   <programme start="20230221145000 +0100" stop="20230221150000 +0100" channel="HRT 3">
-    <title lang="sl">Skica za portret</title>
+    <title lang="sl">Skica za portret: Dario Orioli</title>
   </programme>
   <programme start="20230221150000 +0100" stop="20230221153000 +0100" channel="HRT 3">
     <title lang="sl">Skale in morje: Malo morje</title>
   </programme>
-  <programme start="20230221153000 +0100" stop="20230221160000 +0100" channel="HRT 3">
+  <programme start="20230221153000 +0100" stop="20230221160100 +0100" channel="HRT 3">
     <title lang="sl">Morje, olive in trta</title>
   </programme>
-  <programme start="20230221160000 +0100" stop="20230221163000 +0100" channel="HRT 3">
+  <programme start="20230221160100 +0100" stop="20230221163100 +0100" channel="HRT 3">
     <title lang="sl">Art a la carte</title>
   </programme>
-  <programme start="20230221163000 +0100" stop="20230221170000 +0100" channel="HRT 3">
-    <title lang="sl">Pogovor z razlogom</title>
+  <programme start="20230221163100 +0100" stop="20230221171000 +0100" channel="HRT 3">
+    <title lang="sl">Na kratko o kratkem: Iris</title>
   </programme>
-  <programme start="20230221170000 +0100" stop="20230221175500 +0100" channel="HRT 3">
+  <programme start="20230221171000 +0100" stop="20230221180500 +0100" channel="HRT 3">
     <title lang="sl">Navdih: Yves Saint-Laurent + Marakeš</title>
   </programme>
-  <programme start="20230221175500 +0100" stop="20230221185000 +0100" channel="HRT 3">
+  <programme start="20230221180500 +0100" stop="20230221190000 +0100" channel="HRT 3">
     <title lang="sl">Hrvaški pravičniki</title>
   </programme>
-  <programme start="20230221185000 +0100" stop="20230221200500 +0100" channel="HRT 3">
+  <programme start="20230221190000 +0100" stop="20230221194600 +0100" channel="HRT 3">
     <title lang="sl">Čas je za jazz: Jazz In the House, PEZNT i Jazz orkester HRT-a</title>
+  </programme>
+  <programme start="20230221194600 +0100" stop="20230221200500 +0100" channel="HRT 3">
+    <title lang="sl">Fotografija na Hrvaškem: Mario Kučera</title>
   </programme>
   <programme start="20230221200500 +0100" stop="20230221203500 +0100" channel="HRT 3">
     <title lang="sl">Art a la carte</title>
   </programme>
-  <programme start="20230221203500 +0100" stop="20230221210500 +0100" channel="HRT 3">
+  <programme start="20230221203500 +0100" stop="20230221211000 +0100" channel="HRT 3">
     <title lang="sl">Izven formata</title>
   </programme>
-  <programme start="20230221210500 +0100" stop="20230221220000 +0100" channel="HRT 3">
+  <programme start="20230221211000 +0100" stop="20230221220400 +0100" channel="HRT 3">
     <title lang="sl">Samooklicana Katarina Velika</title>
   </programme>
-  <programme start="20230221220000 +0100" stop="20230221230000 +0100" channel="HRT 3">
+  <programme start="20230221220400 +0100" stop="20230221230000 +0100" channel="HRT 3">
     <title lang="sl">Razpad Sovjetske zveze</title>
   </programme>
-  <programme start="20230221230000 +0100" stop="20230222011000 +0100" channel="HRT 3">
+  <programme start="20230221230000 +0100" stop="20230222010600 +0100" channel="HRT 3">
     <title lang="sl">Kradljivka knjig</title>
   </programme>
-  <programme start="20230222011000 +0100" stop="20230222012000 +0100" channel="HRT 3">
+  <programme start="20230222010600 +0100" stop="20230222011600 +0100" channel="HRT 3">
     <title lang="sl">Novice iz sveta kulture</title>
   </programme>
-  <programme start="20230222012000 +0100" stop="20230222021500 +0100" channel="HRT 3">
+  <programme start="20230222011600 +0100" stop="20230222021000 +0100" channel="HRT 3">
     <title lang="sl">Samooklicana Katarina Velika</title>
   </programme>
-  <programme start="20230222021500 +0100" stop="20230222024500 +0100" channel="HRT 3">
+  <programme start="20230222021000 +0100" stop="20230222024100 +0100" channel="HRT 3">
     <title lang="sl">Garaža - Čuvari svirala</title>
   </programme>
-  <programme start="20230222024500 +0100" stop="20230222040000 +0100" channel="HRT 3">
+  <programme start="20230222024100 +0100" stop="20230222033000 +0100" channel="HRT 3">
     <title lang="sl">Čas je za jazz: Jazz In the House, PEZNT i Jazz orkester HRT-a</title>
+  </programme>
+  <programme start="20230222033000 +0100" stop="20230222040000 +0100" channel="HRT 3">
+    <title lang="sl">Skale in morje: Malo morje</title>
   </programme>
   <programme start="20230222040000 +0100" stop="20230222043500 +0100" channel="HRT 3">
     <title lang="sl">Morje, olive in trta</title>
@@ -1961,187 +2173,175 @@
   <programme start="20230222044500 +0100" stop="20230222063500 +0100" channel="HRT 3">
     <title lang="sl">Pilotova žena</title>
   </programme>
-  <programme start="20230222063500 +0100" stop="20230222063700 +0100" channel="HRT 3">
+  <programme start="20230222063500 +0100" stop="20230222063600 +0100" channel="HRT 3">
     <title lang="sl">Juhuhu</title>
   </programme>
-  <programme start="20230222063700 +0100" stop="20230222065900 +0100" channel="HRT 3">
+  <programme start="20230222063600 +0100" stop="20230222070000 +0100" channel="HRT 3">
     <title lang="sl">Blaze in megakolesniki</title>
   </programme>
-  <programme start="20230222065900 +0100" stop="20230222070000 +0100" channel="HRT 3">
+  <programme start="20230222070000 +0100" stop="20230222070100 +0100" channel="HRT 3">
     <title lang="sl">Juhuhu</title>
   </programme>
-  <programme start="20230222070000 +0100" stop="20230222070400 +0100" channel="HRT 3">
+  <programme start="20230222070100 +0100" stop="20230222070400 +0100" channel="HRT 3">
     <title lang="sl">Pesem Copati</title>
   </programme>
-  <programme start="20230222070400 +0100" stop="20230222071100 +0100" channel="HRT 3">
+  <programme start="20230222070400 +0100" stop="20230222070900 +0100" channel="HRT 3">
     <title lang="sl">Kockaste številke</title>
   </programme>
-  <programme start="20230222071100 +0100" stop="20230222071800 +0100" channel="HRT 3">
+  <programme start="20230222070900 +0100" stop="20230222071800 +0100" channel="HRT 3">
     <title lang="sl">Jojo in lepe besede: Skupaj</title>
   </programme>
   <programme start="20230222071800 +0100" stop="20230222072500 +0100" channel="HRT 3">
     <title lang="sl">Bluey</title>
   </programme>
-  <programme start="20230222072500 +0100" stop="20230222072700 +0100" channel="HRT 3">
+  <programme start="20230222072500 +0100" stop="20230222072800 +0100" channel="HRT 3">
     <title lang="sl">Pesmica Skuštrana glava</title>
   </programme>
-  <programme start="20230222072700 +0100" stop="20230222073200 +0100" channel="HRT 3">
+  <programme start="20230222072800 +0100" stop="20230222073300 +0100" channel="HRT 3">
     <title lang="sl">Mišo in Robin</title>
   </programme>
-  <programme start="20230222073200 +0100" stop="20230222073300 +0100" channel="HRT 3">
+  <programme start="20230222073300 +0100" stop="20230222073500 +0100" channel="HRT 3">
     <title lang="sl">Mišo in Robin-pesmica: Snežni pregon</title>
   </programme>
-  <programme start="20230222073300 +0100" stop="20230222073600 +0100" channel="HRT 3">
-    <title lang="sl">Juhuhu Vezalke</title>
-  </programme>
-  <programme start="20230222073600 +0100" stop="20230222074300 +0100" channel="HRT 3">
+  <programme start="20230222073500 +0100" stop="20230222074200 +0100" channel="HRT 3">
     <title lang="sl">Hu Hu</title>
   </programme>
-  <programme start="20230222074300 +0100" stop="20230222074400 +0100" channel="HRT 3">
+  <programme start="20230222074200 +0100" stop="20230222074400 +0100" channel="HRT 3">
     <title lang="sl">Hu Hu</title>
   </programme>
-  <programme start="20230222074400 +0100" stop="20230222074700 +0100" channel="HRT 3">
+  <programme start="20230222074400 +0100" stop="20230222074600 +0100" channel="HRT 3">
     <title lang="sl">Juhuhu</title>
   </programme>
-  <programme start="20230222074700 +0100" stop="20230222074800 +0100" channel="HRT 3">
-    <title lang="sl">Juhuhu</title>
-  </programme>
-  <programme start="20230222074800 +0100" stop="20230222080000 +0100" channel="HRT 3">
+  <programme start="20230222074600 +0100" stop="20230222075700 +0100" channel="HRT 3">
     <title lang="sl">Timi gre</title>
   </programme>
-  <programme start="20230222080000 +0100" stop="20230222080500 +0100" channel="HRT 3">
+  <programme start="20230222075700 +0100" stop="20230222080200 +0100" channel="HRT 3">
     <title lang="sl">Pujsa Pepa</title>
   </programme>
-  <programme start="20230222080500 +0100" stop="20230222081000 +0100" channel="HRT 3">
+  <programme start="20230222080200 +0100" stop="20230222080700 +0100" channel="HRT 3">
     <title lang="sl">Elmov svet</title>
   </programme>
-  <programme start="20230222081000 +0100" stop="20230222082300 +0100" channel="HRT 3">
+  <programme start="20230222080700 +0100" stop="20230222082000 +0100" channel="HRT 3">
     <title lang="sl">Žvenkci</title>
   </programme>
-  <programme start="20230222082300 +0100" stop="20230222082400 +0100" channel="HRT 3">
+  <programme start="20230222082000 +0100" stop="20230222082200 +0100" channel="HRT 3">
     <title lang="sl">Pesmica Oči</title>
   </programme>
-  <programme start="20230222082400 +0100" stop="20230222082600 +0100" channel="HRT 3">
+  <programme start="20230222082200 +0100" stop="20230222082400 +0100" channel="HRT 3">
     <title lang="sl">Juhuhu</title>
   </programme>
-  <programme start="20230222082600 +0100" stop="20230222083100 +0100" channel="HRT 3">
+  <programme start="20230222082400 +0100" stop="20230222082900 +0100" channel="HRT 3">
     <title lang="sl">Klepetulja Dee</title>
   </programme>
-  <programme start="20230222083100 +0100" stop="20230222084400 +0100" channel="HRT 3">
+  <programme start="20230222082900 +0100" stop="20230222084000 +0100" channel="HRT 3">
     <title lang="sl">Kosmatinski hotel</title>
   </programme>
-  <programme start="20230222084400 +0100" stop="20230222085400 +0100" channel="HRT 3">
+  <programme start="20230222084000 +0100" stop="20230222085300 +0100" channel="HRT 3">
     <title lang="sl">Zabavajmo se z besedami</title>
   </programme>
-  <programme start="20230222085400 +0100" stop="20230222085800 +0100" channel="HRT 3">
+  <programme start="20230222085300 +0100" stop="20230222085500 +0100" channel="HRT 3">
     <title lang="sl">Juhuhu</title>
   </programme>
-  <programme start="20230222085800 +0100" stop="20230222090100 +0100" channel="HRT 3">
+  <programme start="20230222085500 +0100" stop="20230222085700 +0100" channel="HRT 3">
     <title lang="sl">Pesmica Skuštrana glava</title>
   </programme>
-  <programme start="20230222090100 +0100" stop="20230222092300 +0100" channel="HRT 3">
+  <programme start="20230222085700 +0100" stop="20230222092300 +0100" channel="HRT 3">
     <title lang="sl">Vlak dinozavrov</title>
   </programme>
   <programme start="20230222092300 +0100" stop="20230222092400 +0100" channel="HRT 3">
     <title lang="sl">Juhuhu</title>
   </programme>
-  <programme start="20230222092400 +0100" stop="20230222092500 +0100" channel="HRT 3">
+  <programme start="20230222092400 +0100" stop="20230222092700 +0100" channel="HRT 3">
     <title lang="sl">Pesmica Oči</title>
   </programme>
-  <programme start="20230222092500 +0100" stop="20230222093200 +0100" channel="HRT 3">
-    <title lang="sl">Hu Hu</title>
-  </programme>
-  <programme start="20230222093200 +0100" stop="20230222094300 +0100" channel="HRT 3">
+  <programme start="20230222092700 +0100" stop="20230222093800 +0100" channel="HRT 3">
     <title lang="sl">Ella, Oscar in Hoo</title>
   </programme>
-  <programme start="20230222094300 +0100" stop="20230222094600 +0100" channel="HRT 3">
+  <programme start="20230222093800 +0100" stop="20230222094000 +0100" channel="HRT 3">
     <title lang="sl">Pesmica Skuštrana glava</title>
   </programme>
-  <programme start="20230222094600 +0100" stop="20230222095700 +0100" channel="HRT 3">
+  <programme start="20230222094000 +0100" stop="20230222095200 +0100" channel="HRT 3">
     <title lang="sl">Roko</title>
   </programme>
-  <programme start="20230222095700 +0100" stop="20230222100800 +0100" channel="HRT 3">
+  <programme start="20230222095200 +0100" stop="20230222100400 +0100" channel="HRT 3">
     <title lang="sl">Roko</title>
   </programme>
-  <programme start="20230222100800 +0100" stop="20230222100900 +0100" channel="HRT 3">
+  <programme start="20230222100400 +0100" stop="20230222100500 +0100" channel="HRT 3">
     <title lang="sl">Juhuhu</title>
   </programme>
-  <programme start="20230222100900 +0100" stop="20230222101300 +0100" channel="HRT 3">
+  <programme start="20230222100500 +0100" stop="20230222101000 +0100" channel="HRT 3">
     <title lang="sl">Pesem Copati</title>
   </programme>
-  <programme start="20230222101300 +0100" stop="20230222102100 +0100" channel="HRT 3">
+  <programme start="20230222101000 +0100" stop="20230222102100 +0100" channel="HRT 3">
     <title lang="sl">Ollie in Moon</title>
   </programme>
-  <programme start="20230222102100 +0100" stop="20230222103000 +0100" channel="HRT 3">
+  <programme start="20230222102100 +0100" stop="20230222102700 +0100" channel="HRT 3">
     <title lang="sl">Mogočni mali Bheem</title>
   </programme>
-  <programme start="20230222103000 +0100" stop="20230222104100 +0100" channel="HRT 3">
+  <programme start="20230222102700 +0100" stop="20230222103800 +0100" channel="HRT 3">
     <title lang="sl">Remi in Bu</title>
   </programme>
-  <programme start="20230222104100 +0100" stop="20230222105200 +0100" channel="HRT 3">
+  <programme start="20230222103800 +0100" stop="20230222104900 +0100" channel="HRT 3">
     <title lang="sl">Kosmatinski hotel</title>
   </programme>
-  <programme start="20230222105200 +0100" stop="20230222105300 +0100" channel="HRT 3">
+  <programme start="20230222104900 +0100" stop="20230222105000 +0100" channel="HRT 3">
     <title lang="sl">Juhuhu</title>
   </programme>
-  <programme start="20230222105300 +0100" stop="20230222105800 +0100" channel="HRT 3">
+  <programme start="20230222105000 +0100" stop="20230222105500 +0100" channel="HRT 3">
     <title lang="sl">Pujsa Pepa</title>
   </programme>
-  <programme start="20230222105800 +0100" stop="20230222110900 +0100" channel="HRT 3">
+  <programme start="20230222105500 +0100" stop="20230222110600 +0100" channel="HRT 3">
     <title lang="sl">Žvenkci</title>
   </programme>
-  <programme start="20230222110900 +0100" stop="20230222111100 +0100" channel="HRT 3">
+  <programme start="20230222110600 +0100" stop="20230222110800 +0100" channel="HRT 3">
     <title lang="sl">Pesmica Skuštrana glava</title>
   </programme>
-  <programme start="20230222111100 +0100" stop="20230222111600 +0100" channel="HRT 3">
+  <programme start="20230222110800 +0100" stop="20230222111300 +0100" channel="HRT 3">
     <title lang="sl">Kockaste številke</title>
   </programme>
-  <programme start="20230222111600 +0100" stop="20230222112700 +0100" channel="HRT 3">
+  <programme start="20230222111300 +0100" stop="20230222112000 +0100" channel="HRT 3">
     <title lang="sl">Bluey</title>
   </programme>
-  <programme start="20230222112700 +0100" stop="20230222114900 +0100" channel="HRT 3">
+  <programme start="20230222112000 +0100" stop="20230222114400 +0100" channel="HRT 3">
     <title lang="sl">Blaze in megakolesniki</title>
   </programme>
-  <programme start="20230222114900 +0100" stop="20230222115000 +0100" channel="HRT 3">
+  <programme start="20230222114400 +0100" stop="20230222114600 +0100" channel="HRT 3">
     <title lang="sl">Juhuhu</title>
   </programme>
-  <programme start="20230222115000 +0100" stop="20230222120400 +0100" channel="HRT 3">
+  <programme start="20230222114600 +0100" stop="20230222120200 +0100" channel="HRT 3">
     <title lang="sl">Andyjeve pustolovščine na safariju</title>
   </programme>
-  <programme start="20230222120400 +0100" stop="20230222122800 +0100" channel="HRT 3">
+  <programme start="20230222120200 +0100" stop="20230222122800 +0100" channel="HRT 3">
     <title lang="sl">Vlak dinozavrov</title>
   </programme>
-  <programme start="20230222122800 +0100" stop="20230222124300 +0100" channel="HRT 3">
+  <programme start="20230222122800 +0100" stop="20230222124400 +0100" channel="HRT 3">
     <title lang="sl">Ebu drama: Party</title>
   </programme>
-  <programme start="20230222124300 +0100" stop="20230222125700 +0100" channel="HRT 3">
+  <programme start="20230222124400 +0100" stop="20230222125900 +0100" channel="HRT 3">
     <title lang="sl">EBU: Odločilna tekma</title>
   </programme>
-  <programme start="20230222125700 +0100" stop="20230222125800 +0100" channel="HRT 3">
+  <programme start="20230222125900 +0100" stop="20230222130100 +0100" channel="HRT 3">
     <title lang="sl">Juhuhu</title>
   </programme>
-  <programme start="20230222125800 +0100" stop="20230222130000 +0100" channel="HRT 3">
-    <title lang="sl">Juhuhu</title>
-  </programme>
-  <programme start="20230222130000 +0100" stop="20230222134500 +0100" channel="HRT 3">
+  <programme start="20230222130100 +0100" stop="20230222134700 +0100" channel="HRT 3">
     <title lang="sl">S spoštovanjem: Ivan Sabolić</title>
   </programme>
-  <programme start="20230222134500 +0100" stop="20230222140000 +0100" channel="HRT 3">
+  <programme start="20230222134700 +0100" stop="20230222140000 +0100" channel="HRT 3">
     <title lang="sl">Kurnati: Abeceda spominov - Rakarice</title>
   </programme>
-  <programme start="20230222140000 +0100" stop="20230222145000 +0100" channel="HRT 3">
+  <programme start="20230222140000 +0100" stop="20230222144900 +0100" channel="HRT 3">
     <title lang="sl">Surova koža</title>
   </programme>
-  <programme start="20230222145000 +0100" stop="20230222150000 +0100" channel="HRT 3">
-    <title lang="sl">Skica za portret</title>
+  <programme start="20230222144900 +0100" stop="20230222145900 +0100" channel="HRT 3">
+    <title lang="sl">Skica za portret: Ljubica Dragojević Buble</title>
   </programme>
-  <programme start="20230222150000 +0100" stop="20230222153000 +0100" channel="HRT 3">
+  <programme start="20230222145900 +0100" stop="20230222153000 +0100" channel="HRT 3">
     <title lang="sl">Skale in morje: Žeja in poplave</title>
   </programme>
-  <programme start="20230222153000 +0100" stop="20230222160000 +0100" channel="HRT 3">
+  <programme start="20230222153000 +0100" stop="20230222155900 +0100" channel="HRT 3">
     <title lang="sl">Ribič ribi grize rep</title>
   </programme>
-  <programme start="20230222160000 +0100" stop="20230222163000 +0100" channel="HRT 3">
+  <programme start="20230222155900 +0100" stop="20230222163000 +0100" channel="HRT 3">
     <title lang="sl">Art a la carte</title>
   </programme>
   <programme start="20230222163000 +0100" stop="20230222170000 +0100" channel="HRT 3">
@@ -2150,55 +2350,52 @@
   <programme start="20230222170000 +0100" stop="20230222180000 +0100" channel="HRT 3">
     <title lang="sl">Navdih: Henri Cartier-Bresson + Indija</title>
   </programme>
-  <programme start="20230222180000 +0100" stop="20230222183000 +0100" channel="HRT 3">
+  <programme start="20230222180000 +0100" stop="20230222182900 +0100" channel="HRT 3">
     <title lang="sl">Reške zgodbe</title>
   </programme>
-  <programme start="20230222183000 +0100" stop="20230222185000 +0100" channel="HRT 3">
-    <title lang="sl">Hrvaški knjižni jezik</title>
+  <programme start="20230222182900 +0100" stop="20230222185100 +0100" channel="HRT 3">
+    <title lang="sl">Opombe o jeziku: Misal kneza Novaka</title>
   </programme>
-  <programme start="20230222185000 +0100" stop="20230222200500 +0100" channel="HRT 3">
-    <title lang="sl">Koncert ansambla Camerate Cantilly</title>
+  <programme start="20230222185100 +0100" stop="20230222200500 +0100" channel="HRT 3">
+    <title lang="sl">Koncert ansambla Camerata Cantilly</title>
   </programme>
   <programme start="20230222200500 +0100" stop="20230222203500 +0100" channel="HRT 3">
     <title lang="sl">Art a la carte</title>
   </programme>
-  <programme start="20230222203500 +0100" stop="20230222210500 +0100" channel="HRT 3">
-    <title lang="sl">Kaj je klasika</title>
+  <programme start="20230222203500 +0100" stop="20230222210600 +0100" channel="HRT 3">
+    <title lang="sl">Kaj je klasika: Šola za ženske - Moliere</title>
   </programme>
-  <programme start="20230222210500 +0100" stop="20230222215700 +0100" channel="HRT 3">
+  <programme start="20230222210600 +0100" stop="20230222220000 +0100" channel="HRT 3">
     <title lang="sl">Samooklicana Katarina Velika</title>
   </programme>
-  <programme start="20230222215700 +0100" stop="20230222225500 +0100" channel="HRT 3">
+  <programme start="20230222220000 +0100" stop="20230222225500 +0100" channel="HRT 3">
     <title lang="sl">Putinova pot do vojne</title>
   </programme>
-  <programme start="20230222225500 +0100" stop="20230223001500 +0100" channel="HRT 3">
-    <title lang="sl">Dan žensk na Tretjem: Kitty Green - Zabava</title>
+  <programme start="20230222225500 +0100" stop="20230223002600 +0100" channel="HRT 3">
+    <title lang="sl">Dan žensk na tretjem: Nico</title>
   </programme>
-  <programme start="20230223001500 +0100" stop="20230223002500 +0100" channel="HRT 3">
-    <title lang="sl">Skica za portret</title>
-  </programme>
-  <programme start="20230223002500 +0100" stop="20230223003500 +0100" channel="HRT 3">
+  <programme start="20230223002600 +0100" stop="20230223003500 +0100" channel="HRT 3">
     <title lang="sl">Novice iz sveta kulture</title>
   </programme>
   <programme start="20230223003500 +0100" stop="20230223013000 +0100" channel="HRT 3">
     <title lang="sl">Samooklicana Katarina Velika</title>
   </programme>
-  <programme start="20230223013000 +0100" stop="20230223020000 +0100" channel="HRT 3">
+  <programme start="20230223013000 +0100" stop="20230223020100 +0100" channel="HRT 3">
     <title lang="sl">Garaža: Detour</title>
   </programme>
-  <programme start="20230223020000 +0100" stop="20230223031500 +0100" channel="HRT 3">
-    <title lang="sl">Koncert ansambla Camerate Cantilly</title>
+  <programme start="20230223020100 +0100" stop="20230223031500 +0100" channel="HRT 3">
+    <title lang="sl">Koncert ansambla Camerata Cantilly</title>
   </programme>
   <programme start="20230223031500 +0100" stop="20230223034500 +0100" channel="HRT 3">
     <title lang="sl">Skale in morje: Žeja in poplave</title>
   </programme>
-  <programme start="20230223034500 +0100" stop="20230223041500 +0100" channel="HRT 3">
+  <programme start="20230223034500 +0100" stop="20230223041400 +0100" channel="HRT 3">
     <title lang="sl">Ribič ribi grize rep</title>
   </programme>
-  <programme start="20230223041500 +0100" stop="20230223042500 +0100" channel="HRT 3">
+  <programme start="20230223041400 +0100" stop="20230223042400 +0100" channel="HRT 3">
     <title lang="sl">Novice iz sveta kulture</title>
   </programme>
-  <programme start="20230223042500 +0100" stop="20230223063500 +0100" channel="HRT 3">
+  <programme start="20230223042400 +0100" stop="20230223063500 +0100" channel="HRT 3">
     <title lang="sl">Vročina in prah</title>
   </programme>
   <programme start="20230223063500 +0100" stop="20230223063700 +0100" channel="HRT 3">
@@ -2416,6 +2613,552 @@
   </programme>
   <programme start="20230223220500 +0100" stop="20230223230500 +0100" channel="HRT 3">
     <title lang="sl">Rusija proti Rusiji</title>
+  </programme>
+  <programme start="20230220022900 +0100" stop="20230220055500 +0100" channel="Happy TV">
+    <title lang="sl">Glasba</title>
+  </programme>
+  <programme start="20230220055500 +0100" stop="20230220065500 +0100" channel="Happy TV">
+    <title lang="sl">Dobro jutro, Srbija</title>
+  </programme>
+  <programme start="20230220065500 +0100" stop="20230220070000 +0100" channel="Happy TV">
+    <title lang="sl">Poročila</title>
+  </programme>
+  <programme start="20230220070000 +0100" stop="20230220075500 +0100" channel="Happy TV">
+    <title lang="sl">Dobro jutro, Srbija</title>
+  </programme>
+  <programme start="20230220075500 +0100" stop="20230220080000 +0100" channel="Happy TV">
+    <title lang="sl">Poročila</title>
+  </programme>
+  <programme start="20230220080000 +0100" stop="20230220095500 +0100" channel="Happy TV">
+    <title lang="sl">Dobro jutro, Srbija</title>
+  </programme>
+  <programme start="20230220095500 +0100" stop="20230220100000 +0100" channel="Happy TV">
+    <title lang="sl">Poročila</title>
+  </programme>
+  <programme start="20230220100000 +0100" stop="20230220115500 +0100" channel="Happy TV">
+    <title lang="sl">Dobro jutro, Srbija</title>
+  </programme>
+  <programme start="20230220115500 +0100" stop="20230220120500 +0100" channel="Happy TV">
+    <title lang="sl">Poročila</title>
+  </programme>
+  <programme start="20230220120500 +0100" stop="20230220124000 +0100" channel="Happy TV">
+    <title lang="sl">Glamur</title>
+  </programme>
+  <programme start="20230220124000 +0100" stop="20230220125500 +0100" channel="Happy TV">
+    <title lang="sl">Biostile</title>
+  </programme>
+  <programme start="20230220125500 +0100" stop="20230220134300 +0100" channel="Happy TV">
+    <title lang="sl">Poročila</title>
+  </programme>
+  <programme start="20230220134300 +0100" stop="20230220143000 +0100" channel="Happy TV">
+    <title lang="sl">Svetovalec</title>
+  </programme>
+  <programme start="20230220143000 +0100" stop="20230220150000 +0100" channel="Happy TV">
+    <title lang="sl">Telemaster</title>
+  </programme>
+  <programme start="20230220150000 +0100" stop="20230220173000 +0100" channel="Happy TV">
+    <title lang="sl">Po kosilu</title>
+  </programme>
+  <programme start="20230220173000 +0100" stop="20230220183000 +0100" channel="Happy TV">
+    <title lang="sl">Telemaster</title>
+  </programme>
+  <programme start="20230220183000 +0100" stop="20230220195500 +0100" channel="Happy TV">
+    <title lang="sl">Začetna stran</title>
+  </programme>
+  <programme start="20230220195500 +0100" stop="20230220203000 +0100" channel="Happy TV">
+    <title lang="sl">Bingo</title>
+  </programme>
+  <programme start="20230220203000 +0100" stop="20230220210000 +0100" channel="Happy TV">
+    <title lang="sl">Telemaster</title>
+  </programme>
+  <programme start="20230220210000 +0100" stop="20230220234100 +0100" channel="Happy TV">
+    <title lang="sl">Cirilica</title>
+  </programme>
+  <programme start="20230220234100 +0100" stop="20230221003800 +0100" channel="Happy TV">
+    <title lang="sl">Družba od konca</title>
+  </programme>
+  <programme start="20230221003800 +0100" stop="20230221010400 +0100" channel="Happy TV">
+    <title lang="sl">Ustavi čas</title>
+  </programme>
+  <programme start="20230221010400 +0100" stop="20230221012400 +0100" channel="Happy TV">
+    <title lang="sl">Glamur</title>
+  </programme>
+  <programme start="20230221012400 +0100" stop="20230221023500 +0100" channel="Happy TV">
+    <title lang="sl">Posebno</title>
+  </programme>
+  <programme start="20230221023500 +0100" stop="20230221034300 +0100" channel="Happy TV">
+    <title lang="sl">Ženitno posredovanje</title>
+  </programme>
+  <programme start="20230221034300 +0100" stop="20230221043000 +0100" channel="Happy TV">
+    <title lang="sl">Ustavi čas</title>
+  </programme>
+  <programme start="20230221043000 +0100" stop="20230221054500 +0100" channel="Happy TV">
+    <title lang="sl">Zgodnje jutro</title>
+  </programme>
+  <programme start="20230221054500 +0100" stop="20230221055000 +0100" channel="Happy TV">
+    <title lang="sl">Poročila</title>
+  </programme>
+  <programme start="20230221055000 +0100" stop="20230221065500 +0100" channel="Happy TV">
+    <title lang="sl">Dobro jutro, Srbija</title>
+  </programme>
+  <programme start="20230221065500 +0100" stop="20230221070000 +0100" channel="Happy TV">
+    <title lang="sl">Poročila</title>
+  </programme>
+  <programme start="20230221070000 +0100" stop="20230221075500 +0100" channel="Happy TV">
+    <title lang="sl">Dobro jutro, Srbija</title>
+  </programme>
+  <programme start="20230221075500 +0100" stop="20230221080000 +0100" channel="Happy TV">
+    <title lang="sl">Poročila</title>
+  </programme>
+  <programme start="20230221080000 +0100" stop="20230221085500 +0100" channel="Happy TV">
+    <title lang="sl">Dobro jutro, Srbija</title>
+  </programme>
+  <programme start="20230221085500 +0100" stop="20230221090000 +0100" channel="Happy TV">
+    <title lang="sl">Poročila</title>
+  </programme>
+  <programme start="20230221090000 +0100" stop="20230221095500 +0100" channel="Happy TV">
+    <title lang="sl">Dobro jutro, Srbija</title>
+  </programme>
+  <programme start="20230221095500 +0100" stop="20230221100000 +0100" channel="Happy TV">
+    <title lang="sl">Poročila</title>
+  </programme>
+  <programme start="20230221100000 +0100" stop="20230221103000 +0100" channel="Happy TV">
+    <title lang="sl">Dobro jutro, Srbija</title>
+  </programme>
+  <programme start="20230221103000 +0100" stop="20230221104500 +0100" channel="Happy TV">
+    <title lang="sl">Top Shop</title>
+  </programme>
+  <programme start="20230221104500 +0100" stop="20230221115500 +0100" channel="Happy TV">
+    <title lang="sl">Dobro jutro, Srbija</title>
+  </programme>
+  <programme start="20230221115500 +0100" stop="20230221120000 +0100" channel="Happy TV">
+    <title lang="sl">Poročila</title>
+  </programme>
+  <programme start="20230221120000 +0100" stop="20230221120100 +0100" channel="Happy TV">
+    <title lang="sl">Top Shop</title>
+  </programme>
+  <programme start="20230221120100 +0100" stop="20230221124500 +0100" channel="Happy TV">
+    <title lang="sl">Začetna stran</title>
+  </programme>
+  <programme start="20230221124500 +0100" stop="20230221130000 +0100" channel="Happy TV">
+    <title lang="sl">TV prodaja</title>
+  </programme>
+  <programme start="20230221130000 +0100" stop="20230221140000 +0100" channel="Happy TV">
+    <title lang="sl">Poročila</title>
+  </programme>
+  <programme start="20230221140000 +0100" stop="20230221150000 +0100" channel="Happy TV">
+    <title lang="sl">Telemaster</title>
+  </programme>
+  <programme start="20230221150000 +0100" stop="20230221173000 +0100" channel="Happy TV">
+    <title lang="sl">Po kosilu</title>
+  </programme>
+  <programme start="20230221173000 +0100" stop="20230221183000 +0100" channel="Happy TV">
+    <title lang="sl">Telemaster</title>
+  </programme>
+  <programme start="20230221183000 +0100" stop="20230221190700 +0100" channel="Happy TV">
+    <title lang="sl">Začetna stran</title>
+  </programme>
+  <programme start="20230221190700 +0100" stop="20230221200100 +0100" channel="Happy TV">
+    <title lang="sl">Pojoča gostilna</title>
+  </programme>
+  <programme start="20230221200100 +0100" stop="20230221205000 +0100" channel="Happy TV">
+    <title lang="sl">Glamur</title>
+  </programme>
+  <programme start="20230221205000 +0100" stop="20230221222800 +0100" channel="Happy TV">
+    <title lang="sl">Ženitno posredovanje</title>
+  </programme>
+  <programme start="20230221222800 +0100" stop="20230221223800 +0100" channel="Happy TV">
+    <title lang="sl">Ženitno posredovanje</title>
+  </programme>
+  <programme start="20230221223800 +0100" stop="20230222021400 +0100" channel="Happy TV">
+    <title lang="sl">Zabava v naši ulici</title>
+  </programme>
+  <programme start="20230222021400 +0100" stop="20230222043000 +0100" channel="Happy TV">
+    <title lang="sl">Po kosilu</title>
+  </programme>
+  <programme start="20230222043000 +0100" stop="20230222043100 +0100" channel="Happy TV">
+    <title lang="sl">Zgodnje jutro</title>
+  </programme>
+  <programme start="20230222043100 +0100" stop="20230222044100 +0100" channel="Happy TV">
+    <title lang="sl">Prva poročila</title>
+  </programme>
+  <programme start="20230222044100 +0100" stop="20230222052000 +0100" channel="Happy TV">
+    <title lang="sl">Zgodnje jutro</title>
+  </programme>
+  <programme start="20230222052000 +0100" stop="20230222055500 +0100" channel="Happy TV">
+    <title lang="sl">Poročila</title>
+  </programme>
+  <programme start="20230222055500 +0100" stop="20230222063000 +0100" channel="Happy TV">
+    <title lang="sl">Poročila</title>
+  </programme>
+  <programme start="20230222063000 +0100" stop="20230222065500 +0100" channel="Happy TV">
+    <title lang="sl">Dobro jutro, Srbija</title>
+  </programme>
+  <programme start="20230222065500 +0100" stop="20230222070000 +0100" channel="Happy TV">
+    <title lang="sl">Poročila</title>
+  </programme>
+  <programme start="20230222070000 +0100" stop="20230222075500 +0100" channel="Happy TV">
+    <title lang="sl">Dobro jutro, Srbija</title>
+  </programme>
+  <programme start="20230222075500 +0100" stop="20230222080000 +0100" channel="Happy TV">
+    <title lang="sl">Poročila</title>
+  </programme>
+  <programme start="20230222080000 +0100" stop="20230222090000 +0100" channel="Happy TV">
+    <title lang="sl">Dobro jutro, Srbija</title>
+  </programme>
+  <programme start="20230222090000 +0100" stop="20230222095500 +0100" channel="Happy TV">
+    <title lang="sl">Dobro jutro, Srbija</title>
+  </programme>
+  <programme start="20230222095500 +0100" stop="20230222100000 +0100" channel="Happy TV">
+    <title lang="sl">Poročila</title>
+  </programme>
+  <programme start="20230222100000 +0100" stop="20230222115500 +0100" channel="Happy TV">
+    <title lang="sl">Dobro jutro, Srbija</title>
+  </programme>
+  <programme start="20230222115500 +0100" stop="20230222120000 +0100" channel="Happy TV">
+    <title lang="sl">Poročila</title>
+  </programme>
+  <programme start="20230222120000 +0100" stop="20230222120500 +0100" channel="Happy TV">
+    <title lang="sl">Ustavi čas</title>
+  </programme>
+  <programme start="20230222120500 +0100" stop="20230222124000 +0100" channel="Happy TV">
+    <title lang="sl">Glamur</title>
+  </programme>
+  <programme start="20230222124000 +0100" stop="20230222124400 +0100" channel="Happy TV">
+    <title lang="sl">TV prodaja</title>
+  </programme>
+  <programme start="20230222124400 +0100" stop="20230222125500 +0100" channel="Happy TV">
+    <title lang="sl">Ženitno posredovanje</title>
+  </programme>
+  <programme start="20230222125500 +0100" stop="20230222130000 +0100" channel="Happy TV">
+    <title lang="sl">Poročila</title>
+  </programme>
+  <programme start="20230222130000 +0100" stop="20230222134600 +0100" channel="Happy TV">
+    <title lang="sl">Ustavi čas</title>
+  </programme>
+  <programme start="20230222134600 +0100" stop="20230222143000 +0100" channel="Happy TV">
+    <title lang="sl">Svetovalec</title>
+  </programme>
+  <programme start="20230222143000 +0100" stop="20230222150000 +0100" channel="Happy TV">
+    <title lang="sl">Telemaster</title>
+  </programme>
+  <programme start="20230222150000 +0100" stop="20230222173000 +0100" channel="Happy TV">
+    <title lang="sl">Po kosilu</title>
+  </programme>
+  <programme start="20230222173000 +0100" stop="20230222182300 +0100" channel="Happy TV">
+    <title lang="sl">Telemaster</title>
+  </programme>
+  <programme start="20230222182300 +0100" stop="20230222190000 +0100" channel="Happy TV">
+    <title lang="sl">Kviz: Naslovna stran</title>
+  </programme>
+  <programme start="20230222190000 +0100" stop="20230222194400 +0100" channel="Happy TV">
+    <title lang="sl">Ustavi čas</title>
+  </programme>
+  <programme start="20230222194400 +0100" stop="20230222205000 +0100" channel="Happy TV">
+    <title lang="sl">Aktualni dogodki</title>
+  </programme>
+  <programme start="20230222205000 +0100" stop="20230222213000 +0100" channel="Happy TV">
+    <title lang="sl">Glamur</title>
+  </programme>
+  <programme start="20230222213000 +0100" stop="20230223003800 +0100" channel="Happy TV">
+    <title lang="sl">Glasba</title>
+  </programme>
+  <programme start="20230223003800 +0100" stop="20230223012200 +0100" channel="Happy TV">
+    <title lang="sl">Ustavi čas</title>
+  </programme>
+  <programme start="20230223012200 +0100" stop="20230223030700 +0100" channel="Happy TV">
+    <title lang="sl">Ženitno posredovanje</title>
+  </programme>
+  <programme start="20230223030700 +0100" stop="20230223034500 +0100" channel="Happy TV">
+    <title lang="sl">Aktualni dogodki</title>
+  </programme>
+  <programme start="20230223034500 +0100" stop="20230223043000 +0100" channel="Happy TV">
+    <title lang="sl">Ustavi čas</title>
+  </programme>
+  <programme start="20230223043000 +0100" stop="20230223054500 +0100" channel="Happy TV">
+    <title lang="sl">Zgodnje jutro</title>
+  </programme>
+  <programme start="20230223054500 +0100" stop="20230223055500 +0100" channel="Happy TV">
+    <title lang="sl">Poročila</title>
+  </programme>
+  <programme start="20230223055500 +0100" stop="20230223065500 +0100" channel="Happy TV">
+    <title lang="sl">Poročila</title>
+  </programme>
+  <programme start="20230223065500 +0100" stop="20230223070000 +0100" channel="Happy TV">
+    <title lang="sl">Poročila</title>
+  </programme>
+  <programme start="20230223070000 +0100" stop="20230223073000 +0100" channel="Happy TV">
+    <title lang="sl">Dobro jutro, Srbija</title>
+  </programme>
+  <programme start="20230223073000 +0100" stop="20230223075500 +0100" channel="Happy TV">
+    <title lang="sl">Dobro jutro, Srbija</title>
+  </programme>
+  <programme start="20230223075500 +0100" stop="20230223080000 +0100" channel="Happy TV">
+    <title lang="sl">Poročila</title>
+  </programme>
+  <programme start="20230223080000 +0100" stop="20230223085500 +0100" channel="Happy TV">
+    <title lang="sl">Dobro jutro, Srbija</title>
+  </programme>
+  <programme start="20230223085500 +0100" stop="20230223090000 +0100" channel="Happy TV">
+    <title lang="sl">Poročila</title>
+  </programme>
+  <programme start="20230223090000 +0100" stop="20230223095500 +0100" channel="Happy TV">
+    <title lang="sl">Dobro jutro, Srbija</title>
+  </programme>
+  <programme start="20230223095500 +0100" stop="20230223100000 +0100" channel="Happy TV">
+    <title lang="sl">Poročila</title>
+  </programme>
+  <programme start="20230223100000 +0100" stop="20230223104400 +0100" channel="Happy TV">
+    <title lang="sl">Dobro jutro, Srbija</title>
+  </programme>
+  <programme start="20230223104400 +0100" stop="20230223115500 +0100" channel="Happy TV">
+    <title lang="sl">Dobro jutro, Srbija</title>
+  </programme>
+  <programme start="20230223115500 +0100" stop="20230223120500 +0100" channel="Happy TV">
+    <title lang="sl">Poročila</title>
+  </programme>
+  <programme start="20230223120500 +0100" stop="20230223124000 +0100" channel="Happy TV">
+    <title lang="sl">Glamur</title>
+  </programme>
+  <programme start="20230223124000 +0100" stop="20230223125500 +0100" channel="Happy TV">
+    <title lang="sl">Biostile</title>
+  </programme>
+  <programme start="20230223125500 +0100" stop="20230223130000 +0100" channel="Happy TV">
+    <title lang="sl">Poročila</title>
+  </programme>
+  <programme start="20230223130000 +0100" stop="20230223134400 +0100" channel="Happy TV">
+    <title lang="sl">Ustavi čas</title>
+  </programme>
+  <programme start="20230223134400 +0100" stop="20230223143000 +0100" channel="Happy TV">
+    <title lang="sl">Svetovalec</title>
+  </programme>
+  <programme start="20230223143000 +0100" stop="20230223145700 +0100" channel="Happy TV">
+    <title lang="sl">Telemaster</title>
+  </programme>
+  <programme start="20230223145700 +0100" stop="20230223150000 +0100" channel="Happy TV">
+    <title lang="sl">Šport</title>
+  </programme>
+  <programme start="20230223150000 +0100" stop="20230223173000 +0100" channel="Happy TV">
+    <title lang="sl">Po kosilu</title>
+  </programme>
+  <programme start="20230223173000 +0100" stop="20230223182100 +0100" channel="Happy TV">
+    <title lang="sl">Telemaster</title>
+  </programme>
+  <programme start="20230223182100 +0100" stop="20230223190000 +0100" channel="Happy TV">
+    <title lang="sl">Začetna stran</title>
+  </programme>
+  <programme start="20230223190000 +0100" stop="20230223194400 +0100" channel="Happy TV">
+    <title lang="sl">Ustavi čas</title>
+  </programme>
+  <programme start="20230223194400 +0100" stop="20230223205000 +0100" channel="Happy TV">
+    <title lang="sl">Aktualni dogodki</title>
+  </programme>
+  <programme start="20230223205000 +0100" stop="20230223213000 +0100" channel="Happy TV">
+    <title lang="sl">Glamur</title>
+  </programme>
+  <programme start="20230223213000 +0100" stop="20230223230000 +0100" channel="Happy TV">
+    <title lang="sl">Na pravem mestu</title>
+  </programme>
+  <programme start="20230220002500 +0100" stop="20230220063500 +0100" channel="Hayat">
+    <title lang="sl">Šport</title>
+  </programme>
+  <programme start="20230220063500 +0100" stop="20230220075000 +0100" channel="Hayat">
+    <title lang="sl">Odprti studio</title>
+  </programme>
+  <programme start="20230220075000 +0100" stop="20230220084500 +0100" channel="Hayat">
+    <title lang="sl">Gorka zemlja</title>
+  </programme>
+  <programme start="20230220084500 +0100" stop="20230220090000 +0100" channel="Hayat">
+    <title lang="sl">TV izložba</title>
+  </programme>
+  <programme start="20230220090000 +0100" stop="20230220101000 +0100" channel="Hayat">
+    <title lang="sl">Jutro z vami</title>
+  </programme>
+  <programme start="20230220101000 +0100" stop="20230220101500 +0100" channel="Hayat">
+    <title lang="sl">Natura Health</title>
+  </programme>
+  <programme start="20230220101500 +0100" stop="20230220102000 +0100" channel="Hayat">
+    <title lang="sl">Labeffective</title>
+  </programme>
+  <programme start="20230220102000 +0100" stop="20230220102500 +0100" channel="Hayat">
+    <title lang="sl">Natura Health</title>
+  </programme>
+  <programme start="20230220102500 +0100" stop="20230220112000 +0100" channel="Hayat">
+    <title lang="sl">Tri sestre</title>
+  </programme>
+  <programme start="20230220112000 +0100" stop="20230220114000 +0100" channel="Hayat">
+    <title lang="sl">TV izložba</title>
+  </programme>
+  <programme start="20230220114000 +0100" stop="20230220123000 +0100" channel="Hayat">
+    <title lang="sl">Sweet Lab by Dolcela</title>
+  </programme>
+  <programme start="20230220123000 +0100" stop="20230220123500 +0100" channel="Hayat">
+    <title lang="sl">Minute za zdravje</title>
+  </programme>
+  <programme start="20230220123500 +0100" stop="20230220125000 +0100" channel="Hayat">
+    <title lang="sl">TV izložba</title>
+  </programme>
+  <programme start="20230220125000 +0100" stop="20230220125500 +0100" channel="Hayat">
+    <title lang="sl">Natura Health</title>
+  </programme>
+  <programme start="20230220125500 +0100" stop="20230220134500 +0100" channel="Hayat">
+    <title lang="sl">Steklena kletka</title>
+  </programme>
+  <programme start="20230220134500 +0100" stop="20230220140000 +0100" channel="Hayat">
+    <title lang="sl">TV izložba</title>
+  </programme>
+  <programme start="20230220140000 +0100" stop="20230220140500 +0100" channel="Hayat">
+    <title lang="sl">Natura Health</title>
+  </programme>
+  <programme start="20230220140500 +0100" stop="20230220152000 +0100" channel="Hayat">
+    <title lang="sl">Seldžuki: Alparslan</title>
+  </programme>
+  <programme start="20230220152000 +0100" stop="20230220153500 +0100" channel="Hayat">
+    <title lang="sl">TV izložba</title>
+  </programme>
+  <programme start="20230220153500 +0100" stop="20230220154000 +0100" channel="Hayat">
+    <title lang="sl">Natura Health</title>
+  </programme>
+  <programme start="20230220154000 +0100" stop="20230220163000 +0100" channel="Hayat">
+    <title lang="sl">Planina ljubezni</title>
+  </programme>
+  <programme start="20230220163000 +0100" stop="20230220180000 +0100" channel="Hayat">
+    <title lang="sl">Odprti studio</title>
+  </programme>
+  <programme start="20230220180000 +0100" stop="20230220184900 +0100" channel="Hayat">
+    <title lang="sl">Zimska kuhinja</title>
+  </programme>
+  <programme start="20230220184900 +0100" stop="20230220190900 +0100" channel="Hayat">
+    <title lang="sl">Novice ob 7h</title>
+  </programme>
+  <programme start="20230220190900 +0100" stop="20230220194400 +0100" channel="Hayat">
+    <title lang="sl">7 plus</title>
+  </programme>
+  <programme start="20230220194400 +0100" stop="20230220200000 +0100" channel="Hayat">
+    <title lang="sl">Šport</title>
+  </programme>
+  <programme start="20230220200000 +0100" stop="20230220205500 +0100" channel="Hayat">
+    <title lang="sl">Steklena kletka</title>
+  </programme>
+  <programme start="20230220205500 +0100" stop="20230220215000 +0100" channel="Hayat">
+    <title lang="sl">Seldžuki: Alparslan</title>
+  </programme>
+  <programme start="20230220215000 +0100" stop="20230220224500 +0100" channel="Hayat">
+    <title lang="sl">Tri sestre</title>
+  </programme>
+  <programme start="20230220224500 +0100" stop="20230220234000 +0100" channel="Hayat">
+    <title lang="sl">Planina ljubezni</title>
+  </programme>
+  <programme start="20230220234000 +0100" stop="20230221002500 +0100" channel="Hayat">
+    <title lang="sl">Zimska kuhinja</title>
+  </programme>
+  <programme start="20230221002500 +0100" stop="20230221004500 +0100" channel="Hayat">
+    <title lang="sl">Novice ob 7h</title>
+  </programme>
+  <programme start="20230221004500 +0100" stop="20230221011500 +0100" channel="Hayat">
+    <title lang="sl">7 plus</title>
+  </programme>
+  <programme start="20230221011500 +0100" stop="20230221063500 +0100" channel="Hayat">
+    <title lang="sl">Šport</title>
+  </programme>
+  <programme start="20230221063500 +0100" stop="20230221075000 +0100" channel="Hayat">
+    <title lang="sl">Odprti studio</title>
+  </programme>
+  <programme start="20230221075000 +0100" stop="20230221084500 +0100" channel="Hayat">
+    <title lang="sl">Gorka zemlja</title>
+  </programme>
+  <programme start="20230221084500 +0100" stop="20230221090000 +0100" channel="Hayat">
+    <title lang="sl">TV izložba</title>
+  </programme>
+  <programme start="20230221090000 +0100" stop="20230221101000 +0100" channel="Hayat">
+    <title lang="sl">Jutro z vami</title>
+  </programme>
+  <programme start="20230221101000 +0100" stop="20230221101500 +0100" channel="Hayat">
+    <title lang="sl">Natura Health</title>
+  </programme>
+  <programme start="20230221101500 +0100" stop="20230221102000 +0100" channel="Hayat">
+    <title lang="sl">Labeffective</title>
+  </programme>
+  <programme start="20230221102000 +0100" stop="20230221102500 +0100" channel="Hayat">
+    <title lang="sl">Natura Health</title>
+  </programme>
+  <programme start="20230221102500 +0100" stop="20230221112000 +0100" channel="Hayat">
+    <title lang="sl">Tri sestre</title>
+  </programme>
+  <programme start="20230221112000 +0100" stop="20230221114000 +0100" channel="Hayat">
+    <title lang="sl">TV izložba</title>
+  </programme>
+  <programme start="20230221114000 +0100" stop="20230221123000 +0100" channel="Hayat">
+    <title lang="sl">Zimska kuhinja</title>
+  </programme>
+  <programme start="20230221123000 +0100" stop="20230221123500 +0100" channel="Hayat">
+    <title lang="sl">Minute za zdravje</title>
+  </programme>
+  <programme start="20230221123500 +0100" stop="20230221125000 +0100" channel="Hayat">
+    <title lang="sl">TV izložba</title>
+  </programme>
+  <programme start="20230221125000 +0100" stop="20230221125500 +0100" channel="Hayat">
+    <title lang="sl">Natura Health</title>
+  </programme>
+  <programme start="20230221125500 +0100" stop="20230221134500 +0100" channel="Hayat">
+    <title lang="sl">Steklena kletka</title>
+  </programme>
+  <programme start="20230221134500 +0100" stop="20230221140000 +0100" channel="Hayat">
+    <title lang="sl">TV izložba</title>
+  </programme>
+  <programme start="20230221140000 +0100" stop="20230221140500 +0100" channel="Hayat">
+    <title lang="sl">Natura Health</title>
+  </programme>
+  <programme start="20230221140500 +0100" stop="20230221145500 +0100" channel="Hayat">
+    <title lang="sl">Seldžuki: Alparslan</title>
+  </programme>
+  <programme start="20230221145500 +0100" stop="20230221152000 +0100" channel="Hayat">
+    <title lang="sl">TV izložba</title>
+  </programme>
+  <programme start="20230221152000 +0100" stop="20230221153500 +0100" channel="Hayat">
+    <title lang="sl">TV izložba</title>
+  </programme>
+  <programme start="20230221153500 +0100" stop="20230221154000 +0100" channel="Hayat">
+    <title lang="sl">Natura Health</title>
+  </programme>
+  <programme start="20230221154000 +0100" stop="20230221163000 +0100" channel="Hayat">
+    <title lang="sl">Planina ljubezni</title>
+  </programme>
+  <programme start="20230221163000 +0100" stop="20230221180000 +0100" channel="Hayat">
+    <title lang="sl">Odprti studio</title>
+  </programme>
+  <programme start="20230221180000 +0100" stop="20230221184900 +0100" channel="Hayat">
+    <title lang="sl">Zimska kuhinja</title>
+  </programme>
+  <programme start="20230221184900 +0100" stop="20230221190900 +0100" channel="Hayat">
+    <title lang="sl">Novice ob 7h</title>
+  </programme>
+  <programme start="20230221190900 +0100" stop="20230221194400 +0100" channel="Hayat">
+    <title lang="sl">7 plus</title>
+  </programme>
+  <programme start="20230221194400 +0100" stop="20230221200000 +0100" channel="Hayat">
+    <title lang="sl">Šport</title>
+  </programme>
+  <programme start="20230221200000 +0100" stop="20230221205500 +0100" channel="Hayat">
+    <title lang="sl">Steklena kletka</title>
+  </programme>
+  <programme start="20230221205500 +0100" stop="20230221215000 +0100" channel="Hayat">
+    <title lang="sl">Seldžuki: Alparslan</title>
+  </programme>
+  <programme start="20230221215000 +0100" stop="20230221224500 +0100" channel="Hayat">
+    <title lang="sl">Tri sestre</title>
+  </programme>
+  <programme start="20230221224500 +0100" stop="20230221234000 +0100" channel="Hayat">
+    <title lang="sl">Planina ljubezni</title>
+  </programme>
+  <programme start="20230221234000 +0100" stop="20230222002500 +0100" channel="Hayat">
+    <title lang="sl">Zimska kuhinja</title>
+  </programme>
+  <programme start="20230222002500 +0100" stop="20230222004500 +0100" channel="Hayat">
+    <title lang="sl">Novice ob 7h</title>
+  </programme>
+  <programme start="20230222004500 +0100" stop="20230222011500 +0100" channel="Hayat">
+    <title lang="sl">7 plus</title>
   </programme>
   <programme start="20230220005000 +0100" stop="20230220011500 +0100" channel="History Channel">
     <title lang="sl">Skladiščne vojne: Laži</title>
@@ -4535,7 +5278,10 @@
   <programme start="20230223111900 +0100" stop="20230223113100 +0100" channel="JimJam">
     <title lang="sl">Leo, gozdni čuvaj</title>
   </programme>
-  <programme start="20230223113100 +0100" stop="20230223115700 +0100" channel="JimJam">
+  <programme start="20230223113100 +0100" stop="20230223114400 +0100" channel="JimJam">
+    <title lang="sl">Pettson in Findus</title>
+  </programme>
+  <programme start="20230223114400 +0100" stop="20230223115700 +0100" channel="JimJam">
     <title lang="sl">Pettson in Findus</title>
   </programme>
   <programme start="20230223115700 +0100" stop="20230223120400 +0100" channel="JimJam">
@@ -4918,5 +5664,530 @@
   </programme>
   <programme start="20230223220000 +0100" stop="20230223230000 +0100" channel="Jugoton">
     <title lang="sl">Underground</title>
+  </programme>
+  <programme start="20230220001500 +0100" stop="20230220012000 +0100" channel="KCN">
+    <title lang="sl">Brez predsodkov</title>
+  </programme>
+  <programme start="20230220012000 +0100" stop="20230220025500 +0100" channel="KCN">
+    <title lang="sl">TV gledališče</title>
+  </programme>
+  <programme start="20230220025500 +0100" stop="20230220034000 +0100" channel="KCN">
+    <title lang="sl">Ženske zadeve z Ninom</title>
+  </programme>
+  <programme start="20230220034000 +0100" stop="20230220054000 +0100" channel="KCN">
+    <title lang="sl">Serija</title>
+  </programme>
+  <programme start="20230220054000 +0100" stop="20230220064000 +0100" channel="KCN">
+    <title lang="sl">Polarizator</title>
+  </programme>
+  <programme start="20230220064000 +0100" stop="20230220070500 +0100" channel="KCN">
+    <title lang="sl">Risanka</title>
+  </programme>
+  <programme start="20230220070500 +0100" stop="20230220074500 +0100" channel="KCN">
+    <title lang="sl">Stem 011</title>
+  </programme>
+  <programme start="20230220074500 +0100" stop="20230220084000 +0100" channel="KCN">
+    <title lang="sl">K:CN v nedeljo ob treh</title>
+  </programme>
+  <programme start="20230220084000 +0100" stop="20230220091000 +0100" channel="KCN">
+    <title lang="sl">Ne črno, ne belo</title>
+  </programme>
+  <programme start="20230220091000 +0100" stop="20230220094000 +0100" channel="KCN">
+    <title lang="sl">TV prodaja</title>
+  </programme>
+  <programme start="20230220094000 +0100" stop="20230220100000 +0100" channel="KCN">
+    <title lang="sl">Kmetijstvo</title>
+  </programme>
+  <programme start="20230220100000 +0100" stop="20230220121000 +0100" channel="KCN">
+    <title lang="sl">Skodelica pogovora</title>
+  </programme>
+  <programme start="20230220121000 +0100" stop="20230220122500 +0100" channel="KCN">
+    <title lang="sl">TV prodaja</title>
+  </programme>
+  <programme start="20230220122500 +0100" stop="20230220131500 +0100" channel="KCN">
+    <title lang="sl">Serija</title>
+  </programme>
+  <programme start="20230220131500 +0100" stop="20230220133000 +0100" channel="KCN">
+    <title lang="sl">Novice dneva</title>
+  </programme>
+  <programme start="20230220133000 +0100" stop="20230220133500 +0100" channel="KCN">
+    <title lang="sl">Posel</title>
+  </programme>
+  <programme start="20230220133500 +0100" stop="20230220140000 +0100" channel="KCN">
+    <title lang="sl">Šport</title>
+  </programme>
+  <programme start="20230220140000 +0100" stop="20230220150000 +0100" channel="KCN">
+    <title lang="sl">K:CN v nedeljo ob treh</title>
+  </programme>
+  <programme start="20230220150000 +0100" stop="20230220160000 +0100" channel="KCN">
+    <title lang="sl">Srbija na spletu</title>
+  </programme>
+  <programme start="20230220160000 +0100" stop="20230220163000 +0100" channel="KCN">
+    <title lang="sl">Time Out</title>
+  </programme>
+  <programme start="20230220163000 +0100" stop="20230220170000 +0100" channel="KCN">
+    <title lang="sl">Srbija na spletu</title>
+  </programme>
+  <programme start="20230220170000 +0100" stop="20230220173000 +0100" channel="KCN">
+    <title lang="sl">Kmetijstvo</title>
+  </programme>
+  <programme start="20230220173000 +0100" stop="20230220180000 +0100" channel="KCN">
+    <title lang="sl">Informator</title>
+  </programme>
+  <programme start="20230220180000 +0100" stop="20230220181000 +0100" channel="KCN">
+    <title lang="sl">Šport</title>
+  </programme>
+  <programme start="20230220181000 +0100" stop="20230220184000 +0100" channel="KCN">
+    <title lang="sl">Suzanina izbira</title>
+  </programme>
+  <programme start="20230220184000 +0100" stop="20230220190000 +0100" channel="KCN">
+    <title lang="sl">Hipokrat</title>
+  </programme>
+  <programme start="20230220190000 +0100" stop="20230220192000 +0100" channel="KCN">
+    <title lang="sl">Zapisi</title>
+  </programme>
+  <programme start="20230220192000 +0100" stop="20230220200000 +0100" channel="KCN">
+    <title lang="sl">Risanka</title>
+  </programme>
+  <programme start="20230220200000 +0100" stop="20230220213000 +0100" channel="KCN">
+    <title lang="sl">Seki JO glasbeni alibi</title>
+  </programme>
+  <programme start="20230220213000 +0100" stop="20230220214500 +0100" channel="KCN">
+    <title lang="sl">Avto fokus</title>
+  </programme>
+  <programme start="20230220214500 +0100" stop="20230220220000 +0100" channel="KCN">
+    <title lang="sl">Šport</title>
+  </programme>
+  <programme start="20230220220000 +0100" stop="20230220230000 +0100" channel="KCN">
+    <title lang="sl">Glasno in jasno</title>
+  </programme>
+  <programme start="20230220230000 +0100" stop="20230221000000 +0100" channel="KCN">
+    <title lang="sl">Prva noč z dr. Sandro</title>
+  </programme>
+  <programme start="20230221000000 +0100" stop="20230221020000 +0100" channel="KCN">
+    <title lang="sl">Skodelica pogovora</title>
+  </programme>
+  <programme start="20230221020000 +0100" stop="20230221032500 +0100" channel="KCN">
+    <title lang="sl">Serija</title>
+  </programme>
+  <programme start="20230221032500 +0100" stop="20230221042000 +0100" channel="KCN">
+    <title lang="sl">K:CN v nedeljo ob treh</title>
+  </programme>
+  <programme start="20230221042000 +0100" stop="20230221052000 +0100" channel="KCN">
+    <title lang="sl">Glasno in jasno</title>
+  </programme>
+  <programme start="20230221052000 +0100" stop="20230221062000 +0100" channel="KCN">
+    <title lang="sl">Resnica o...</title>
+  </programme>
+  <programme start="20230221062000 +0100" stop="20230221070500 +0100" channel="KCN">
+    <title lang="sl">Informator</title>
+  </programme>
+  <programme start="20230221070500 +0100" stop="20230221074000 +0100" channel="KCN">
+    <title lang="sl">ABS Show</title>
+  </programme>
+  <programme start="20230221074000 +0100" stop="20230221084000 +0100" channel="KCN">
+    <title lang="sl">Brez predsodkov</title>
+  </programme>
+  <programme start="20230221084000 +0100" stop="20230221091000 +0100" channel="KCN">
+    <title lang="sl">Oddaja o modi</title>
+  </programme>
+  <programme start="20230221091000 +0100" stop="20230221094000 +0100" channel="KCN">
+    <title lang="sl">TV prodaja</title>
+  </programme>
+  <programme start="20230221094000 +0100" stop="20230221100000 +0100" channel="KCN">
+    <title lang="sl">Kmetijstvo</title>
+  </programme>
+  <programme start="20230221100000 +0100" stop="20230221121000 +0100" channel="KCN">
+    <title lang="sl">Skodelica pogovora</title>
+  </programme>
+  <programme start="20230221121000 +0100" stop="20230221122500 +0100" channel="KCN">
+    <title lang="sl">TV prodaja</title>
+  </programme>
+  <programme start="20230221122500 +0100" stop="20230221131500 +0100" channel="KCN">
+    <title lang="sl">Serija</title>
+  </programme>
+  <programme start="20230221131500 +0100" stop="20230221133000 +0100" channel="KCN">
+    <title lang="sl">Novice dneva</title>
+  </programme>
+  <programme start="20230221133000 +0100" stop="20230221133500 +0100" channel="KCN">
+    <title lang="sl">Posel</title>
+  </programme>
+  <programme start="20230221133500 +0100" stop="20230221140000 +0100" channel="KCN">
+    <title lang="sl">Šport</title>
+  </programme>
+  <programme start="20230221140000 +0100" stop="20230221144500 +0100" channel="KCN">
+    <title lang="sl">Dr TARA: Lepota in zdravje</title>
+  </programme>
+  <programme start="20230221144500 +0100" stop="20230221150000 +0100" channel="KCN">
+    <title lang="sl">Hipokrat</title>
+  </programme>
+  <programme start="20230221150000 +0100" stop="20230221170000 +0100" channel="KCN">
+    <title lang="sl">Srbija na spletu</title>
+  </programme>
+  <programme start="20230221170000 +0100" stop="20230221173000 +0100" channel="KCN">
+    <title lang="sl">Kmetijstvo</title>
+  </programme>
+  <programme start="20230221173000 +0100" stop="20230221180000 +0100" channel="KCN">
+    <title lang="sl">Informator</title>
+  </programme>
+  <programme start="20230221180000 +0100" stop="20230221181000 +0100" channel="KCN">
+    <title lang="sl">Šport</title>
+  </programme>
+  <programme start="20230221181000 +0100" stop="20230221190000 +0100" channel="KCN">
+    <title lang="sl">Pogled</title>
+  </programme>
+  <programme start="20230221190000 +0100" stop="20230221192000 +0100" channel="KCN">
+    <title lang="sl">Zapisi</title>
+  </programme>
+  <programme start="20230221192000 +0100" stop="20230221200000 +0100" channel="KCN">
+    <title lang="sl">Risanka</title>
+  </programme>
+  <programme start="20230221200000 +0100" stop="20230221214000 +0100" channel="KCN">
+    <title lang="sl">Prslook again</title>
+  </programme>
+  <programme start="20230221214000 +0100" stop="20230221220000 +0100" channel="KCN">
+    <title lang="sl">Šport</title>
+  </programme>
+  <programme start="20230221220000 +0100" stop="20230221230000 +0100" channel="KCN">
+    <title lang="sl">Šampanjec z Jasmino Ano</title>
+  </programme>
+  <programme start="20230221230000 +0100" stop="20230222000000 +0100" channel="KCN">
+    <title lang="sl">Resnica o...</title>
+  </programme>
+  <programme start="20230222000000 +0100" stop="20230222020000 +0100" channel="KCN">
+    <title lang="sl">Skodelica pogovora</title>
+  </programme>
+  <programme start="20230222020000 +0100" stop="20230222032000 +0100" channel="KCN">
+    <title lang="sl">Serija</title>
+  </programme>
+  <programme start="20230222032000 +0100" stop="20230222035500 +0100" channel="KCN">
+    <title lang="sl">Stem 011</title>
+  </programme>
+  <programme start="20230222035500 +0100" stop="20230222044500 +0100" channel="KCN">
+    <title lang="sl">Pogled</title>
+  </programme>
+  <programme start="20230222044500 +0100" stop="20230222060500 +0100" channel="KCN">
+    <title lang="sl">Seki JO glasbeni alibi</title>
+  </programme>
+  <programme start="20230222060500 +0100" stop="20230222062000 +0100" channel="KCN">
+    <title lang="sl">Risanka</title>
+  </programme>
+  <programme start="20230222062000 +0100" stop="20230222070000 +0100" channel="KCN">
+    <title lang="sl">Informator</title>
+  </programme>
+  <programme start="20230222070000 +0100" stop="20230222071500 +0100" channel="KCN">
+    <title lang="sl">Avto fokus</title>
+  </programme>
+  <programme start="20230222071500 +0100" stop="20230222074000 +0100" channel="KCN">
+    <title lang="sl">Originali</title>
+  </programme>
+  <programme start="20230222074000 +0100" stop="20230222084000 +0100" channel="KCN">
+    <title lang="sl">Glasno in jasno</title>
+  </programme>
+  <programme start="20230222084000 +0100" stop="20230222091000 +0100" channel="KCN">
+    <title lang="sl">Klub šampionov</title>
+  </programme>
+  <programme start="20230222091000 +0100" stop="20230222094000 +0100" channel="KCN">
+    <title lang="sl">TV prodaja</title>
+  </programme>
+  <programme start="20230222094000 +0100" stop="20230222100000 +0100" channel="KCN">
+    <title lang="sl">Kmetijstvo</title>
+  </programme>
+  <programme start="20230222100000 +0100" stop="20230222121000 +0100" channel="KCN">
+    <title lang="sl">Skodelica pogovora</title>
+  </programme>
+  <programme start="20230222121000 +0100" stop="20230222122500 +0100" channel="KCN">
+    <title lang="sl">TV prodaja</title>
+  </programme>
+  <programme start="20230222122500 +0100" stop="20230222131500 +0100" channel="KCN">
+    <title lang="sl">Serija</title>
+  </programme>
+  <programme start="20230222131500 +0100" stop="20230222133000 +0100" channel="KCN">
+    <title lang="sl">Novice dneva</title>
+  </programme>
+  <programme start="20230222133000 +0100" stop="20230222133500 +0100" channel="KCN">
+    <title lang="sl">Posel</title>
+  </programme>
+  <programme start="20230222133500 +0100" stop="20230222134000 +0100" channel="KCN">
+    <title lang="sl">Šport</title>
+  </programme>
+  <programme start="20230222134000 +0100" stop="20230222140000 +0100" channel="KCN">
+    <title lang="sl">Hipokrat</title>
+  </programme>
+  <programme start="20230222140000 +0100" stop="20230222150000 +0100" channel="KCN">
+    <title lang="sl">Pogled</title>
+  </programme>
+  <programme start="20230222150000 +0100" stop="20230222170000 +0100" channel="KCN">
+    <title lang="sl">Srbija na spletu</title>
+  </programme>
+  <programme start="20230222170000 +0100" stop="20230222173000 +0100" channel="KCN">
+    <title lang="sl">Kmetijstvo</title>
+  </programme>
+  <programme start="20230222173000 +0100" stop="20230222180000 +0100" channel="KCN">
+    <title lang="sl">Informator</title>
+  </programme>
+  <programme start="20230222180000 +0100" stop="20230222181000 +0100" channel="KCN">
+    <title lang="sl">Šport</title>
+  </programme>
+  <programme start="20230222181000 +0100" stop="20230222190000 +0100" channel="KCN">
+    <title lang="sl">DirektNi</title>
+  </programme>
+  <programme start="20230222190000 +0100" stop="20230222192000 +0100" channel="KCN">
+    <title lang="sl">Zapisi</title>
+  </programme>
+  <programme start="20230222192000 +0100" stop="20230222200000 +0100" channel="KCN">
+    <title lang="sl">Risanka</title>
+  </programme>
+  <programme start="20230222200000 +0100" stop="20230222211000 +0100" channel="KCN">
+    <title lang="sl">Polarizator</title>
+  </programme>
+  <programme start="20230222211000 +0100" stop="20230222214000 +0100" channel="KCN">
+    <title lang="sl">Hipokrat</title>
+  </programme>
+  <programme start="20230222214000 +0100" stop="20230222220000 +0100" channel="KCN">
+    <title lang="sl">Športni pregled</title>
+  </programme>
+  <programme start="20230222220000 +0100" stop="20230222230000 +0100" channel="KCN">
+    <title lang="sl">Šampanjec z Jasmino Ano</title>
+  </programme>
+  <programme start="20230222230000 +0100" stop="20230222233000 +0100" channel="KCN">
+    <title lang="sl">Time Out</title>
+  </programme>
+  <programme start="20230222233000 +0100" stop="20230223000000 +0100" channel="KCN">
+    <title lang="sl">Ne črno, ne belo</title>
+  </programme>
+  <programme start="20230223000000 +0100" stop="20230223020000 +0100" channel="KCN">
+    <title lang="sl">Skodelica pogovora</title>
+  </programme>
+  <programme start="20230223020000 +0100" stop="20230223032000 +0100" channel="KCN">
+    <title lang="sl">Serija</title>
+  </programme>
+  <programme start="20230223032000 +0100" stop="20230223042500 +0100" channel="KCN">
+    <title lang="sl">Polarizator</title>
+  </programme>
+  <programme start="20230223042500 +0100" stop="20230223051500 +0100" channel="KCN">
+    <title lang="sl">DirektNi</title>
+  </programme>
+  <programme start="20230223051500 +0100" stop="20230223054500 +0100" channel="KCN">
+    <title lang="sl">Ne črno, ne belo</title>
+  </programme>
+  <programme start="20230223054500 +0100" stop="20230223062000 +0100" channel="KCN">
+    <title lang="sl">Risanka</title>
+  </programme>
+  <programme start="20230223062000 +0100" stop="20230223070000 +0100" channel="KCN">
+    <title lang="sl">Informator</title>
+  </programme>
+  <programme start="20230223070000 +0100" stop="20230223075500 +0100" channel="KCN">
+    <title lang="sl">Ženske zadeve z Ninom</title>
+  </programme>
+  <programme start="20230223075500 +0100" stop="20230223091000 +0100" channel="KCN">
+    <title lang="sl">Srbska razglednica iz Amerike</title>
+  </programme>
+  <programme start="20230223091000 +0100" stop="20230223094000 +0100" channel="KCN">
+    <title lang="sl">TV prodaja</title>
+  </programme>
+  <programme start="20230223094000 +0100" stop="20230223100000 +0100" channel="KCN">
+    <title lang="sl">Kmetijstvo</title>
+  </programme>
+  <programme start="20230223100000 +0100" stop="20230223121000 +0100" channel="KCN">
+    <title lang="sl">Skodelica pogovora</title>
+  </programme>
+  <programme start="20230223121000 +0100" stop="20230223122500 +0100" channel="KCN">
+    <title lang="sl">TV prodaja</title>
+  </programme>
+  <programme start="20230223122500 +0100" stop="20230223131500 +0100" channel="KCN">
+    <title lang="sl">Serija</title>
+  </programme>
+  <programme start="20230223131500 +0100" stop="20230223133000 +0100" channel="KCN">
+    <title lang="sl">Novice dneva</title>
+  </programme>
+  <programme start="20230223133000 +0100" stop="20230223133500 +0100" channel="KCN">
+    <title lang="sl">Posel</title>
+  </programme>
+  <programme start="20230223133500 +0100" stop="20230223140000 +0100" channel="KCN">
+    <title lang="sl">Šport</title>
+  </programme>
+  <programme start="20230223140000 +0100" stop="20230223150000 +0100" channel="KCN">
+    <title lang="sl">DirektNi</title>
+  </programme>
+  <programme start="20230223150000 +0100" stop="20230223170000 +0100" channel="KCN">
+    <title lang="sl">Srbija na spletu</title>
+  </programme>
+  <programme start="20230223170000 +0100" stop="20230223173000 +0100" channel="KCN">
+    <title lang="sl">Kmetijstvo</title>
+  </programme>
+  <programme start="20230223173000 +0100" stop="20230223180000 +0100" channel="KCN">
+    <title lang="sl">Informator</title>
+  </programme>
+  <programme start="20230223180000 +0100" stop="20230223180500 +0100" channel="KCN">
+    <title lang="sl">Šport</title>
+  </programme>
+  <programme start="20230223180500 +0100" stop="20230223181500 +0100" channel="KCN">
+    <title lang="sl">Hipokrat</title>
+  </programme>
+  <programme start="20230223181500 +0100" stop="20230223190000 +0100" channel="KCN">
+    <title lang="sl">Dr TARA: Lepota in zdravje</title>
+  </programme>
+  <programme start="20230223190000 +0100" stop="20230223192000 +0100" channel="KCN">
+    <title lang="sl">Zapisi</title>
+  </programme>
+  <programme start="20230223192000 +0100" stop="20230223194500 +0100" channel="KCN">
+    <title lang="sl">Risanka</title>
+  </programme>
+  <programme start="20230223194500 +0100" stop="20230223200000 +0100" channel="KCN">
+    <title lang="sl">Hipokrat</title>
+  </programme>
+  <programme start="20230223200000 +0100" stop="20230223211500 +0100" channel="KCN">
+    <title lang="sl">Glasno in jasno</title>
+  </programme>
+  <programme start="20230223211500 +0100" stop="20230223213000 +0100" channel="KCN">
+    <title lang="sl">Šport</title>
+  </programme>
+  <programme start="20230223213000 +0100" stop="20230223224000 +0100" channel="KCN">
+    <title lang="sl">Šampanjec z Jasmino Ano</title>
+  </programme>
+  <programme start="20230223224000 +0100" stop="20230223235000 +0100" channel="KCN">
+    <title lang="sl">Brez predsodkov</title>
+  </programme>
+  <programme start="20230220000000 +0100" stop="20230220020000 +0100" channel="KCN Music">
+    <title lang="sl">Glasbeni spoti</title>
+  </programme>
+  <programme start="20230220020000 +0100" stop="20230220040000 +0100" channel="KCN Music">
+    <title lang="sl">Glasbeni spoti</title>
+  </programme>
+  <programme start="20230220040000 +0100" stop="20230220060000 +0100" channel="KCN Music">
+    <title lang="sl">Glasbeni spoti</title>
+  </programme>
+  <programme start="20230220060000 +0100" stop="20230220080000 +0100" channel="KCN Music">
+    <title lang="sl">Glasbeni spoti</title>
+  </programme>
+  <programme start="20230220080000 +0100" stop="20230220100000 +0100" channel="KCN Music">
+    <title lang="sl">Glasbeni spoti</title>
+  </programme>
+  <programme start="20230220100000 +0100" stop="20230220120000 +0100" channel="KCN Music">
+    <title lang="sl">Glasbeni spoti</title>
+  </programme>
+  <programme start="20230220120000 +0100" stop="20230220140000 +0100" channel="KCN Music">
+    <title lang="sl">Glasbeni spoti</title>
+  </programme>
+  <programme start="20230220140000 +0100" stop="20230220160000 +0100" channel="KCN Music">
+    <title lang="sl">Glasbeni spoti</title>
+  </programme>
+  <programme start="20230220160000 +0100" stop="20230220180000 +0100" channel="KCN Music">
+    <title lang="sl">Glasbeni spoti</title>
+  </programme>
+  <programme start="20230220180000 +0100" stop="20230220200000 +0100" channel="KCN Music">
+    <title lang="sl">Glasbeni spoti</title>
+  </programme>
+  <programme start="20230220200000 +0100" stop="20230220220000 +0100" channel="KCN Music">
+    <title lang="sl">Glasbeni spoti</title>
+  </programme>
+  <programme start="20230220220000 +0100" stop="20230221000000 +0100" channel="KCN Music">
+    <title lang="sl">Glasbeni spoti</title>
+  </programme>
+  <programme start="20230221000000 +0100" stop="20230221020000 +0100" channel="KCN Music">
+    <title lang="sl">Glasbeni spoti</title>
+  </programme>
+  <programme start="20230221020000 +0100" stop="20230221040000 +0100" channel="KCN Music">
+    <title lang="sl">Glasbeni spoti</title>
+  </programme>
+  <programme start="20230221040000 +0100" stop="20230221060000 +0100" channel="KCN Music">
+    <title lang="sl">Glasbeni spoti</title>
+  </programme>
+  <programme start="20230221060000 +0100" stop="20230221080000 +0100" channel="KCN Music">
+    <title lang="sl">Glasbeni spoti</title>
+  </programme>
+  <programme start="20230221080000 +0100" stop="20230221100000 +0100" channel="KCN Music">
+    <title lang="sl">Glasbeni spoti</title>
+  </programme>
+  <programme start="20230221100000 +0100" stop="20230221120000 +0100" channel="KCN Music">
+    <title lang="sl">Glasbeni spoti</title>
+  </programme>
+  <programme start="20230221120000 +0100" stop="20230221140000 +0100" channel="KCN Music">
+    <title lang="sl">Glasbeni spoti</title>
+  </programme>
+  <programme start="20230221140000 +0100" stop="20230221160000 +0100" channel="KCN Music">
+    <title lang="sl">Glasbeni spoti</title>
+  </programme>
+  <programme start="20230221160000 +0100" stop="20230221180000 +0100" channel="KCN Music">
+    <title lang="sl">Glasbeni spoti</title>
+  </programme>
+  <programme start="20230221180000 +0100" stop="20230221200000 +0100" channel="KCN Music">
+    <title lang="sl">Glasbeni spoti</title>
+  </programme>
+  <programme start="20230221200000 +0100" stop="20230221220000 +0100" channel="KCN Music">
+    <title lang="sl">Glasbeni spoti</title>
+  </programme>
+  <programme start="20230221220000 +0100" stop="20230222000000 +0100" channel="KCN Music">
+    <title lang="sl">Glasbeni spoti</title>
+  </programme>
+  <programme start="20230222000000 +0100" stop="20230222020000 +0100" channel="KCN Music">
+    <title lang="sl">Glasbeni spoti</title>
+  </programme>
+  <programme start="20230222020000 +0100" stop="20230222040000 +0100" channel="KCN Music">
+    <title lang="sl">Glasbeni spoti</title>
+  </programme>
+  <programme start="20230222040000 +0100" stop="20230222060000 +0100" channel="KCN Music">
+    <title lang="sl">Glasbeni spoti</title>
+  </programme>
+  <programme start="20230222060000 +0100" stop="20230222080000 +0100" channel="KCN Music">
+    <title lang="sl">Glasbeni spoti</title>
+  </programme>
+  <programme start="20230222080000 +0100" stop="20230222100000 +0100" channel="KCN Music">
+    <title lang="sl">Glasbeni spoti</title>
+  </programme>
+  <programme start="20230222100000 +0100" stop="20230222120000 +0100" channel="KCN Music">
+    <title lang="sl">Glasbeni spoti</title>
+  </programme>
+  <programme start="20230222120000 +0100" stop="20230222140000 +0100" channel="KCN Music">
+    <title lang="sl">Glasbeni spoti</title>
+  </programme>
+  <programme start="20230222140000 +0100" stop="20230222160000 +0100" channel="KCN Music">
+    <title lang="sl">Glasbeni spoti</title>
+  </programme>
+  <programme start="20230222160000 +0100" stop="20230222180000 +0100" channel="KCN Music">
+    <title lang="sl">Glasbeni spoti</title>
+  </programme>
+  <programme start="20230222180000 +0100" stop="20230222200000 +0100" channel="KCN Music">
+    <title lang="sl">Glasbeni spoti</title>
+  </programme>
+  <programme start="20230222200000 +0100" stop="20230222220000 +0100" channel="KCN Music">
+    <title lang="sl">Glasbeni spoti</title>
+  </programme>
+  <programme start="20230222220000 +0100" stop="20230223000000 +0100" channel="KCN Music">
+    <title lang="sl">Glasbeni spoti</title>
+  </programme>
+  <programme start="20230223000000 +0100" stop="20230223020000 +0100" channel="KCN Music">
+    <title lang="sl">Glasbeni spoti</title>
+  </programme>
+  <programme start="20230223020000 +0100" stop="20230223040000 +0100" channel="KCN Music">
+    <title lang="sl">Glasbeni spoti</title>
+  </programme>
+  <programme start="20230223040000 +0100" stop="20230223060000 +0100" channel="KCN Music">
+    <title lang="sl">Glasbeni spoti</title>
+  </programme>
+  <programme start="20230223060000 +0100" stop="20230223080000 +0100" channel="KCN Music">
+    <title lang="sl">Glasbeni spoti</title>
+  </programme>
+  <programme start="20230223080000 +0100" stop="20230223100000 +0100" channel="KCN Music">
+    <title lang="sl">Glasbeni spoti</title>
+  </programme>
+  <programme start="20230223100000 +0100" stop="20230223120000 +0100" channel="KCN Music">
+    <title lang="sl">Glasbeni spoti</title>
+  </programme>
+  <programme start="20230223120000 +0100" stop="20230223140000 +0100" channel="KCN Music">
+    <title lang="sl">Glasbeni spoti</title>
+  </programme>
+  <programme start="20230223140000 +0100" stop="20230223160000 +0100" channel="KCN Music">
+    <title lang="sl">Glasbeni spoti</title>
+  </programme>
+  <programme start="20230223160000 +0100" stop="20230223180000 +0100" channel="KCN Music">
+    <title lang="sl">Glasbeni spoti</title>
+  </programme>
+  <programme start="20230223180000 +0100" stop="20230223200000 +0100" channel="KCN Music">
+    <title lang="sl">Glasbeni spoti</title>
+  </programme>
+  <programme start="20230223200000 +0100" stop="20230223220000 +0100" channel="KCN Music">
+    <title lang="sl">Glasbeni spoti</title>
   </programme>
 </tv>
