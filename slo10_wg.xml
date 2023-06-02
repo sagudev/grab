@@ -2,10 +2,12 @@
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.4.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="Viasat Nature">
     <display-name lang="sl">Viasat Nature</display-name>
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/viasat_nature_updated1222131317.png" />
     <url>http://www.siol.net</url>
   </channel>
   <channel id="Vikom">
     <display-name lang="sl">Vikom</display-name>
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/vikom.png" />
     <url>http://www.siol.net</url>
   </channel>
   <channel id="Woman">
@@ -50,6 +52,543 @@
     <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/nick_jr_updated3720152027.png" />
     <url>http://www.siol.net</url>
   </channel>
+  <programme start="20230602001500 +0200" stop="20230602010000 +0200" channel="Viasat Nature">
+    <title lang="sl">Veterinarji na divji strani</title>
+  </programme>
+  <programme start="20230602010000 +0200" stop="20230602014500 +0200" channel="Viasat Nature">
+    <title lang="sl">Mega živalski vrt</title>
+  </programme>
+  <programme start="20230602014500 +0200" stop="20230602023000 +0200" channel="Viasat Nature">
+    <title lang="sl">Največji in najbolj zlobni: Indijski sloni: Sloni proti človeku</title>
+  </programme>
+  <programme start="20230602023000 +0200" stop="20230602031500 +0200" channel="Viasat Nature">
+    <title lang="sl">Veterinar iz Yorkshira</title>
+  </programme>
+  <programme start="20230602031500 +0200" stop="20230602040000 +0200" channel="Viasat Nature">
+    <title lang="sl">Veterinar iz Yorkshira</title>
+  </programme>
+  <programme start="20230602040000 +0200" stop="20230602044500 +0200" channel="Viasat Nature">
+    <title lang="sl">Živalski vrt Taronga - V zakulisju: Naomijin malček</title>
+  </programme>
+  <programme start="20230602044500 +0200" stop="20230602053500 +0200" channel="Viasat Nature">
+    <title lang="sl">Živalski vrt Taronga - V zakulisju: Žirafe se selijo</title>
+  </programme>
+  <programme start="20230602053500 +0200" stop="20230602060000 +0200" channel="Viasat Nature">
+    <title lang="sl">Reševanje divjih medvedov: Medvedje dolga zima</title>
+  </programme>
+  <programme start="20230602060000 +0200" stop="20230602062500 +0200" channel="Viasat Nature">
+    <title lang="sl">Dežela surikat: Vzpon dinastije: Dozorevanje</title>
+  </programme>
+  <programme start="20230602062500 +0200" stop="20230602065000 +0200" channel="Viasat Nature">
+    <title lang="sl">Dežela surikat: Vzpon dinastije: Ni jih več</title>
+  </programme>
+  <programme start="20230602065000 +0200" stop="20230602073500 +0200" channel="Viasat Nature">
+    <title lang="sl">Veterinarji na divji strani</title>
+  </programme>
+  <programme start="20230602073500 +0200" stop="20230602082000 +0200" channel="Viasat Nature">
+    <title lang="sl">Veterinar iz Yorkshira</title>
+  </programme>
+  <programme start="20230602082000 +0200" stop="20230602090500 +0200" channel="Viasat Nature">
+    <title lang="sl">Najlepše pokrajine sveta</title>
+  </programme>
+  <programme start="20230602090500 +0200" stop="20230602095500 +0200" channel="Viasat Nature">
+    <title lang="sl">Najlepše pokrajine sveta</title>
+  </programme>
+  <programme start="20230602095500 +0200" stop="20230602104500 +0200" channel="Viasat Nature">
+    <title lang="sl">Narava: Množični napadi: Mogočni in pretkani</title>
+  </programme>
+  <programme start="20230602104500 +0200" stop="20230602113500 +0200" channel="Viasat Nature">
+    <title lang="sl">Narava: Množični napadi: Boj ali beg</title>
+  </programme>
+  <programme start="20230602113500 +0200" stop="20230602122500 +0200" channel="Viasat Nature">
+    <title lang="sl">Maasai Mara: selitev divjih živali: Maasai Mara - Vladavina plenilcev</title>
+  </programme>
+  <programme start="20230602122500 +0200" stop="20230602132000 +0200" channel="Viasat Nature">
+    <title lang="sl">Galapaški otoki</title>
+  </programme>
+  <programme start="20230602132000 +0200" stop="20230602140500 +0200" channel="Viasat Nature">
+    <title lang="sl">Rečne pošasti: Hudič iz globin</title>
+  </programme>
+  <programme start="20230602140500 +0200" stop="20230602145500 +0200" channel="Viasat Nature">
+    <title lang="sl">Rečne pošasti: Skrivnosti morja</title>
+  </programme>
+  <programme start="20230602145500 +0200" stop="20230602154500 +0200" channel="Viasat Nature">
+    <title lang="sl">Poslednji raj: Gvajana</title>
+  </programme>
+  <programme start="20230602154500 +0200" stop="20230602164000 +0200" channel="Viasat Nature">
+    <title lang="sl">Narava: Množični napadi: Mogočni in pretkani</title>
+  </programme>
+  <programme start="20230602164000 +0200" stop="20230602173000 +0200" channel="Viasat Nature">
+    <title lang="sl">Narava: Množični napadi: Boj ali beg</title>
+  </programme>
+  <programme start="20230602173000 +0200" stop="20230602182000 +0200" channel="Viasat Nature">
+    <title lang="sl">Maasai Mara: selitev divjih živali: Maasai Mara - Vladavina plenilcev</title>
+  </programme>
+  <programme start="20230602182000 +0200" stop="20230602191000 +0200" channel="Viasat Nature">
+    <title lang="sl">Rečne pošasti</title>
+  </programme>
+  <programme start="20230602191000 +0200" stop="20230602200000 +0200" channel="Viasat Nature">
+    <title lang="sl">Rečne pošasti: Ruski morilec</title>
+  </programme>
+  <programme start="20230602200000 +0200" stop="20230602204500 +0200" channel="Viasat Nature">
+    <title lang="sl">Boj za preživetje: Migracije</title>
+  </programme>
+  <programme start="20230602204500 +0200" stop="20230602213500 +0200" channel="Viasat Nature">
+    <title lang="sl">Boj za preživetje: Oportunisti</title>
+  </programme>
+  <programme start="20230602213500 +0200" stop="20230602222000 +0200" channel="Viasat Nature">
+    <title lang="sl">Boj za preživetje: Združevanje</title>
+  </programme>
+  <programme start="20230602222000 +0200" stop="20230602231000 +0200" channel="Viasat Nature">
+    <title lang="sl">Poslednji raj: Gvajana</title>
+  </programme>
+  <programme start="20230602231000 +0200" stop="20230602233500 +0200" channel="Viasat Nature">
+    <title lang="sl">Dežela surikat: Vzpon dinastije: Veliki povratek</title>
+  </programme>
+  <programme start="20230602233500 +0200" stop="20230603000500 +0200" channel="Viasat Nature">
+    <title lang="sl">Dežela surikat: Vzpon dinastije: Težave v raju</title>
+  </programme>
+  <programme start="20230603000500 +0200" stop="20230603005000 +0200" channel="Viasat Nature">
+    <title lang="sl">Veterinarji na divji strani</title>
+  </programme>
+  <programme start="20230603005000 +0200" stop="20230603013500 +0200" channel="Viasat Nature">
+    <title lang="sl">Živalski vrt Taronga - V zakulisju: Kibali</title>
+  </programme>
+  <programme start="20230603013500 +0200" stop="20230603022000 +0200" channel="Viasat Nature">
+    <title lang="sl">Največji in najbolj zlobni: Mumbajski leopardi: Leopardi, ki lahko pojedo človeka ali psa</title>
+  </programme>
+  <programme start="20230603022000 +0200" stop="20230603030500 +0200" channel="Viasat Nature">
+    <title lang="sl">Veterinar iz Yorkshira</title>
+  </programme>
+  <programme start="20230603030500 +0200" stop="20230603034500 +0200" channel="Viasat Nature">
+    <title lang="sl">Veterinar iz Yorkshira</title>
+  </programme>
+  <programme start="20230603034500 +0200" stop="20230603043000 +0200" channel="Viasat Nature">
+    <title lang="sl">Živalski vrt Taronga - V zakulisju: Žirafe se selijo</title>
+  </programme>
+  <programme start="20230603043000 +0200" stop="20230603051500 +0200" channel="Viasat Nature">
+    <title lang="sl">Živalski vrt Taronga - V zakulisju: Smrtoglavka</title>
+  </programme>
+  <programme start="20230603051500 +0200" stop="20230603060000 +0200" channel="Viasat Nature">
+    <title lang="sl">Živalski vrt Taronga - V zakulisju: Izpust bilbijev</title>
+  </programme>
+  <programme start="20230603060000 +0200" stop="20230603062500 +0200" channel="Viasat Nature">
+    <title lang="sl">Dežela surikat: Vzpon dinastije: Veliki povratek</title>
+  </programme>
+  <programme start="20230603062500 +0200" stop="20230603071500 +0200" channel="Viasat Nature">
+    <title lang="sl">Veterinarji na divji strani</title>
+  </programme>
+  <programme start="20230603071500 +0200" stop="20230603080000 +0200" channel="Viasat Nature">
+    <title lang="sl">Veterinar iz Yorkshira</title>
+  </programme>
+  <programme start="20230603080000 +0200" stop="20230603085000 +0200" channel="Viasat Nature">
+    <title lang="sl">Rečne pošasti: Groza v raju</title>
+  </programme>
+  <programme start="20230603085000 +0200" stop="20230603094000 +0200" channel="Viasat Nature">
+    <title lang="sl">Rečne pošasti: Hudič iz globin</title>
+  </programme>
+  <programme start="20230603094000 +0200" stop="20230603103000 +0200" channel="Viasat Nature">
+    <title lang="sl">Rečne pošasti: Skrivnosti morja</title>
+  </programme>
+  <programme start="20230603103000 +0200" stop="20230603112000 +0200" channel="Viasat Nature">
+    <title lang="sl">Rečne pošasti: Groza na vulkanskem otoku</title>
+  </programme>
+  <programme start="20230603112000 +0200" stop="20230603121500 +0200" channel="Viasat Nature">
+    <title lang="sl">Rečne pošasti: Morilec koralnega grebena</title>
+  </programme>
+  <programme start="20230603121500 +0200" stop="20230603130500 +0200" channel="Viasat Nature">
+    <title lang="sl">Rečne pošasti: Pošast malezijskega jezera</title>
+  </programme>
+  <programme start="20230603130500 +0200" stop="20230603135500 +0200" channel="Viasat Nature">
+    <title lang="sl">Rečne pošasti: Vrnitev soma</title>
+  </programme>
+  <programme start="20230603135500 +0200" stop="20230603144500 +0200" channel="Viasat Nature">
+    <title lang="sl">Rečne pošasti: Hladnokrvni morilec</title>
+  </programme>
+  <programme start="20230603144500 +0200" stop="20230603153500 +0200" channel="Viasat Nature">
+    <title lang="sl">Galapaški otoki</title>
+  </programme>
+  <programme start="20230603153500 +0200" stop="20230603163000 +0200" channel="Viasat Nature">
+    <title lang="sl">Galapaški otoki</title>
+  </programme>
+  <programme start="20230603163000 +0200" stop="20230603172000 +0200" channel="Viasat Nature">
+    <title lang="sl">Galapaški otoki</title>
+  </programme>
+  <programme start="20230603172000 +0200" stop="20230603181500 +0200" channel="Viasat Nature">
+    <title lang="sl">Galapaški otoki</title>
+  </programme>
+  <programme start="20230603181500 +0200" stop="20230603191000 +0200" channel="Viasat Nature">
+    <title lang="sl">Čas velikanov</title>
+  </programme>
+  <programme start="20230603191000 +0200" stop="20230603200000 +0200" channel="Viasat Nature">
+    <title lang="sl">Izgubljene zveri: Odkritja: Skrivnosti sabljastega tigra</title>
+  </programme>
+  <programme start="20230603200000 +0200" stop="20230603205000 +0200" channel="Viasat Nature">
+    <title lang="sl">Izgubljene zveri: Odkritja: Skrivnosti morilskega morskega psa</title>
+  </programme>
+  <programme start="20230603205000 +0200" stop="20230603214500 +0200" channel="Viasat Nature">
+    <title lang="sl">Levi in hijene</title>
+  </programme>
+  <programme start="20230603214500 +0200" stop="20230603224000 +0200" channel="Viasat Nature">
+    <title lang="sl">Divji bojevniki: Boj za ozemlje</title>
+  </programme>
+  <programme start="20230603224000 +0200" stop="20230603233000 +0200" channel="Viasat Nature">
+    <title lang="sl">Divji bojevniki: Boj za oblast</title>
+  </programme>
+  <programme start="20230603233000 +0200" stop="20230603235500 +0200" channel="Viasat Nature">
+    <title lang="sl">Dežela surikat: Vzpon dinastije: Za vsako ceno</title>
+  </programme>
+  <programme start="20230603235500 +0200" stop="20230604002000 +0200" channel="Viasat Nature">
+    <title lang="sl">Dežela surikat: Vzpon dinastije: Novi časi</title>
+  </programme>
+  <programme start="20230604002000 +0200" stop="20230604011000 +0200" channel="Viasat Nature">
+    <title lang="sl">Veterinarji na divji strani</title>
+  </programme>
+  <programme start="20230604011000 +0200" stop="20230604015500 +0200" channel="Viasat Nature">
+    <title lang="sl">Živalski vrt Taronga - V zakulisju: Reševanje koal</title>
+  </programme>
+  <programme start="20230604015500 +0200" stop="20230604024000 +0200" channel="Viasat Nature">
+    <title lang="sl">Največji in najbolj zlobni: Močvirske pošasti</title>
+  </programme>
+  <programme start="20230604024000 +0200" stop="20230604032500 +0200" channel="Viasat Nature">
+    <title lang="sl">Veterinar iz Yorkshira</title>
+  </programme>
+  <programme start="20230604032500 +0200" stop="20230604041000 +0200" channel="Viasat Nature">
+    <title lang="sl">Veterinar iz Yorkshira</title>
+  </programme>
+  <programme start="20230604041000 +0200" stop="20230604045500 +0200" channel="Viasat Nature">
+    <title lang="sl">Živalski vrt Taronga - V zakulisju: Smrtoglavka</title>
+  </programme>
+  <programme start="20230604045500 +0200" stop="20230604053500 +0200" channel="Viasat Nature">
+    <title lang="sl">Živalski vrt Taronga - V zakulisju: Izpust bilbijev</title>
+  </programme>
+  <programme start="20230604053500 +0200" stop="20230604061500 +0200" channel="Viasat Nature">
+    <title lang="sl">Reševanje divjih medvedov: Sorojenci</title>
+  </programme>
+  <programme start="20230604061500 +0200" stop="20230604070000 +0200" channel="Viasat Nature">
+    <title lang="sl">Veterinarji na divji strani</title>
+  </programme>
+  <programme start="20230604070000 +0200" stop="20230604075500 +0200" channel="Viasat Nature">
+    <title lang="sl">Divja Kanada: Pomlad</title>
+  </programme>
+  <programme start="20230604075500 +0200" stop="20230604085000 +0200" channel="Viasat Nature">
+    <title lang="sl">Divja Kanada: Poletje</title>
+  </programme>
+  <programme start="20230604085000 +0200" stop="20230604094500 +0200" channel="Viasat Nature">
+    <title lang="sl">Divja Kanada: Jesen</title>
+  </programme>
+  <programme start="20230604094500 +0200" stop="20230604104000 +0200" channel="Viasat Nature">
+    <title lang="sl">Divja Kanada: Zima</title>
+  </programme>
+  <programme start="20230604104000 +0200" stop="20230604113000 +0200" channel="Viasat Nature">
+    <title lang="sl">Skrita Indija: Dežela sprememb</title>
+  </programme>
+  <programme start="20230604113000 +0200" stop="20230604122000 +0200" channel="Viasat Nature">
+    <title lang="sl">Skrita Indija: Dežela gorovij</title>
+  </programme>
+  <programme start="20230604122000 +0200" stop="20230604131000 +0200" channel="Viasat Nature">
+    <title lang="sl">Skrita Indija: Dežela rek</title>
+  </programme>
+  <programme start="20230604131000 +0200" stop="20230604140000 +0200" channel="Viasat Nature">
+    <title lang="sl">Veliki koralni greben: Živeči zaklad</title>
+  </programme>
+  <programme start="20230604140000 +0200" stop="20230604144500 +0200" channel="Viasat Nature">
+    <title lang="sl">Atlantik: Eno leto v divjini: Zima</title>
+  </programme>
+  <programme start="20230604144500 +0200" stop="20230604154000 +0200" channel="Viasat Nature">
+    <title lang="sl">Veliki koralni greben</title>
+  </programme>
+  <programme start="20230604154000 +0200" stop="20230604163500 +0200" channel="Viasat Nature">
+    <title lang="sl">Atlantik - Najbolj divji ocean na Zemlji: Tok življenja</title>
+  </programme>
+  <programme start="20230604163500 +0200" stop="20230604172500 +0200" channel="Viasat Nature">
+    <title lang="sl">Neskončna modrina: Zbirališče</title>
+  </programme>
+  <programme start="20230604172500 +0200" stop="20230604182000 +0200" channel="Viasat Nature">
+    <title lang="sl">Neskončna modrina: Oživitev</title>
+  </programme>
+  <programme start="20230604182000 +0200" stop="20230604191500 +0200" channel="Viasat Nature">
+    <title lang="sl">Veliki koralni greben</title>
+  </programme>
+  <programme start="20230604191500 +0200" stop="20230604201000 +0200" channel="Viasat Nature">
+    <title lang="sl">Divja Latinska Amerika: Patagonija</title>
+  </programme>
+  <programme start="20230604201000 +0200" stop="20230604210000 +0200" channel="Viasat Nature">
+    <title lang="sl">Divja Latinska Amerika: Amazonija</title>
+  </programme>
+  <programme start="20230604210000 +0200" stop="20230604215500 +0200" channel="Viasat Nature">
+    <title lang="sl">Divja Latinska Amerika: Patagonija</title>
+  </programme>
+  <programme start="20230604215500 +0200" stop="20230604224500 +0200" channel="Viasat Nature">
+    <title lang="sl">Divja Latinska Amerika: Amazonija</title>
+  </programme>
+  <programme start="20230604224500 +0200" stop="20230604231000 +0200" channel="Viasat Nature">
+    <title lang="sl">Dežela surikat: Vzpon dinastije: Novi začetki</title>
+  </programme>
+  <programme start="20230604231000 +0200" stop="20230604233500 +0200" channel="Viasat Nature">
+    <title lang="sl">Dežela surikat: Vzpon dinastije: Lokacija, lokacija, lokacija</title>
+  </programme>
+  <programme start="20230604233500 +0200" stop="20230605002500 +0200" channel="Viasat Nature">
+    <title lang="sl">Veterinarji na divji strani</title>
+  </programme>
+  <programme start="20230605002500 +0200" stop="20230605011000 +0200" channel="Viasat Nature">
+    <title lang="sl">Živalski vrt Taronga - V zakulisju: Waru</title>
+  </programme>
+  <programme start="20230605011000 +0200" stop="20230605015500 +0200" channel="Viasat Nature">
+    <title lang="sl">Največji in najbolj zlobni: Gorske gorile</title>
+  </programme>
+  <programme start="20230605015500 +0200" stop="20230605024000 +0200" channel="Viasat Nature">
+    <title lang="sl">Veterinar iz Yorkshira</title>
+  </programme>
+  <programme start="20230605024000 +0200" stop="20230605032500 +0200" channel="Viasat Nature">
+    <title lang="sl">Veterinar iz Yorkshira</title>
+  </programme>
+  <programme start="20230605032500 +0200" stop="20230605041000 +0200" channel="Viasat Nature">
+    <title lang="sl">Živalski vrt Taronga - V zakulisju: Smrtoglavka</title>
+  </programme>
+  <programme start="20230605041000 +0200" stop="20230605045000 +0200" channel="Viasat Nature">
+    <title lang="sl">Živalski vrt Taronga - V zakulisju: Izpust bilbijev</title>
+  </programme>
+  <programme start="20230605045000 +0200" stop="20230605053500 +0200" channel="Viasat Nature">
+    <title lang="sl">Živalski vrt Taronga - V zakulisju: Lačen povodni konj</title>
+  </programme>
+  <programme start="20230605053500 +0200" stop="20230605060000 +0200" channel="Viasat Nature">
+    <title lang="sl">Reševanje divjih medvedov: Medvedje vezi</title>
+  </programme>
+  <programme start="20230605060000 +0200" stop="20230605062500 +0200" channel="Viasat Nature">
+    <title lang="sl">Dežela surikat: Vzpon dinastije: Veliki povratek</title>
+  </programme>
+  <programme start="20230605062500 +0200" stop="20230605071000 +0200" channel="Viasat Nature">
+    <title lang="sl">Veterinarji na divji strani</title>
+  </programme>
+  <programme start="20230605071000 +0200" stop="20230605075500 +0200" channel="Viasat Nature">
+    <title lang="sl">Veterinar iz Yorkshira</title>
+  </programme>
+  <programme start="20230605075500 +0200" stop="20230605084000 +0200" channel="Viasat Nature">
+    <title lang="sl">Najlepše pokrajine sveta</title>
+  </programme>
+  <programme start="20230605084000 +0200" stop="20230605093000 +0200" channel="Viasat Nature">
+    <title lang="sl">Najlepše pokrajine sveta</title>
+  </programme>
+  <programme start="20230605093000 +0200" stop="20230605101500 +0200" channel="Viasat Nature">
+    <title lang="sl">Najlepše pokrajine sveta</title>
+  </programme>
+  <programme start="20230605101500 +0200" stop="20230605110500 +0200" channel="Viasat Nature">
+    <title lang="sl">Boj za preživetje: Migracije</title>
+  </programme>
+  <programme start="20230605110500 +0200" stop="20230605115000 +0200" channel="Viasat Nature">
+    <title lang="sl">Boj za preživetje: Oportunisti</title>
+  </programme>
+  <programme start="20230605115000 +0200" stop="20230605123500 +0200" channel="Viasat Nature">
+    <title lang="sl">Boj za preživetje: Združevanje</title>
+  </programme>
+  <programme start="20230605123500 +0200" stop="20230605133000 +0200" channel="Viasat Nature">
+    <title lang="sl">Poslednji raj: Gvajana</title>
+  </programme>
+  <programme start="20230605133000 +0200" stop="20230605142000 +0200" channel="Viasat Nature">
+    <title lang="sl">Rečne pošasti</title>
+  </programme>
+  <programme start="20230605142000 +0200" stop="20230605151000 +0200" channel="Viasat Nature">
+    <title lang="sl">Rečne pošasti: Ruski morilec</title>
+  </programme>
+  <programme start="20230605151000 +0200" stop="20230605160000 +0200" channel="Viasat Nature">
+    <title lang="sl">Narava: Bliskoviti napadi: Hitri in drzni</title>
+  </programme>
+  <programme start="20230605160000 +0200" stop="20230605164500 +0200" channel="Viasat Nature">
+    <title lang="sl">Boj za preživetje: Migracije</title>
+  </programme>
+  <programme start="20230605164500 +0200" stop="20230605173500 +0200" channel="Viasat Nature">
+    <title lang="sl">Boj za preživetje: Oportunisti</title>
+  </programme>
+  <programme start="20230605173500 +0200" stop="20230605182000 +0200" channel="Viasat Nature">
+    <title lang="sl">Boj za preživetje: Združevanje</title>
+  </programme>
+  <programme start="20230605182000 +0200" stop="20230605191000 +0200" channel="Viasat Nature">
+    <title lang="sl">Rečne pošasti: Mongolski klavec</title>
+  </programme>
+  <programme start="20230605191000 +0200" stop="20230605200000 +0200" channel="Viasat Nature">
+    <title lang="sl">Rečne pošasti: Azijski ubijalec</title>
+  </programme>
+  <programme start="20230605200000 +0200" stop="20230605205500 +0200" channel="Viasat Nature">
+    <title lang="sl">Čas velikanov</title>
+  </programme>
+  <programme start="20230605205500 +0200" stop="20230605215000 +0200" channel="Viasat Nature">
+    <title lang="sl">Evropska divjina: Brkati ser</title>
+  </programme>
+  <programme start="20230605215000 +0200" stop="20230605224000 +0200" channel="Viasat Nature">
+    <title lang="sl">Škotska: Divje leto: Pomlad</title>
+  </programme>
+  <programme start="20230605224000 +0200" stop="20230605232500 +0200" channel="Viasat Nature">
+    <title lang="sl">Atlantik: Eno leto v divjini: Zima</title>
+  </programme>
+  <programme start="20230605232500 +0200" stop="20230605235000 +0200" channel="Viasat Nature">
+    <title lang="sl">Dežela surikat: Vzpon dinastije: Izgubljeni raj</title>
+  </programme>
+  <programme start="20230602000000 +0200" stop="20230602060000 +0200" channel="Vikom">
+    <title lang="sl">Astrologija</title>
+  </programme>
+  <programme start="20230602060000 +0200" stop="20230602080000 +0200" channel="Vikom">
+    <title lang="sl">Glasba</title>
+  </programme>
+  <programme start="20230602080000 +0200" stop="20230602090000 +0200" channel="Vikom">
+    <title lang="sl">Srbija in svet</title>
+  </programme>
+  <programme start="20230602090000 +0200" stop="20230602100000 +0200" channel="Vikom">
+    <title lang="sl">Hrana in vino</title>
+  </programme>
+  <programme start="20230602100000 +0200" stop="20230602145000 +0200" channel="Vikom">
+    <title lang="sl">Karmelita</title>
+  </programme>
+  <programme start="20230602145000 +0200" stop="20230602150000 +0200" channel="Vikom">
+    <title lang="sl">Marketing</title>
+  </programme>
+  <programme start="20230602150000 +0200" stop="20230602172000 +0200" channel="Vikom">
+    <title lang="sl">Glasbene želje</title>
+  </programme>
+  <programme start="20230602172000 +0200" stop="20230602175000 +0200" channel="Vikom">
+    <title lang="sl">Kaj delate?</title>
+  </programme>
+  <programme start="20230602175000 +0200" stop="20230602183000 +0200" channel="Vikom">
+    <title lang="sl">Hrana in vino</title>
+  </programme>
+  <programme start="20230602183000 +0200" stop="20230602193000 +0200" channel="Vikom">
+    <title lang="sl">Dokaz o nastanku</title>
+  </programme>
+  <programme start="20230602193000 +0200" stop="20230602201000 +0200" channel="Vikom">
+    <title lang="sl">Dnevnik 2 RTS</title>
+  </programme>
+  <programme start="20230602201000 +0200" stop="20230602210000 +0200" channel="Vikom">
+    <title lang="sl">Gost z razlogom</title>
+  </programme>
+  <programme start="20230602210000 +0200" stop="20230602220000 +0200" channel="Vikom">
+    <title lang="sl">Karmelita</title>
+  </programme>
+  <programme start="20230602220000 +0200" stop="20230602223000 +0200" channel="Vikom">
+    <title lang="sl">Glas Amerike</title>
+  </programme>
+  <programme start="20230602223000 +0200" stop="20230603000000 +0200" channel="Vikom">
+    <title lang="sl">Marketing</title>
+  </programme>
+  <programme start="20230603000000 +0200" stop="20230603060000 +0200" channel="Vikom">
+    <title lang="sl">Astrologija</title>
+  </programme>
+  <programme start="20230603060000 +0200" stop="20230603080000 +0200" channel="Vikom">
+    <title lang="sl">Glasba</title>
+  </programme>
+  <programme start="20230603080000 +0200" stop="20230603090000 +0200" channel="Vikom">
+    <title lang="sl">Izzivi resnice</title>
+  </programme>
+  <programme start="20230603090000 +0200" stop="20230603100000 +0200" channel="Vikom">
+    <title lang="sl">Pismo glava</title>
+  </programme>
+  <programme start="20230603100000 +0200" stop="20230603145000 +0200" channel="Vikom">
+    <title lang="sl">Karmelita</title>
+  </programme>
+  <programme start="20230603145000 +0200" stop="20230603150000 +0200" channel="Vikom">
+    <title lang="sl">Marketing</title>
+  </programme>
+  <programme start="20230603150000 +0200" stop="20230603172000 +0200" channel="Vikom">
+    <title lang="sl">Glasbene želje</title>
+  </programme>
+  <programme start="20230603172000 +0200" stop="20230603175000 +0200" channel="Vikom">
+    <title lang="sl">Mesta, kraji in zanimivosti</title>
+  </programme>
+  <programme start="20230603175000 +0200" stop="20230603183000 +0200" channel="Vikom">
+    <title lang="sl">Zoo hobby</title>
+  </programme>
+  <programme start="20230603183000 +0200" stop="20230603193000 +0200" channel="Vikom">
+    <title lang="sl">Skrivnosti nastanka</title>
+  </programme>
+  <programme start="20230603193000 +0200" stop="20230603201000 +0200" channel="Vikom">
+    <title lang="sl">Dnevnik 2 RTS</title>
+  </programme>
+  <programme start="20230603201000 +0200" stop="20230603210000 +0200" channel="Vikom">
+    <title lang="sl">Zelena patrulja</title>
+  </programme>
+  <programme start="20230603210000 +0200" stop="20230603220000 +0200" channel="Vikom">
+    <title lang="sl">Karmelita</title>
+  </programme>
+  <programme start="20230603220000 +0200" stop="20230604000000 +0200" channel="Vikom">
+    <title lang="sl">Čas in dokumenti</title>
+  </programme>
+  <programme start="20230604000000 +0200" stop="20230604060000 +0200" channel="Vikom">
+    <title lang="sl">Astrologija</title>
+  </programme>
+  <programme start="20230604060000 +0200" stop="20230604080000 +0200" channel="Vikom">
+    <title lang="sl">Glasba</title>
+  </programme>
+  <programme start="20230604080000 +0200" stop="20230604090000 +0200" channel="Vikom">
+    <title lang="sl">V našem okraju</title>
+  </programme>
+  <programme start="20230604090000 +0200" stop="20230604100000 +0200" channel="Vikom">
+    <title lang="sl">Hrana in vino</title>
+  </programme>
+  <programme start="20230604100000 +0200" stop="20230604145000 +0200" channel="Vikom">
+    <title lang="sl">Karmelita</title>
+  </programme>
+  <programme start="20230604145000 +0200" stop="20230604150000 +0200" channel="Vikom">
+    <title lang="sl">Marketing</title>
+  </programme>
+  <programme start="20230604150000 +0200" stop="20230604175000 +0200" channel="Vikom">
+    <title lang="sl">M-dur druženje ob kosilu</title>
+  </programme>
+  <programme start="20230604175000 +0200" stop="20230604193000 +0200" channel="Vikom">
+    <title lang="sl">Vaša želja, naša pesem</title>
+  </programme>
+  <programme start="20230604193000 +0200" stop="20230604201000 +0200" channel="Vikom">
+    <title lang="sl">Dnevnik 2 RTS</title>
+  </programme>
+  <programme start="20230604201000 +0200" stop="20230604210000 +0200" channel="Vikom">
+    <title lang="sl">Izzivi resnice</title>
+  </programme>
+  <programme start="20230604210000 +0200" stop="20230604220000 +0200" channel="Vikom">
+    <title lang="sl">Karmelita</title>
+  </programme>
+  <programme start="20230604220000 +0200" stop="20230604223000 +0200" channel="Vikom">
+    <title lang="sl">Dokaz o nastanku</title>
+  </programme>
+  <programme start="20230604223000 +0200" stop="20230605000000 +0200" channel="Vikom">
+    <title lang="sl">Marketing</title>
+  </programme>
+  <programme start="20230605000000 +0200" stop="20230605060000 +0200" channel="Vikom">
+    <title lang="sl">Astrologija</title>
+  </programme>
+  <programme start="20230605060000 +0200" stop="20230605080000 +0200" channel="Vikom">
+    <title lang="sl">Glasba</title>
+  </programme>
+  <programme start="20230605080000 +0200" stop="20230605090000 +0200" channel="Vikom">
+    <title lang="sl">Zoo hobby</title>
+  </programme>
+  <programme start="20230605090000 +0200" stop="20230605100000 +0200" channel="Vikom">
+    <title lang="sl">Hrana in vino</title>
+  </programme>
+  <programme start="20230605100000 +0200" stop="20230605145000 +0200" channel="Vikom">
+    <title lang="sl">Karmelita</title>
+  </programme>
+  <programme start="20230605145000 +0200" stop="20230605150000 +0200" channel="Vikom">
+    <title lang="sl">Marketing</title>
+  </programme>
+  <programme start="20230605150000 +0200" stop="20230605172000 +0200" channel="Vikom">
+    <title lang="sl">Glasbene želje</title>
+  </programme>
+  <programme start="20230605172000 +0200" stop="20230605183000 +0200" channel="Vikom">
+    <title lang="sl">Kaj delate?</title>
+  </programme>
+  <programme start="20230605183000 +0200" stop="20230605193000 +0200" channel="Vikom">
+    <title lang="sl">Urbana ekologija</title>
+  </programme>
+  <programme start="20230605193000 +0200" stop="20230605201000 +0200" channel="Vikom">
+    <title lang="sl">Dnevnik 2 RTS</title>
+  </programme>
+  <programme start="20230605201000 +0200" stop="20230605210000 +0200" channel="Vikom">
+    <title lang="sl">Srbska vrata</title>
+  </programme>
+  <programme start="20230605210000 +0200" stop="20230605220000 +0200" channel="Vikom">
+    <title lang="sl">Karmelita</title>
+  </programme>
+  <programme start="20230605220000 +0200" stop="20230605223000 +0200" channel="Vikom">
+    <title lang="sl">Glas Amerike</title>
+  </programme>
   <programme start="20230602000800 +0200" stop="20230602002900 +0200" channel="Zdrava TV">
     <title lang="sl">Meditacije: Večerna meditacija</title>
   </programme>
@@ -1475,10 +2014,10 @@
   <programme start="20230603063000 +0200" stop="20230603064500 +0200" channel="NickToons">
     <title lang="sl">ALVINNN!!! in veverički: Kristalna krogla</title>
   </programme>
-  <programme start="20230603064500 +0200" stop="20230603071000 +0200" channel="NickToons">
+  <programme start="20230603064500 +0200" stop="20230603070500 +0200" channel="NickToons">
     <title lang="sl">Družina Casagrande: Mehiška preobrazba / Novo prijateljstvo</title>
   </programme>
-  <programme start="20230603071000 +0200" stop="20230603073000 +0200" channel="NickToons">
+  <programme start="20230603070500 +0200" stop="20230603073000 +0200" channel="NickToons">
     <title lang="sl">Družina Casagrande: Zabava v pižamah / Bobbyjeve poslovne strategije</title>
   </programme>
   <programme start="20230603073000 +0200" stop="20230603075000 +0200" channel="NickToons">
@@ -1497,7 +2036,7 @@
     <title lang="sl">Gromka hiša: Odsoten / Ukradi moje srce</title>
   </programme>
   <programme start="20230603093000 +0200" stop="20230603095500 +0200" channel="NickToons">
-    <title lang="sl">Časovno popotovanje Sammyja in Raja: Vesoljski hec / Pregrevanje</title>
+    <title lang="sl">Časovno popotvanje Sammyja in Raja: Vesoljski hec / Pregrevanje</title>
   </programme>
   <programme start="20230603095500 +0200" stop="20230603101500 +0200" channel="NickToons">
     <title lang="sl">ALVINNN!!! in veverički: Cestni bojevnik / Moja draga veverička</title>
@@ -1511,10 +2050,10 @@
   <programme start="20230603110500 +0200" stop="20230603113000 +0200" channel="NickToons">
     <title lang="sl">Družina Casagrande: Kolegi v bandu / Za rekord</title>
   </programme>
-  <programme start="20230603113000 +0200" stop="20230603115500 +0200" channel="NickToons">
+  <programme start="20230603113000 +0200" stop="20230603115000 +0200" channel="NickToons">
     <title lang="sl">Monster High: Deli sestavljanke</title>
   </programme>
-  <programme start="20230603115500 +0200" stop="20230603121500 +0200" channel="NickToons">
+  <programme start="20230603115000 +0200" stop="20230603121500 +0200" channel="NickToons">
     <title lang="sl">Šov zvezdnika Patrika Zvezde: Strašenje v Zvezdni hiši / Kdo je velik fant?</title>
   </programme>
   <programme start="20230603121500 +0200" stop="20230603124000 +0200" channel="NickToons">
@@ -1526,10 +2065,10 @@
   <programme start="20230603130500 +0200" stop="20230603133000 +0200" channel="NickToons">
     <title lang="sl">Družina Casagrande: Tekma v gosteh / Pošastni denar</title>
   </programme>
-  <programme start="20230603133000 +0200" stop="20230603135000 +0200" channel="NickToons">
+  <programme start="20230603133000 +0200" stop="20230603135500 +0200" channel="NickToons">
     <title lang="sl">Družina Casagrande: Igra trendov / Ptica je odletela</title>
   </programme>
-  <programme start="20230603135000 +0200" stop="20230603142000 +0200" channel="NickToons">
+  <programme start="20230603135500 +0200" stop="20230603142000 +0200" channel="NickToons">
     <title lang="sl">Spuži Kvadratnik: Moški bič se vrača / Larry, vodja restavracije</title>
   </programme>
   <programme start="20230603142000 +0200" stop="20230603144500 +0200" channel="NickToons">
@@ -1560,21 +2099,21 @@
     <title lang="sl">Spuži Kvadratnik: Sladko-kisli Marko / Pravi umetnik</title>
   </programme>
   <programme start="20230603175000 +0200" stop="20230603181500 +0200" channel="NickToons">
-    <title lang="sl">Poštni urad Sredneba: Kralj Oblak proti Smogzilli / Preliv kot priloga</title>
+    <title lang="sl">Spuži Kvadratnik: Ekstremni športi / Veveričji rekord</title>
   </programme>
-  <programme start="20230603181500 +0200" stop="20230603183500 +0200" channel="NickToons">
-    <title lang="sl">Poštni urad Sredneba: Parker obogati / Prvenstvo pretepajočih oblakov</title>
+  <programme start="20230603181500 +0200" stop="20230603184000 +0200" channel="NickToons">
+    <title lang="sl">Spuži Kvadratnik: Patrik-Man! / Garyijeva nova igračka</title>
   </programme>
-  <programme start="20230603183500 +0200" stop="20230603190000 +0200" channel="NickToons">
+  <programme start="20230603184000 +0200" stop="20230603190000 +0200" channel="NickToons">
     <title lang="sl">Družina Casagrande: Moč natikača / Puhasta ljubezen</title>
   </programme>
   <programme start="20230603190000 +0200" stop="20230603192500 +0200" channel="NickToons">
     <title lang="sl">Družina Casagrande: Pretiravanje / Hodi, ne teci</title>
   </programme>
-  <programme start="20230603192500 +0200" stop="20230603193500 +0200" channel="NickToons">
+  <programme start="20230603192500 +0200" stop="20230603194000 +0200" channel="NickToons">
     <title lang="sl">Casagrandes: Načrt pobega</title>
   </programme>
-  <programme start="20230603193500 +0200" stop="20230603200000 +0200" channel="NickToons">
+  <programme start="20230603194000 +0200" stop="20230603200000 +0200" channel="NickToons">
     <title lang="sl">Spuži Kvadratnik: Pobeg / Najdeni predmeti</title>
   </programme>
   <programme start="20230603200000 +0200" stop="20230603202500 +0200" channel="NickToons">
@@ -1583,13 +2122,13 @@
   <programme start="20230603202500 +0200" stop="20230603205000 +0200" channel="NickToons">
     <title lang="sl">Šov zvezdnika Patrika Zvezde: Počitnice na bencinski črpalki / Barbarska Zajčica</title>
   </programme>
-  <programme start="20230603205000 +0200" stop="20230603211000 +0200" channel="NickToons">
+  <programme start="20230603205000 +0200" stop="20230603211500 +0200" channel="NickToons">
     <title lang="sl">Šov zvezdnika Patrika Zvezde: Strašenje v Zvezdni hiši / Kdo je velik fant?</title>
   </programme>
-  <programme start="20230603211000 +0200" stop="20230603213500 +0200" channel="NickToons">
+  <programme start="20230603211500 +0200" stop="20230603214000 +0200" channel="NickToons">
     <title lang="sl">Dogodivščine Nevarnega poba</title>
   </programme>
-  <programme start="20230603213500 +0200" stop="20230603220000 +0200" channel="NickToons">
+  <programme start="20230603214000 +0200" stop="20230603220000 +0200" channel="NickToons">
     <title lang="sl">Dogodivščine Nevarnega poba</title>
   </programme>
   <programme start="20230603220000 +0200" stop="20230603222500 +0200" channel="NickToons">
@@ -1601,10 +2140,10 @@
   <programme start="20230603223500 +0200" stop="20230603230000 +0200" channel="NickToons">
     <title lang="sl">ALVINNN!!! in veverički: Med vrvjo in trpljenjem / Svetovni dan / Svetovni dan</title>
   </programme>
-  <programme start="20230603230000 +0200" stop="20230603232000 +0200" channel="NickToons">
+  <programme start="20230603230000 +0200" stop="20230603232500 +0200" channel="NickToons">
     <title lang="sl">ALVINNN!!! in veverički: Alergična reakcija / Po-uš-evanje na domu</title>
   </programme>
-  <programme start="20230603232000 +0200" stop="20230603234500 +0200" channel="NickToons">
+  <programme start="20230603232500 +0200" stop="20230603234500 +0200" channel="NickToons">
     <title lang="sl">Dogodivščine Nevarnega poba: Koruzna pošast / Igra dronov</title>
   </programme>
   <programme start="20230603234500 +0200" stop="20230604000500 +0200" channel="NickToons">
@@ -1620,27 +2159,27 @@
     <title lang="sl">Dorg Van Dango: Dorg želi ostati / Dorg je glavni</title>
   </programme>
   <programme start="20230604011000 +0200" stop="20230604013000 +0200" channel="NickToons">
-    <title lang="sl">Rainbow Butterfly Unicorn Kitty: Piškot za pamet / Trik z izginjanjem</title>
+    <title lang="sl">Rainbow Butterfly Unicorn Kitty</title>
   </programme>
-  <programme start="20230604013000 +0200" stop="20230604015000 +0200" channel="NickToons">
+  <programme start="20230604013000 +0200" stop="20230604015500 +0200" channel="NickToons">
     <title lang="sl">Sanjay in Craig: Majice dol / Drugi sram</title>
   </programme>
-  <programme start="20230604015000 +0200" stop="20230604021500 +0200" channel="NickToons">
+  <programme start="20230604015500 +0200" stop="20230604021500 +0200" channel="NickToons">
     <title lang="sl">Rogec in Pega: Dinozavrsko dobro delo / Legenda o Kopitniku</title>
   </programme>
   <programme start="20230604021500 +0200" stop="20230604023500 +0200" channel="NickToons">
     <title lang="sl">Fanboy in Chum Chum: Odpoklic / Skodelica, napolni se</title>
   </programme>
-  <programme start="20230604023500 +0200" stop="20230604025500 +0200" channel="NickToons">
+  <programme start="20230604023500 +0200" stop="20230604030000 +0200" channel="NickToons">
     <title lang="sl">H.U.D. Kužek: Urni pes / Pasja posoda</title>
   </programme>
-  <programme start="20230604025500 +0200" stop="20230604032000 +0200" channel="NickToons">
+  <programme start="20230604030000 +0200" stop="20230604032000 +0200" channel="NickToons">
     <title lang="sl">Mojster izumov: Rustyja napadejo vesoljci / Rustyjev avto tekač</title>
   </programme>
-  <programme start="20230604032000 +0200" stop="20230604034000 +0200" channel="NickToons">
+  <programme start="20230604032000 +0200" stop="20230604034500 +0200" channel="NickToons">
     <title lang="sl">Abby Hatcher: Tatinske veverice / Abbyjin domek</title>
   </programme>
-  <programme start="20230604034000 +0200" stop="20230604040500 +0200" channel="NickToons">
+  <programme start="20230604034500 +0200" stop="20230604040500 +0200" channel="NickToons">
     <title lang="sl">Rainbow Butterfly Unicorn Kitty: Pojoče bitje / Odmor</title>
   </programme>
   <programme start="20230604040500 +0200" stop="20230604042500 +0200" channel="NickToons">
@@ -1655,10 +2194,10 @@
   <programme start="20230604050000 +0200" stop="20230604052000 +0200" channel="NickToons">
     <title lang="sl">Spuži Kvadratnik: Sančijini potovanje / Beg ali boj?</title>
   </programme>
-  <programme start="20230604052000 +0200" stop="20230604054500 +0200" channel="NickToons">
+  <programme start="20230604052000 +0200" stop="20230604054000 +0200" channel="NickToons">
     <title lang="sl">Spuži Kvadratnik: Kisle počitnice / Zlasuljan</title>
   </programme>
-  <programme start="20230604054500 +0200" stop="20230604060500 +0200" channel="NickToons">
+  <programme start="20230604054000 +0200" stop="20230604060500 +0200" channel="NickToons">
     <title lang="sl">Spuži Kvadratnik: Nov list / Prvi ugriz</title>
   </programme>
   <programme start="20230604060500 +0200" stop="20230604062000 +0200" channel="NickToons">
@@ -1814,8 +2353,11 @@
   <programme start="20230605005000 +0200" stop="20230605011000 +0200" channel="NickToons">
     <title lang="sl">Dorg Van Dango: Dorg se hoče smejati / Dorg hoče prost dan</title>
   </programme>
-  <programme start="20230605011000 +0200" stop="20230605015000 +0200" channel="NickToons">
+  <programme start="20230605011000 +0200" stop="20230605013000 +0200" channel="NickToons">
     <title lang="sl">Rainbow Butterfly Unicorn Kitty: Posledice slave / Yana se pomanjša</title>
+  </programme>
+  <programme start="20230605013000 +0200" stop="20230605015000 +0200" channel="NickToons">
+    <title lang="sl">Sanjay in Craig: Šminkerja / Vesoljska dirka</title>
   </programme>
   <programme start="20230605015000 +0200" stop="20230605021500 +0200" channel="NickToons">
     <title lang="sl">Rogec in Pega: Dan prijateljsta / Kavbojski kanjon</title>
@@ -1838,8 +2380,11 @@
   <programme start="20230605040500 +0200" stop="20230605042500 +0200" channel="NickToons">
     <title lang="sl">Spuži Kvadratnik: Vse kar se sveti / Vodnjak sreče</title>
   </programme>
-  <programme start="20230605042500 +0200" stop="20230605050000 +0200" channel="NickToons">
+  <programme start="20230605042500 +0200" stop="20230605044500 +0200" channel="NickToons">
     <title lang="sl">Spuži Kvadratnik: Kitovski rojstni dan / Otok Karate</title>
+  </programme>
+  <programme start="20230605044500 +0200" stop="20230605050000 +0200" channel="NickToons">
+    <title lang="sl">Spuži Kvadratnik: Ne(resna)premičnina / Koda Rumena</title>
   </programme>
   <programme start="20230605050000 +0200" stop="20230605052000 +0200" channel="NickToons">
     <title lang="sl">Spuži Kvadratnik: Šimpanzi ahoj / Duh na obisku</title>
