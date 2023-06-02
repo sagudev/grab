@@ -1,0 +1,1726 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.4.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="RT Srbija">
+    <display-name lang="sl">RT Srbija</display-name>
+    <url>http://www.siol.net</url>
+  </channel>
+  <channel id="RTL">
+    <display-name lang="sl">RTL</display-name>
+    <url>http://www.siol.net</url>
+  </channel>
+  <channel id="RTL 2 Hrvaška">
+    <display-name lang="sl">RTL 2 Hrvaška</display-name>
+    <url>http://www.siol.net</url>
+  </channel>
+  <channel id="RTL Hrvaška">
+    <display-name lang="sl">RTL Hrvaška</display-name>
+    <url>http://www.siol.net</url>
+  </channel>
+  <channel id="RTL II">
+    <display-name lang="sl">RTL II</display-name>
+    <url>http://www.siol.net</url>
+  </channel>
+  <channel id="RTL Living">
+    <display-name lang="sl">RTL Living</display-name>
+    <url>http://www.siol.net</url>
+  </channel>
+  <channel id="RTRS">
+    <display-name lang="sl">RTRS</display-name>
+    <url>http://www.siol.net</url>
+  </channel>
+  <channel id="RTS 1">
+    <display-name lang="sl">RTS 1</display-name>
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/rts1.png" />
+    <url>http://www.siol.net</url>
+  </channel>
+  <channel id="RTS 2">
+    <display-name lang="sl">RTS 2</display-name>
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/rts2.png" />
+    <url>http://www.siol.net</url>
+  </channel>
+  <channel id="RTS Maribor">
+    <display-name lang="sl">RTS Maribor</display-name>
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/rtsm_updated231017110533.png" />
+    <url>http://www.siol.net</url>
+  </channel>
+  <channel id="Russia Today">
+    <display-name lang="sl">Russia Today</display-name>
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/russiatoday.png" />
+    <url>http://www.siol.net</url>
+  </channel>
+  <channel id="SAT 1">
+    <display-name lang="sl">SAT 1</display-name>
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/sat1.png" />
+    <url>http://www.siol.net</url>
+  </channel>
+  <channel id="SciFi">
+    <display-name lang="sl">SciFi</display-name>
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/scifihd_updated24419092712.png" />
+    <url>http://www.siol.net</url>
+  </channel>
+  <channel id="Sitel 3">
+    <display-name lang="sl">Sitel 3</display-name>
+    <url>http://www.siol.net</url>
+  </channel>
+  <channel id="Sport Klub 1">
+    <display-name lang="sl">Sport Klub 1</display-name>
+    <url>http://www.siol.net</url>
+  </channel>
+  <channel id="Sport Klub 2">
+    <display-name lang="sl">Sport Klub 2</display-name>
+    <url>http://www.siol.net</url>
+  </channel>
+  <channel id="Sport Klub 3">
+    <display-name lang="sl">Sport Klub 3</display-name>
+    <url>http://www.siol.net</url>
+  </channel>
+  <channel id="Sport Klub 4">
+    <display-name lang="sl">Sport Klub 4</display-name>
+    <url>http://www.siol.net</url>
+  </channel>
+  <channel id="Sport Klub 5">
+    <display-name lang="sl">Sport Klub 5</display-name>
+    <url>http://www.siol.net</url>
+  </channel>
+  <programme start="20230602001000 +0200" stop="20230602015000 +0200" channel="RTS 1">
+    <title lang="sl">Past za generala</title>
+  </programme>
+  <programme start="20230602015000 +0200" stop="20230602024200 +0200" channel="RTS 1">
+    <title lang="sl">Dokumentarni film</title>
+  </programme>
+  <programme start="20230602024200 +0200" stop="20230602030000 +0200" channel="RTS 1">
+    <title lang="sl">Gastronomad</title>
+  </programme>
+  <programme start="20230602030000 +0200" stop="20230602030300 +0200" channel="RTS 1">
+    <title lang="sl">Poročila</title>
+  </programme>
+  <programme start="20230602030300 +0200" stop="20230602033200 +0200" channel="RTS 1">
+    <title lang="sl">Sled: Lola</title>
+  </programme>
+  <programme start="20230602033200 +0200" stop="20230602040500 +0200" channel="RTS 1">
+    <title lang="sl">Oko</title>
+  </programme>
+  <programme start="20230602040500 +0200" stop="20230602045900 +0200" channel="RTS 1">
+    <title lang="sl">V četrtek ob devetih</title>
+  </programme>
+  <programme start="20230602045900 +0200" stop="20230602054900 +0200" channel="RTS 1">
+    <title lang="sl">Sosedi</title>
+  </programme>
+  <programme start="20230602054900 +0200" stop="20230602060000 +0200" channel="RTS 1">
+    <title lang="sl">Verski koledar</title>
+  </programme>
+  <programme start="20230602060000 +0200" stop="20230602060500 +0200" channel="RTS 1">
+    <title lang="sl">Poročila</title>
+  </programme>
+  <programme start="20230602060500 +0200" stop="20230602080000 +0200" channel="RTS 1">
+    <title lang="sl">Jutranji program</title>
+  </programme>
+  <programme start="20230602080000 +0200" stop="20230602083000 +0200" channel="RTS 1">
+    <title lang="sl">Jutranji dnevnik</title>
+  </programme>
+  <programme start="20230602083000 +0200" stop="20230602110000 +0200" channel="RTS 1">
+    <title lang="sl">Jutranji program</title>
+  </programme>
+  <programme start="20230602110000 +0200" stop="20230602110500 +0200" channel="RTS 1">
+    <title lang="sl">Poročila</title>
+  </programme>
+  <programme start="20230602110500 +0200" stop="20230602120000 +0200" channel="RTS 1">
+    <title lang="sl">Sosedi</title>
+  </programme>
+  <programme start="20230602120000 +0200" stop="20230602130000 +0200" channel="RTS 1">
+    <title lang="sl">Dnevnik</title>
+  </programme>
+  <programme start="20230602130000 +0200" stop="20230602150000 +0200" channel="RTS 1">
+    <title lang="sl">En dober dan</title>
+  </programme>
+  <programme start="20230602150000 +0200" stop="20230602153000 +0200" channel="RTS 1">
+    <title lang="sl">Državljan</title>
+  </programme>
+  <programme start="20230602153000 +0200" stop="20230602153500 +0200" channel="RTS 1">
+    <title lang="sl">Poročila</title>
+  </programme>
+  <programme start="20230602153500 +0200" stop="20230602161500 +0200" channel="RTS 1">
+    <title lang="sl">To je Srbija</title>
+  </programme>
+  <programme start="20230602161500 +0200" stop="20230602170000 +0200" channel="RTS 1">
+    <title lang="sl">Radio Mileva</title>
+  </programme>
+  <programme start="20230602170000 +0200" stop="20230602172000 +0200" channel="RTS 1">
+    <title lang="sl">Dnevnik RT Vojvodina</title>
+  </programme>
+  <programme start="20230602172000 +0200" stop="20230602174500 +0200" channel="RTS 1">
+    <title lang="sl">Kaj počnete</title>
+  </programme>
+  <programme start="20230602174500 +0200" stop="20230602182500 +0200" channel="RTS 1">
+    <title lang="sl">Beograjska kronika</title>
+  </programme>
+  <programme start="20230602182500 +0200" stop="20230602190000 +0200" channel="RTS 1">
+    <title lang="sl">Oko</title>
+  </programme>
+  <programme start="20230602190000 +0200" stop="20230602193000 +0200" channel="RTS 1">
+    <title lang="sl">Sestavljanka</title>
+  </programme>
+  <programme start="20230602193000 +0200" stop="20230602200500 +0200" channel="RTS 1">
+    <title lang="sl">Dnevnik</title>
+  </programme>
+  <programme start="20230602200500 +0200" stop="20230602205000 +0200" channel="RTS 1">
+    <title lang="sl">Radio Mileva</title>
+  </programme>
+  <programme start="20230602205000 +0200" stop="20230602215000 +0200" channel="RTS 1">
+    <title lang="sl">Nov začetek</title>
+  </programme>
+  <programme start="20230602215000 +0200" stop="20230602224000 +0200" channel="RTS 1">
+    <title lang="sl">Ujemi me, če znaš</title>
+  </programme>
+  <programme start="20230602224000 +0200" stop="20230603001000 +0200" channel="RTS 1">
+    <title lang="sl">Lepa Brena vs. Senidah</title>
+  </programme>
+  <programme start="20230603001000 +0200" stop="20230603003000 +0200" channel="RTS 1">
+    <title lang="sl">Dnevnik</title>
+  </programme>
+  <programme start="20230603003000 +0200" stop="20230603004500 +0200" channel="RTS 1">
+    <title lang="sl">Dnevnik kulture</title>
+  </programme>
+  <programme start="20230603004500 +0200" stop="20230603013000 +0200" channel="RTS 1">
+    <title lang="sl">Odkupnina</title>
+  </programme>
+  <programme start="20230603013000 +0200" stop="20230603025500 +0200" channel="RTS 1">
+    <title lang="sl">Zapeljevanje</title>
+  </programme>
+  <programme start="20230603025500 +0200" stop="20230603030000 +0200" channel="RTS 1">
+    <title lang="sl">Državljan</title>
+  </programme>
+  <programme start="20230603030000 +0200" stop="20230603032500 +0200" channel="RTS 1">
+    <title lang="sl">Poročila</title>
+  </programme>
+  <programme start="20230603032500 +0200" stop="20230603040300 +0200" channel="RTS 1">
+    <title lang="sl">Oko</title>
+  </programme>
+  <programme start="20230603040300 +0200" stop="20230603045800 +0200" channel="RTS 1">
+    <title lang="sl">Nov začetek</title>
+  </programme>
+  <programme start="20230603045800 +0200" stop="20230603054900 +0200" channel="RTS 1">
+    <title lang="sl">Sosedi</title>
+  </programme>
+  <programme start="20230603054900 +0200" stop="20230603060000 +0200" channel="RTS 1">
+    <title lang="sl">Verski koledar</title>
+  </programme>
+  <programme start="20230603060000 +0200" stop="20230603060500 +0200" channel="RTS 1">
+    <title lang="sl">Poročila</title>
+  </programme>
+  <programme start="20230603060500 +0200" stop="20230603080000 +0200" channel="RTS 1">
+    <title lang="sl">Jutranji program</title>
+  </programme>
+  <programme start="20230603080000 +0200" stop="20230603083000 +0200" channel="RTS 1">
+    <title lang="sl">Jutranji dnevnik</title>
+  </programme>
+  <programme start="20230603083000 +0200" stop="20230603090000 +0200" channel="RTS 1">
+    <title lang="sl">Jutranji program</title>
+  </programme>
+  <programme start="20230603090000 +0200" stop="20230603090500 +0200" channel="RTS 1">
+    <title lang="sl">Poročila</title>
+  </programme>
+  <programme start="20230603090500 +0200" stop="20230603110000 +0200" channel="RTS 1">
+    <title lang="sl">Pisanica</title>
+  </programme>
+  <programme start="20230603110000 +0200" stop="20230603140000 +0200" channel="RTS 1">
+    <title lang="sl">Družinski dnevi</title>
+  </programme>
+  <programme start="20230603140000 +0200" stop="20230603142000 +0200" channel="RTS 1">
+    <title lang="sl">Dnevnik</title>
+  </programme>
+  <programme start="20230603142000 +0200" stop="20230603150500 +0200" channel="RTS 1">
+    <title lang="sl">TV obrazi:... Kot ves ostali svet</title>
+  </programme>
+  <programme start="20230603150500 +0200" stop="20230603152000 +0200" channel="RTS 1">
+    <title lang="sl">Poročila</title>
+  </programme>
+  <programme start="20230603152000 +0200" stop="20230603162000 +0200" channel="RTS 1">
+    <title lang="sl">Fantastični planet</title>
+  </programme>
+  <programme start="20230603162000 +0200" stop="20230603170500 +0200" channel="RTS 1">
+    <title lang="sl">Radio Mileva</title>
+  </programme>
+  <programme start="20230603170500 +0200" stop="20230603171000 +0200" channel="RTS 1">
+    <title lang="sl">Poročila</title>
+  </programme>
+  <programme start="20230603171000 +0200" stop="20230603182500 +0200" channel="RTS 1">
+    <title lang="sl">Ljubim Srbijo</title>
+  </programme>
+  <programme start="20230603182500 +0200" stop="20230603185500 +0200" channel="RTS 1">
+    <title lang="sl">Kvadratura kroga</title>
+  </programme>
+  <programme start="20230603185500 +0200" stop="20230603192000 +0200" channel="RTS 1">
+    <title lang="sl">Sestavljanka</title>
+  </programme>
+  <programme start="20230603192000 +0200" stop="20230603193000 +0200" channel="RTS 1">
+    <title lang="sl">Vreme</title>
+  </programme>
+  <programme start="20230603193000 +0200" stop="20230603200500 +0200" channel="RTS 1">
+    <title lang="sl">Dnevnik</title>
+  </programme>
+  <programme start="20230603200500 +0200" stop="20230603205000 +0200" channel="RTS 1">
+    <title lang="sl">Radio Mileva</title>
+  </programme>
+  <programme start="20230603205000 +0200" stop="20230603230000 +0200" channel="RTS 1">
+    <title lang="sl">Obračun</title>
+  </programme>
+  <programme start="20230603230000 +0200" stop="20230603230500 +0200" channel="RTS 1">
+    <title lang="sl">Poročila</title>
+  </programme>
+  <programme start="20230603230500 +0200" stop="20230604004500 +0200" channel="RTS 1">
+    <title lang="sl">Vratarka</title>
+  </programme>
+  <programme start="20230604004500 +0200" stop="20230604014000 +0200" channel="RTS 1">
+    <title lang="sl">Fantastični planet</title>
+  </programme>
+  <programme start="20230604014000 +0200" stop="20230604020000 +0200" channel="RTS 1">
+    <title lang="sl">Na večerji pri ...</title>
+  </programme>
+  <programme start="20230604020000 +0200" stop="20230604024000 +0200" channel="RTS 1">
+    <title lang="sl">Poročila</title>
+  </programme>
+  <programme start="20230604024000 +0200" stop="20230604044000 +0200" channel="RTS 1">
+    <title lang="sl">Obračun</title>
+  </programme>
+  <programme start="20230604044000 +0200" stop="20230604052500 +0200" channel="RTS 1">
+    <title lang="sl">TV obrazi:... Kot ves ostali svet</title>
+  </programme>
+  <programme start="20230604052500 +0200" stop="20230604054900 +0200" channel="RTS 1">
+    <title lang="sl">Tuji izobraževalni program</title>
+  </programme>
+  <programme start="20230604054900 +0200" stop="20230604060000 +0200" channel="RTS 1">
+    <title lang="sl">Verski koledar</title>
+  </programme>
+  <programme start="20230604060000 +0200" stop="20230604060500 +0200" channel="RTS 1">
+    <title lang="sl">Poročila</title>
+  </programme>
+  <programme start="20230604060500 +0200" stop="20230604080000 +0200" channel="RTS 1">
+    <title lang="sl">Jutranji program</title>
+  </programme>
+  <programme start="20230604080000 +0200" stop="20230604083000 +0200" channel="RTS 1">
+    <title lang="sl">Jutranji dnevnik</title>
+  </programme>
+  <programme start="20230604083000 +0200" stop="20230604090000 +0200" channel="RTS 1">
+    <title lang="sl">Jutranji program</title>
+  </programme>
+  <programme start="20230604090000 +0200" stop="20230604090500 +0200" channel="RTS 1">
+    <title lang="sl">Poročila</title>
+  </programme>
+  <programme start="20230604090500 +0200" stop="20230604110000 +0200" channel="RTS 1">
+    <title lang="sl">Pisanica</title>
+  </programme>
+  <programme start="20230604110000 +0200" stop="20230604120000 +0200" channel="RTS 1">
+    <title lang="sl">Znanje - bogastvo</title>
+  </programme>
+  <programme start="20230604120000 +0200" stop="20230604122000 +0200" channel="RTS 1">
+    <title lang="sl">Dnevnik</title>
+  </programme>
+  <programme start="20230604122000 +0200" stop="20230604131500 +0200" channel="RTS 1">
+    <title lang="sl">Iskanje</title>
+  </programme>
+  <programme start="20230604131500 +0200" stop="20230604141000 +0200" channel="RTS 1">
+    <title lang="sl">SAT</title>
+  </programme>
+  <programme start="20230604141000 +0200" stop="20230604142500 +0200" channel="RTS 1">
+    <title lang="sl">Gastronomad</title>
+  </programme>
+  <programme start="20230604142500 +0200" stop="20230604152500 +0200" channel="RTS 1">
+    <title lang="sl">RTS ordinacija</title>
+  </programme>
+  <programme start="20230604152500 +0200" stop="20230604154000 +0200" channel="RTS 1">
+    <title lang="sl">Poročila</title>
+  </programme>
+  <programme start="20230604154000 +0200" stop="20230604163500 +0200" channel="RTS 1">
+    <title lang="sl">Kuhinja mojega kraja</title>
+  </programme>
+  <programme start="20230604163500 +0200" stop="20230604172500 +0200" channel="RTS 1">
+    <title lang="sl">Radio Mileva</title>
+  </programme>
+  <programme start="20230604172500 +0200" stop="20230604173000 +0200" channel="RTS 1">
+    <title lang="sl">Poročila</title>
+  </programme>
+  <programme start="20230604173000 +0200" stop="20230604182700 +0200" channel="RTS 1">
+    <title lang="sl">Poroka iz mojega kraja</title>
+  </programme>
+  <programme start="20230604182700 +0200" stop="20230604190000 +0200" channel="RTS 1">
+    <title lang="sl">Povsem naravno</title>
+  </programme>
+  <programme start="20230604190000 +0200" stop="20230604191700 +0200" channel="RTS 1">
+    <title lang="sl">Sestavljanka</title>
+  </programme>
+  <programme start="20230604191700 +0200" stop="20230604193000 +0200" channel="RTS 1">
+    <title lang="sl">Vreme</title>
+  </programme>
+  <programme start="20230604193000 +0200" stop="20230604200500 +0200" channel="RTS 1">
+    <title lang="sl">Dnevnik</title>
+  </programme>
+  <programme start="20230604200500 +0200" stop="20230604205500 +0200" channel="RTS 1">
+    <title lang="sl">Radio Mileva</title>
+  </programme>
+  <programme start="20230604205500 +0200" stop="20230604222000 +0200" channel="RTS 1">
+    <title lang="sl">Ljubim Srbijo</title>
+  </programme>
+  <programme start="20230604222000 +0200" stop="20230604231500 +0200" channel="RTS 1">
+    <title lang="sl">Babilon Berlin</title>
+  </programme>
+  <programme start="20230604231500 +0200" stop="20230604233500 +0200" channel="RTS 1">
+    <title lang="sl">Dnevnik</title>
+  </programme>
+  <programme start="20230604233500 +0200" stop="20230605000500 +0200" channel="RTS 1">
+    <title lang="sl">Velika iluzija</title>
+  </programme>
+  <programme start="20230605000500 +0200" stop="20230605010000 +0200" channel="RTS 1">
+    <title lang="sl">SAT</title>
+  </programme>
+  <programme start="20230605010000 +0200" stop="20230605020000 +0200" channel="RTS 1">
+    <title lang="sl">Poroka iz mojega kraja</title>
+  </programme>
+  <programme start="20230605020000 +0200" stop="20230605020300 +0200" channel="RTS 1">
+    <title lang="sl">Novice</title>
+  </programme>
+  <programme start="20230605020300 +0200" stop="20230605030300 +0200" channel="RTS 1">
+    <title lang="sl">Kuhinja mojega kraja</title>
+  </programme>
+  <programme start="20230605030300 +0200" stop="20230605033000 +0200" channel="RTS 1">
+    <title lang="sl">Edu global</title>
+  </programme>
+  <programme start="20230605033000 +0200" stop="20230605040000 +0200" channel="RTS 1">
+    <title lang="sl">Povsem naravno</title>
+  </programme>
+  <programme start="20230605040000 +0200" stop="20230605050000 +0200" channel="RTS 1">
+    <title lang="sl">Znanje - bogastvo</title>
+  </programme>
+  <programme start="20230605050000 +0200" stop="20230605054900 +0200" channel="RTS 1">
+    <title lang="sl">Babilon Berlin</title>
+  </programme>
+  <programme start="20230605054900 +0200" stop="20230605060000 +0200" channel="RTS 1">
+    <title lang="sl">Verski koledar</title>
+  </programme>
+  <programme start="20230605060000 +0200" stop="20230605060500 +0200" channel="RTS 1">
+    <title lang="sl">Poročila</title>
+  </programme>
+  <programme start="20230605060500 +0200" stop="20230605080000 +0200" channel="RTS 1">
+    <title lang="sl">Jutranji program</title>
+  </programme>
+  <programme start="20230605080000 +0200" stop="20230605083000 +0200" channel="RTS 1">
+    <title lang="sl">Jutranji dnevnik</title>
+  </programme>
+  <programme start="20230605083000 +0200" stop="20230605110000 +0200" channel="RTS 1">
+    <title lang="sl">Jutranji program</title>
+  </programme>
+  <programme start="20230605110000 +0200" stop="20230605110500 +0200" channel="RTS 1">
+    <title lang="sl">Poročila</title>
+  </programme>
+  <programme start="20230605110500 +0200" stop="20230605120000 +0200" channel="RTS 1">
+    <title lang="sl">Sosedi</title>
+  </programme>
+  <programme start="20230605120000 +0200" stop="20230605130000 +0200" channel="RTS 1">
+    <title lang="sl">Dnevnik</title>
+  </programme>
+  <programme start="20230605130000 +0200" stop="20230605150000 +0200" channel="RTS 1">
+    <title lang="sl">En dober dan</title>
+  </programme>
+  <programme start="20230605150000 +0200" stop="20230605153000 +0200" channel="RTS 1">
+    <title lang="sl">Lov in ribolov</title>
+  </programme>
+  <programme start="20230605153000 +0200" stop="20230605161500 +0200" channel="RTS 1">
+    <title lang="sl">To je Srbija</title>
+  </programme>
+  <programme start="20230605161500 +0200" stop="20230605170000 +0200" channel="RTS 1">
+    <title lang="sl">Radio Mileva</title>
+  </programme>
+  <programme start="20230605170000 +0200" stop="20230605172000 +0200" channel="RTS 1">
+    <title lang="sl">Dnevnik RT Vojvodina</title>
+  </programme>
+  <programme start="20230605172000 +0200" stop="20230605174500 +0200" channel="RTS 1">
+    <title lang="sl">Kaj počnete</title>
+  </programme>
+  <programme start="20230605174500 +0200" stop="20230605182500 +0200" channel="RTS 1">
+    <title lang="sl">Beograjska kronika</title>
+  </programme>
+  <programme start="20230605182500 +0200" stop="20230605190000 +0200" channel="RTS 1">
+    <title lang="sl">Oko</title>
+  </programme>
+  <programme start="20230605190000 +0200" stop="20230605192200 +0200" channel="RTS 1">
+    <title lang="sl">Sestavljanka</title>
+  </programme>
+  <programme start="20230605192200 +0200" stop="20230605193000 +0200" channel="RTS 1">
+    <title lang="sl">Vreme</title>
+  </programme>
+  <programme start="20230605193000 +0200" stop="20230605200500 +0200" channel="RTS 1">
+    <title lang="sl">Dnevnik</title>
+  </programme>
+  <programme start="20230605200500 +0200" stop="20230605205000 +0200" channel="RTS 1">
+    <title lang="sl">Radio Mileva</title>
+  </programme>
+  <programme start="20230605205000 +0200" stop="20230605214500 +0200" channel="RTS 1">
+    <title lang="sl">Zasledovanje</title>
+  </programme>
+  <programme start="20230605214500 +0200" stop="20230605224500 +0200" channel="RTS 1">
+    <title lang="sl">Na večerji pri ...</title>
+  </programme>
+  <programme start="20230605224500 +0200" stop="20230605230500 +0200" channel="RTS 1">
+    <title lang="sl">Dnevnik</title>
+  </programme>
+  <programme start="20230605230500 +0200" stop="20230605232000 +0200" channel="RTS 1">
+    <title lang="sl">Dnevnik kulture</title>
+  </programme>
+  <programme start="20230602013200 +0200" stop="20230602022000 +0200" channel="RTS 2">
+    <title lang="sl">Nikola Čuturilo</title>
+  </programme>
+  <programme start="20230602022000 +0200" stop="20230602023000 +0200" channel="RTS 2">
+    <title lang="sl">Lajmet</title>
+  </programme>
+  <programme start="20230602023000 +0200" stop="20230602031000 +0200" channel="RTS 2">
+    <title lang="sl">TV obrazi:... Kot ves ostali svet</title>
+  </programme>
+  <programme start="20230602031000 +0200" stop="20230602041500 +0200" channel="RTS 2">
+    <title lang="sl">Vaterpolo (M): Novi Beograd - Olympiacos, četrfinale, Liga prvakov</title>
+  </programme>
+  <programme start="20230602041500 +0200" stop="20230602044700 +0200" channel="RTS 2">
+    <title lang="sl">Od vasi do metropole</title>
+  </programme>
+  <programme start="20230602044700 +0200" stop="20230602070800 +0200" channel="RTS 2">
+    <title lang="sl">Zlati časi</title>
+  </programme>
+  <programme start="20230602070800 +0200" stop="20230602081000 +0200" channel="RTS 2">
+    <title lang="sl">Koncert za dobro jutro</title>
+  </programme>
+  <programme start="20230602081000 +0200" stop="20230602083500 +0200" channel="RTS 2">
+    <title lang="sl">Sestavljanka</title>
+  </programme>
+  <programme start="20230602083500 +0200" stop="20230602084000 +0200" channel="RTS 2">
+    <title lang="sl">Datum</title>
+  </programme>
+  <programme start="20230602084000 +0200" stop="20230602085000 +0200" channel="RTS 2">
+    <title lang="sl">Verski koledar</title>
+  </programme>
+  <programme start="20230602085000 +0200" stop="20230602090000 +0200" channel="RTS 2">
+    <title lang="sl">Lajmet</title>
+  </programme>
+  <programme start="20230602090000 +0200" stop="20230602093000 +0200" channel="RTS 2">
+    <title lang="sl">Šov Nebojše Čelika</title>
+  </programme>
+  <programme start="20230602093000 +0200" stop="20230602095000 +0200" channel="RTS 2">
+    <title lang="sl">Radovedneži</title>
+  </programme>
+  <programme start="20230602095000 +0200" stop="20230602100000 +0200" channel="RTS 2">
+    <title lang="sl">Jaz, ti, on, mi, vi, oni</title>
+  </programme>
+  <programme start="20230602100000 +0200" stop="20230602102500 +0200" channel="RTS 2">
+    <title lang="sl">Prevzgojeni: Miomir Korać</title>
+  </programme>
+  <programme start="20230602102500 +0200" stop="20230602105500 +0200" channel="RTS 2">
+    <title lang="sl">V detajle</title>
+  </programme>
+  <programme start="20230602105500 +0200" stop="20230602114500 +0200" channel="RTS 2">
+    <title lang="sl">Kuhinja mojega kraja</title>
+  </programme>
+  <programme start="20230602114500 +0200" stop="20230602125000 +0200" channel="RTS 2">
+    <title lang="sl">Simfonični orkester RTS</title>
+  </programme>
+  <programme start="20230602125000 +0200" stop="20230602130000 +0200" channel="RTS 2">
+    <title lang="sl">Datum</title>
+  </programme>
+  <programme start="20230602130000 +0200" stop="20230602132000 +0200" channel="RTS 2">
+    <title lang="sl">Radovedneži</title>
+  </programme>
+  <programme start="20230602132000 +0200" stop="20230602133000 +0200" channel="RTS 2">
+    <title lang="sl">Jaz, ti, on, mi, vi, oni</title>
+  </programme>
+  <programme start="20230602133000 +0200" stop="20230602133500 +0200" channel="RTS 2">
+    <title lang="sl">Eko miniature</title>
+  </programme>
+  <programme start="20230602133500 +0200" stop="20230602140000 +0200" channel="RTS 2">
+    <title lang="sl">Peljem te na skrivno mesto</title>
+  </programme>
+  <programme start="20230602140000 +0200" stop="20230602145000 +0200" channel="RTS 2">
+    <title lang="sl">Inštitut za plemenita dekleta</title>
+  </programme>
+  <programme start="20230602145000 +0200" stop="20230602153500 +0200" channel="RTS 2">
+    <title lang="sl">Odkupnina</title>
+  </programme>
+  <programme start="20230602153500 +0200" stop="20230602162000 +0200" channel="RTS 2">
+    <title lang="sl">Kraljica ritma</title>
+  </programme>
+  <programme start="20230602162000 +0200" stop="20230602165000 +0200" channel="RTS 2">
+    <title lang="sl">Grozd</title>
+  </programme>
+  <programme start="20230602165000 +0200" stop="20230602172000 +0200" channel="RTS 2">
+    <title lang="sl">Lov in ribolov</title>
+  </programme>
+  <programme start="20230602172000 +0200" stop="20230602174000 +0200" channel="RTS 2">
+    <title lang="sl">Da ni ...</title>
+  </programme>
+  <programme start="20230602174000 +0200" stop="20230602175500 +0200" channel="RTS 2">
+    <title lang="sl">Superheroji medijske pismenosti</title>
+  </programme>
+  <programme start="20230602175500 +0200" stop="20230602182500 +0200" channel="RTS 2">
+    <title lang="sl">Dešifriranje znanosti</title>
+  </programme>
+  <programme start="20230602182500 +0200" stop="20230602185000 +0200" channel="RTS 2">
+    <title lang="sl">Portal znanosti</title>
+  </programme>
+  <programme start="20230602185000 +0200" stop="20230602190000 +0200" channel="RTS 2">
+    <title lang="sl">Lajmet</title>
+  </programme>
+  <programme start="20230602190000 +0200" stop="20230602195000 +0200" channel="RTS 2">
+    <title lang="sl">Inštitut za plemenita dekleta</title>
+  </programme>
+  <programme start="20230602195000 +0200" stop="20230602200500 +0200" channel="RTS 2">
+    <title lang="sl">Datum</title>
+  </programme>
+  <programme start="20230602200500 +0200" stop="20230602210500 +0200" channel="RTS 2">
+    <title lang="sl">Studio znanja</title>
+  </programme>
+  <programme start="20230602210500 +0200" stop="20230602220000 +0200" channel="RTS 2">
+    <title lang="sl">Kraljica ritma</title>
+  </programme>
+  <programme start="20230602220000 +0200" stop="20230602233500 +0200" channel="RTS 2">
+    <title lang="sl">7. Bunt rock festival</title>
+  </programme>
+  <programme start="20230602233500 +0200" stop="20230603002000 +0200" channel="RTS 2">
+    <title lang="sl">Ura anatomije</title>
+  </programme>
+  <programme start="20230603002000 +0200" stop="20230603021000 +0200" channel="RTS 2">
+    <title lang="sl">Zlata rokavica</title>
+  </programme>
+  <programme start="20230603021000 +0200" stop="20230603022000 +0200" channel="RTS 2">
+    <title lang="sl">Lajmet</title>
+  </programme>
+  <programme start="20230603022000 +0200" stop="20230603031000 +0200" channel="RTS 2">
+    <title lang="sl">Kuhinja mojega kraja</title>
+  </programme>
+  <programme start="20230603031000 +0200" stop="20230603031500 +0200" channel="RTS 2">
+    <title lang="sl">Eko miniature</title>
+  </programme>
+  <programme start="20230603031500 +0200" stop="20230603042000 +0200" channel="RTS 2">
+    <title lang="sl">Simfonični orkester RTS</title>
+  </programme>
+  <programme start="20230603042000 +0200" stop="20230603062500 +0200" channel="RTS 2">
+    <title lang="sl">Zlata rokavica</title>
+  </programme>
+  <programme start="20230603062500 +0200" stop="20230603071000 +0200" channel="RTS 2">
+    <title lang="sl">Koncert za dobro jutro</title>
+  </programme>
+  <programme start="20230603071000 +0200" stop="20230603073500 +0200" channel="RTS 2">
+    <title lang="sl">Sestavljanka</title>
+  </programme>
+  <programme start="20230603073500 +0200" stop="20230603074000 +0200" channel="RTS 2">
+    <title lang="sl">Datum</title>
+  </programme>
+  <programme start="20230603074000 +0200" stop="20230603075000 +0200" channel="RTS 2">
+    <title lang="sl">Verski koledar</title>
+  </programme>
+  <programme start="20230603075000 +0200" stop="20230603084000 +0200" channel="RTS 2">
+    <title lang="sl">arhiv.doc</title>
+  </programme>
+  <programme start="20230603084000 +0200" stop="20230603091100 +0200" channel="RTS 2">
+    <title lang="sl">Pustolovščina</title>
+  </programme>
+  <programme start="20230603091100 +0200" stop="20230603092800 +0200" channel="RTS 2">
+    <title lang="sl">Kukuriku šov</title>
+  </programme>
+  <programme start="20230603092800 +0200" stop="20230603095300 +0200" channel="RTS 2">
+    <title lang="sl">Brenčalo</title>
+  </programme>
+  <programme start="20230603095300 +0200" stop="20230603102500 +0200" channel="RTS 2">
+    <title lang="sl">Dobro je, dobro je vedeti</title>
+  </programme>
+  <programme start="20230603102500 +0200" stop="20230603112500 +0200" channel="RTS 2">
+    <title lang="sl">Znanje - bogastvo</title>
+  </programme>
+  <programme start="20230603112500 +0200" stop="20230603120000 +0200" channel="RTS 2">
+    <title lang="sl">Program za diasporo</title>
+  </programme>
+  <programme start="20230603120000 +0200" stop="20230603123000 +0200" channel="RTS 2">
+    <title lang="sl">Dovolite ...</title>
+  </programme>
+  <programme start="20230603123000 +0200" stop="20230603130000 +0200" channel="RTS 2">
+    <title lang="sl">Prostor za nas</title>
+  </programme>
+  <programme start="20230603130000 +0200" stop="20230603140000 +0200" channel="RTS 2">
+    <title lang="sl">Studio znanja</title>
+  </programme>
+  <programme start="20230603140000 +0200" stop="20230603142500 +0200" channel="RTS 2">
+    <title lang="sl">Tuji izobraževalni program</title>
+  </programme>
+  <programme start="20230603142500 +0200" stop="20230603145000 +0200" channel="RTS 2">
+    <title lang="sl">Eko perspektive</title>
+  </programme>
+  <programme start="20230603145000 +0200" stop="20230603145500 +0200" channel="RTS 2">
+    <title lang="sl">Eko miniature</title>
+  </programme>
+  <programme start="20230603145500 +0200" stop="20230603152500 +0200" channel="RTS 2">
+    <title lang="sl">Legende - 25 let z vami</title>
+  </programme>
+  <programme start="20230603152500 +0200" stop="20230603155500 +0200" channel="RTS 2">
+    <title lang="sl">Velika iluzija</title>
+  </programme>
+  <programme start="20230603155500 +0200" stop="20230603175500 +0200" channel="RTS 2">
+    <title lang="sl">Nogomet (Ž): Liga Prvakov, Barcelona - Wolfsburg, finale</title>
+  </programme>
+  <programme start="20230603175500 +0200" stop="20230603182000 +0200" channel="RTS 2">
+    <title lang="sl">Tri barve zvoka</title>
+  </programme>
+  <programme start="20230603182000 +0200" stop="20230603200000 +0200" channel="RTS 2">
+    <title lang="sl">Meja okrožja</title>
+  </programme>
+  <programme start="20230603200000 +0200" stop="20230603210000 +0200" channel="RTS 2">
+    <title lang="sl">Ivanova Igra</title>
+  </programme>
+  <programme start="20230603210000 +0200" stop="20230603223500 +0200" channel="RTS 2">
+    <title lang="sl">7. Bunt rock festival, finale</title>
+  </programme>
+  <programme start="20230603223500 +0200" stop="20230603233000 +0200" channel="RTS 2">
+    <title lang="sl">Grigorij Rasputin</title>
+  </programme>
+  <programme start="20230603233000 +0200" stop="20230604000000 +0200" channel="RTS 2">
+    <title lang="sl">V detajle</title>
+  </programme>
+  <programme start="20230604000000 +0200" stop="20230604004000 +0200" channel="RTS 2">
+    <title lang="sl">Zgodnji posnetki</title>
+  </programme>
+  <programme start="20230604004000 +0200" stop="20230604013500 +0200" channel="RTS 2">
+    <title lang="sl">Tri barve zvoka</title>
+  </programme>
+  <programme start="20230604013500 +0200" stop="20230604033500 +0200" channel="RTS 2">
+    <title lang="sl">Nogomet (Ž): Liga Prvakov, Barcelona - Wolfsburg, finale</title>
+  </programme>
+  <programme start="20230604033500 +0200" stop="20230604061000 +0200" channel="RTS 2">
+    <title lang="sl">Meja okrožja</title>
+  </programme>
+  <programme start="20230604061000 +0200" stop="20230604075500 +0200" channel="RTS 2">
+    <title lang="sl">Glasba za dobro jutro</title>
+  </programme>
+  <programme start="20230604075500 +0200" stop="20230604081500 +0200" channel="RTS 2">
+    <title lang="sl">Sestavljanka</title>
+  </programme>
+  <programme start="20230604081500 +0200" stop="20230604082000 +0200" channel="RTS 2">
+    <title lang="sl">Datum</title>
+  </programme>
+  <programme start="20230604082000 +0200" stop="20230604083000 +0200" channel="RTS 2">
+    <title lang="sl">Verski koledar</title>
+  </programme>
+  <programme start="20230604083000 +0200" stop="20230604090100 +0200" channel="RTS 2">
+    <title lang="sl">Pustolovščina</title>
+  </programme>
+  <programme start="20230604090100 +0200" stop="20230604093000 +0200" channel="RTS 2">
+    <title lang="sl">Modra ptica</title>
+  </programme>
+  <programme start="20230604093000 +0200" stop="20230604100000 +0200" channel="RTS 2">
+    <title lang="sl">Družinska mreža</title>
+  </programme>
+  <programme start="20230604100000 +0200" stop="20230604102500 +0200" channel="RTS 2">
+    <title lang="sl">E-TV</title>
+  </programme>
+  <programme start="20230604102500 +0200" stop="20230604105000 +0200" channel="RTS 2">
+    <title lang="sl">Aktualni dokumentarni program</title>
+  </programme>
+  <programme start="20230604105000 +0200" stop="20230604112000 +0200" channel="RTS 2">
+    <title lang="sl">Aktualni dokumentarni program</title>
+  </programme>
+  <programme start="20230604112000 +0200" stop="20230604120000 +0200" channel="RTS 2">
+    <title lang="sl">Verski mozaik Srbije</title>
+  </programme>
+  <programme start="20230604120000 +0200" stop="20230604123000 +0200" channel="RTS 2">
+    <title lang="sl">Zlato jabolko</title>
+  </programme>
+  <programme start="20230604123000 +0200" stop="20230604130000 +0200" channel="RTS 2">
+    <title lang="sl">Kulturako aresipe (kultura in tradicija Romov)</title>
+  </programme>
+  <programme start="20230604130000 +0200" stop="20230604131500 +0200" channel="RTS 2">
+    <title lang="sl">Romanipen</title>
+  </programme>
+  <programme start="20230604131500 +0200" stop="20230604134500 +0200" channel="RTS 2">
+    <title lang="sl">Vse barve življenja</title>
+  </programme>
+  <programme start="20230604134500 +0200" stop="20230604141500 +0200" channel="RTS 2">
+    <title lang="sl">Splošni izobraževalni program</title>
+  </programme>
+  <programme start="20230604141500 +0200" stop="20230604144500 +0200" channel="RTS 2">
+    <title lang="sl">Prevzgojeni: Slobodan Reljić</title>
+  </programme>
+  <programme start="20230604144500 +0200" stop="20230604145000 +0200" channel="RTS 2">
+    <title lang="sl">Eko miniature</title>
+  </programme>
+  <programme start="20230604145000 +0200" stop="20230604151500 +0200" channel="RTS 2">
+    <title lang="sl">Edu global</title>
+  </programme>
+  <programme start="20230604151500 +0200" stop="20230604154500 +0200" channel="RTS 2">
+    <title lang="sl">Balada o vasi</title>
+  </programme>
+  <programme start="20230604154500 +0200" stop="20230604162500 +0200" channel="RTS 2">
+    <title lang="sl">Mira Adanja Polak - Ekskluzivno</title>
+  </programme>
+  <programme start="20230604162500 +0200" stop="20230604180000 +0200" channel="RTS 2">
+    <title lang="sl">Film</title>
+  </programme>
+  <programme start="20230604180000 +0200" stop="20230604193000 +0200" channel="RTS 2">
+    <title lang="sl">Horoskop</title>
+  </programme>
+  <programme start="20230604193000 +0200" stop="20230604210000 +0200" channel="RTS 2">
+    <title lang="sl">Draga Irena</title>
+  </programme>
+  <programme start="20230604210000 +0200" stop="20230604222500 +0200" channel="RTS 2">
+    <title lang="sl">Rad/a imam klasiko</title>
+  </programme>
+  <programme start="20230604222500 +0200" stop="20230604232000 +0200" channel="RTS 2">
+    <title lang="sl">Grigorij Rasputin</title>
+  </programme>
+  <programme start="20230604232000 +0200" stop="20230605012000 +0200" channel="RTS 2">
+    <title lang="sl">Sočutje za Maščevalca</title>
+  </programme>
+  <programme start="20230605012000 +0200" stop="20230605020000 +0200" channel="RTS 2">
+    <title lang="sl">Nišville: Uroš Perić &amp; Mambo Stars</title>
+  </programme>
+  <programme start="20230605020000 +0200" stop="20230605033000 +0200" channel="RTS 2">
+    <title lang="sl">Film</title>
+  </programme>
+  <programme start="20230605033000 +0200" stop="20230605050000 +0200" channel="RTS 2">
+    <title lang="sl">Horoskop</title>
+  </programme>
+  <programme start="20230605050000 +0200" stop="20230605073500 +0200" channel="RTS 2">
+    <title lang="sl">Draga Irena</title>
+  </programme>
+  <programme start="20230605073500 +0200" stop="20230605073600 +0200" channel="RTS 2">
+    <title lang="sl">Himna Srbije</title>
+  </programme>
+  <programme start="20230605073600 +0200" stop="20230605073700 +0200" channel="RTS 2">
+    <title lang="sl">Napoved programa</title>
+  </programme>
+  <programme start="20230605073700 +0200" stop="20230605082000 +0200" channel="RTS 2">
+    <title lang="sl">Koncert za dobro jutro</title>
+  </programme>
+  <programme start="20230605082000 +0200" stop="20230605084500 +0200" channel="RTS 2">
+    <title lang="sl">Sestavljanka</title>
+  </programme>
+  <programme start="20230605084500 +0200" stop="20230605085000 +0200" channel="RTS 2">
+    <title lang="sl">Datum</title>
+  </programme>
+  <programme start="20230605085000 +0200" stop="20230605090000 +0200" channel="RTS 2">
+    <title lang="sl">Verski koledar</title>
+  </programme>
+  <programme start="20230605090000 +0200" stop="20230605092700 +0200" channel="RTS 2">
+    <title lang="sl">Šov Nebojše Čelika</title>
+  </programme>
+  <programme start="20230605092700 +0200" stop="20230605093000 +0200" channel="RTS 2">
+    <title lang="sl">Kolibri - za novo življenje</title>
+  </programme>
+  <programme start="20230605093000 +0200" stop="20230605095500 +0200" channel="RTS 2">
+    <title lang="sl">Ali kaj berete?</title>
+  </programme>
+  <programme start="20230605095500 +0200" stop="20230605102500 +0200" channel="RTS 2">
+    <title lang="sl">Vse barve življenja</title>
+  </programme>
+  <programme start="20230605102500 +0200" stop="20230605105000 +0200" channel="RTS 2">
+    <title lang="sl">Balada o vasi</title>
+  </programme>
+  <programme start="20230605105000 +0200" stop="20230605111500 +0200" channel="RTS 2">
+    <title lang="sl">E-TV</title>
+  </programme>
+  <programme start="20230605111500 +0200" stop="20230605121500 +0200" channel="RTS 2">
+    <title lang="sl">Nov začetek</title>
+  </programme>
+  <programme start="20230605121500 +0200" stop="20230605130000 +0200" channel="RTS 2">
+    <title lang="sl">Gala koncert Otroške filharmonije</title>
+  </programme>
+  <programme start="20230605130000 +0200" stop="20230605130500 +0200" channel="RTS 2">
+    <title lang="sl">Datum</title>
+  </programme>
+  <programme start="20230605130500 +0200" stop="20230605133000 +0200" channel="RTS 2">
+    <title lang="sl">Ali kaj berete?</title>
+  </programme>
+  <programme start="20230605133000 +0200" stop="20230605140000 +0200" channel="RTS 2">
+    <title lang="sl">Dešifriranje znanosti</title>
+  </programme>
+  <programme start="20230605140000 +0200" stop="20230605145000 +0200" channel="RTS 2">
+    <title lang="sl">Inštitut za plemenita dekleta</title>
+  </programme>
+  <programme start="20230605145000 +0200" stop="20230605153500 +0200" channel="RTS 2">
+    <title lang="sl">Odkupnina</title>
+  </programme>
+  <programme start="20230605153500 +0200" stop="20230605162500 +0200" channel="RTS 2">
+    <title lang="sl">Kraljica ritma</title>
+  </programme>
+  <programme start="20230605162500 +0200" stop="20230605171300 +0200" channel="RTS 2">
+    <title lang="sl">Najlepše narodne pesmi</title>
+  </programme>
+  <programme start="20230605171300 +0200" stop="20230605172000 +0200" channel="RTS 2">
+    <title lang="sl">Datum</title>
+  </programme>
+  <programme start="20230605172000 +0200" stop="20230605175000 +0200" channel="RTS 2">
+    <title lang="sl">Svetlost</title>
+  </programme>
+  <programme start="20230605175000 +0200" stop="20230605191000 +0200" channel="RTS 2">
+    <title lang="sl">Rad/a imam klasiko</title>
+  </programme>
+  <programme start="20230605191000 +0200" stop="20230605192000 +0200" channel="RTS 2">
+    <title lang="sl">Lajmet</title>
+  </programme>
+  <programme start="20230605192000 +0200" stop="20230605201000 +0200" channel="RTS 2">
+    <title lang="sl">Inštitut za plemenita dekleta</title>
+  </programme>
+  <programme start="20230605201000 +0200" stop="20230605210500 +0200" channel="RTS 2">
+    <title lang="sl">Dokumentarni film</title>
+  </programme>
+  <programme start="20230605210500 +0200" stop="20230605222500 +0200" channel="RTS 2">
+    <title lang="sl">Kraljica ritma</title>
+  </programme>
+  <programme start="20230602000000 +0200" stop="20230602080000 +0200" channel="RTS Maribor">
+    <title lang="sl">Info TW Novice</title>
+  </programme>
+  <programme start="20230602080000 +0200" stop="20230602081500 +0200" channel="RTS Maribor">
+    <title lang="sl">Starpoint</title>
+  </programme>
+  <programme start="20230602081500 +0200" stop="20230602084500 +0200" channel="RTS Maribor">
+    <title lang="sl">Od tu in tam</title>
+  </programme>
+  <programme start="20230602084500 +0200" stop="20230602090000 +0200" channel="RTS Maribor">
+    <title lang="sl">TW Novice</title>
+  </programme>
+  <programme start="20230602090000 +0200" stop="20230602093000 +0200" channel="RTS Maribor">
+    <title lang="sl">Od tu in tam</title>
+  </programme>
+  <programme start="20230602093000 +0200" stop="20230602094500 +0200" channel="RTS Maribor">
+    <title lang="sl">Starpoint</title>
+  </programme>
+  <programme start="20230602094500 +0200" stop="20230602100000 +0200" channel="RTS Maribor">
+    <title lang="sl">TW Novice</title>
+  </programme>
+  <programme start="20230602100000 +0200" stop="20230602104500 +0200" channel="RTS Maribor">
+    <title lang="sl">Zlata leta</title>
+  </programme>
+  <programme start="20230602104500 +0200" stop="20230602110000 +0200" channel="RTS Maribor">
+    <title lang="sl">TW Novice</title>
+  </programme>
+  <programme start="20230602110000 +0200" stop="20230602120000 +0200" channel="RTS Maribor">
+    <title lang="sl">Biostile</title>
+  </programme>
+  <programme start="20230602120000 +0200" stop="20230602121500 +0200" channel="RTS Maribor">
+    <title lang="sl">TW Novice</title>
+  </programme>
+  <programme start="20230602121500 +0200" stop="20230602124500 +0200" channel="RTS Maribor">
+    <title lang="sl">Zlata leta</title>
+  </programme>
+  <programme start="20230602124500 +0200" stop="20230602130000 +0200" channel="RTS Maribor">
+    <title lang="sl">TW Novice</title>
+  </programme>
+  <programme start="20230602130000 +0200" stop="20230602140000 +0200" channel="RTS Maribor">
+    <title lang="sl">Zlata leta</title>
+  </programme>
+  <programme start="20230602140000 +0200" stop="20230602141500 +0200" channel="RTS Maribor">
+    <title lang="sl">Starpoint</title>
+  </programme>
+  <programme start="20230602141500 +0200" stop="20230602144500 +0200" channel="RTS Maribor">
+    <title lang="sl">Zlata leta</title>
+  </programme>
+  <programme start="20230602144500 +0200" stop="20230602150000 +0200" channel="RTS Maribor">
+    <title lang="sl">TW Novice</title>
+  </programme>
+  <programme start="20230602150000 +0200" stop="20230602154500 +0200" channel="RTS Maribor">
+    <title lang="sl">Zlata leta</title>
+  </programme>
+  <programme start="20230602154500 +0200" stop="20230602160000 +0200" channel="RTS Maribor">
+    <title lang="sl">TW Novice</title>
+  </programme>
+  <programme start="20230602160000 +0200" stop="20230602161500 +0200" channel="RTS Maribor">
+    <title lang="sl">Starpoint</title>
+  </programme>
+  <programme start="20230602161500 +0200" stop="20230602164500 +0200" channel="RTS Maribor">
+    <title lang="sl">Od tu in tam</title>
+  </programme>
+  <programme start="20230602164500 +0200" stop="20230602170000 +0200" channel="RTS Maribor">
+    <title lang="sl">TW Novice</title>
+  </programme>
+  <programme start="20230602170000 +0200" stop="20230602180000 +0200" channel="RTS Maribor">
+    <title lang="sl">Biostile</title>
+  </programme>
+  <programme start="20230602180000 +0200" stop="20230602181500 +0200" channel="RTS Maribor">
+    <title lang="sl">TW Novice</title>
+  </programme>
+  <programme start="20230602181500 +0200" stop="20230602184500 +0200" channel="RTS Maribor">
+    <title lang="sl">Od tu in tam</title>
+  </programme>
+  <programme start="20230602184500 +0200" stop="20230602190000 +0200" channel="RTS Maribor">
+    <title lang="sl">Starpoint</title>
+  </programme>
+  <programme start="20230602190000 +0200" stop="20230602200000 +0200" channel="RTS Maribor">
+    <title lang="sl">TW Novice</title>
+  </programme>
+  <programme start="20230602200000 +0200" stop="20230602210000 +0200" channel="RTS Maribor">
+    <title lang="sl">Biostile</title>
+  </programme>
+  <programme start="20230602210000 +0200" stop="20230602214500 +0200" channel="RTS Maribor">
+    <title lang="sl">Zlata leta</title>
+  </programme>
+  <programme start="20230602214500 +0200" stop="20230602220000 +0200" channel="RTS Maribor">
+    <title lang="sl">TW Novice</title>
+  </programme>
+  <programme start="20230602220000 +0200" stop="20230602230000 +0200" channel="RTS Maribor">
+    <title lang="sl">Od tu in tam</title>
+  </programme>
+  <programme start="20230602230000 +0200" stop="20230603000000 +0200" channel="RTS Maribor">
+    <title lang="sl">Info TW Novice</title>
+  </programme>
+  <programme start="20230603000000 +0200" stop="20230603080000 +0200" channel="RTS Maribor">
+    <title lang="sl">Info TW Novice</title>
+  </programme>
+  <programme start="20230603080000 +0200" stop="20230603081500 +0200" channel="RTS Maribor">
+    <title lang="sl">Starpoint</title>
+  </programme>
+  <programme start="20230603081500 +0200" stop="20230603084500 +0200" channel="RTS Maribor">
+    <title lang="sl">Od tu in tam</title>
+  </programme>
+  <programme start="20230603084500 +0200" stop="20230603090000 +0200" channel="RTS Maribor">
+    <title lang="sl">TW Novice</title>
+  </programme>
+  <programme start="20230603090000 +0200" stop="20230603093000 +0200" channel="RTS Maribor">
+    <title lang="sl">Od tu in tam</title>
+  </programme>
+  <programme start="20230603093000 +0200" stop="20230603094500 +0200" channel="RTS Maribor">
+    <title lang="sl">Starpoint</title>
+  </programme>
+  <programme start="20230603094500 +0200" stop="20230603100000 +0200" channel="RTS Maribor">
+    <title lang="sl">TW Novice</title>
+  </programme>
+  <programme start="20230603100000 +0200" stop="20230603104500 +0200" channel="RTS Maribor">
+    <title lang="sl">Zlata leta</title>
+  </programme>
+  <programme start="20230603104500 +0200" stop="20230603110000 +0200" channel="RTS Maribor">
+    <title lang="sl">TW Novice</title>
+  </programme>
+  <programme start="20230603110000 +0200" stop="20230603120000 +0200" channel="RTS Maribor">
+    <title lang="sl">Biostile</title>
+  </programme>
+  <programme start="20230603120000 +0200" stop="20230603121500 +0200" channel="RTS Maribor">
+    <title lang="sl">TW Novice</title>
+  </programme>
+  <programme start="20230603121500 +0200" stop="20230603124500 +0200" channel="RTS Maribor">
+    <title lang="sl">Zlata leta</title>
+  </programme>
+  <programme start="20230603124500 +0200" stop="20230603130000 +0200" channel="RTS Maribor">
+    <title lang="sl">TW Novice</title>
+  </programme>
+  <programme start="20230603130000 +0200" stop="20230603140000 +0200" channel="RTS Maribor">
+    <title lang="sl">Zlata leta</title>
+  </programme>
+  <programme start="20230603140000 +0200" stop="20230603141500 +0200" channel="RTS Maribor">
+    <title lang="sl">Starpoint</title>
+  </programme>
+  <programme start="20230603141500 +0200" stop="20230603144500 +0200" channel="RTS Maribor">
+    <title lang="sl">Zlata leta</title>
+  </programme>
+  <programme start="20230603144500 +0200" stop="20230603150000 +0200" channel="RTS Maribor">
+    <title lang="sl">TW Novice</title>
+  </programme>
+  <programme start="20230603150000 +0200" stop="20230603154500 +0200" channel="RTS Maribor">
+    <title lang="sl">Zlata leta</title>
+  </programme>
+  <programme start="20230603154500 +0200" stop="20230603160000 +0200" channel="RTS Maribor">
+    <title lang="sl">TW Novice</title>
+  </programme>
+  <programme start="20230603160000 +0200" stop="20230603161500 +0200" channel="RTS Maribor">
+    <title lang="sl">Starpoint</title>
+  </programme>
+  <programme start="20230603161500 +0200" stop="20230603164500 +0200" channel="RTS Maribor">
+    <title lang="sl">Od tu in tam</title>
+  </programme>
+  <programme start="20230603164500 +0200" stop="20230603170000 +0200" channel="RTS Maribor">
+    <title lang="sl">TW Novice</title>
+  </programme>
+  <programme start="20230603170000 +0200" stop="20230603180000 +0200" channel="RTS Maribor">
+    <title lang="sl">Biostile</title>
+  </programme>
+  <programme start="20230603180000 +0200" stop="20230603181500 +0200" channel="RTS Maribor">
+    <title lang="sl">TW Novice</title>
+  </programme>
+  <programme start="20230603181500 +0200" stop="20230603184500 +0200" channel="RTS Maribor">
+    <title lang="sl">Od tu in tam</title>
+  </programme>
+  <programme start="20230603184500 +0200" stop="20230603190000 +0200" channel="RTS Maribor">
+    <title lang="sl">Starpoint</title>
+  </programme>
+  <programme start="20230603190000 +0200" stop="20230603200000 +0200" channel="RTS Maribor">
+    <title lang="sl">TW Novice</title>
+  </programme>
+  <programme start="20230603200000 +0200" stop="20230603210000 +0200" channel="RTS Maribor">
+    <title lang="sl">Biostile</title>
+  </programme>
+  <programme start="20230603210000 +0200" stop="20230603214500 +0200" channel="RTS Maribor">
+    <title lang="sl">Zlata leta</title>
+  </programme>
+  <programme start="20230603214500 +0200" stop="20230603220000 +0200" channel="RTS Maribor">
+    <title lang="sl">TW Novice</title>
+  </programme>
+  <programme start="20230603220000 +0200" stop="20230603230000 +0200" channel="RTS Maribor">
+    <title lang="sl">Od tu in tam</title>
+  </programme>
+  <programme start="20230603230000 +0200" stop="20230604000000 +0200" channel="RTS Maribor">
+    <title lang="sl">Info TW Novice</title>
+  </programme>
+  <programme start="20230604000000 +0200" stop="20230604080000 +0200" channel="RTS Maribor">
+    <title lang="sl">Info TW Novice</title>
+  </programme>
+  <programme start="20230604080000 +0200" stop="20230604081500 +0200" channel="RTS Maribor">
+    <title lang="sl">Starpoint</title>
+  </programme>
+  <programme start="20230604081500 +0200" stop="20230604084500 +0200" channel="RTS Maribor">
+    <title lang="sl">Od tu in tam</title>
+  </programme>
+  <programme start="20230604084500 +0200" stop="20230604090000 +0200" channel="RTS Maribor">
+    <title lang="sl">TW Novice</title>
+  </programme>
+  <programme start="20230604090000 +0200" stop="20230604093000 +0200" channel="RTS Maribor">
+    <title lang="sl">Od tu in tam</title>
+  </programme>
+  <programme start="20230604093000 +0200" stop="20230604094500 +0200" channel="RTS Maribor">
+    <title lang="sl">Starpoint</title>
+  </programme>
+  <programme start="20230604094500 +0200" stop="20230604100000 +0200" channel="RTS Maribor">
+    <title lang="sl">TW Novice</title>
+  </programme>
+  <programme start="20230604100000 +0200" stop="20230604104500 +0200" channel="RTS Maribor">
+    <title lang="sl">Zlata leta</title>
+  </programme>
+  <programme start="20230604104500 +0200" stop="20230604110000 +0200" channel="RTS Maribor">
+    <title lang="sl">TW Novice</title>
+  </programme>
+  <programme start="20230604110000 +0200" stop="20230604120000 +0200" channel="RTS Maribor">
+    <title lang="sl">Biostile</title>
+  </programme>
+  <programme start="20230604120000 +0200" stop="20230604121500 +0200" channel="RTS Maribor">
+    <title lang="sl">TW Novice</title>
+  </programme>
+  <programme start="20230604121500 +0200" stop="20230604124500 +0200" channel="RTS Maribor">
+    <title lang="sl">Zlata leta</title>
+  </programme>
+  <programme start="20230604124500 +0200" stop="20230604130000 +0200" channel="RTS Maribor">
+    <title lang="sl">TW Novice</title>
+  </programme>
+  <programme start="20230604130000 +0200" stop="20230604140000 +0200" channel="RTS Maribor">
+    <title lang="sl">Zlata leta</title>
+  </programme>
+  <programme start="20230604140000 +0200" stop="20230604141500 +0200" channel="RTS Maribor">
+    <title lang="sl">Starpoint</title>
+  </programme>
+  <programme start="20230604141500 +0200" stop="20230604144500 +0200" channel="RTS Maribor">
+    <title lang="sl">Zlata leta</title>
+  </programme>
+  <programme start="20230604144500 +0200" stop="20230604150000 +0200" channel="RTS Maribor">
+    <title lang="sl">TW Novice</title>
+  </programme>
+  <programme start="20230604150000 +0200" stop="20230604154500 +0200" channel="RTS Maribor">
+    <title lang="sl">Zlata leta</title>
+  </programme>
+  <programme start="20230604154500 +0200" stop="20230604160000 +0200" channel="RTS Maribor">
+    <title lang="sl">TW Novice</title>
+  </programme>
+  <programme start="20230604160000 +0200" stop="20230604161500 +0200" channel="RTS Maribor">
+    <title lang="sl">Starpoint</title>
+  </programme>
+  <programme start="20230604161500 +0200" stop="20230604164500 +0200" channel="RTS Maribor">
+    <title lang="sl">Od tu in tam</title>
+  </programme>
+  <programme start="20230604164500 +0200" stop="20230604170000 +0200" channel="RTS Maribor">
+    <title lang="sl">TW Novice</title>
+  </programme>
+  <programme start="20230604170000 +0200" stop="20230604180000 +0200" channel="RTS Maribor">
+    <title lang="sl">Biostile</title>
+  </programme>
+  <programme start="20230604180000 +0200" stop="20230604181500 +0200" channel="RTS Maribor">
+    <title lang="sl">TW Novice</title>
+  </programme>
+  <programme start="20230604181500 +0200" stop="20230604184500 +0200" channel="RTS Maribor">
+    <title lang="sl">Od tu in tam</title>
+  </programme>
+  <programme start="20230604184500 +0200" stop="20230604190000 +0200" channel="RTS Maribor">
+    <title lang="sl">Starpoint</title>
+  </programme>
+  <programme start="20230604190000 +0200" stop="20230604200000 +0200" channel="RTS Maribor">
+    <title lang="sl">TW Novice</title>
+  </programme>
+  <programme start="20230604200000 +0200" stop="20230604210000 +0200" channel="RTS Maribor">
+    <title lang="sl">Biostile</title>
+  </programme>
+  <programme start="20230604210000 +0200" stop="20230604214500 +0200" channel="RTS Maribor">
+    <title lang="sl">Zlata leta</title>
+  </programme>
+  <programme start="20230604214500 +0200" stop="20230604220000 +0200" channel="RTS Maribor">
+    <title lang="sl">TW Novice</title>
+  </programme>
+  <programme start="20230604220000 +0200" stop="20230604230000 +0200" channel="RTS Maribor">
+    <title lang="sl">Od tu in tam</title>
+  </programme>
+  <programme start="20230604230000 +0200" stop="20230605000000 +0200" channel="RTS Maribor">
+    <title lang="sl">Info TW Novice</title>
+  </programme>
+  <programme start="20230605000000 +0200" stop="20230605080000 +0200" channel="RTS Maribor">
+    <title lang="sl">Info TW Novice</title>
+  </programme>
+  <programme start="20230605080000 +0200" stop="20230605081500 +0200" channel="RTS Maribor">
+    <title lang="sl">Starpoint</title>
+  </programme>
+  <programme start="20230605081500 +0200" stop="20230605084500 +0200" channel="RTS Maribor">
+    <title lang="sl">Od tu in tam</title>
+  </programme>
+  <programme start="20230605084500 +0200" stop="20230605090000 +0200" channel="RTS Maribor">
+    <title lang="sl">TW Novice</title>
+  </programme>
+  <programme start="20230605090000 +0200" stop="20230605093000 +0200" channel="RTS Maribor">
+    <title lang="sl">Od tu in tam</title>
+  </programme>
+  <programme start="20230605093000 +0200" stop="20230605094500 +0200" channel="RTS Maribor">
+    <title lang="sl">Starpoint</title>
+  </programme>
+  <programme start="20230605094500 +0200" stop="20230605100000 +0200" channel="RTS Maribor">
+    <title lang="sl">TW Novice</title>
+  </programme>
+  <programme start="20230605100000 +0200" stop="20230605104500 +0200" channel="RTS Maribor">
+    <title lang="sl">Zlata leta</title>
+  </programme>
+  <programme start="20230605104500 +0200" stop="20230605110000 +0200" channel="RTS Maribor">
+    <title lang="sl">TW Novice</title>
+  </programme>
+  <programme start="20230605110000 +0200" stop="20230605120000 +0200" channel="RTS Maribor">
+    <title lang="sl">Biostile</title>
+  </programme>
+  <programme start="20230605120000 +0200" stop="20230605121500 +0200" channel="RTS Maribor">
+    <title lang="sl">TW Novice</title>
+  </programme>
+  <programme start="20230605121500 +0200" stop="20230605124500 +0200" channel="RTS Maribor">
+    <title lang="sl">Zlata leta</title>
+  </programme>
+  <programme start="20230605124500 +0200" stop="20230605130000 +0200" channel="RTS Maribor">
+    <title lang="sl">TW Novice</title>
+  </programme>
+  <programme start="20230605130000 +0200" stop="20230605140000 +0200" channel="RTS Maribor">
+    <title lang="sl">Zlata leta</title>
+  </programme>
+  <programme start="20230605140000 +0200" stop="20230605141500 +0200" channel="RTS Maribor">
+    <title lang="sl">Starpoint</title>
+  </programme>
+  <programme start="20230605141500 +0200" stop="20230605144500 +0200" channel="RTS Maribor">
+    <title lang="sl">Zlata leta</title>
+  </programme>
+  <programme start="20230605144500 +0200" stop="20230605150000 +0200" channel="RTS Maribor">
+    <title lang="sl">TW Novice</title>
+  </programme>
+  <programme start="20230605150000 +0200" stop="20230605154500 +0200" channel="RTS Maribor">
+    <title lang="sl">Zlata leta</title>
+  </programme>
+  <programme start="20230605154500 +0200" stop="20230605160000 +0200" channel="RTS Maribor">
+    <title lang="sl">TW Novice</title>
+  </programme>
+  <programme start="20230605160000 +0200" stop="20230605161500 +0200" channel="RTS Maribor">
+    <title lang="sl">Starpoint</title>
+  </programme>
+  <programme start="20230605161500 +0200" stop="20230605164500 +0200" channel="RTS Maribor">
+    <title lang="sl">Od tu in tam</title>
+  </programme>
+  <programme start="20230605164500 +0200" stop="20230605170000 +0200" channel="RTS Maribor">
+    <title lang="sl">TW Novice</title>
+  </programme>
+  <programme start="20230605170000 +0200" stop="20230605180000 +0200" channel="RTS Maribor">
+    <title lang="sl">Biostile</title>
+  </programme>
+  <programme start="20230605180000 +0200" stop="20230605181500 +0200" channel="RTS Maribor">
+    <title lang="sl">TW Novice</title>
+  </programme>
+  <programme start="20230605181500 +0200" stop="20230605184500 +0200" channel="RTS Maribor">
+    <title lang="sl">Od tu in tam</title>
+  </programme>
+  <programme start="20230605184500 +0200" stop="20230605190000 +0200" channel="RTS Maribor">
+    <title lang="sl">Starpoint</title>
+  </programme>
+  <programme start="20230605190000 +0200" stop="20230605200000 +0200" channel="RTS Maribor">
+    <title lang="sl">TW Novice</title>
+  </programme>
+  <programme start="20230605200000 +0200" stop="20230605210000 +0200" channel="RTS Maribor">
+    <title lang="sl">Biostile</title>
+  </programme>
+  <programme start="20230605210000 +0200" stop="20230605214500 +0200" channel="RTS Maribor">
+    <title lang="sl">Zlata leta</title>
+  </programme>
+  <programme start="20230605214500 +0200" stop="20230605220000 +0200" channel="RTS Maribor">
+    <title lang="sl">TW Novice</title>
+  </programme>
+  <programme start="20230605220000 +0200" stop="20230605230000 +0200" channel="RTS Maribor">
+    <title lang="sl">Od tu in tam</title>
+  </programme>
+  <programme start="20230602010500 +0200" stop="20230602024500 +0200" channel="SAT 1">
+    <title lang="sl">Rock zvezde ne moreš udomačiti</title>
+  </programme>
+  <programme start="20230602024500 +0200" stop="20230602033000 +0200" channel="SAT 1">
+    <title lang="sl">Opazovalna služba</title>
+  </programme>
+  <programme start="20230602033000 +0200" stop="20230602041500 +0200" channel="SAT 1">
+    <title lang="sl">Opazovalna služba</title>
+  </programme>
+  <programme start="20230602041500 +0200" stop="20230602044500 +0200" channel="SAT 1">
+    <title lang="sl">Opazovalna služba</title>
+  </programme>
+  <programme start="20230602044500 +0200" stop="20230602053000 +0200" channel="SAT 1">
+    <title lang="sl">Opazovalna služba</title>
+  </programme>
+  <programme start="20230602053000 +0200" stop="20230602100000 +0200" channel="SAT 1">
+    <title lang="sl">Jutranji program</title>
+  </programme>
+  <programme start="20230602100000 +0200" stop="20230602110000 +0200" channel="SAT 1">
+    <title lang="sl">Policijski vsakdan v Duisburgu</title>
+  </programme>
+  <programme start="20230602110000 +0200" stop="20230602120000 +0200" channel="SAT 1">
+    <title lang="sl">Opazovalna služba: Specialisti</title>
+  </programme>
+  <programme start="20230602120000 +0200" stop="20230602140000 +0200" channel="SAT 1">
+    <title lang="sl">Opazovalna služba</title>
+  </programme>
+  <programme start="20230602140000 +0200" stop="20230602160000 +0200" channel="SAT 1">
+    <title lang="sl">Klinika</title>
+  </programme>
+  <programme start="20230602160000 +0200" stop="20230602180000 +0200" channel="SAT 1">
+    <title lang="sl">Sat. 1 regionalni magazin</title>
+  </programme>
+  <programme start="20230602180000 +0200" stop="20230602183000 +0200" channel="SAT 1">
+    <title lang="sl">Lenßen prevzema nadzor</title>
+  </programme>
+  <programme start="20230602183000 +0200" stop="20230602190000 +0200" channel="SAT 1">
+    <title lang="sl">Lenßen prevzema nadzor</title>
+  </programme>
+  <programme start="20230602190000 +0200" stop="20230602193000 +0200" channel="SAT 1">
+    <title lang="sl">Lenßen prevzema nadzor</title>
+  </programme>
+  <programme start="20230602193000 +0200" stop="20230602195500 +0200" channel="SAT 1">
+    <title lang="sl">Lenßen prevzema nadzor</title>
+  </programme>
+  <programme start="20230602195500 +0200" stop="20230602201500 +0200" channel="SAT 1">
+    <title lang="sl">Poročila</title>
+  </programme>
+  <programme start="20230602201500 +0200" stop="20230602204500 +0200" channel="SAT 1">
+    <title lang="sl">ran nogomet: Druga tekma Bundeslige</title>
+  </programme>
+  <programme start="20230602204500 +0200" stop="20230602213500 +0200" channel="SAT 1">
+    <title lang="sl">ran nogomet: Druga tekma Bundeslige</title>
+  </programme>
+  <programme start="20230602213500 +0200" stop="20230602214500 +0200" channel="SAT 1">
+    <title lang="sl">ran nogomet: Druga tekma Bundeslige</title>
+  </programme>
+  <programme start="20230602214500 +0200" stop="20230602223500 +0200" channel="SAT 1">
+    <title lang="sl">ran nogomet: Druga tekma Bundeslige</title>
+  </programme>
+  <programme start="20230602223500 +0200" stop="20230602231500 +0200" channel="SAT 1">
+    <title lang="sl">ran nogomet: Druga tekma Bundeslige</title>
+  </programme>
+  <programme start="20230602231500 +0200" stop="20230603010000 +0200" channel="SAT 1">
+    <title lang="sl">Kviz enega odstotka: Kako pametna je Nemčija</title>
+  </programme>
+  <programme start="20230603010000 +0200" stop="20230603013000 +0200" channel="SAT 1">
+    <title lang="sl">Brezsrčnice</title>
+  </programme>
+  <programme start="20230603013000 +0200" stop="20230603015500 +0200" channel="SAT 1">
+    <title lang="sl">Brezsrčnice</title>
+  </programme>
+  <programme start="20230603015500 +0200" stop="20230603022000 +0200" channel="SAT 1">
+    <title lang="sl">Šest v zavoju</title>
+  </programme>
+  <programme start="20230603022000 +0200" stop="20230603024500 +0200" channel="SAT 1">
+    <title lang="sl">Šest v zavoju</title>
+  </programme>
+  <programme start="20230603024500 +0200" stop="20230603030500 +0200" channel="SAT 1">
+    <title lang="sl">Predrzni trije</title>
+  </programme>
+  <programme start="20230603030500 +0200" stop="20230603032500 +0200" channel="SAT 1">
+    <title lang="sl">Predrzni trije</title>
+  </programme>
+  <programme start="20230603032500 +0200" stop="20230603035000 +0200" channel="SAT 1">
+    <title lang="sl">Predrzni trije</title>
+  </programme>
+  <programme start="20230603035000 +0200" stop="20230603041000 +0200" channel="SAT 1">
+    <title lang="sl">Brezsrčnice</title>
+  </programme>
+  <programme start="20230603041000 +0200" stop="20230603043500 +0200" channel="SAT 1">
+    <title lang="sl">Šest v zavoju</title>
+  </programme>
+  <programme start="20230603043500 +0200" stop="20230603045500 +0200" channel="SAT 1">
+    <title lang="sl">Šest v zavoju</title>
+  </programme>
+  <programme start="20230603045500 +0200" stop="20230603051500 +0200" channel="SAT 1">
+    <title lang="sl">Predrzni trije</title>
+  </programme>
+  <programme start="20230603051500 +0200" stop="20230603062500 +0200" channel="SAT 1">
+    <title lang="sl">Predrzni trije</title>
+  </programme>
+  <programme start="20230603062500 +0200" stop="20230603081500 +0200" channel="SAT 1">
+    <title lang="sl">Opazovalna služba: Specialisti</title>
+  </programme>
+  <programme start="20230603081500 +0200" stop="20230603101500 +0200" channel="SAT 1">
+    <title lang="sl">Opazovalna služba: Specialisti</title>
+  </programme>
+  <programme start="20230603101500 +0200" stop="20230603121500 +0200" channel="SAT 1">
+    <title lang="sl">Obalna straža</title>
+  </programme>
+  <programme start="20230603121500 +0200" stop="20230603131500 +0200" channel="SAT 1">
+    <title lang="sl">Obalna straža</title>
+  </programme>
+  <programme start="20230603131500 +0200" stop="20230603150500 +0200" channel="SAT 1">
+    <title lang="sl">Obalna straža</title>
+  </programme>
+  <programme start="20230603150500 +0200" stop="20230603165900 +0200" channel="SAT 1">
+    <title lang="sl">Obalna straža</title>
+  </programme>
+  <programme start="20230603165900 +0200" stop="20230603170000 +0200" channel="SAT 1">
+    <title lang="sl">Tako videno</title>
+  </programme>
+  <programme start="20230603170000 +0200" stop="20230603180000 +0200" channel="SAT 1">
+    <title lang="sl">Obalna straža</title>
+  </programme>
+  <programme start="20230603180000 +0200" stop="20230603190000 +0200" channel="SAT 1">
+    <title lang="sl">Obalna straža</title>
+  </programme>
+  <programme start="20230603190000 +0200" stop="20230603195500 +0200" channel="SAT 1">
+    <title lang="sl">Obalna straža</title>
+  </programme>
+  <programme start="20230603195500 +0200" stop="20230603201500 +0200" channel="SAT 1">
+    <title lang="sl">Poročila</title>
+  </programme>
+  <programme start="20230603201500 +0200" stop="20230603220500 +0200" channel="SAT 1">
+    <title lang="sl">Ledena doba: Veliki trk</title>
+  </programme>
+  <programme start="20230603220500 +0200" stop="20230604001000 +0200" channel="SAT 1">
+    <title lang="sl">Prekrokana noč</title>
+  </programme>
+  <programme start="20230604001000 +0200" stop="20230604015500 +0200" channel="SAT 1">
+    <title lang="sl">Brez povratka</title>
+  </programme>
+  <programme start="20230604015500 +0200" stop="20230604033500 +0200" channel="SAT 1">
+    <title lang="sl">Prekrokana noč</title>
+  </programme>
+  <programme start="20230604033500 +0200" stop="20230604050000 +0200" channel="SAT 1">
+    <title lang="sl">Brez povratka</title>
+  </programme>
+  <programme start="20230604050000 +0200" stop="20230604051500 +0200" channel="SAT 1">
+    <title lang="sl">Oglej si: Kino magazin</title>
+  </programme>
+  <programme start="20230604051500 +0200" stop="20230604054000 +0200" channel="SAT 1">
+    <title lang="sl">Opazovalna služba</title>
+  </programme>
+  <programme start="20230604054000 +0200" stop="20230604064000 +0200" channel="SAT 1">
+    <title lang="sl">Opazovalna služba - Berlin</title>
+  </programme>
+  <programme start="20230604064000 +0200" stop="20230604074000 +0200" channel="SAT 1">
+    <title lang="sl">Opazovalna služba - Berlin</title>
+  </programme>
+  <programme start="20230604074000 +0200" stop="20230604084000 +0200" channel="SAT 1">
+    <title lang="sl">Opazovalna služba - Berlin</title>
+  </programme>
+  <programme start="20230604084000 +0200" stop="20230604090000 +0200" channel="SAT 1">
+    <title lang="sl">Tako videno</title>
+  </programme>
+  <programme start="20230604090000 +0200" stop="20230604111000 +0200" channel="SAT 1">
+    <title lang="sl">Jutranji program</title>
+  </programme>
+  <programme start="20230604111000 +0200" stop="20230604130000 +0200" channel="SAT 1">
+    <title lang="sl">Kviz enega odstotka: Kako pametna je Nemčija</title>
+  </programme>
+  <programme start="20230604130000 +0200" stop="20230604140000 +0200" channel="SAT 1">
+    <title lang="sl">Naj igra glasba: Kviz uspešnic</title>
+  </programme>
+  <programme start="20230604140000 +0200" stop="20230604155000 +0200" channel="SAT 1">
+    <title lang="sl">Catweazle</title>
+  </programme>
+  <programme start="20230604155000 +0200" stop="20230604174000 +0200" channel="SAT 1">
+    <title lang="sl">Ledena doba: Veliki trk</title>
+  </programme>
+  <programme start="20230604174000 +0200" stop="20230604195500 +0200" channel="SAT 1">
+    <title lang="sl">Velika peka: Profesionalci</title>
+  </programme>
+  <programme start="20230604195500 +0200" stop="20230604201500 +0200" channel="SAT 1">
+    <title lang="sl">Poročila</title>
+  </programme>
+  <programme start="20230604201500 +0200" stop="20230604223000 +0200" channel="SAT 1">
+    <title lang="sl">Upokojeni, Oboroženi, Nevarni 2</title>
+  </programme>
+  <programme start="20230604223000 +0200" stop="20230605002000 +0200" channel="SAT 1">
+    <title lang="sl">Upokojitev v stilu</title>
+  </programme>
+  <programme start="20230605002000 +0200" stop="20230605022000 +0200" channel="SAT 1">
+    <title lang="sl">Upokojeni, Oboroženi, Nevarni 2</title>
+  </programme>
+  <programme start="20230605022000 +0200" stop="20230605035000 +0200" channel="SAT 1">
+    <title lang="sl">Upokojitev v stilu</title>
+  </programme>
+  <programme start="20230605035000 +0200" stop="20230605053000 +0200" channel="SAT 1">
+    <title lang="sl">Java v ognju</title>
+  </programme>
+  <programme start="20230605053000 +0200" stop="20230605100000 +0200" channel="SAT 1">
+    <title lang="sl">Jutranji program</title>
+  </programme>
+  <programme start="20230605100000 +0200" stop="20230605103000 +0200" channel="SAT 1">
+    <title lang="sl">Policijski vsakdan v Duisburgu</title>
+  </programme>
+  <programme start="20230605103000 +0200" stop="20230605110000 +0200" channel="SAT 1">
+    <title lang="sl">Policijski vsakdan v Duisburgu</title>
+  </programme>
+  <programme start="20230605110000 +0200" stop="20230605120000 +0200" channel="SAT 1">
+    <title lang="sl">Opazovalna služba: Specialisti</title>
+  </programme>
+  <programme start="20230605120000 +0200" stop="20230605130000 +0200" channel="SAT 1">
+    <title lang="sl">Opazovalna služba</title>
+  </programme>
+  <programme start="20230605130000 +0200" stop="20230605140000 +0200" channel="SAT 1">
+    <title lang="sl">Opazovalna služba</title>
+  </programme>
+  <programme start="20230605140000 +0200" stop="20230605160000 +0200" channel="SAT 1">
+    <title lang="sl">Klinika</title>
+  </programme>
+  <programme start="20230605160000 +0200" stop="20230605180000 +0200" channel="SAT 1">
+    <title lang="sl">Sat. 1 regionalni magazin</title>
+  </programme>
+  <programme start="20230605180000 +0200" stop="20230605183000 +0200" channel="SAT 1">
+    <title lang="sl">Lenßen prevzema nadzor</title>
+  </programme>
+  <programme start="20230605183000 +0200" stop="20230605190000 +0200" channel="SAT 1">
+    <title lang="sl">Lenßen prevzema nadzor</title>
+  </programme>
+  <programme start="20230605190000 +0200" stop="20230605192500 +0200" channel="SAT 1">
+    <title lang="sl">Lenßen prevzema nadzor</title>
+  </programme>
+  <programme start="20230605192500 +0200" stop="20230605195500 +0200" channel="SAT 1">
+    <title lang="sl">Lenßen prevzema nadzor</title>
+  </programme>
+  <programme start="20230605195500 +0200" stop="20230605201500 +0200" channel="SAT 1">
+    <title lang="sl">Poročila</title>
+  </programme>
+  <programme start="20230605201500 +0200" stop="20230605204500 +0200" channel="SAT 1">
+    <title lang="sl">ran nogomet</title>
+  </programme>
+  <programme start="20230605204500 +0200" stop="20230605213500 +0200" channel="SAT 1">
+    <title lang="sl">ran nogomet</title>
+  </programme>
+  <programme start="20230605213500 +0200" stop="20230605214500 +0200" channel="SAT 1">
+    <title lang="sl">ran nogomet</title>
+  </programme>
+  <programme start="20230605214500 +0200" stop="20230605223500 +0200" channel="SAT 1">
+    <title lang="sl">ran nogomet</title>
+  </programme>
+  <programme start="20230605223500 +0200" stop="20230605231500 +0200" channel="SAT 1">
+    <title lang="sl">ran nogomet</title>
+  </programme>
+  <programme start="20230605231500 +0200" stop="20230605234000 +0200" channel="SAT 1">
+    <title lang="sl">ran nogomet</title>
+  </programme>
+  <programme start="20230602022000 +0200" stop="20230602031500 +0200" channel="SciFi">
+    <title lang="sl">Oporišče: Nekdo mora vladati</title>
+  </programme>
+  <programme start="20230602031500 +0200" stop="20230602041000 +0200" channel="SciFi">
+    <title lang="sl">Oporišče: Naš prestol</title>
+  </programme>
+  <programme start="20230602041000 +0200" stop="20230602050500 +0200" channel="SciFi">
+    <title lang="sl">Evreka: Pregloboko</title>
+  </programme>
+  <programme start="20230602050500 +0200" stop="20230602060000 +0200" channel="SciFi">
+    <title lang="sl">Evreka: Pametnejši Carter</title>
+  </programme>
+  <programme start="20230602060000 +0200" stop="20230602070000 +0200" channel="SciFi">
+    <title lang="sl">Oporišče: Nekdo mora vladati</title>
+  </programme>
+  <programme start="20230602070000 +0200" stop="20230602080000 +0200" channel="SciFi">
+    <title lang="sl">Oporišče: Naš prestol</title>
+  </programme>
+  <programme start="20230602080000 +0200" stop="20230602090000 +0200" channel="SciFi">
+    <title lang="sl">Evreka: Pregloboko</title>
+  </programme>
+  <programme start="20230602090000 +0200" stop="20230602100000 +0200" channel="SciFi">
+    <title lang="sl">Evreka: Pametnejši Carter</title>
+  </programme>
+  <programme start="20230602100000 +0200" stop="20230602110000 +0200" channel="SciFi">
+    <title lang="sl">Lovci na glave: Poišči kuzlo</title>
+  </programme>
+  <programme start="20230602110000 +0200" stop="20230602120000 +0200" channel="SciFi">
+    <title lang="sl">Lovci na glave: Ne nehaj verjeti</title>
+  </programme>
+  <programme start="20230602120000 +0200" stop="20230602130000 +0200" channel="SciFi">
+    <title lang="sl">Legende jutrišnjega dneva: Amazing Grace</title>
+  </programme>
+  <programme start="20230602130000 +0200" stop="20230602140000 +0200" channel="SciFi">
+    <title lang="sl">Legende jutrišnjega dneva: Nekromantija kamna</title>
+  </programme>
+  <programme start="20230602140000 +0200" stop="20230602150000 +0200" channel="SciFi">
+    <title lang="sl">Evreka: Mladoporočenca</title>
+  </programme>
+  <programme start="20230602150000 +0200" stop="20230602160000 +0200" channel="SciFi">
+    <title lang="sl">Evreka: Zrcalce, zrcalce</title>
+  </programme>
+  <programme start="20230602160000 +0200" stop="20230602170000 +0200" channel="SciFi">
+    <title lang="sl">Oporišče: Bogovi ti bodo hvaležni</title>
+  </programme>
+  <programme start="20230602170000 +0200" stop="20230602180000 +0200" channel="SciFi">
+    <title lang="sl">Oporišče: Srečanje z Bogovi</title>
+  </programme>
+  <programme start="20230602180000 +0200" stop="20230602190000 +0200" channel="SciFi">
+    <title lang="sl">Lovci na glave: Skrbi</title>
+  </programme>
+  <programme start="20230602190000 +0200" stop="20230602200000 +0200" channel="SciFi">
+    <title lang="sl">Lovci na glave: Zadnji ples</title>
+  </programme>
+  <programme start="20230602200000 +0200" stop="20230602210000 +0200" channel="SciFi">
+    <title lang="sl">Legende jutrišnjega dneva: Jaz, Ava</title>
+  </programme>
+  <programme start="20230602210000 +0200" stop="20230602220000 +0200" channel="SciFi">
+    <title lang="sl">Legende jutrišnjega dneva: Igra tudi John Noble</title>
+  </programme>
+  <programme start="20230602220000 +0200" stop="20230603003000 +0200" channel="SciFi">
+    <title lang="sl">Mumija</title>
+  </programme>
+  <programme start="20230603003000 +0200" stop="20230603023000 +0200" channel="SciFi">
+    <title lang="sl">Chucky se vrača</title>
+  </programme>
+  <programme start="20230603023000 +0200" stop="20230603032500 +0200" channel="SciFi">
+    <title lang="sl">Oporišče: Bogovi ti bodo hvaležni</title>
+  </programme>
+  <programme start="20230603032500 +0200" stop="20230603042000 +0200" channel="SciFi">
+    <title lang="sl">Oporišče: Srečanje z Bogovi</title>
+  </programme>
+  <programme start="20230603042000 +0200" stop="20230603051000 +0200" channel="SciFi">
+    <title lang="sl">Evreka: Mladoporočenca</title>
+  </programme>
+  <programme start="20230603051000 +0200" stop="20230603060000 +0200" channel="SciFi">
+    <title lang="sl">Evreka: Zrcalce, zrcalce</title>
+  </programme>
+  <programme start="20230603060000 +0200" stop="20230603070000 +0200" channel="SciFi">
+    <title lang="sl">Legende jutrišnjega dneva: Kriza na Zemlji-X, 4. del</title>
+  </programme>
+  <programme start="20230603070000 +0200" stop="20230603080000 +0200" channel="SciFi">
+    <title lang="sl">Legende jutrišnjega dneva: Bog vojne</title>
+  </programme>
+  <programme start="20230603080000 +0200" stop="20230603090000 +0200" channel="SciFi">
+    <title lang="sl">Legende jutrišnjega dneva: Ljubi očka</title>
+  </programme>
+  <programme start="20230603090000 +0200" stop="20230603100000 +0200" channel="SciFi">
+    <title lang="sl">Legende jutrišnjega dneva: Spet jaz</title>
+  </programme>
+  <programme start="20230603100000 +0200" stop="20230603110000 +0200" channel="SciFi">
+    <title lang="sl">Legende jutrišnjega dneva: Urok Zemeljskega totema</title>
+  </programme>
+  <programme start="20230603110000 +0200" stop="20230603130000 +0200" channel="SciFi">
+    <title lang="sl">Rop med orkanom</title>
+  </programme>
+  <programme start="20230603130000 +0200" stop="20230603150500 +0200" channel="SciFi">
+    <title lang="sl">Razdejanje v Los Angelesu</title>
+  </programme>
+  <programme start="20230603150500 +0200" stop="20230603170500 +0200" channel="SciFi">
+    <title lang="sl">Padec asteroida</title>
+  </programme>
+  <programme start="20230603170500 +0200" stop="20230603191000 +0200" channel="SciFi">
+    <title lang="sl">Katastrofa na Luni</title>
+  </programme>
+  <programme start="20230603191000 +0200" stop="20230603210000 +0200" channel="SciFi">
+    <title lang="sl">Ministrstvo za čas: Čas legende</title>
+  </programme>
+  <programme start="20230603210000 +0200" stop="20230603234000 +0200" channel="SciFi">
+    <title lang="sl">Van Helsing</title>
+  </programme>
+  <programme start="20230603234000 +0200" stop="20230604020500 +0200" channel="SciFi">
+    <title lang="sl">Izganjalec hudiča: Na začetku</title>
+  </programme>
+  <programme start="20230604020500 +0200" stop="20230604042000 +0200" channel="SciFi">
+    <title lang="sl">Pr' konc sveta</title>
+  </programme>
+  <programme start="20230604042000 +0200" stop="20230604051000 +0200" channel="SciFi">
+    <title lang="sl">Lovci na glave: Teci, Yala, teci</title>
+  </programme>
+  <programme start="20230604051000 +0200" stop="20230604060000 +0200" channel="SciFi">
+    <title lang="sl">Lovci na glave: Dež je kriv</title>
+  </programme>
+  <programme start="20230604060000 +0200" stop="20230604070000 +0200" channel="SciFi">
+    <title lang="sl">Legende jutrišnjega dneva: Ni prostora za očete</title>
+  </programme>
+  <programme start="20230604070000 +0200" stop="20230604080000 +0200" channel="SciFi">
+    <title lang="sl">Legende jutrišnjega dneva: Amazing Grace</title>
+  </programme>
+  <programme start="20230604080000 +0200" stop="20230604090000 +0200" channel="SciFi">
+    <title lang="sl">Legende jutrišnjega dneva: Nekromantija kamna</title>
+  </programme>
+  <programme start="20230604090000 +0200" stop="20230604100000 +0200" channel="SciFi">
+    <title lang="sl">Legende jutrišnjega dneva: Jaz, Ava</title>
+  </programme>
+  <programme start="20230604100000 +0200" stop="20230604110000 +0200" channel="SciFi">
+    <title lang="sl">Legende jutrišnjega dneva: Igra tudi John Noble</title>
+  </programme>
+  <programme start="20230604110000 +0200" stop="20230604125000 +0200" channel="SciFi">
+    <title lang="sl">Ministrstvo za čas: Čas legende</title>
+  </programme>
+  <programme start="20230604125000 +0200" stop="20230604145000 +0200" channel="SciFi">
+    <title lang="sl">Jurske igre</title>
+  </programme>
+  <programme start="20230604145000 +0200" stop="20230604173000 +0200" channel="SciFi">
+    <title lang="sl">Jurski park 3</title>
+  </programme>
+  <programme start="20230604173000 +0200" stop="20230604200000 +0200" channel="SciFi">
+    <title lang="sl">Mumija</title>
+  </programme>
+  <programme start="20230604200000 +0200" stop="20230604220500 +0200" channel="SciFi">
+    <title lang="sl">Jurski park 3</title>
+  </programme>
+  <programme start="20230604220500 +0200" stop="20230605002000 +0200" channel="SciFi">
+    <title lang="sl">Nevidno zlo</title>
+  </programme>
+  <programme start="20230605002000 +0200" stop="20230605030000 +0200" channel="SciFi">
+    <title lang="sl">Van Helsing</title>
+  </programme>
+  <programme start="20230605030000 +0200" stop="20230605050000 +0200" channel="SciFi">
+    <title lang="sl">Chucky se vrača</title>
+  </programme>
+  <programme start="20230605050000 +0200" stop="20230605060000 +0200" channel="SciFi">
+    <title lang="sl">Lovci na glave: Trije lovci na glave in dama</title>
+  </programme>
+  <programme start="20230605060000 +0200" stop="20230605070000 +0200" channel="SciFi">
+    <title lang="sl">Oporišče: Bogovi ti bodo hvaležni</title>
+  </programme>
+  <programme start="20230605070000 +0200" stop="20230605080000 +0200" channel="SciFi">
+    <title lang="sl">Oporišče: Srečanje z Bogovi</title>
+  </programme>
+  <programme start="20230605080000 +0200" stop="20230605090000 +0200" channel="SciFi">
+    <title lang="sl">Evreka: Mladoporočenca</title>
+  </programme>
+  <programme start="20230605090000 +0200" stop="20230605100000 +0200" channel="SciFi">
+    <title lang="sl">Evreka: Zrcalce, zrcalce</title>
+  </programme>
+  <programme start="20230605100000 +0200" stop="20230605110000 +0200" channel="SciFi">
+    <title lang="sl">Lovci na glave: Skrbi</title>
+  </programme>
+  <programme start="20230605110000 +0200" stop="20230605120000 +0200" channel="SciFi">
+    <title lang="sl">Lovci na glave: Zadnji ples</title>
+  </programme>
+  <programme start="20230605120000 +0200" stop="20230605130000 +0200" channel="SciFi">
+    <title lang="sl">Legende jutrišnjega dneva: Jaz, Ava</title>
+  </programme>
+  <programme start="20230605130000 +0200" stop="20230605140000 +0200" channel="SciFi">
+    <title lang="sl">Legende jutrišnjega dneva: Igra tudi John Noble</title>
+  </programme>
+  <programme start="20230605140000 +0200" stop="20230605150000 +0200" channel="SciFi">
+    <title lang="sl">Evreka: Dvojniki</title>
+  </programme>
+  <programme start="20230605150000 +0200" stop="20230605160000 +0200" channel="SciFi">
+    <title lang="sl">Evreka: Dan kot vsak drug</title>
+  </programme>
+  <programme start="20230605160000 +0200" stop="20230605170000 +0200" channel="SciFi">
+    <title lang="sl">Oporišče: Črno krvavijo</title>
+  </programme>
+  <programme start="20230605170000 +0200" stop="20230605180000 +0200" channel="SciFi">
+    <title lang="sl">Oporišče: Neskončno slovo</title>
+  </programme>
+  <programme start="20230605180000 +0200" stop="20230605190000 +0200" channel="SciFi">
+    <title lang="sl">Skladišče 13: Pilotna oddaja, 1. del</title>
+  </programme>
+  <programme start="20230605190000 +0200" stop="20230605200000 +0200" channel="SciFi">
+    <title lang="sl">Skladišče 13: Pilotna oddaja, 2. del</title>
+  </programme>
+  <programme start="20230605200000 +0200" stop="20230605210000 +0200" channel="SciFi">
+    <title lang="sl">Legende jutrišnjega dneva: Dobri, slabi in scrkljani</title>
+  </programme>
+  <programme start="20230605210000 +0200" stop="20230605220000 +0200" channel="SciFi">
+    <title lang="sl">Legende jutrišnjega dneva: Deviški Gary</title>
+  </programme>
+</tv>
