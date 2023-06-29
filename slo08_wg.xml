@@ -82,10 +82,12 @@
   </channel>
   <channel id="TV Svet Plus Beograd">
     <display-name lang="sl">TV Svet Plus Beograd</display-name>
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/spbeograd.png" />
     <url>http://www.siol.net</url>
   </channel>
   <channel id="TV Veseljak">
     <display-name lang="sl">TV Veseljak</display-name>
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/tvveseljak.png" />
     <url>http://www.siol.net</url>
   </channel>
   <programme start="20230629001500 +0200" stop="20230629053000 +0200" channel="Super RTL">
@@ -463,8 +465,11 @@
   <programme start="20230702060000 +0200" stop="20230702061000 +0200" channel="Super RTL">
     <title lang="sl">Dinozaverski ranč</title>
   </programme>
-  <programme start="20230702061000 +0200" stop="20230702063000 +0200" channel="Super RTL">
+  <programme start="20230702061000 +0200" stop="20230702062000 +0200" channel="Super RTL">
     <title lang="sl">KoKo melona: Pesem o zelenjavi</title>
+  </programme>
+  <programme start="20230702062000 +0200" stop="20230702063000 +0200" channel="Super RTL">
+    <title lang="sl">Super krila</title>
   </programme>
   <programme start="20230702063000 +0200" stop="20230702064500 +0200" channel="Super RTL">
     <title lang="sl">Super krila</title>
@@ -514,7 +519,10 @@
   <programme start="20230702145500 +0200" stop="20230702152500 +0200" channel="Super RTL">
     <title lang="sl">Zamudnik Nate: Hiša duhov / Začarana žaba</title>
   </programme>
-  <programme start="20230702152500 +0200" stop="20230702162000 +0200" channel="Super RTL">
+  <programme start="20230702152500 +0200" stop="20230702155000 +0200" channel="Super RTL">
+    <title lang="sl">Zamudnik Nate</title>
+  </programme>
+  <programme start="20230702155000 +0200" stop="20230702162000 +0200" channel="Super RTL">
     <title lang="sl">Zamudnik Nate</title>
   </programme>
   <programme start="20230702162000 +0200" stop="20230702165000 +0200" channel="Super RTL">
@@ -2639,7 +2647,7 @@
     <title lang="sl">Slovenski utrinki</title>
   </programme>
   <programme start="20230629150000 +0200" stop="20230629153000 +0200" channel="TV SLO 1">
-    <title lang="sl">Težišče - Súlypont</title>
+    <title lang="sl">Težišče - Súlypont: Aktualna vprašanja madžarske narodne skupnosti/A magyar nemzeti közösség aktuális kérdései</title>
   </programme>
   <programme start="20230629153000 +0200" stop="20230629154500 +0200" channel="TV SLO 1">
     <title lang="sl">TV-izložba</title>
@@ -3208,10 +3216,10 @@
   <programme start="20230629102000 +0200" stop="20230629124000 +0200" channel="TV SLO 2">
     <title lang="sl">Dobro jutro, poletni izbor</title>
   </programme>
-  <programme start="20230629124000 +0200" stop="20230629132500 +0200" channel="TV SLO 2">
+  <programme start="20230629124000 +0200" stop="20230629132000 +0200" channel="TV SLO 2">
     <title lang="sl">Posebne zgodbe: Tiki</title>
   </programme>
-  <programme start="20230629132500 +0200" stop="20230629143000 +0200" channel="TV SLO 2">
+  <programme start="20230629132000 +0200" stop="20230629143000 +0200" channel="TV SLO 2">
     <title lang="sl">Profil: Aleš Drenik</title>
   </programme>
   <programme start="20230629143000 +0200" stop="20230629163000 +0200" channel="TV SLO 2">
@@ -3232,10 +3240,10 @@
   <programme start="20230629210000 +0200" stop="20230629213000 +0200" channel="TV SLO 2">
     <title lang="sl">Za sosedovo mizo: Matera</title>
   </programme>
-  <programme start="20230629213000 +0200" stop="20230629214000 +0200" channel="TV SLO 2">
+  <programme start="20230629213000 +0200" stop="20230629214500 +0200" channel="TV SLO 2">
     <title lang="sl">Panorama</title>
   </programme>
-  <programme start="20230629214000 +0200" stop="20230629215500 +0200" channel="TV SLO 2">
+  <programme start="20230629214500 +0200" stop="20230629215500 +0200" channel="TV SLO 2">
     <title lang="sl">Znanost in tehnologija</title>
   </programme>
   <programme start="20230629215500 +0200" stop="20230629220000 +0200" channel="TV SLO 2">
@@ -3244,10 +3252,10 @@
   <programme start="20230629220000 +0200" stop="20230629230500 +0200" channel="TV SLO 2">
     <title lang="sl">Severna obzorja: Večerja ob pol osmih</title>
   </programme>
-  <programme start="20230629230500 +0200" stop="20230630005500 +0200" channel="TV SLO 2">
+  <programme start="20230629230500 +0200" stop="20230630005000 +0200" channel="TV SLO 2">
     <title lang="sl">Slovenska jazz scena: Big Band Radiotelevizije Srbija in dirigent Peter Reiter-Schaub (G. Puccini, prir. P. Reiter-Schaub: Tosca)</title>
   </programme>
-  <programme start="20230630005500 +0200" stop="20230630060000 +0200" channel="TV SLO 2">
+  <programme start="20230630005000 +0200" stop="20230630060000 +0200" channel="TV SLO 2">
     <title lang="sl">Videonoč</title>
   </programme>
   <programme start="20230630060000 +0200" stop="20230630090000 +0200" channel="TV SLO 2">
@@ -3280,10 +3288,10 @@
   <programme start="20230630174500 +0200" stop="20230630181500 +0200" channel="TV SLO 2">
     <title lang="sl">Migaj z nami</title>
   </programme>
-  <programme start="20230630181500 +0200" stop="20230630191500 +0200" channel="TV SLO 2">
+  <programme start="20230630181500 +0200" stop="20230630192000 +0200" channel="TV SLO 2">
     <title lang="sl">Videotrak</title>
   </programme>
-  <programme start="20230630191500 +0200" stop="20230630200000 +0200" channel="TV SLO 2">
+  <programme start="20230630192000 +0200" stop="20230630200000 +0200" channel="TV SLO 2">
     <title lang="sl">Ambienti</title>
   </programme>
   <programme start="20230630200000 +0200" stop="20230630213000 +0200" channel="TV SLO 2">
@@ -3310,28 +3318,31 @@
   <programme start="20230701060000 +0200" stop="20230701070000 +0200" channel="TV SLO 2">
     <title lang="sl">Napovedujemo</title>
   </programme>
-  <programme start="20230701070000 +0200" stop="20230701090000 +0200" channel="TV SLO 2">
+  <programme start="20230701070000 +0200" stop="20230701085000 +0200" channel="TV SLO 2">
     <title lang="sl">Najboljše jutro</title>
   </programme>
-  <programme start="20230701090000 +0200" stop="20230701110000 +0200" channel="TV SLO 2">
+  <programme start="20230701085000 +0200" stop="20230701103500 +0200" channel="TV SLO 2">
     <title lang="sl">Spomini: Janez Winkler</title>
   </programme>
-  <programme start="20230701110000 +0200" stop="20230701120500 +0200" channel="TV SLO 2">
+  <programme start="20230701103500 +0200" stop="20230701110500 +0200" channel="TV SLO 2">
+    <title lang="sl">Free Spirits - Samosvoji: Simon, Nazrul, Francisco</title>
+  </programme>
+  <programme start="20230701110500 +0200" stop="20230701120500 +0200" channel="TV SLO 2">
     <title lang="sl">Avtomobilnost</title>
   </programme>
-  <programme start="20230701120500 +0200" stop="20230701140000 +0200" channel="TV SLO 2">
+  <programme start="20230701120500 +0200" stop="20230701140500 +0200" channel="TV SLO 2">
     <title lang="sl">Kajak-kanu: Slalom na divjih vodah, kajak, evropsko prvenstvo, Krakov</title>
   </programme>
-  <programme start="20230701140000 +0200" stop="20230701150000 +0200" channel="TV SLO 2">
+  <programme start="20230701140500 +0200" stop="20230701150000 +0200" channel="TV SLO 2">
     <title lang="sl">Kolesarstvo - dirka po Franciji: Predstavitev ekip, Bilbao</title>
   </programme>
   <programme start="20230701150000 +0200" stop="20230701173000 +0200" channel="TV SLO 2">
     <title lang="sl">Kolesarstvo: 1. etapa, dirka po Franciji</title>
   </programme>
-  <programme start="20230701173000 +0200" stop="20230701181000 +0200" channel="TV SLO 2">
+  <programme start="20230701173000 +0200" stop="20230701181500 +0200" channel="TV SLO 2">
     <title lang="sl">Po etapi: Analiza dirke po Franciji</title>
   </programme>
-  <programme start="20230701181000 +0200" stop="20230701200000 +0200" channel="TV SLO 2">
+  <programme start="20230701181500 +0200" stop="20230701200000 +0200" channel="TV SLO 2">
     <title lang="sl">Pedro Opeka, dober prijatelj</title>
   </programme>
   <programme start="20230701200000 +0200" stop="20230701220000 +0200" channel="TV SLO 2">
@@ -3340,10 +3351,10 @@
   <programme start="20230701220000 +0200" stop="20230701220500 +0200" channel="TV SLO 2">
     <title lang="sl">Televizorka: Umetna inteligenca</title>
   </programme>
-  <programme start="20230701220500 +0200" stop="20230701230000 +0200" channel="TV SLO 2">
+  <programme start="20230701220500 +0200" stop="20230701230500 +0200" channel="TV SLO 2">
     <title lang="sl">Družba kiborgov</title>
   </programme>
-  <programme start="20230701230000 +0200" stop="20230702005000 +0200" channel="TV SLO 2">
+  <programme start="20230701230500 +0200" stop="20230702005000 +0200" channel="TV SLO 2">
     <title lang="sl">Društvo mrtvih pesnikov 30 let, koncert</title>
   </programme>
   <programme start="20230702005000 +0200" stop="20230702060000 +0200" channel="TV SLO 2">
@@ -3434,7 +3445,7 @@
     <title lang="sl">Na tretjem: 32 let države</title>
   </programme>
   <programme start="20230629193000 +0200" stop="20230629200000 +0200" channel="TV SLO 3">
-    <title lang="sl">Težišče - Súlypont</title>
+    <title lang="sl">Težišče - Súlypont: Aktualna vprašanja madžarske narodne skupnosti/A magyar nemzeti közösség aktuális kérdései</title>
   </programme>
   <programme start="20230629200000 +0200" stop="20230629202500 +0200" channel="TV SLO 3">
     <title lang="sl">Dnevnik s slovenskim znakovnim jezikom</title>
@@ -3448,10 +3459,10 @@
   <programme start="20230629204000 +0200" stop="20230629204500 +0200" channel="TV SLO 3">
     <title lang="sl">Kultura s slovenskim znakovnim jezikom</title>
   </programme>
-  <programme start="20230629204500 +0200" stop="20230629205000 +0200" channel="TV SLO 3">
+  <programme start="20230629204500 +0200" stop="20230629205500 +0200" channel="TV SLO 3">
     <title lang="sl">Vreme s slovenskim znakovnim jezikom</title>
   </programme>
-  <programme start="20230629205000 +0200" stop="20230629210000 +0200" channel="TV SLO 3">
+  <programme start="20230629205500 +0200" stop="20230629210000 +0200" channel="TV SLO 3">
     <title lang="sl">Danes</title>
   </programme>
   <programme start="20230629210000 +0200" stop="20230629220000 +0200" channel="TV SLO 3">
@@ -4200,5 +4211,257 @@
   </programme>
   <programme start="20230702211000 +0200" stop="20230702234000 +0200" channel="TV Sitel">
     <title lang="sl">Nikoli ni prepozno</title>
+  </programme>
+  <programme start="20230629010000 +0200" stop="20230629020000 +0200" channel="TV Svet Plus Beograd">
+    <title lang="sl">Klub šampionov</title>
+  </programme>
+  <programme start="20230629020000 +0200" stop="20230629030000 +0200" channel="TV Svet Plus Beograd">
+    <title lang="sl">Prva noč z dr. Sandro</title>
+  </programme>
+  <programme start="20230629030000 +0200" stop="20230629040000 +0200" channel="TV Svet Plus Beograd">
+    <title lang="sl">Klub šampionov</title>
+  </programme>
+  <programme start="20230629040000 +0200" stop="20230629060000 +0200" channel="TV Svet Plus Beograd">
+    <title lang="sl">Skodelica pogovora</title>
+  </programme>
+  <programme start="20230629060000 +0200" stop="20230629061000 +0200" channel="TV Svet Plus Beograd">
+    <title lang="sl">Glasbeni program</title>
+  </programme>
+  <programme start="20230629061000 +0200" stop="20230629071000 +0200" channel="TV Svet Plus Beograd">
+    <title lang="sl">Polarizator</title>
+  </programme>
+  <programme start="20230629071000 +0200" stop="20230629071500 +0200" channel="TV Svet Plus Beograd">
+    <title lang="sl">Tom in Jerry</title>
+  </programme>
+  <programme start="20230629071500 +0200" stop="20230629183000 +0200" channel="TV Svet Plus Beograd">
+    <title lang="sl">Glasbeni program</title>
+  </programme>
+  <programme start="20230629183000 +0200" stop="20230629200000 +0200" channel="TV Svet Plus Beograd">
+    <title lang="sl">Seki JO</title>
+  </programme>
+  <programme start="20230629200000 +0200" stop="20230629213000 +0200" channel="TV Svet Plus Beograd">
+    <title lang="sl">Prslook again</title>
+  </programme>
+  <programme start="20230629213000 +0200" stop="20230630000000 +0200" channel="TV Svet Plus Beograd">
+    <title lang="sl">Glasbeni program</title>
+  </programme>
+  <programme start="20230630000000 +0200" stop="20230630004500 +0200" channel="TV Svet Plus Beograd">
+    <title lang="sl">Polarizator</title>
+  </programme>
+  <programme start="20230630004500 +0200" stop="20230630014500 +0200" channel="TV Svet Plus Beograd">
+    <title lang="sl">Resnica o...</title>
+  </programme>
+  <programme start="20230630014500 +0200" stop="20230630024500 +0200" channel="TV Svet Plus Beograd">
+    <title lang="sl">Brez predsodkov</title>
+  </programme>
+  <programme start="20230630024500 +0200" stop="20230630044500 +0200" channel="TV Svet Plus Beograd">
+    <title lang="sl">Sproščeno z Vami</title>
+  </programme>
+  <programme start="20230630044500 +0200" stop="20230630053000 +0200" channel="TV Svet Plus Beograd">
+    <title lang="sl">Polarizator</title>
+  </programme>
+  <programme start="20230630053000 +0200" stop="20230630061000 +0200" channel="TV Svet Plus Beograd">
+    <title lang="sl">Klub šampionov</title>
+  </programme>
+  <programme start="20230630061000 +0200" stop="20230630065500 +0200" channel="TV Svet Plus Beograd">
+    <title lang="sl">Ženske zadeve z Nino</title>
+  </programme>
+  <programme start="20230630065500 +0200" stop="20230630071500 +0200" channel="TV Svet Plus Beograd">
+    <title lang="sl">Tom in Jerry</title>
+  </programme>
+  <programme start="20230630071500 +0200" stop="20230630110000 +0200" channel="TV Svet Plus Beograd">
+    <title lang="sl">Glasbeni program</title>
+  </programme>
+  <programme start="20230630110000 +0200" stop="20230630113000 +0200" channel="TV Svet Plus Beograd">
+    <title lang="sl">Ne črno, ne belo</title>
+  </programme>
+  <programme start="20230630113000 +0200" stop="20230630143000 +0200" channel="TV Svet Plus Beograd">
+    <title lang="sl">Glasbeni program</title>
+  </programme>
+  <programme start="20230630143000 +0200" stop="20230630153000 +0200" channel="TV Svet Plus Beograd">
+    <title lang="sl">V nedeljo ob treh</title>
+  </programme>
+  <programme start="20230630153000 +0200" stop="20230701010000 +0200" channel="TV Svet Plus Beograd">
+    <title lang="sl">Glasbeni program</title>
+  </programme>
+  <programme start="20230701010000 +0200" stop="20230701020000 +0200" channel="TV Svet Plus Beograd">
+    <title lang="sl">Ženske zadeve z Nino</title>
+  </programme>
+  <programme start="20230701020000 +0200" stop="20230701030000 +0200" channel="TV Svet Plus Beograd">
+    <title lang="sl">Prva noč z dr. Sandro</title>
+  </programme>
+  <programme start="20230701030000 +0200" stop="20230701040000 +0200" channel="TV Svet Plus Beograd">
+    <title lang="sl">Biljana za vas</title>
+  </programme>
+  <programme start="20230701040000 +0200" stop="20230701061000 +0200" channel="TV Svet Plus Beograd">
+    <title lang="sl">Skodelica pogovora</title>
+  </programme>
+  <programme start="20230701061000 +0200" stop="20230701071500 +0200" channel="TV Svet Plus Beograd">
+    <title lang="sl">Biljana za vas</title>
+  </programme>
+  <programme start="20230701071500 +0200" stop="20230702010000 +0200" channel="TV Svet Plus Beograd">
+    <title lang="sl">Glasbeni program</title>
+  </programme>
+  <programme start="20230702010000 +0200" stop="20230702020000 +0200" channel="TV Svet Plus Beograd">
+    <title lang="sl">Ženske zadeve z Nino</title>
+  </programme>
+  <programme start="20230702020000 +0200" stop="20230702030000 +0200" channel="TV Svet Plus Beograd">
+    <title lang="sl">Klub šampionov</title>
+  </programme>
+  <programme start="20230702030000 +0200" stop="20230702040000 +0200" channel="TV Svet Plus Beograd">
+    <title lang="sl">Prva noč z dr. Sandro</title>
+  </programme>
+  <programme start="20230702040000 +0200" stop="20230702050000 +0200" channel="TV Svet Plus Beograd">
+    <title lang="sl">Klub šampionov</title>
+  </programme>
+  <programme start="20230702050000 +0200" stop="20230702061000 +0200" channel="TV Svet Plus Beograd">
+    <title lang="sl">Polarizator</title>
+  </programme>
+  <programme start="20230702061000 +0200" stop="20230702070500 +0200" channel="TV Svet Plus Beograd">
+    <title lang="sl">V nedeljo ob treh</title>
+  </programme>
+  <programme start="20230702070500 +0200" stop="20230702071500 +0200" channel="TV Svet Plus Beograd">
+    <title lang="sl">Tom in Jerry</title>
+  </programme>
+  <programme start="20230629000000 +0200" stop="20230629030000 +0200" channel="TV Veseljak">
+    <title lang="sl">Glasba za lahko noč</title>
+  </programme>
+  <programme start="20230629030000 +0200" stop="20230629030500 +0200" channel="TV Veseljak">
+    <title lang="sl">Pokaži jezik</title>
+  </programme>
+  <programme start="20230629030500 +0200" stop="20230629050500 +0200" channel="TV Veseljak">
+    <title lang="sl">Glasba za lahko noč</title>
+  </programme>
+  <programme start="20230629050500 +0200" stop="20230629060000 +0200" channel="TV Veseljak">
+    <title lang="sl">Glasba za dobro jutro</title>
+  </programme>
+  <programme start="20230629060000 +0200" stop="20230629100000 +0200" channel="TV Veseljak">
+    <title lang="sl">Jutranja budnica</title>
+  </programme>
+  <programme start="20230629100000 +0200" stop="20230629140000 +0200" channel="TV Veseljak">
+    <title lang="sl">Veseljakov dober dan</title>
+  </programme>
+  <programme start="20230629140000 +0200" stop="20230629180000 +0200" channel="TV Veseljak">
+    <title lang="sl">Za lepši dan ... židan popoldan!</title>
+  </programme>
+  <programme start="20230629180000 +0200" stop="20230629193000 +0200" channel="TV Veseljak">
+    <title lang="sl">Ko harmonika zapoje</title>
+  </programme>
+  <programme start="20230629193000 +0200" stop="20230629200000 +0200" channel="TV Veseljak">
+    <title lang="sl">Nostalgija</title>
+  </programme>
+  <programme start="20230629200000 +0200" stop="20230629210000 +0200" channel="TV Veseljak">
+    <title lang="sl">Veseljakov VIP petek,</title>
+  </programme>
+  <programme start="20230629210000 +0200" stop="20230629211000 +0200" channel="TV Veseljak">
+    <title lang="sl">Ulične karaoke</title>
+  </programme>
+  <programme start="20230629211000 +0200" stop="20230629213000 +0200" channel="TV Veseljak">
+    <title lang="sl">Ko harmonika zapoje</title>
+  </programme>
+  <programme start="20230629213000 +0200" stop="20230629214500 +0200" channel="TV Veseljak">
+    <title lang="sl">Z naravo do zdravja - Terrapromo</title>
+  </programme>
+  <programme start="20230629214500 +0200" stop="20230629230000 +0200" channel="TV Veseljak">
+    <title lang="sl">Ko harmonika zapoje</title>
+  </programme>
+  <programme start="20230629230000 +0200" stop="20230630000000 +0200" channel="TV Veseljak">
+    <title lang="sl">Z Veseljakom v večer</title>
+  </programme>
+  <programme start="20230630000000 +0200" stop="20230630030000 +0200" channel="TV Veseljak">
+    <title lang="sl">Glasba za lahko noč</title>
+  </programme>
+  <programme start="20230630030000 +0200" stop="20230630030500 +0200" channel="TV Veseljak">
+    <title lang="sl">Pokaži jezik</title>
+  </programme>
+  <programme start="20230630030500 +0200" stop="20230630050500 +0200" channel="TV Veseljak">
+    <title lang="sl">Glasba za lahko noč</title>
+  </programme>
+  <programme start="20230630050500 +0200" stop="20230630060000 +0200" channel="TV Veseljak">
+    <title lang="sl">Glasba za dobro jutro</title>
+  </programme>
+  <programme start="20230630060000 +0200" stop="20230630100000 +0200" channel="TV Veseljak">
+    <title lang="sl">Jutranja budnica</title>
+  </programme>
+  <programme start="20230630100000 +0200" stop="20230630110000 +0200" channel="TV Veseljak">
+    <title lang="sl">Veseljakov VIP petek</title>
+  </programme>
+  <programme start="20230630110000 +0200" stop="20230630140000 +0200" channel="TV Veseljak">
+    <title lang="sl">Veseljakov dober dan</title>
+  </programme>
+  <programme start="20230630140000 +0200" stop="20230630180000 +0200" channel="TV Veseljak">
+    <title lang="sl">Za lepši dan ... židan popoldan!</title>
+  </programme>
+  <programme start="20230630180000 +0200" stop="20230630190000 +0200" channel="TV Veseljak">
+    <title lang="sl">Te domače viže</title>
+  </programme>
+  <programme start="20230630190000 +0200" stop="20230630193000 +0200" channel="TV Veseljak">
+    <title lang="sl">Ko harmonika zapoje</title>
+  </programme>
+  <programme start="20230630193000 +0200" stop="20230630200000 +0200" channel="TV Veseljak">
+    <title lang="sl">Nostalgija</title>
+  </programme>
+  <programme start="20230630200000 +0200" stop="20230630213000 +0200" channel="TV Veseljak">
+    <title lang="sl">Petkova pumpa</title>
+  </programme>
+  <programme start="20230630213000 +0200" stop="20230630230000 +0200" channel="TV Veseljak">
+    <title lang="sl">Ko harmonika zapoje</title>
+  </programme>
+  <programme start="20230630230000 +0200" stop="20230701000000 +0200" channel="TV Veseljak">
+    <title lang="sl">Z Veseljakom v večer</title>
+  </programme>
+  <programme start="20230701000000 +0200" stop="20230701050000 +0200" channel="TV Veseljak">
+    <title lang="sl">Glasba za lahko noč</title>
+  </programme>
+  <programme start="20230701050000 +0200" stop="20230701060000 +0200" channel="TV Veseljak">
+    <title lang="sl">Glasba za dobro jutro</title>
+  </programme>
+  <programme start="20230701060000 +0200" stop="20230701180000 +0200" channel="TV Veseljak">
+    <title lang="sl">Vikend na Veseljaku</title>
+  </programme>
+  <programme start="20230701180000 +0200" stop="20230701184500 +0200" channel="TV Veseljak">
+    <title lang="sl">Ducat Veseljakovih</title>
+  </programme>
+  <programme start="20230701184500 +0200" stop="20230701200000 +0200" channel="TV Veseljak">
+    <title lang="sl">Te domače viže</title>
+  </programme>
+  <programme start="20230701200000 +0200" stop="20230701203500 +0200" channel="TV Veseljak">
+    <title lang="sl">Glasbeni skavt</title>
+  </programme>
+  <programme start="20230701203500 +0200" stop="20230701213500 +0200" channel="TV Veseljak">
+    <title lang="sl">Brendi 25 let</title>
+  </programme>
+  <programme start="20230701213500 +0200" stop="20230701230000 +0200" channel="TV Veseljak">
+    <title lang="sl">Ko harmonika zapoje</title>
+  </programme>
+  <programme start="20230701230000 +0200" stop="20230702000000 +0200" channel="TV Veseljak">
+    <title lang="sl">Z Veseljakom v večer</title>
+  </programme>
+  <programme start="20230702000000 +0200" stop="20230702050000 +0200" channel="TV Veseljak">
+    <title lang="sl">Glasba za lahko noč</title>
+  </programme>
+  <programme start="20230702050000 +0200" stop="20230702060000 +0200" channel="TV Veseljak">
+    <title lang="sl">Glasba za dobro jutro</title>
+  </programme>
+  <programme start="20230702060000 +0200" stop="20230702180000 +0200" channel="TV Veseljak">
+    <title lang="sl">Vikend na Veseljaku</title>
+  </programme>
+  <programme start="20230702180000 +0200" stop="20230702185000 +0200" channel="TV Veseljak">
+    <title lang="sl">Iskreno z Majo Oderlap</title>
+  </programme>
+  <programme start="20230702185000 +0200" stop="20230702193000 +0200" channel="TV Veseljak">
+    <title lang="sl">Ko harmonika zapoje</title>
+  </programme>
+  <programme start="20230702193000 +0200" stop="20230702194500 +0200" channel="TV Veseljak">
+    <title lang="sl">Zanimivo!</title>
+  </programme>
+  <programme start="20230702194500 +0200" stop="20230702200000 +0200" channel="TV Veseljak">
+    <title lang="sl">Te domače viže</title>
+  </programme>
+  <programme start="20230702200000 +0200" stop="20230702213000 +0200" channel="TV Veseljak">
+    <title lang="sl">Ena po domače</title>
+  </programme>
+  <programme start="20230702213000 +0200" stop="20230702230000 +0200" channel="TV Veseljak">
+    <title lang="sl">Ko harmonika zapoje</title>
   </programme>
 </tv>
