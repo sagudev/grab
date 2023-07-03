@@ -1,0 +1,3801 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.4.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Ginx">
+    <display-name lang="sl">Ginx</display-name>
+    <url>http://www.siol.net</url>
+  </channel>
+  <channel id="Gold TV">
+    <display-name lang="sl">Gold TV</display-name>
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/gold.png" />
+    <url>http://www.siol.net</url>
+  </channel>
+  <channel id="Grand 1">
+    <display-name lang="sl">Grand 1</display-name>
+    <url>http://www.siol.net</url>
+  </channel>
+  <channel id="Grand 2">
+    <display-name lang="sl">Grand 2</display-name>
+    <url>http://www.siol.net</url>
+  </channel>
+  <channel id="HBO">
+    <display-name lang="sl">HBO</display-name>
+    <url>http://www.siol.net</url>
+  </channel>
+  <channel id="HBO 2">
+    <display-name lang="sl">HBO 2</display-name>
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/hbo2.png" />
+    <url>http://www.siol.net</url>
+  </channel>
+  <channel id="HBO 3">
+    <display-name lang="sl">HBO 3</display-name>
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/hbo3.png" />
+    <url>http://www.siol.net</url>
+  </channel>
+  <channel id="HRT 1">
+    <display-name lang="sl">HRT 1</display-name>
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/hrt1_updated241016104810.png" />
+    <url>http://www.siol.net</url>
+  </channel>
+  <channel id="HRT 2">
+    <display-name lang="sl">HRT 2</display-name>
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/hrt2_updated241016104915.png" />
+    <url>http://www.siol.net</url>
+  </channel>
+  <channel id="HRT 3">
+    <display-name lang="sl">HRT 3</display-name>
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/hrt3_updated241016105155.png" />
+    <url>http://www.siol.net</url>
+  </channel>
+  <channel id="Happy TV">
+    <display-name lang="sl">Happy TV</display-name>
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/happy.png" />
+    <url>http://www.siol.net</url>
+  </channel>
+  <channel id="Hayat">
+    <display-name lang="sl">Hayat</display-name>
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/hayat_updated24523094037.png" />
+    <url>http://www.siol.net</url>
+  </channel>
+  <channel id="History Channel">
+    <display-name lang="sl">History Channel</display-name>
+    <url>http://www.siol.net</url>
+  </channel>
+  <channel id="Jabuka (OTV)">
+    <display-name lang="sl">Jabuka (OTV)</display-name>
+    <url>http://www.siol.net</url>
+  </channel>
+  <channel id="JimJam">
+    <display-name lang="sl">JimJam</display-name>
+    <url>http://www.siol.net</url>
+  </channel>
+  <channel id="Jugoton">
+    <display-name lang="sl">Jugoton</display-name>
+    <url>http://www.siol.net</url>
+  </channel>
+  <channel id="KCN">
+    <display-name lang="sl">KCN</display-name>
+    <url>http://www.siol.net</url>
+  </channel>
+  <channel id="KCN Music">
+    <display-name lang="sl">KCN Music</display-name>
+    <url>http://www.siol.net</url>
+  </channel>
+  <channel id="KOHAVISION">
+    <display-name lang="sl">KOHAVISION</display-name>
+    <url>http://www.siol.net</url>
+  </channel>
+  <programme start="20230703003000 +0200" stop="20230703050000 +0200" channel="Gold TV">
+    <title lang="sl">Nocoj je ena lušna noč</title>
+  </programme>
+  <programme start="20230703050000 +0200" stop="20230703070000 +0200" channel="Gold TV">
+    <title lang="sl">Rana ura, zlata ura</title>
+  </programme>
+  <programme start="20230703070000 +0200" stop="20230703071000 +0200" channel="Gold TV">
+    <title lang="sl">Jutranja molitev z Martinom Golobom</title>
+  </programme>
+  <programme start="20230703071000 +0200" stop="20230703080000 +0200" channel="Gold TV">
+    <title lang="sl">Rana ura, zlata ura</title>
+  </programme>
+  <programme start="20230703080000 +0200" stop="20230703081000 +0200" channel="Gold TV">
+    <title lang="sl">Jutranja molitev z Martinom Golobom</title>
+  </programme>
+  <programme start="20230703081000 +0200" stop="20230703100000 +0200" channel="Gold TV">
+    <title lang="sl">Dober dan, Slovenija</title>
+  </programme>
+  <programme start="20230703100000 +0200" stop="20230703110000 +0200" channel="Gold TV">
+    <title lang="sl">Dolina zdravja</title>
+  </programme>
+  <programme start="20230703110000 +0200" stop="20230703120000 +0200" channel="Gold TV">
+    <title lang="sl">Dober dan, Slovenija</title>
+  </programme>
+  <programme start="20230703120000 +0200" stop="20230703134500 +0200" channel="Gold TV">
+    <title lang="sl">Veselo po domače</title>
+  </programme>
+  <programme start="20230703134500 +0200" stop="20230703153000 +0200" channel="Gold TV">
+    <title lang="sl">Glas harmonike</title>
+  </programme>
+  <programme start="20230703153000 +0200" stop="20230703163000 +0200" channel="Gold TV">
+    <title lang="sl">Dolina zdravja</title>
+  </programme>
+  <programme start="20230703163000 +0200" stop="20230703180000 +0200" channel="Gold TV">
+    <title lang="sl">Glas harmonike</title>
+  </programme>
+  <programme start="20230703180000 +0200" stop="20230703190000 +0200" channel="Gold TV">
+    <title lang="sl">Zakladi narave</title>
+  </programme>
+  <programme start="20230703190000 +0200" stop="20230703195000 +0200" channel="Gold TV">
+    <title lang="sl">Sveta maša</title>
+  </programme>
+  <programme start="20230703195000 +0200" stop="20230703200000 +0200" channel="Gold TV">
+    <title lang="sl">Večerna molitev z Martinom Golobom</title>
+  </programme>
+  <programme start="20230703200000 +0200" stop="20230703204000 +0200" channel="Gold TV">
+    <title lang="sl">Vrnitev odpisanih</title>
+  </programme>
+  <programme start="20230703204000 +0200" stop="20230703214500 +0200" channel="Gold TV">
+    <title lang="sl">Zakladi narave</title>
+  </programme>
+  <programme start="20230703214500 +0200" stop="20230704001500 +0200" channel="Gold TV">
+    <title lang="sl">Nocoj je ena lušna noč</title>
+  </programme>
+  <programme start="20230704001500 +0200" stop="20230704050000 +0200" channel="Gold TV">
+    <title lang="sl">Nocoj je ena lušna noč</title>
+  </programme>
+  <programme start="20230704050000 +0200" stop="20230704070000 +0200" channel="Gold TV">
+    <title lang="sl">Rana ura, zlata ura</title>
+  </programme>
+  <programme start="20230704070000 +0200" stop="20230704071000 +0200" channel="Gold TV">
+    <title lang="sl">Jutranja molitev z Martinom Golobom</title>
+  </programme>
+  <programme start="20230704071000 +0200" stop="20230704080000 +0200" channel="Gold TV">
+    <title lang="sl">Rana ura, zlata ura</title>
+  </programme>
+  <programme start="20230704080000 +0200" stop="20230704081000 +0200" channel="Gold TV">
+    <title lang="sl">Jutranja molitev z Martinom Golobom</title>
+  </programme>
+  <programme start="20230704081000 +0200" stop="20230704100000 +0200" channel="Gold TV">
+    <title lang="sl">Dober dan, Slovenija</title>
+  </programme>
+  <programme start="20230704100000 +0200" stop="20230704110000 +0200" channel="Gold TV">
+    <title lang="sl">Zakladi narave</title>
+  </programme>
+  <programme start="20230704110000 +0200" stop="20230704120000 +0200" channel="Gold TV">
+    <title lang="sl">Dober dan, Slovenija</title>
+  </programme>
+  <programme start="20230704120000 +0200" stop="20230704134500 +0200" channel="Gold TV">
+    <title lang="sl">Veselo po domače</title>
+  </programme>
+  <programme start="20230704134500 +0200" stop="20230704153000 +0200" channel="Gold TV">
+    <title lang="sl">Glas harmonike</title>
+  </programme>
+  <programme start="20230704153000 +0200" stop="20230704163000 +0200" channel="Gold TV">
+    <title lang="sl">Zakladi narave</title>
+  </programme>
+  <programme start="20230704163000 +0200" stop="20230704180000 +0200" channel="Gold TV">
+    <title lang="sl">Glas harmonike</title>
+  </programme>
+  <programme start="20230704180000 +0200" stop="20230704190000 +0200" channel="Gold TV">
+    <title lang="sl">Dolina zdravja</title>
+  </programme>
+  <programme start="20230704190000 +0200" stop="20230704195000 +0200" channel="Gold TV">
+    <title lang="sl">Sveta maša</title>
+  </programme>
+  <programme start="20230704195000 +0200" stop="20230704200000 +0200" channel="Gold TV">
+    <title lang="sl">Večerna molitev z Martinom Golobom</title>
+  </programme>
+  <programme start="20230704200000 +0200" stop="20230704211000 +0200" channel="Gold TV">
+    <title lang="sl">Na zdravje!</title>
+  </programme>
+  <programme start="20230704211000 +0200" stop="20230704221000 +0200" channel="Gold TV">
+    <title lang="sl">Zakladi narave</title>
+  </programme>
+  <programme start="20230704221000 +0200" stop="20230704223000 +0200" channel="Gold TV">
+    <title lang="sl">Nocoj je ena lušna noč</title>
+  </programme>
+  <programme start="20230704223000 +0200" stop="20230705004500 +0200" channel="Gold TV">
+    <title lang="sl">Vedeževalec Blaž</title>
+  </programme>
+  <programme start="20230705004500 +0200" stop="20230705050000 +0200" channel="Gold TV">
+    <title lang="sl">Nocoj je ena lušna noč</title>
+  </programme>
+  <programme start="20230705050000 +0200" stop="20230705070000 +0200" channel="Gold TV">
+    <title lang="sl">Rana ura, zlata ura</title>
+  </programme>
+  <programme start="20230705070000 +0200" stop="20230705071000 +0200" channel="Gold TV">
+    <title lang="sl">Jutranja molitev z Martinom Golobom</title>
+  </programme>
+  <programme start="20230705071000 +0200" stop="20230705080000 +0200" channel="Gold TV">
+    <title lang="sl">Rana ura, zlata ura</title>
+  </programme>
+  <programme start="20230705080000 +0200" stop="20230705081000 +0200" channel="Gold TV">
+    <title lang="sl">Jutranja molitev z Martinom Golobom</title>
+  </programme>
+  <programme start="20230705081000 +0200" stop="20230705100000 +0200" channel="Gold TV">
+    <title lang="sl">Dober dan, Slovenija</title>
+  </programme>
+  <programme start="20230705100000 +0200" stop="20230705110000 +0200" channel="Gold TV">
+    <title lang="sl">Dolina zdravja</title>
+  </programme>
+  <programme start="20230705110000 +0200" stop="20230705120000 +0200" channel="Gold TV">
+    <title lang="sl">Dober dan, Slovenija</title>
+  </programme>
+  <programme start="20230705120000 +0200" stop="20230705134500 +0200" channel="Gold TV">
+    <title lang="sl">Veselo po domače</title>
+  </programme>
+  <programme start="20230705134500 +0200" stop="20230705153000 +0200" channel="Gold TV">
+    <title lang="sl">Glas harmonike</title>
+  </programme>
+  <programme start="20230705153000 +0200" stop="20230705163000 +0200" channel="Gold TV">
+    <title lang="sl">Dolina zdravja</title>
+  </programme>
+  <programme start="20230705163000 +0200" stop="20230705180000 +0200" channel="Gold TV">
+    <title lang="sl">Glas harmonike</title>
+  </programme>
+  <programme start="20230705180000 +0200" stop="20230705190000 +0200" channel="Gold TV">
+    <title lang="sl">Zakladi narave</title>
+  </programme>
+  <programme start="20230705190000 +0200" stop="20230705195000 +0200" channel="Gold TV">
+    <title lang="sl">Sveta maša</title>
+  </programme>
+  <programme start="20230705195000 +0200" stop="20230705200000 +0200" channel="Gold TV">
+    <title lang="sl">Večerna molitev z Martinom Golobom</title>
+  </programme>
+  <programme start="20230705200000 +0200" stop="20230705210000 +0200" channel="Gold TV">
+    <title lang="sl">Dolina zdravja</title>
+  </programme>
+  <programme start="20230705210000 +0200" stop="20230705212000 +0200" channel="Gold TV">
+    <title lang="sl">Te domače viže</title>
+  </programme>
+  <programme start="20230705212000 +0200" stop="20230705223000 +0200" channel="Gold TV">
+    <title lang="sl">Na zdravje!</title>
+  </programme>
+  <programme start="20230705223000 +0200" stop="20230706000000 +0200" channel="Gold TV">
+    <title lang="sl">Vedeževalec Blaž</title>
+  </programme>
+  <programme start="20230706000000 +0200" stop="20230706050000 +0200" channel="Gold TV">
+    <title lang="sl">Nocoj je ena lušna noč</title>
+  </programme>
+  <programme start="20230706050000 +0200" stop="20230706070000 +0200" channel="Gold TV">
+    <title lang="sl">Rana ura, zlata ura</title>
+  </programme>
+  <programme start="20230706070000 +0200" stop="20230706071000 +0200" channel="Gold TV">
+    <title lang="sl">Jutranja molitev z Martinom Golobom</title>
+  </programme>
+  <programme start="20230706071000 +0200" stop="20230706080000 +0200" channel="Gold TV">
+    <title lang="sl">Rana ura, zlata ura</title>
+  </programme>
+  <programme start="20230706080000 +0200" stop="20230706081000 +0200" channel="Gold TV">
+    <title lang="sl">Jutranja molitev z Martinom Golobom</title>
+  </programme>
+  <programme start="20230706081000 +0200" stop="20230706100000 +0200" channel="Gold TV">
+    <title lang="sl">Dober dan, Slovenija</title>
+  </programme>
+  <programme start="20230706100000 +0200" stop="20230706110000 +0200" channel="Gold TV">
+    <title lang="sl">Zakladi narave</title>
+  </programme>
+  <programme start="20230706110000 +0200" stop="20230706120000 +0200" channel="Gold TV">
+    <title lang="sl">Dober dan, Slovenija</title>
+  </programme>
+  <programme start="20230706120000 +0200" stop="20230706134500 +0200" channel="Gold TV">
+    <title lang="sl">Veselo po domače</title>
+  </programme>
+  <programme start="20230706134500 +0200" stop="20230706140000 +0200" channel="Gold TV">
+    <title lang="sl">Glas harmonike</title>
+  </programme>
+  <programme start="20230706140000 +0200" stop="20230706153000 +0200" channel="Gold TV">
+    <title lang="sl">Ena po domače</title>
+  </programme>
+  <programme start="20230706153000 +0200" stop="20230706163000 +0200" channel="Gold TV">
+    <title lang="sl">Zakladi narave</title>
+  </programme>
+  <programme start="20230706163000 +0200" stop="20230706180000 +0200" channel="Gold TV">
+    <title lang="sl">Glas harmonike</title>
+  </programme>
+  <programme start="20230706180000 +0200" stop="20230706190000 +0200" channel="Gold TV">
+    <title lang="sl">Dolina zdravja</title>
+  </programme>
+  <programme start="20230706190000 +0200" stop="20230706195000 +0200" channel="Gold TV">
+    <title lang="sl">Sveta maša</title>
+  </programme>
+  <programme start="20230706195000 +0200" stop="20230706200000 +0200" channel="Gold TV">
+    <title lang="sl">Večerna molitev z Martinom Golobom</title>
+  </programme>
+  <programme start="20230706200000 +0200" stop="20230706210000 +0200" channel="Gold TV">
+    <title lang="sl">Dolina zdravja</title>
+  </programme>
+  <programme start="20230706210000 +0200" stop="20230706212000 +0200" channel="Gold TV">
+    <title lang="sl">Te domače viže</title>
+  </programme>
+  <programme start="20230706212000 +0200" stop="20230706223000 +0200" channel="Gold TV">
+    <title lang="sl">Na zdravje!</title>
+  </programme>
+  <programme start="20230703003000 +0200" stop="20230703011000 +0200" channel="HBO 2">
+    <title lang="sl">Prejšnji teden: Nocoj z Johnom Oliverjem</title>
+  </programme>
+  <programme start="20230703011000 +0200" stop="20230703013500 +0200" channel="HBO 2">
+    <title lang="sl">Očarana nad zvezdnikom</title>
+  </programme>
+  <programme start="20230703013500 +0200" stop="20230703020000 +0200" channel="HBO 2">
+    <title lang="sl">Očarana nad zvezdnikom</title>
+  </programme>
+  <programme start="20230703020000 +0200" stop="20230703034000 +0200" channel="HBO 2">
+    <title lang="sl">Resnična zgodba</title>
+  </programme>
+  <programme start="20230703034000 +0200" stop="20230703060000 +0200" channel="HBO 2">
+    <title lang="sl">Čudežna ženska</title>
+  </programme>
+  <programme start="20230703060000 +0200" stop="20230703061000 +0200" channel="HBO 2">
+    <title lang="sl">Otok poletnega kampa</title>
+  </programme>
+  <programme start="20230703061000 +0200" stop="20230703062000 +0200" channel="HBO 2">
+    <title lang="sl">Otok poletnega kampa</title>
+  </programme>
+  <programme start="20230703062000 +0200" stop="20230703063000 +0200" channel="HBO 2">
+    <title lang="sl">Otok poletnega kampa</title>
+  </programme>
+  <programme start="20230703063000 +0200" stop="20230703065000 +0200" channel="HBO 2">
+    <title lang="sl">Poletni tabor: Ječar Doug</title>
+  </programme>
+  <programme start="20230703065000 +0200" stop="20230703082500 +0200" channel="HBO 2">
+    <title lang="sl">Pet legend</title>
+  </programme>
+  <programme start="20230703082500 +0200" stop="20230703101500 +0200" channel="HBO 2">
+    <title lang="sl">Izgubljeni kralj</title>
+  </programme>
+  <programme start="20230703101500 +0200" stop="20230703110000 +0200" channel="HBO 2">
+    <title lang="sl">Opravljivka</title>
+  </programme>
+  <programme start="20230703110000 +0200" stop="20230703112000 +0200" channel="HBO 2">
+    <title lang="sl">Veliki pokovci</title>
+  </programme>
+  <programme start="20230703112000 +0200" stop="20230703114500 +0200" channel="HBO 2">
+    <title lang="sl">Veliki pokovci</title>
+  </programme>
+  <programme start="20230703114500 +0200" stop="20230703135000 +0200" channel="HBO 2">
+    <title lang="sl">Cyrano</title>
+  </programme>
+  <programme start="20230703135000 +0200" stop="20230703161500 +0200" channel="HBO 2">
+    <title lang="sl">Višine New Yorka</title>
+  </programme>
+  <programme start="20230703161500 +0200" stop="20230703171500 +0200" channel="HBO 2">
+    <title lang="sl">Opravljivka (2021)</title>
+  </programme>
+  <programme start="20230703171500 +0200" stop="20230703190000 +0200" channel="HBO 2">
+    <title lang="sl">Aloha</title>
+  </programme>
+  <programme start="20230703190000 +0200" stop="20230703203500 +0200" channel="HBO 2">
+    <title lang="sl">Potovanje z Joy</title>
+  </programme>
+  <programme start="20230703203500 +0200" stop="20230703224500 +0200" channel="HBO 2">
+    <title lang="sl">Zeleni vitez</title>
+  </programme>
+  <programme start="20230703224500 +0200" stop="20230704002500 +0200" channel="HBO 2">
+    <title lang="sl">Sirota: Prvi umor</title>
+  </programme>
+  <programme start="20230704002500 +0200" stop="20230704022500 +0200" channel="HBO 2">
+    <title lang="sl">Pripravnika</title>
+  </programme>
+  <programme start="20230704022500 +0200" stop="20230704042500 +0200" channel="HBO 2">
+    <title lang="sl">Cyrano</title>
+  </programme>
+  <programme start="20230704042500 +0200" stop="20230704060000 +0200" channel="HBO 2">
+    <title lang="sl">Potovanje z Joy</title>
+  </programme>
+  <programme start="20230704060000 +0200" stop="20230704075500 +0200" channel="HBO 2">
+    <title lang="sl">Marley in jaz</title>
+  </programme>
+  <programme start="20230704075500 +0200" stop="20230704092000 +0200" channel="HBO 2">
+    <title lang="sl">Kipchoge: Zadnji mejnik</title>
+  </programme>
+  <programme start="20230704092000 +0200" stop="20230704105000 +0200" channel="HBO 2">
+    <title lang="sl">Čebelji film</title>
+  </programme>
+  <programme start="20230704105000 +0200" stop="20230704113500 +0200" channel="HBO 2">
+    <title lang="sl">Opravljivka</title>
+  </programme>
+  <programme start="20230704113500 +0200" stop="20230704115500 +0200" channel="HBO 2">
+    <title lang="sl">Veliki pokovci</title>
+  </programme>
+  <programme start="20230704115500 +0200" stop="20230704122000 +0200" channel="HBO 2">
+    <title lang="sl">Veliki pokovci</title>
+  </programme>
+  <programme start="20230704122000 +0200" stop="20230704140000 +0200" channel="HBO 2">
+    <title lang="sl">Garcia in Garcia</title>
+  </programme>
+  <programme start="20230704140000 +0200" stop="20230704162000 +0200" channel="HBO 2">
+    <title lang="sl">Kralj Richard</title>
+  </programme>
+  <programme start="20230704162000 +0200" stop="20230704190000 +0200" channel="HBO 2">
+    <title lang="sl">Elvis</title>
+  </programme>
+  <programme start="20230704190000 +0200" stop="20230704211500 +0200" channel="HBO 2">
+    <title lang="sl">Matrica</title>
+  </programme>
+  <programme start="20230704211500 +0200" stop="20230704224000 +0200" channel="HBO 2">
+    <title lang="sl">Dobri oče: Zgodba Martina MacNeilla</title>
+  </programme>
+  <programme start="20230704224000 +0200" stop="20230705003000 +0200" channel="HBO 2">
+    <title lang="sl">Igra s ključi</title>
+  </programme>
+  <programme start="20230705003000 +0200" stop="20230705031500 +0200" channel="HBO 2">
+    <title lang="sl">Django brez okovov</title>
+  </programme>
+  <programme start="20230705031500 +0200" stop="20230705053000 +0200" channel="HBO 2">
+    <title lang="sl">Matrica</title>
+  </programme>
+  <programme start="20230705053000 +0200" stop="20230705060000 +0200" channel="HBO 2">
+    <title lang="sl">Hollywood: Na snemanju</title>
+  </programme>
+  <programme start="20230705060000 +0200" stop="20230705082000 +0200" channel="HBO 2">
+    <title lang="sl">Kralj Richard</title>
+  </programme>
+  <programme start="20230705082000 +0200" stop="20230705100000 +0200" channel="HBO 2">
+    <title lang="sl">Čudovito</title>
+  </programme>
+  <programme start="20230705100000 +0200" stop="20230705104500 +0200" channel="HBO 2">
+    <title lang="sl">Opravljivka</title>
+  </programme>
+  <programme start="20230705104500 +0200" stop="20230705110500 +0200" channel="HBO 2">
+    <title lang="sl">Veliki pokovci</title>
+  </programme>
+  <programme start="20230705110500 +0200" stop="20230705113000 +0200" channel="HBO 2">
+    <title lang="sl">Veliki pokovci</title>
+  </programme>
+  <programme start="20230705113000 +0200" stop="20230705125500 +0200" channel="HBO 2">
+    <title lang="sl">Vesoljčki s podstrešja</title>
+  </programme>
+  <programme start="20230705125500 +0200" stop="20230705151000 +0200" channel="HBO 2">
+    <title lang="sl">Misija: Nemogoče - Odpadniška nacija</title>
+  </programme>
+  <programme start="20230705151000 +0200" stop="20230705153500 +0200" channel="HBO 2">
+    <title lang="sl">Mladi Sheldon</title>
+  </programme>
+  <programme start="20230705153500 +0200" stop="20230705172000 +0200" channel="HBO 2">
+    <title lang="sl">Mahalia</title>
+  </programme>
+  <programme start="20230705172000 +0200" stop="20230705190000 +0200" channel="HBO 2">
+    <title lang="sl">Iz istega gnezda</title>
+  </programme>
+  <programme start="20230705190000 +0200" stop="20230705195500 +0200" channel="HBO 2">
+    <title lang="sl">Vodovodarji iz Bele hiše</title>
+  </programme>
+  <programme start="20230705195500 +0200" stop="20230705205500 +0200" channel="HBO 2">
+    <title lang="sl">Vodovodarji iz Bele hiše</title>
+  </programme>
+  <programme start="20230705205500 +0200" stop="20230705223000 +0200" channel="HBO 2">
+    <title lang="sl">Zlobni mrtveci 5</title>
+  </programme>
+  <programme start="20230705223000 +0200" stop="20230706001500 +0200" channel="HBO 2">
+    <title lang="sl">Povabilo v pekel</title>
+  </programme>
+  <programme start="20230706001500 +0200" stop="20230706021000 +0200" channel="HBO 2">
+    <title lang="sl">Maixabel</title>
+  </programme>
+  <programme start="20230706021000 +0200" stop="20230706035000 +0200" channel="HBO 2">
+    <title lang="sl">Nora brata</title>
+  </programme>
+  <programme start="20230706035000 +0200" stop="20230706060000 +0200" channel="HBO 2">
+    <title lang="sl">Misija: Nemogoče - Odpadniška nacija</title>
+  </programme>
+  <programme start="20230706060000 +0200" stop="20230706061000 +0200" channel="HBO 2">
+    <title lang="sl">Otok poletnega kampa</title>
+  </programme>
+  <programme start="20230706061000 +0200" stop="20230706062500 +0200" channel="HBO 2">
+    <title lang="sl">Otok poletnega kampa</title>
+  </programme>
+  <programme start="20230706062500 +0200" stop="20230706075500 +0200" channel="HBO 2">
+    <title lang="sl">Naj zadonijo bobni</title>
+  </programme>
+  <programme start="20230706075500 +0200" stop="20230706093000 +0200" channel="HBO 2">
+    <title lang="sl">Vse, kar diha</title>
+  </programme>
+  <programme start="20230706093000 +0200" stop="20230706110000 +0200" channel="HBO 2">
+    <title lang="sl">Oblačno z mesnimi kroglicami</title>
+  </programme>
+  <programme start="20230706110000 +0200" stop="20230706114500 +0200" channel="HBO 2">
+    <title lang="sl">Opravljivka</title>
+  </programme>
+  <programme start="20230706114500 +0200" stop="20230706120500 +0200" channel="HBO 2">
+    <title lang="sl">Veliki pokovci</title>
+  </programme>
+  <programme start="20230706120500 +0200" stop="20230706123000 +0200" channel="HBO 2">
+    <title lang="sl">Veliki pokovci</title>
+  </programme>
+  <programme start="20230706123000 +0200" stop="20230706141000 +0200" channel="HBO 2">
+    <title lang="sl">Hokejistke</title>
+  </programme>
+  <programme start="20230706141000 +0200" stop="20230706145500 +0200" channel="HBO 2">
+    <title lang="sl">Kung fu</title>
+  </programme>
+  <programme start="20230706145500 +0200" stop="20230706154000 +0200" channel="HBO 2">
+    <title lang="sl">Winchesterjevi</title>
+  </programme>
+  <programme start="20230706154000 +0200" stop="20230706163000 +0200" channel="HBO 2">
+    <title lang="sl">Tisti od zunaj</title>
+  </programme>
+  <programme start="20230706163000 +0200" stop="20230706190000 +0200" channel="HBO 2">
+    <title lang="sl">Spider-Man: Ni poti domov</title>
+  </programme>
+  <programme start="20230706190000 +0200" stop="20230706210500 +0200" channel="HBO 2">
+    <title lang="sl">Vdove</title>
+  </programme>
+  <programme start="20230706210500 +0200" stop="20230706233000 +0200" channel="HBO 2">
+    <title lang="sl">Preprodajalci</title>
+  </programme>
+  <programme start="20230703001500 +0200" stop="20230703024500 +0200" channel="HBO 3">
+    <title lang="sl">Racija 2</title>
+  </programme>
+  <programme start="20230703024500 +0200" stop="20230703033500 +0200" channel="HBO 3">
+    <title lang="sl">Tisti od zunaj</title>
+  </programme>
+  <programme start="20230703033500 +0200" stop="20230703052500 +0200" channel="HBO 3">
+    <title lang="sl">Speča pošast</title>
+  </programme>
+  <programme start="20230703052500 +0200" stop="20230703060000 +0200" channel="HBO 3">
+    <title lang="sl">Hollywood: Na snemanju</title>
+  </programme>
+  <programme start="20230703060000 +0200" stop="20230703074500 +0200" channel="HBO 3">
+    <title lang="sl">Valovi v duši</title>
+  </programme>
+  <programme start="20230703074500 +0200" stop="20230703092500 +0200" channel="HBO 3">
+    <title lang="sl">Hišna zabava</title>
+  </programme>
+  <programme start="20230703092500 +0200" stop="20230703100000 +0200" channel="HBO 3">
+    <title lang="sl">Prejšnji teden: Nocoj z Johnom Oliverjem</title>
+  </programme>
+  <programme start="20230703100000 +0200" stop="20230703121500 +0200" channel="HBO 3">
+    <title lang="sl">Across The Universe</title>
+  </programme>
+  <programme start="20230703121500 +0200" stop="20230703130000 +0200" channel="HBO 3">
+    <title lang="sl">Winchesterjevi</title>
+  </programme>
+  <programme start="20230703130000 +0200" stop="20230703134500 +0200" channel="HBO 3">
+    <title lang="sl">Nogometaš</title>
+  </programme>
+  <programme start="20230703134500 +0200" stop="20230703160000 +0200" channel="HBO 3">
+    <title lang="sl">Magične živali: Grindelwaldova hudodelstva</title>
+  </programme>
+  <programme start="20230703160000 +0200" stop="20230703170000 +0200" channel="HBO 3">
+    <title lang="sl">Čas zmag: Vzpon dinastije Lakersov</title>
+  </programme>
+  <programme start="20230703170000 +0200" stop="20230703190500 +0200" channel="HBO 3">
+    <title lang="sl">Tam, kjer pojejo raki</title>
+  </programme>
+  <programme start="20230703190500 +0200" stop="20230703200500 +0200" channel="HBO 3">
+    <title lang="sl">Igra prestolov</title>
+  </programme>
+  <programme start="20230703200500 +0200" stop="20230703210000 +0200" channel="HBO 3">
+    <title lang="sl">Igra prestolov</title>
+  </programme>
+  <programme start="20230703210000 +0200" stop="20230703220500 +0200" channel="HBO 3">
+    <title lang="sl">Idol</title>
+  </programme>
+  <programme start="20230703220500 +0200" stop="20230703224000 +0200" channel="HBO 3">
+    <title lang="sl">Krepostni Gemstonovi</title>
+  </programme>
+  <programme start="20230703224000 +0200" stop="20230704011000 +0200" channel="HBO 3">
+    <title lang="sl">Čudežna ženska 1984</title>
+  </programme>
+  <programme start="20230704011000 +0200" stop="20230704024500 +0200" channel="HBO 3">
+    <title lang="sl">Jackass za vedno</title>
+  </programme>
+  <programme start="20230704024500 +0200" stop="20230704035000 +0200" channel="HBO 3">
+    <title lang="sl">Idol</title>
+  </programme>
+  <programme start="20230704035000 +0200" stop="20230704043000 +0200" channel="HBO 3">
+    <title lang="sl">Krepostni Gemstonovi</title>
+  </programme>
+  <programme start="20230704043000 +0200" stop="20230704060000 +0200" channel="HBO 3">
+    <title lang="sl">Brusnični božič</title>
+  </programme>
+  <programme start="20230704060000 +0200" stop="20230704081500 +0200" channel="HBO 3">
+    <title lang="sl">Magične živali: Grindelwaldova hudodelstva</title>
+  </programme>
+  <programme start="20230704081500 +0200" stop="20230704101000 +0200" channel="HBO 3">
+    <title lang="sl">Potniki</title>
+  </programme>
+  <programme start="20230704101000 +0200" stop="20230704103000 +0200" channel="HBO 3">
+    <title lang="sl">Zlata sredina</title>
+  </programme>
+  <programme start="20230704103000 +0200" stop="20230704105500 +0200" channel="HBO 3">
+    <title lang="sl">Zlata sredina</title>
+  </programme>
+  <programme start="20230704105500 +0200" stop="20230704130500 +0200" channel="HBO 3">
+    <title lang="sl">Šazam! Bes bogov</title>
+  </programme>
+  <programme start="20230704130500 +0200" stop="20230704145500 +0200" channel="HBO 3">
+    <title lang="sl">Val</title>
+  </programme>
+  <programme start="20230704145500 +0200" stop="20230704152000 +0200" channel="HBO 3">
+    <title lang="sl">Mladi Sheldon</title>
+  </programme>
+  <programme start="20230704152000 +0200" stop="20230704165500 +0200" channel="HBO 3">
+    <title lang="sl">Mandelj in morski konjiček</title>
+  </programme>
+  <programme start="20230704165500 +0200" stop="20230704190500 +0200" channel="HBO 3">
+    <title lang="sl">Pokliči me po svojem imenu</title>
+  </programme>
+  <programme start="20230704190500 +0200" stop="20230704200000 +0200" channel="HBO 3">
+    <title lang="sl">Igra prestolov</title>
+  </programme>
+  <programme start="20230704200000 +0200" stop="20230704210000 +0200" channel="HBO 3">
+    <title lang="sl">Igra prestolov</title>
+  </programme>
+  <programme start="20230704210000 +0200" stop="20230704223500 +0200" channel="HBO 3">
+    <title lang="sl">Trupla</title>
+  </programme>
+  <programme start="20230704223500 +0200" stop="20230704234000 +0200" channel="HBO 3">
+    <title lang="sl">Pravi detektiv</title>
+  </programme>
+  <programme start="20230704234000 +0200" stop="20230705014500 +0200" channel="HBO 3">
+    <title lang="sl">Ne skrbi, draga</title>
+  </programme>
+  <programme start="20230705014500 +0200" stop="20230705034000 +0200" channel="HBO 3">
+    <title lang="sl">Albatros</title>
+  </programme>
+  <programme start="20230705034000 +0200" stop="20230705060000 +0200" channel="HBO 3">
+    <title lang="sl">Manchester by the Sea</title>
+  </programme>
+  <programme start="20230705060000 +0200" stop="20230705072500 +0200" channel="HBO 3">
+    <title lang="sl">Tudi miši gredo v nebesa</title>
+  </programme>
+  <programme start="20230705072500 +0200" stop="20230705090000 +0200" channel="HBO 3">
+    <title lang="sl">Mandelj in morski konjiček</title>
+  </programme>
+  <programme start="20230705090000 +0200" stop="20230705104000 +0200" channel="HBO 3">
+    <title lang="sl">50 prvih poljubov</title>
+  </programme>
+  <programme start="20230705104000 +0200" stop="20230705110000 +0200" channel="HBO 3">
+    <title lang="sl">Zlata sredina</title>
+  </programme>
+  <programme start="20230705110000 +0200" stop="20230705112500 +0200" channel="HBO 3">
+    <title lang="sl">Zlata sredina</title>
+  </programme>
+  <programme start="20230705112500 +0200" stop="20230705132000 +0200" channel="HBO 3">
+    <title lang="sl">RoboCop</title>
+  </programme>
+  <programme start="20230705132000 +0200" stop="20230705140500 +0200" channel="HBO 3">
+    <title lang="sl">Boljše stvari</title>
+  </programme>
+  <programme start="20230705140500 +0200" stop="20230705145500 +0200" channel="HBO 3">
+    <title lang="sl">Boljše stvari</title>
+  </programme>
+  <programme start="20230705145500 +0200" stop="20230705171000 +0200" channel="HBO 3">
+    <title lang="sl">Najemnina</title>
+  </programme>
+  <programme start="20230705171000 +0200" stop="20230705191000 +0200" channel="HBO 3">
+    <title lang="sl">Lažni agent</title>
+  </programme>
+  <programme start="20230705191000 +0200" stop="20230705200500 +0200" channel="HBO 3">
+    <title lang="sl">Igra prestolov</title>
+  </programme>
+  <programme start="20230705200500 +0200" stop="20230705210000 +0200" channel="HBO 3">
+    <title lang="sl">Igra prestolov</title>
+  </programme>
+  <programme start="20230705210000 +0200" stop="20230705215500 +0200" channel="HBO 3">
+    <title lang="sl">Opravljivka</title>
+  </programme>
+  <programme start="20230705215500 +0200" stop="20230705222500 +0200" channel="HBO 3">
+    <title lang="sl">Naša zastava pomeni smrt</title>
+  </programme>
+  <programme start="20230705222500 +0200" stop="20230705231000 +0200" channel="HBO 3">
+    <title lang="sl">Tisti od zunaj</title>
+  </programme>
+  <programme start="20230705231000 +0200" stop="20230705235500 +0200" channel="HBO 3">
+    <title lang="sl">Sneg</title>
+  </programme>
+  <programme start="20230705235500 +0200" stop="20230706005000 +0200" channel="HBO 3">
+    <title lang="sl">Sneg</title>
+  </programme>
+  <programme start="20230706005000 +0200" stop="20230706024000 +0200" channel="HBO 3">
+    <title lang="sl">Zloben</title>
+  </programme>
+  <programme start="20230706024000 +0200" stop="20230706033500 +0200" channel="HBO 3">
+    <title lang="sl">Opravljivka</title>
+  </programme>
+  <programme start="20230706033500 +0200" stop="20230706040500 +0200" channel="HBO 3">
+    <title lang="sl">Naša zastava pomeni smrt</title>
+  </programme>
+  <programme start="20230706040500 +0200" stop="20230706060000 +0200" channel="HBO 3">
+    <title lang="sl">Lažni agent</title>
+  </programme>
+  <programme start="20230706060000 +0200" stop="20230706081500 +0200" channel="HBO 3">
+    <title lang="sl">Najemnina</title>
+  </programme>
+  <programme start="20230706081500 +0200" stop="20230706101500 +0200" channel="HBO 3">
+    <title lang="sl">Hellboy</title>
+  </programme>
+  <programme start="20230706101500 +0200" stop="20230706103500 +0200" channel="HBO 3">
+    <title lang="sl">Zlata sredina</title>
+  </programme>
+  <programme start="20230706103500 +0200" stop="20230706110000 +0200" channel="HBO 3">
+    <title lang="sl">Zlata sredina</title>
+  </programme>
+  <programme start="20230706110000 +0200" stop="20230706125000 +0200" channel="HBO 3">
+    <title lang="sl">Tekmeca</title>
+  </programme>
+  <programme start="20230706125000 +0200" stop="20230706132000 +0200" channel="HBO 3">
+    <title lang="sl">Naša zastava pomeni smrt</title>
+  </programme>
+  <programme start="20230706132000 +0200" stop="20230706151500 +0200" channel="HBO 3">
+    <title lang="sl">Uncharted</title>
+  </programme>
+  <programme start="20230706151500 +0200" stop="20230706165000 +0200" channel="HBO 3">
+    <title lang="sl">8-bitni božič</title>
+  </programme>
+  <programme start="20230706165000 +0200" stop="20230706190000 +0200" channel="HBO 3">
+    <title lang="sl">Napad na Belo hišo</title>
+  </programme>
+  <programme start="20230706190000 +0200" stop="20230706200000 +0200" channel="HBO 3">
+    <title lang="sl">Igra prestolov</title>
+  </programme>
+  <programme start="20230706200000 +0200" stop="20230706210000 +0200" channel="HBO 3">
+    <title lang="sl">Igra prestolov</title>
+  </programme>
+  <programme start="20230706210000 +0200" stop="20230706220000 +0200" channel="HBO 3">
+    <title lang="sl">Idol</title>
+  </programme>
+  <programme start="20230706220000 +0200" stop="20230706225000 +0200" channel="HBO 3">
+    <title lang="sl">Povej mi vse</title>
+  </programme>
+  <programme start="20230703013000 +0200" stop="20230703020000 +0200" channel="HRT 1">
+    <title lang="sl">Splitski festival 2023 - razglasitev zmagovalca</title>
+  </programme>
+  <programme start="20230703020000 +0200" stop="20230703033000 +0200" channel="HRT 1">
+    <title lang="sl">Igre</title>
+  </programme>
+  <programme start="20230703033000 +0200" stop="20230703041500 +0200" channel="HRT 1">
+    <title lang="sl">Plodovi zemlje</title>
+  </programme>
+  <programme start="20230703041500 +0200" stop="20230703045000 +0200" channel="HRT 1">
+    <title lang="sl">Oddaja o kulturi</title>
+  </programme>
+  <programme start="20230703045000 +0200" stop="20230703050000 +0200" channel="HRT 1">
+    <title lang="sl">Novice iz sveta kulture</title>
+  </programme>
+  <programme start="20230703050000 +0200" stop="20230703052500 +0200" channel="HRT 1">
+    <title lang="sl">Pozitivno</title>
+  </programme>
+  <programme start="20230703052500 +0200" stop="20230703055500 +0200" channel="HRT 1">
+    <title lang="sl">Split: Morje</title>
+  </programme>
+  <programme start="20230703055500 +0200" stop="20230703063000 +0200" channel="HRT 1">
+    <title lang="sl">Mir in dobro</title>
+  </programme>
+  <programme start="20230703063000 +0200" stop="20230703064500 +0200" channel="HRT 1">
+    <title lang="sl">TV koledar</title>
+  </programme>
+  <programme start="20230703064500 +0200" stop="20230703070000 +0200" channel="HRT 1">
+    <title lang="sl">Dobro jutro, Hrvaška</title>
+  </programme>
+  <programme start="20230703070000 +0200" stop="20230703071000 +0200" channel="HRT 1">
+    <title lang="sl">Novice</title>
+  </programme>
+  <programme start="20230703071000 +0200" stop="20230703080000 +0200" channel="HRT 1">
+    <title lang="sl">Dobro jutro, Hrvaška</title>
+  </programme>
+  <programme start="20230703080000 +0200" stop="20230703081000 +0200" channel="HRT 1">
+    <title lang="sl">Novice</title>
+  </programme>
+  <programme start="20230703081000 +0200" stop="20230703090000 +0200" channel="HRT 1">
+    <title lang="sl">Dobro jutro, Hrvaška</title>
+  </programme>
+  <programme start="20230703090000 +0200" stop="20230703091000 +0200" channel="HRT 1">
+    <title lang="sl">Novice</title>
+  </programme>
+  <programme start="20230703091000 +0200" stop="20230703100000 +0200" channel="HRT 1">
+    <title lang="sl">Dobro jutro, Hrvaška</title>
+  </programme>
+  <programme start="20230703100000 +0200" stop="20230703101500 +0200" channel="HRT 1">
+    <title lang="sl">Hitra kuha z Mary Berry: Rim</title>
+  </programme>
+  <programme start="20230703101500 +0200" stop="20230703104500 +0200" channel="HRT 1">
+    <title lang="sl">Vrtnarka</title>
+  </programme>
+  <programme start="20230703104500 +0200" stop="20230703114500 +0200" channel="HRT 1">
+    <title lang="sl">Velike evropske reke: Od Dunaja do Rothenburg po Donavi in Majni</title>
+  </programme>
+  <programme start="20230703114500 +0200" stop="20230703120000 +0200" channel="HRT 1">
+    <title lang="sl">TV koledar</title>
+  </programme>
+  <programme start="20230703120000 +0200" stop="20230703122000 +0200" channel="HRT 1">
+    <title lang="sl">Dnevnik 1, šport, vreme</title>
+  </programme>
+  <programme start="20230703122000 +0200" stop="20230703131000 +0200" channel="HRT 1">
+    <title lang="sl">Družinski grehi</title>
+  </programme>
+  <programme start="20230703131000 +0200" stop="20230703140000 +0200" channel="HRT 1">
+    <title lang="sl">Grand Hotel</title>
+  </programme>
+  <programme start="20230703140000 +0200" stop="20230703154000 +0200" channel="HRT 1">
+    <title lang="sl">Najin pogled na ljubezen</title>
+  </programme>
+  <programme start="20230703154000 +0200" stop="20230703163000 +0200" channel="HRT 1">
+    <title lang="sl">Starodavne supergradnje: Petra</title>
+  </programme>
+  <programme start="20230703163000 +0200" stop="20230703164500 +0200" channel="HRT 1">
+    <title lang="sl">Novice, Vreme</title>
+  </programme>
+  <programme start="20230703164500 +0200" stop="20230703171500 +0200" channel="HRT 1">
+    <title lang="sl">Regionalni dnevnik</title>
+  </programme>
+  <programme start="20230703171500 +0200" stop="20230703172000 +0200" channel="HRT 1">
+    <title lang="sl">Prometne informacije</title>
+  </programme>
+  <programme start="20230703172000 +0200" stop="20230703174000 +0200" channel="HRT 1">
+    <title lang="sl">Zlata liga: Jasna Zlokić in Zdenka Kovačiček</title>
+  </programme>
+  <programme start="20230703174000 +0200" stop="20230703181000 +0200" channel="HRT 1">
+    <title lang="sl">Ustavi se na otoku: Mljet</title>
+  </programme>
+  <programme start="20230703181000 +0200" stop="20230703190000 +0200" channel="HRT 1">
+    <title lang="sl">Zasledovanje</title>
+  </programme>
+  <programme start="20230703190000 +0200" stop="20230703200000 +0200" channel="HRT 1">
+    <title lang="sl">Dnevnik 2, šport, vreme</title>
+  </programme>
+  <programme start="20230703200000 +0200" stop="20230703211500 +0200" channel="HRT 1">
+    <title lang="sl">Sedem svetov, en planet: V zakulisju</title>
+  </programme>
+  <programme start="20230703211500 +0200" stop="20230703221000 +0200" channel="HRT 1">
+    <title lang="sl">Dobrodelni bazar</title>
+  </programme>
+  <programme start="20230703221000 +0200" stop="20230703225000 +0200" channel="HRT 1">
+    <title lang="sl">Odprto</title>
+  </programme>
+  <programme start="20230703225000 +0200" stop="20230703232500 +0200" channel="HRT 1">
+    <title lang="sl">Dnevnik 3, kultura, šport, vreme</title>
+  </programme>
+  <programme start="20230703232500 +0200" stop="20230704002000 +0200" channel="HRT 1">
+    <title lang="sl">Dober boj</title>
+  </programme>
+  <programme start="20230704002000 +0200" stop="20230704011500 +0200" channel="HRT 1">
+    <title lang="sl">Grand Hotel</title>
+  </programme>
+  <programme start="20230704011500 +0200" stop="20230704020000 +0200" channel="HRT 1">
+    <title lang="sl">Dobrodelni bazar</title>
+  </programme>
+  <programme start="20230704020000 +0200" stop="20230704030000 +0200" channel="HRT 1">
+    <title lang="sl">Velike evropske reke: Od Dunaja do Rothenburg po Donavi in Majni</title>
+  </programme>
+  <programme start="20230704030000 +0200" stop="20230704034500 +0200" channel="HRT 1">
+    <title lang="sl">Zmaga srca</title>
+  </programme>
+  <programme start="20230704034500 +0200" stop="20230704043000 +0200" channel="HRT 1">
+    <title lang="sl">Dnevnik 2, vreme</title>
+  </programme>
+  <programme start="20230704043000 +0200" stop="20230704044500 +0200" channel="HRT 1">
+    <title lang="sl">Novice iz sveta kulture</title>
+  </programme>
+  <programme start="20230704044500 +0200" stop="20230704051000 +0200" channel="HRT 1">
+    <title lang="sl">Zlata liga: Jasna Zlokić in Zdenka Kovačiček</title>
+  </programme>
+  <programme start="20230704051000 +0200" stop="20230704051500 +0200" channel="HRT 1">
+    <title lang="sl">Skica za portret</title>
+  </programme>
+  <programme start="20230704051500 +0200" stop="20230704054000 +0200" channel="HRT 1">
+    <title lang="sl">Tretje obdobje</title>
+  </programme>
+  <programme start="20230704054000 +0200" stop="20230704063000 +0200" channel="HRT 1">
+    <title lang="sl">Družinski grehi</title>
+  </programme>
+  <programme start="20230704063000 +0200" stop="20230704064500 +0200" channel="HRT 1">
+    <title lang="sl">TV koledar</title>
+  </programme>
+  <programme start="20230704064500 +0200" stop="20230704070000 +0200" channel="HRT 1">
+    <title lang="sl">Dobro jutro, Hrvaška</title>
+  </programme>
+  <programme start="20230704070000 +0200" stop="20230704071000 +0200" channel="HRT 1">
+    <title lang="sl">Novice</title>
+  </programme>
+  <programme start="20230704071000 +0200" stop="20230704080000 +0200" channel="HRT 1">
+    <title lang="sl">Dobro jutro, Hrvaška</title>
+  </programme>
+  <programme start="20230704080000 +0200" stop="20230704081000 +0200" channel="HRT 1">
+    <title lang="sl">Novice</title>
+  </programme>
+  <programme start="20230704081000 +0200" stop="20230704090000 +0200" channel="HRT 1">
+    <title lang="sl">Dobro jutro, Hrvaška</title>
+  </programme>
+  <programme start="20230704090000 +0200" stop="20230704091000 +0200" channel="HRT 1">
+    <title lang="sl">Novice</title>
+  </programme>
+  <programme start="20230704091000 +0200" stop="20230704100000 +0200" channel="HRT 1">
+    <title lang="sl">Dobro jutro, Hrvaška</title>
+  </programme>
+  <programme start="20230704100000 +0200" stop="20230704101500 +0200" channel="HRT 1">
+    <title lang="sl">Hitra kuha z Mary Berry: Festival</title>
+  </programme>
+  <programme start="20230704101500 +0200" stop="20230704104500 +0200" channel="HRT 1">
+    <title lang="sl">Vrtnarka</title>
+  </programme>
+  <programme start="20230704104500 +0200" stop="20230704114500 +0200" channel="HRT 1">
+    <title lang="sl">Velike evropske reke: Od Bamburga do Amsterdama po Majni in Renu</title>
+  </programme>
+  <programme start="20230704114500 +0200" stop="20230704120000 +0200" channel="HRT 1">
+    <title lang="sl">TV koledar</title>
+  </programme>
+  <programme start="20230704120000 +0200" stop="20230704122000 +0200" channel="HRT 1">
+    <title lang="sl">Dnevnik 1, šport, vreme</title>
+  </programme>
+  <programme start="20230704122000 +0200" stop="20230704131000 +0200" channel="HRT 1">
+    <title lang="sl">Družinski grehi</title>
+  </programme>
+  <programme start="20230704131000 +0200" stop="20230704140000 +0200" channel="HRT 1">
+    <title lang="sl">Grand Hotel</title>
+  </programme>
+  <programme start="20230704140000 +0200" stop="20230704154000 +0200" channel="HRT 1">
+    <title lang="sl">Vonj po ljubezni</title>
+  </programme>
+  <programme start="20230704154000 +0200" stop="20230704163000 +0200" channel="HRT 1">
+    <title lang="sl">Sedem svetov, en planet: V zakulisju</title>
+  </programme>
+  <programme start="20230704163000 +0200" stop="20230704164500 +0200" channel="HRT 1">
+    <title lang="sl">Novice, Vreme</title>
+  </programme>
+  <programme start="20230704164500 +0200" stop="20230704171500 +0200" channel="HRT 1">
+    <title lang="sl">Regionalni dnevnik</title>
+  </programme>
+  <programme start="20230704171500 +0200" stop="20230704174000 +0200" channel="HRT 1">
+    <title lang="sl">Zlata liga: Feđa Klarić in Helena Papić</title>
+  </programme>
+  <programme start="20230704174000 +0200" stop="20230704181000 +0200" channel="HRT 1">
+    <title lang="sl">Ustavi se na otoku: Susak</title>
+  </programme>
+  <programme start="20230704181000 +0200" stop="20230704190000 +0200" channel="HRT 1">
+    <title lang="sl">Zasledovanje</title>
+  </programme>
+  <programme start="20230704190000 +0200" stop="20230704200000 +0200" channel="HRT 1">
+    <title lang="sl">Dnevnik 2, šport, vreme</title>
+  </programme>
+  <programme start="20230704200000 +0200" stop="20230704211500 +0200" channel="HRT 1">
+    <title lang="sl">Napajališče: Oaza afriških živali</title>
+  </programme>
+  <programme start="20230704211500 +0200" stop="20230704221000 +0200" channel="HRT 1">
+    <title lang="sl">Dobrodelni bazar</title>
+  </programme>
+  <programme start="20230704221000 +0200" stop="20230704224500 +0200" channel="HRT 1">
+    <title lang="sl">Odprto</title>
+  </programme>
+  <programme start="20230704224500 +0200" stop="20230704232000 +0200" channel="HRT 1">
+    <title lang="sl">Dnevnik 3, kultura, šport, vreme</title>
+  </programme>
+  <programme start="20230704232000 +0200" stop="20230705002000 +0200" channel="HRT 1">
+    <title lang="sl">Dober boj</title>
+  </programme>
+  <programme start="20230705002000 +0200" stop="20230705012000 +0200" channel="HRT 1">
+    <title lang="sl">Grand Hotel</title>
+  </programme>
+  <programme start="20230705012000 +0200" stop="20230705021500 +0200" channel="HRT 1">
+    <title lang="sl">Dobrodelni bazar</title>
+  </programme>
+  <programme start="20230705021500 +0200" stop="20230705030000 +0200" channel="HRT 1">
+    <title lang="sl">Velike evropske reke: Od Bamburga do Amsterdama po Majni in Renu</title>
+  </programme>
+  <programme start="20230705030000 +0200" stop="20230705040000 +0200" channel="HRT 1">
+    <title lang="sl">Zmaga srca</title>
+  </programme>
+  <programme start="20230705040000 +0200" stop="20230705044500 +0200" channel="HRT 1">
+    <title lang="sl">Dnevnik 2, vreme</title>
+  </programme>
+  <programme start="20230705044500 +0200" stop="20230705050000 +0200" channel="HRT 1">
+    <title lang="sl">Novice iz sveta kulture</title>
+  </programme>
+  <programme start="20230705050000 +0200" stop="20230705053000 +0200" channel="HRT 1">
+    <title lang="sl">Zlata liga: Feđa Klarić in Helena Papić</title>
+  </programme>
+  <programme start="20230705053000 +0200" stop="20230705054000 +0200" channel="HRT 1">
+    <title lang="sl">Kulturna dediščina</title>
+  </programme>
+  <programme start="20230705054000 +0200" stop="20230705063000 +0200" channel="HRT 1">
+    <title lang="sl">Družinski grehi</title>
+  </programme>
+  <programme start="20230705063000 +0200" stop="20230705064500 +0200" channel="HRT 1">
+    <title lang="sl">TV koledar</title>
+  </programme>
+  <programme start="20230705064500 +0200" stop="20230705070000 +0200" channel="HRT 1">
+    <title lang="sl">Dobro jutro, Hrvaška</title>
+  </programme>
+  <programme start="20230705070000 +0200" stop="20230705071000 +0200" channel="HRT 1">
+    <title lang="sl">Novice</title>
+  </programme>
+  <programme start="20230705071000 +0200" stop="20230705080000 +0200" channel="HRT 1">
+    <title lang="sl">Dobro jutro, Hrvaška</title>
+  </programme>
+  <programme start="20230705080000 +0200" stop="20230705081000 +0200" channel="HRT 1">
+    <title lang="sl">Novice</title>
+  </programme>
+  <programme start="20230705081000 +0200" stop="20230705090000 +0200" channel="HRT 1">
+    <title lang="sl">Dobro jutro, Hrvaška</title>
+  </programme>
+  <programme start="20230705090000 +0200" stop="20230705091000 +0200" channel="HRT 1">
+    <title lang="sl">Novice</title>
+  </programme>
+  <programme start="20230705091000 +0200" stop="20230705100000 +0200" channel="HRT 1">
+    <title lang="sl">Dobro jutro, Hrvaška</title>
+  </programme>
+  <programme start="20230705100000 +0200" stop="20230705101500 +0200" channel="HRT 1">
+    <title lang="sl">Hitra kuha z Mary Berry: Marakeš</title>
+  </programme>
+  <programme start="20230705101500 +0200" stop="20230705104500 +0200" channel="HRT 1">
+    <title lang="sl">Vrtnarka</title>
+  </programme>
+  <programme start="20230705104500 +0200" stop="20230705114500 +0200" channel="HRT 1">
+    <title lang="sl">Sprehod po Kataloniji</title>
+  </programme>
+  <programme start="20230705114500 +0200" stop="20230705120000 +0200" channel="HRT 1">
+    <title lang="sl">TV koledar</title>
+  </programme>
+  <programme start="20230705120000 +0200" stop="20230705122000 +0200" channel="HRT 1">
+    <title lang="sl">Dnevnik 1, šport, vreme</title>
+  </programme>
+  <programme start="20230705122000 +0200" stop="20230705131000 +0200" channel="HRT 1">
+    <title lang="sl">Družinski grehi</title>
+  </programme>
+  <programme start="20230705131000 +0200" stop="20230705140000 +0200" channel="HRT 1">
+    <title lang="sl">Grand Hotel</title>
+  </programme>
+  <programme start="20230705140000 +0200" stop="20230705154000 +0200" channel="HRT 1">
+    <title lang="sl">Ljubezen v divjini</title>
+  </programme>
+  <programme start="20230705154000 +0200" stop="20230705163000 +0200" channel="HRT 1">
+    <title lang="sl">Napajališče: Oaza afriških živali</title>
+  </programme>
+  <programme start="20230705163000 +0200" stop="20230705164500 +0200" channel="HRT 1">
+    <title lang="sl">Novice, Vreme</title>
+  </programme>
+  <programme start="20230705164500 +0200" stop="20230705171500 +0200" channel="HRT 1">
+    <title lang="sl">Regionalni dnevnik</title>
+  </programme>
+  <programme start="20230705171500 +0200" stop="20230705172000 +0200" channel="HRT 1">
+    <title lang="sl">Prometne informacije</title>
+  </programme>
+  <programme start="20230705172000 +0200" stop="20230705174000 +0200" channel="HRT 1">
+    <title lang="sl">Zlata liga: Damir Miloš in Radovan Marčić</title>
+  </programme>
+  <programme start="20230705174000 +0200" stop="20230705181000 +0200" channel="HRT 1">
+    <title lang="sl">Veter v laseh</title>
+  </programme>
+  <programme start="20230705181000 +0200" stop="20230705190000 +0200" channel="HRT 1">
+    <title lang="sl">Zasledovanje</title>
+  </programme>
+  <programme start="20230705190000 +0200" stop="20230705200000 +0200" channel="HRT 1">
+    <title lang="sl">Dnevnik 2, šport, vreme</title>
+  </programme>
+  <programme start="20230705200000 +0200" stop="20230705201000 +0200" channel="HRT 1">
+    <title lang="sl">Loto 7</title>
+  </programme>
+  <programme start="20230705201000 +0200" stop="20230705211500 +0200" channel="HRT 1">
+    <title lang="sl">Napajališče: Oaza afriških živali</title>
+  </programme>
+  <programme start="20230705211500 +0200" stop="20230705221000 +0200" channel="HRT 1">
+    <title lang="sl">Dobrodelni bazar</title>
+  </programme>
+  <programme start="20230705221000 +0200" stop="20230705224500 +0200" channel="HRT 1">
+    <title lang="sl">Odprto</title>
+  </programme>
+  <programme start="20230705224500 +0200" stop="20230705232000 +0200" channel="HRT 1">
+    <title lang="sl">Dnevnik 3, kultura, šport, vreme</title>
+  </programme>
+  <programme start="20230705232000 +0200" stop="20230706001500 +0200" channel="HRT 1">
+    <title lang="sl">Dober boj</title>
+  </programme>
+  <programme start="20230706001500 +0200" stop="20230706011000 +0200" channel="HRT 1">
+    <title lang="sl">Grand Hotel</title>
+  </programme>
+  <programme start="20230706011000 +0200" stop="20230706020000 +0200" channel="HRT 1">
+    <title lang="sl">Dobrodelni bazar</title>
+  </programme>
+  <programme start="20230706020000 +0200" stop="20230706025000 +0200" channel="HRT 1">
+    <title lang="sl">Sprehod po Kataloniji</title>
+  </programme>
+  <programme start="20230706025000 +0200" stop="20230706034000 +0200" channel="HRT 1">
+    <title lang="sl">Zmaga srca</title>
+  </programme>
+  <programme start="20230706034000 +0200" stop="20230706043000 +0200" channel="HRT 1">
+    <title lang="sl">Dnevnik 2, vreme</title>
+  </programme>
+  <programme start="20230706043000 +0200" stop="20230706044000 +0200" channel="HRT 1">
+    <title lang="sl">Novice iz sveta kulture</title>
+  </programme>
+  <programme start="20230706044000 +0200" stop="20230706052500 +0200" channel="HRT 1">
+    <title lang="sl">Zlata liga: Damir Miloš in Radovan Marčić</title>
+  </programme>
+  <programme start="20230706052500 +0200" stop="20230706054000 +0200" channel="HRT 1">
+    <title lang="sl">Kulturna dediščina</title>
+  </programme>
+  <programme start="20230706054000 +0200" stop="20230706063000 +0200" channel="HRT 1">
+    <title lang="sl">Družinski grehi</title>
+  </programme>
+  <programme start="20230706063000 +0200" stop="20230706064500 +0200" channel="HRT 1">
+    <title lang="sl">TV koledar</title>
+  </programme>
+  <programme start="20230706064500 +0200" stop="20230706070000 +0200" channel="HRT 1">
+    <title lang="sl">Dobro jutro, Hrvaška</title>
+  </programme>
+  <programme start="20230706070000 +0200" stop="20230706071000 +0200" channel="HRT 1">
+    <title lang="sl">Novice</title>
+  </programme>
+  <programme start="20230706071000 +0200" stop="20230706080000 +0200" channel="HRT 1">
+    <title lang="sl">Dobro jutro, Hrvaška</title>
+  </programme>
+  <programme start="20230706080000 +0200" stop="20230706081000 +0200" channel="HRT 1">
+    <title lang="sl">Novice</title>
+  </programme>
+  <programme start="20230706081000 +0200" stop="20230706090000 +0200" channel="HRT 1">
+    <title lang="sl">Dobro jutro, Hrvaška</title>
+  </programme>
+  <programme start="20230706090000 +0200" stop="20230706091000 +0200" channel="HRT 1">
+    <title lang="sl">Novice</title>
+  </programme>
+  <programme start="20230706091000 +0200" stop="20230706100000 +0200" channel="HRT 1">
+    <title lang="sl">Dobro jutro, Hrvaška</title>
+  </programme>
+  <programme start="20230706100000 +0200" stop="20230706101500 +0200" channel="HRT 1">
+    <title lang="sl">Hitra kuha z Mary Berry: Mornarica</title>
+  </programme>
+  <programme start="20230706101500 +0200" stop="20230706104500 +0200" channel="HRT 1">
+    <title lang="sl">Vrtnarka</title>
+  </programme>
+  <programme start="20230706104500 +0200" stop="20230706114500 +0200" channel="HRT 1">
+    <title lang="sl">Najlepše koroške plemiške rezidence - sijaj čudovitega življenja</title>
+  </programme>
+  <programme start="20230706114500 +0200" stop="20230706120000 +0200" channel="HRT 1">
+    <title lang="sl">TV koledar</title>
+  </programme>
+  <programme start="20230706120000 +0200" stop="20230706122000 +0200" channel="HRT 1">
+    <title lang="sl">Dnevnik 1, šport, vreme</title>
+  </programme>
+  <programme start="20230706122000 +0200" stop="20230706131500 +0200" channel="HRT 1">
+    <title lang="sl">Družinski grehi</title>
+  </programme>
+  <programme start="20230706131500 +0200" stop="20230706140000 +0200" channel="HRT 1">
+    <title lang="sl">Grand Hotel</title>
+  </programme>
+  <programme start="20230706140000 +0200" stop="20230706154000 +0200" channel="HRT 1">
+    <title lang="sl">Popoln par</title>
+  </programme>
+  <programme start="20230706154000 +0200" stop="20230706163000 +0200" channel="HRT 1">
+    <title lang="sl">Napajališče: Oaza afriških živali</title>
+  </programme>
+  <programme start="20230706163000 +0200" stop="20230706164500 +0200" channel="HRT 1">
+    <title lang="sl">Novice, Vreme</title>
+  </programme>
+  <programme start="20230706164500 +0200" stop="20230706171500 +0200" channel="HRT 1">
+    <title lang="sl">Regionalni dnevnik</title>
+  </programme>
+  <programme start="20230706171500 +0200" stop="20230706172000 +0200" channel="HRT 1">
+    <title lang="sl">Prometne informacije</title>
+  </programme>
+  <programme start="20230706172000 +0200" stop="20230706174000 +0200" channel="HRT 1">
+    <title lang="sl">Zlata liga: Marija Sekelez in Zdravko Šljivac</title>
+  </programme>
+  <programme start="20230706174000 +0200" stop="20230706181000 +0200" channel="HRT 1">
+    <title lang="sl">turizem.hrt</title>
+  </programme>
+  <programme start="20230706181000 +0200" stop="20230706190000 +0200" channel="HRT 1">
+    <title lang="sl">Zasledovanje</title>
+  </programme>
+  <programme start="20230706190000 +0200" stop="20230706200000 +0200" channel="HRT 1">
+    <title lang="sl">Dnevnik 2, šport, vreme</title>
+  </programme>
+  <programme start="20230706200000 +0200" stop="20230706200500 +0200" channel="HRT 1">
+    <title lang="sl">Loto 6</title>
+  </programme>
+  <programme start="20230706200500 +0200" stop="20230706211500 +0200" channel="HRT 1">
+    <title lang="sl">Napajališče: Oaza afriških živali</title>
+  </programme>
+  <programme start="20230706211500 +0200" stop="20230706221000 +0200" channel="HRT 1">
+    <title lang="sl">Dobrodelni bazar</title>
+  </programme>
+  <programme start="20230706221000 +0200" stop="20230706224500 +0200" channel="HRT 1">
+    <title lang="sl">Odprto</title>
+  </programme>
+  <programme start="20230706224500 +0200" stop="20230706232000 +0200" channel="HRT 1">
+    <title lang="sl">Dnevnik 3, kultura, šport, vreme</title>
+  </programme>
+  <programme start="20230703001000 +0200" stop="20230703013600 +0200" channel="HRT 2">
+    <title lang="sl">Umori v Sommerdahlu: Dokler naju smrt ne loči (II)</title>
+  </programme>
+  <programme start="20230703013600 +0200" stop="20230703020700 +0200" channel="HRT 2">
+    <title lang="sl">Knjiga ali življenje</title>
+  </programme>
+  <programme start="20230703020700 +0200" stop="20230703023700 +0200" channel="HRT 2">
+    <title lang="sl">Glasba, glasba ...</title>
+  </programme>
+  <programme start="20230703023700 +0200" stop="20230703045700 +0200" channel="HRT 2">
+    <title lang="sl">Nočni glasbeni program - spoti</title>
+  </programme>
+  <programme start="20230703045700 +0200" stop="20230703051100 +0200" channel="HRT 2">
+    <title lang="sl">Tudi to je Hrvaška: Orgulje, pozdrav soncu</title>
+  </programme>
+  <programme start="20230703051100 +0200" stop="20230703054000 +0200" channel="HRT 2">
+    <title lang="sl">Izven formata</title>
+  </programme>
+  <programme start="20230703054000 +0200" stop="20230703062500 +0200" channel="HRT 2">
+    <title lang="sl">Gorski zdravnik: Odločitev 2</title>
+  </programme>
+  <programme start="20230703062500 +0200" stop="20230703071000 +0200" channel="HRT 2">
+    <title lang="sl">Dr. Oz</title>
+  </programme>
+  <programme start="20230703071000 +0200" stop="20230703073900 +0200" channel="HRT 2">
+    <title lang="sl">Tom Kerridge: Ameriška pojedina: Severna obala</title>
+  </programme>
+  <programme start="20230703073900 +0200" stop="20230703083000 +0200" channel="HRT 2">
+    <title lang="sl">Pokaži mi svoj vrt: Essex</title>
+  </programme>
+  <programme start="20230703083000 +0200" stop="20230703092500 +0200" channel="HRT 2">
+    <title lang="sl">Prostor pod soncem - doma ali v tujini: Brighton/Costa Del Sol</title>
+  </programme>
+  <programme start="20230703092500 +0200" stop="20230703103000 +0200" channel="HRT 2">
+    <title lang="sl">Velika angleška pekarija: Japonski teden</title>
+  </programme>
+  <programme start="20230703103000 +0200" stop="20230703112100 +0200" channel="HRT 2">
+    <title lang="sl">Koče v divjini z Dickom Strawbridgeom</title>
+  </programme>
+  <programme start="20230703112100 +0200" stop="20230703115200 +0200" channel="HRT 2">
+    <title lang="sl">Le lahkotno</title>
+  </programme>
+  <programme start="20230703115200 +0200" stop="20230703122000 +0200" channel="HRT 2">
+    <title lang="sl">Tom Kerridge: Ameriška pojedina: Severna obala</title>
+  </programme>
+  <programme start="20230703122000 +0200" stop="20230703131000 +0200" channel="HRT 2">
+    <title lang="sl">Pokaži mi svoj vrt: Essex</title>
+  </programme>
+  <programme start="20230703131000 +0200" stop="20230703141500 +0200" channel="HRT 2">
+    <title lang="sl">Divja in čudovita Danska: Odprta ravnica</title>
+  </programme>
+  <programme start="20230703141500 +0200" stop="20230703151000 +0200" channel="HRT 2">
+    <title lang="sl">Umori v gorah</title>
+  </programme>
+  <programme start="20230703151000 +0200" stop="20230703160000 +0200" channel="HRT 2">
+    <title lang="sl">Murdochove skrivnosti: Stvari, ki jih počnemo za ljubezen - 1. del</title>
+  </programme>
+  <programme start="20230703160000 +0200" stop="20230703161700 +0200" channel="HRT 2">
+    <title lang="sl">TV koledar</title>
+  </programme>
+  <programme start="20230703161700 +0200" stop="20230703165900 +0200" channel="HRT 2">
+    <title lang="sl">Dr. Beck: Otroške nalezljive bolezni</title>
+  </programme>
+  <programme start="20230703165900 +0200" stop="20230703174900 +0200" channel="HRT 2">
+    <title lang="sl">Prostor pod soncem - doma ali v tujini: Brighton/Costa Del Sol</title>
+  </programme>
+  <programme start="20230703174900 +0200" stop="20230703184500 +0200" channel="HRT 2">
+    <title lang="sl">V svojem filmu: Anđa Marić</title>
+  </programme>
+  <programme start="20230703184500 +0200" stop="20230703191500 +0200" channel="HRT 2">
+    <title lang="sl">TV Bingo</title>
+  </programme>
+  <programme start="20230703191500 +0200" stop="20230703201500 +0200" channel="HRT 2">
+    <title lang="sl">Divja in čudovita Danska: Odprta ravnica</title>
+  </programme>
+  <programme start="20230703201500 +0200" stop="20230703210500 +0200" channel="HRT 2">
+    <title lang="sl">Pinkertoni</title>
+  </programme>
+  <programme start="20230703210500 +0200" stop="20230703225500 +0200" channel="HRT 2">
+    <title lang="sl">Bogovi so padli na glavo</title>
+  </programme>
+  <programme start="20230703225500 +0200" stop="20230704003500 +0200" channel="HRT 2">
+    <title lang="sl">Dredd</title>
+  </programme>
+  <programme start="20230704003500 +0200" stop="20230704012500 +0200" channel="HRT 2">
+    <title lang="sl">Riviera</title>
+  </programme>
+  <programme start="20230704012500 +0200" stop="20230704021100 +0200" channel="HRT 2">
+    <title lang="sl">Murdochove skrivnosti: Stvari, ki jih počnemo za ljubezen - 1. del</title>
+  </programme>
+  <programme start="20230704021100 +0200" stop="20230704024400 +0200" channel="HRT 2">
+    <title lang="sl">Glasba, glasba ...</title>
+  </programme>
+  <programme start="20230704024400 +0200" stop="20230704050700 +0200" channel="HRT 2">
+    <title lang="sl">Nočni glasbeni program - spoti</title>
+  </programme>
+  <programme start="20230704050700 +0200" stop="20230704052400 +0200" channel="HRT 2">
+    <title lang="sl">Tudi to je Hrvaška</title>
+  </programme>
+  <programme start="20230704052400 +0200" stop="20230704053900 +0200" channel="HRT 2">
+    <title lang="sl">Športno srce: Paula Novina</title>
+  </programme>
+  <programme start="20230704053900 +0200" stop="20230704062500 +0200" channel="HRT 2">
+    <title lang="sl">Gorski zdravnik: Žrtveno jagnje 1</title>
+  </programme>
+  <programme start="20230704062500 +0200" stop="20230704071000 +0200" channel="HRT 2">
+    <title lang="sl">Dr. Oz</title>
+  </programme>
+  <programme start="20230704071000 +0200" stop="20230704073500 +0200" channel="HRT 2">
+    <title lang="sl">Tom Kerridge: Ameriška pojedina: Oakland</title>
+  </programme>
+  <programme start="20230704073500 +0200" stop="20230704082500 +0200" channel="HRT 2">
+    <title lang="sl">Pokaži mi svoj vrt: Midlands</title>
+  </programme>
+  <programme start="20230704082500 +0200" stop="20230704091900 +0200" channel="HRT 2">
+    <title lang="sl">Prostor pod soncem - doma ali v tujini: Bridgwater/Valencia</title>
+  </programme>
+  <programme start="20230704091900 +0200" stop="20230704102500 +0200" channel="HRT 2">
+    <title lang="sl">Velika angleška pekarija: Teden 1980. let</title>
+  </programme>
+  <programme start="20230704102500 +0200" stop="20230704111600 +0200" channel="HRT 2">
+    <title lang="sl">Očarljivi kraji Georgea Clarka</title>
+  </programme>
+  <programme start="20230704111600 +0200" stop="20230704114800 +0200" channel="HRT 2">
+    <title lang="sl">Le lahkotno</title>
+  </programme>
+  <programme start="20230704114800 +0200" stop="20230704121800 +0200" channel="HRT 2">
+    <title lang="sl">Tom Kerridge: Ameriška pojedina: Oakland</title>
+  </programme>
+  <programme start="20230704121800 +0200" stop="20230704130900 +0200" channel="HRT 2">
+    <title lang="sl">Pokaži mi svoj vrt: Midlands</title>
+  </programme>
+  <programme start="20230704130900 +0200" stop="20230704141500 +0200" channel="HRT 2">
+    <title lang="sl">Divja in čudovita Danska: Jezera in reke</title>
+  </programme>
+  <programme start="20230704141500 +0200" stop="20230704151000 +0200" channel="HRT 2">
+    <title lang="sl">Umori v gorah: Alpski greh</title>
+  </programme>
+  <programme start="20230704151000 +0200" stop="20230704160000 +0200" channel="HRT 2">
+    <title lang="sl">Murdochove skrivnosti: Stvari, ki jih počnemo za ljubezen - 2. del</title>
+  </programme>
+  <programme start="20230704160000 +0200" stop="20230704161700 +0200" channel="HRT 2">
+    <title lang="sl">TV koledar</title>
+  </programme>
+  <programme start="20230704161700 +0200" stop="20230704165600 +0200" channel="HRT 2">
+    <title lang="sl">Dr. Beck: Možganski tumor</title>
+  </programme>
+  <programme start="20230704165600 +0200" stop="20230704173000 +0200" channel="HRT 2">
+    <title lang="sl">Prostor pod soncem - doma ali v tujini: Bridgwater/Valencia</title>
+  </programme>
+  <programme start="20230704173000 +0200" stop="20230704181500 +0200" channel="HRT 2">
+    <title lang="sl">Šah: Šahovski turnir - Grand Chess Tour, Zagreb, otvoritvev</title>
+  </programme>
+  <programme start="20230704181500 +0200" stop="20230704184000 +0200" channel="HRT 2">
+    <title lang="sl">Odkrivamo Hrvaško</title>
+  </programme>
+  <programme start="20230704184000 +0200" stop="20230704190500 +0200" channel="HRT 2">
+    <title lang="sl">Le lahkotno</title>
+  </programme>
+  <programme start="20230704190500 +0200" stop="20230704191100 +0200" channel="HRT 2">
+    <title lang="sl">Hit dneva</title>
+  </programme>
+  <programme start="20230704191100 +0200" stop="20230704201500 +0200" channel="HRT 2">
+    <title lang="sl">Divja in čudovita Danska: Jezera in reke</title>
+  </programme>
+  <programme start="20230704201500 +0200" stop="20230704210800 +0200" channel="HRT 2">
+    <title lang="sl">Pinkertoni</title>
+  </programme>
+  <programme start="20230704210800 +0200" stop="20230704224500 +0200" channel="HRT 2">
+    <title lang="sl">Foto studio</title>
+  </programme>
+  <programme start="20230704224500 +0200" stop="20230705003300 +0200" channel="HRT 2">
+    <title lang="sl">Hemingway na Kubi</title>
+  </programme>
+  <programme start="20230705003300 +0200" stop="20230705011900 +0200" channel="HRT 2">
+    <title lang="sl">Riviera</title>
+  </programme>
+  <programme start="20230705011900 +0200" stop="20230705020200 +0200" channel="HRT 2">
+    <title lang="sl">Murdochove skrivnosti: Stvari, ki jih počnemo za ljubezen - 2. del</title>
+  </programme>
+  <programme start="20230705020200 +0200" stop="20230705023100 +0200" channel="HRT 2">
+    <title lang="sl">Na kratko o kratkem</title>
+  </programme>
+  <programme start="20230705023100 +0200" stop="20230705030100 +0200" channel="HRT 2">
+    <title lang="sl">Glasba, glasba ...</title>
+  </programme>
+  <programme start="20230705030100 +0200" stop="20230705053500 +0200" channel="HRT 2">
+    <title lang="sl">Nočni glasbeni program - spoti</title>
+  </programme>
+  <programme start="20230705053500 +0200" stop="20230705062500 +0200" channel="HRT 2">
+    <title lang="sl">Gorski zdravnik: Žrtveno jagnje 2</title>
+  </programme>
+  <programme start="20230705062500 +0200" stop="20230705071000 +0200" channel="HRT 2">
+    <title lang="sl">Dr. Oz</title>
+  </programme>
+  <programme start="20230705071000 +0200" stop="20230705074500 +0200" channel="HRT 2">
+    <title lang="sl">Tom Kerridge: Ameriška pojedina: Tucson</title>
+  </programme>
+  <programme start="20230705074500 +0200" stop="20230705083500 +0200" channel="HRT 2">
+    <title lang="sl">Pokaži mi svoj vrt: Irska</title>
+  </programme>
+  <programme start="20230705083500 +0200" stop="20230705093000 +0200" channel="HRT 2">
+    <title lang="sl">Prostor pod soncem - doma ali v tujini: Wakefield/Valencia</title>
+  </programme>
+  <programme start="20230705093000 +0200" stop="20230705103500 +0200" channel="HRT 2">
+    <title lang="sl">Velika angleška pekarija: Teden sladic</title>
+  </programme>
+  <programme start="20230705103500 +0200" stop="20230705113000 +0200" channel="HRT 2">
+    <title lang="sl">Očarljivi kraji Georgea Clarka</title>
+  </programme>
+  <programme start="20230705113000 +0200" stop="20230705120500 +0200" channel="HRT 2">
+    <title lang="sl">Le lahkotno</title>
+  </programme>
+  <programme start="20230705120500 +0200" stop="20230705123000 +0200" channel="HRT 2">
+    <title lang="sl">Tom Kerridge: Ameriška pojedina: Tucson</title>
+  </programme>
+  <programme start="20230705123000 +0200" stop="20230705132000 +0200" channel="HRT 2">
+    <title lang="sl">Pokaži mi svoj vrt: Irska</title>
+  </programme>
+  <programme start="20230705132000 +0200" stop="20230705142500 +0200" channel="HRT 2">
+    <title lang="sl">Divja in čudovita Danska: Mesto</title>
+  </programme>
+  <programme start="20230705142500 +0200" stop="20230705151300 +0200" channel="HRT 2">
+    <title lang="sl">Umori v gorah: Mrtvec z bob steze</title>
+  </programme>
+  <programme start="20230705151300 +0200" stop="20230705160000 +0200" channel="HRT 2">
+    <title lang="sl">Murdochove skrivnosti: Lov na človeka</title>
+  </programme>
+  <programme start="20230705160000 +0200" stop="20230705161500 +0200" channel="HRT 2">
+    <title lang="sl">TV koledar</title>
+  </programme>
+  <programme start="20230705161500 +0200" stop="20230705165500 +0200" channel="HRT 2">
+    <title lang="sl">Dr. Beck: Celijakija</title>
+  </programme>
+  <programme start="20230705165500 +0200" stop="20230705174000 +0200" channel="HRT 2">
+    <title lang="sl">Prostor pod soncem - doma ali v tujini: Wakefield/Valencia</title>
+  </programme>
+  <programme start="20230705174000 +0200" stop="20230705181000 +0200" channel="HRT 2">
+    <title lang="sl">Pogovor z razlogom</title>
+  </programme>
+  <programme start="20230705181000 +0200" stop="20230705183500 +0200" channel="HRT 2">
+    <title lang="sl">Lovec na zelišča</title>
+  </programme>
+  <programme start="20230705183500 +0200" stop="20230705190500 +0200" channel="HRT 2">
+    <title lang="sl">Split: Morje</title>
+  </programme>
+  <programme start="20230705190500 +0200" stop="20230705191000 +0200" channel="HRT 2">
+    <title lang="sl">Hit dneva</title>
+  </programme>
+  <programme start="20230705191000 +0200" stop="20230705201500 +0200" channel="HRT 2">
+    <title lang="sl">Divja in čudovita Danska: Mesto</title>
+  </programme>
+  <programme start="20230705201500 +0200" stop="20230705211000 +0200" channel="HRT 2">
+    <title lang="sl">Pinkertoni</title>
+  </programme>
+  <programme start="20230705211000 +0200" stop="20230705231000 +0200" channel="HRT 2">
+    <title lang="sl">Rdeče luči</title>
+  </programme>
+  <programme start="20230705231000 +0200" stop="20230706005500 +0200" channel="HRT 2">
+    <title lang="sl">Trans</title>
+  </programme>
+  <programme start="20230706005500 +0200" stop="20230706014500 +0200" channel="HRT 2">
+    <title lang="sl">Riviera</title>
+  </programme>
+  <programme start="20230706014500 +0200" stop="20230706023000 +0200" channel="HRT 2">
+    <title lang="sl">Murdochove skrivnosti: Lov na človeka</title>
+  </programme>
+  <programme start="20230706023000 +0200" stop="20230706030000 +0200" channel="HRT 2">
+    <title lang="sl">Zgodnja dela</title>
+  </programme>
+  <programme start="20230706030000 +0200" stop="20230706052000 +0200" channel="HRT 2">
+    <title lang="sl">Nočni glasbeni program - spoti</title>
+  </programme>
+  <programme start="20230706052000 +0200" stop="20230706053500 +0200" channel="HRT 2">
+    <title lang="sl">Tudi to je Hrvaška</title>
+  </programme>
+  <programme start="20230706053500 +0200" stop="20230706062500 +0200" channel="HRT 2">
+    <title lang="sl">Gorski zdravnik: Pogum za ljubezen 1</title>
+  </programme>
+  <programme start="20230706062500 +0200" stop="20230706071000 +0200" channel="HRT 2">
+    <title lang="sl">Dr. Oz</title>
+  </programme>
+  <programme start="20230706071000 +0200" stop="20230706074500 +0200" channel="HRT 2">
+    <title lang="sl">Tom Kerridge: Ameriška pojedina: Pittsburgh</title>
+  </programme>
+  <programme start="20230706074500 +0200" stop="20230706083500 +0200" channel="HRT 2">
+    <title lang="sl">Pokaži mi svoj vrt: Škotska</title>
+  </programme>
+  <programme start="20230706083500 +0200" stop="20230706093000 +0200" channel="HRT 2">
+    <title lang="sl">Prostor pod soncem - doma ali v tujini: St Ives/Cullera</title>
+  </programme>
+  <programme start="20230706093000 +0200" stop="20230706103500 +0200" channel="HRT 2">
+    <title lang="sl">Velika angleška pekarija: Teden francoskih sladic</title>
+  </programme>
+  <programme start="20230706103500 +0200" stop="20230706113000 +0200" channel="HRT 2">
+    <title lang="sl">Očarljivi kraji Georgea Clarka</title>
+  </programme>
+  <programme start="20230706113000 +0200" stop="20230706120500 +0200" channel="HRT 2">
+    <title lang="sl">Le lahkotno</title>
+  </programme>
+  <programme start="20230706120500 +0200" stop="20230706123500 +0200" channel="HRT 2">
+    <title lang="sl">Tom Kerridge: Ameriška pojedina: Pittsburgh</title>
+  </programme>
+  <programme start="20230706123500 +0200" stop="20230706132500 +0200" channel="HRT 2">
+    <title lang="sl">Pokaži mi svoj vrt: Škotska</title>
+  </programme>
+  <programme start="20230706132500 +0200" stop="20230706142500 +0200" channel="HRT 2">
+    <title lang="sl">Skrivnosti ledenodobnih orjakov</title>
+  </programme>
+  <programme start="20230706142500 +0200" stop="20230706151300 +0200" channel="HRT 2">
+    <title lang="sl">Umori v gorah: Obračun ali ljubezen</title>
+  </programme>
+  <programme start="20230706151300 +0200" stop="20230706160000 +0200" channel="HRT 2">
+    <title lang="sl">Murdochove skrivnosti: Kri na tirih</title>
+  </programme>
+  <programme start="20230706160000 +0200" stop="20230706161500 +0200" channel="HRT 2">
+    <title lang="sl">TV koledar</title>
+  </programme>
+  <programme start="20230706161500 +0200" stop="20230706170000 +0200" channel="HRT 2">
+    <title lang="sl">Dr. Beck: Demenca</title>
+  </programme>
+  <programme start="20230706170000 +0200" stop="20230706175000 +0200" channel="HRT 2">
+    <title lang="sl">Prostor pod soncem - doma ali v tujini: St Ives/Cullera</title>
+  </programme>
+  <programme start="20230706175000 +0200" stop="20230706182500 +0200" channel="HRT 2">
+    <title lang="sl">Poslovni načrt</title>
+  </programme>
+  <programme start="20230706182500 +0200" stop="20230706190500 +0200" channel="HRT 2">
+    <title lang="sl">Globalna Hrvaška TV</title>
+  </programme>
+  <programme start="20230706190500 +0200" stop="20230706191500 +0200" channel="HRT 2">
+    <title lang="sl">Hit dneva</title>
+  </programme>
+  <programme start="20230706191500 +0200" stop="20230706201500 +0200" channel="HRT 2">
+    <title lang="sl">Skrivnosti ledenodobnih orjakov</title>
+  </programme>
+  <programme start="20230706201500 +0200" stop="20230706211000 +0200" channel="HRT 2">
+    <title lang="sl">Pinkertoni</title>
+  </programme>
+  <programme start="20230706211000 +0200" stop="20230706223500 +0200" channel="HRT 2">
+    <title lang="sl">Masaker</title>
+  </programme>
+  <programme start="20230703003700 +0200" stop="20230703011000 +0200" channel="HRT 3">
+    <title lang="sl">Garaža: Afion</title>
+  </programme>
+  <programme start="20230703011000 +0200" stop="20230703031000 +0200" channel="HRT 3">
+    <title lang="sl">Turandot - Opera Giacoma Puccinija</title>
+  </programme>
+  <programme start="20230703031000 +0200" stop="20230703034000 +0200" channel="HRT 3">
+    <title lang="sl">Markovčani</title>
+  </programme>
+  <programme start="20230703034000 +0200" stop="20230703041000 +0200" channel="HRT 3">
+    <title lang="sl">Batana in bitinada</title>
+  </programme>
+  <programme start="20230703041000 +0200" stop="20230703042500 +0200" channel="HRT 3">
+    <title lang="sl">Kulturna dediščina: Grad Sveti križ Začretje</title>
+  </programme>
+  <programme start="20230703042500 +0200" stop="20230703043700 +0200" channel="HRT 3">
+    <title lang="sl">Novice iz sveta kulture</title>
+  </programme>
+  <programme start="20230703043700 +0200" stop="20230703063500 +0200" channel="HRT 3">
+    <title lang="sl">Veliko hrepenenje Judith Hearne</title>
+  </programme>
+  <programme start="20230703063500 +0200" stop="20230703063700 +0200" channel="HRT 3">
+    <title lang="sl">Juhuhu</title>
+  </programme>
+  <programme start="20230703063700 +0200" stop="20230703064900 +0200" channel="HRT 3">
+    <title lang="sl">Mali tiger Daniel</title>
+  </programme>
+  <programme start="20230703064900 +0200" stop="20230703070100 +0200" channel="HRT 3">
+    <title lang="sl">Mali tiger Daniel</title>
+  </programme>
+  <programme start="20230703070100 +0200" stop="20230703070200 +0200" channel="HRT 3">
+    <title lang="sl">Juhuhu</title>
+  </programme>
+  <programme start="20230703070200 +0200" stop="20230703070400 +0200" channel="HRT 3">
+    <title lang="sl">Pesmica Peri zobe</title>
+  </programme>
+  <programme start="20230703070400 +0200" stop="20230703071000 +0200" channel="HRT 3">
+    <title lang="sl">Simon</title>
+  </programme>
+  <programme start="20230703071000 +0200" stop="20230703071800 +0200" channel="HRT 3">
+    <title lang="sl">Jojo in številke: Številka 2</title>
+  </programme>
+  <programme start="20230703071800 +0200" stop="20230703072100 +0200" channel="HRT 3">
+    <title lang="sl">Pesmica sestrica</title>
+  </programme>
+  <programme start="20230703072100 +0200" stop="20230703072800 +0200" channel="HRT 3">
+    <title lang="sl">Pokec</title>
+  </programme>
+  <programme start="20230703072800 +0200" stop="20230703073000 +0200" channel="HRT 3">
+    <title lang="sl">Pokcove pesmice</title>
+  </programme>
+  <programme start="20230703073000 +0200" stop="20230703073500 +0200" channel="HRT 3">
+    <title lang="sl">Mišo in Robin</title>
+  </programme>
+  <programme start="20230703073500 +0200" stop="20230703073700 +0200" channel="HRT 3">
+    <title lang="sl">Mišo in Robin: Pesmica</title>
+  </programme>
+  <programme start="20230703073700 +0200" stop="20230703074500 +0200" channel="HRT 3">
+    <title lang="sl">Hu Hu</title>
+  </programme>
+  <programme start="20230703074500 +0200" stop="20230703074600 +0200" channel="HRT 3">
+    <title lang="sl">Hu Hu pesmica: Santiago: Brez orodja ni poklica</title>
+  </programme>
+  <programme start="20230703074600 +0200" stop="20230703074800 +0200" channel="HRT 3">
+    <title lang="sl">Juhuhu</title>
+  </programme>
+  <programme start="20230703074800 +0200" stop="20230703074900 +0200" channel="HRT 3">
+    <title lang="sl">Juhuhu</title>
+  </programme>
+  <programme start="20230703074900 +0200" stop="20230703080000 +0200" channel="HRT 3">
+    <title lang="sl">Timi gre</title>
+  </programme>
+  <programme start="20230703080000 +0200" stop="20230703080500 +0200" channel="HRT 3">
+    <title lang="sl">Pujsa Pepa</title>
+  </programme>
+  <programme start="20230703080500 +0200" stop="20230703081000 +0200" channel="HRT 3">
+    <title lang="sl">Abbyjine neverjetne pustolovščine</title>
+  </programme>
+  <programme start="20230703081000 +0200" stop="20230703082200 +0200" channel="HRT 3">
+    <title lang="sl">Telebajski</title>
+  </programme>
+  <programme start="20230703082200 +0200" stop="20230703082500 +0200" channel="HRT 3">
+    <title lang="sl">Pesmica Prsti</title>
+  </programme>
+  <programme start="20230703082500 +0200" stop="20230703082700 +0200" channel="HRT 3">
+    <title lang="sl">Juhuhu</title>
+  </programme>
+  <programme start="20230703082700 +0200" stop="20230703083100 +0200" channel="HRT 3">
+    <title lang="sl">Mali Malabar</title>
+  </programme>
+  <programme start="20230703083100 +0200" stop="20230703084300 +0200" channel="HRT 3">
+    <title lang="sl">Malo kraljestvo Bena in Holly</title>
+  </programme>
+  <programme start="20230703084300 +0200" stop="20230703085400 +0200" channel="HRT 3">
+    <title lang="sl">Messy v deželi Okido</title>
+  </programme>
+  <programme start="20230703085400 +0200" stop="20230703085600 +0200" channel="HRT 3">
+    <title lang="sl">Juhuhu</title>
+  </programme>
+  <programme start="20230703085600 +0200" stop="20230703090700 +0200" channel="HRT 3">
+    <title lang="sl">Ella, Oscar in Hoo</title>
+  </programme>
+  <programme start="20230703090700 +0200" stop="20230703090900 +0200" channel="HRT 3">
+    <title lang="sl">Pesmica Peri zobe</title>
+  </programme>
+  <programme start="20230703090900 +0200" stop="20230703091500 +0200" channel="HRT 3">
+    <title lang="sl">Mišo in Robin</title>
+  </programme>
+  <programme start="20230703091500 +0200" stop="20230703094100 +0200" channel="HRT 3">
+    <title lang="sl">Vlak dinozavrov</title>
+  </programme>
+  <programme start="20230703094100 +0200" stop="20230703094200 +0200" channel="HRT 3">
+    <title lang="sl">Juhuhu</title>
+  </programme>
+  <programme start="20230703094200 +0200" stop="20230703094500 +0200" channel="HRT 3">
+    <title lang="sl">Pesmica sestrica</title>
+  </programme>
+  <programme start="20230703094500 +0200" stop="20230703095200 +0200" channel="HRT 3">
+    <title lang="sl">Hu Hu</title>
+  </programme>
+  <programme start="20230703095200 +0200" stop="20230703100300 +0200" channel="HRT 3">
+    <title lang="sl">Reaktivčki</title>
+  </programme>
+  <programme start="20230703100300 +0200" stop="20230703100700 +0200" channel="HRT 3">
+    <title lang="sl">Pesmica Prsti</title>
+  </programme>
+  <programme start="20230703100700 +0200" stop="20230703101400 +0200" channel="HRT 3">
+    <title lang="sl">Otok ptic</title>
+  </programme>
+  <programme start="20230703101400 +0200" stop="20230703102500 +0200" channel="HRT 3">
+    <title lang="sl">Topsy in Tim</title>
+  </programme>
+  <programme start="20230703102500 +0200" stop="20230703102600 +0200" channel="HRT 3">
+    <title lang="sl">Juhuhu</title>
+  </programme>
+  <programme start="20230703102600 +0200" stop="20230703102900 +0200" channel="HRT 3">
+    <title lang="sl">Pesmica sestrica</title>
+  </programme>
+  <programme start="20230703102900 +0200" stop="20230703104000 +0200" channel="HRT 3">
+    <title lang="sl">Zgodbe Trullijev</title>
+  </programme>
+  <programme start="20230703104000 +0200" stop="20230703104600 +0200" channel="HRT 3">
+    <title lang="sl">Mogočni mali Bheem</title>
+  </programme>
+  <programme start="20230703104600 +0200" stop="20230703105800 +0200" channel="HRT 3">
+    <title lang="sl">Oli in Luna</title>
+  </programme>
+  <programme start="20230703105800 +0200" stop="20230703110900 +0200" channel="HRT 3">
+    <title lang="sl">Malo kraljestvo Bena in Holly</title>
+  </programme>
+  <programme start="20230703110900 +0200" stop="20230703111000 +0200" channel="HRT 3">
+    <title lang="sl">Juhuhu</title>
+  </programme>
+  <programme start="20230703111000 +0200" stop="20230703111500 +0200" channel="HRT 3">
+    <title lang="sl">Pujsa Pepa</title>
+  </programme>
+  <programme start="20230703111500 +0200" stop="20230703112100 +0200" channel="HRT 3">
+    <title lang="sl">Abbyjine neverjetne pustolovščine</title>
+  </programme>
+  <programme start="20230703112100 +0200" stop="20230703113300 +0200" channel="HRT 3">
+    <title lang="sl">Telebajski</title>
+  </programme>
+  <programme start="20230703113300 +0200" stop="20230703113600 +0200" channel="HRT 3">
+    <title lang="sl">Pesmica Prsti</title>
+  </programme>
+  <programme start="20230703113600 +0200" stop="20230703114100 +0200" channel="HRT 3">
+    <title lang="sl">Simon</title>
+  </programme>
+  <programme start="20230703114100 +0200" stop="20230703114800 +0200" channel="HRT 3">
+    <title lang="sl">Pokec</title>
+  </programme>
+  <programme start="20230703114800 +0200" stop="20230703115000 +0200" channel="HRT 3">
+    <title lang="sl">Pokcove pesmice</title>
+  </programme>
+  <programme start="20230703115000 +0200" stop="20230703120200 +0200" channel="HRT 3">
+    <title lang="sl">Mali tiger Daniel</title>
+  </programme>
+  <programme start="20230703120200 +0200" stop="20230703121400 +0200" channel="HRT 3">
+    <title lang="sl">Mali tiger Daniel</title>
+  </programme>
+  <programme start="20230703121400 +0200" stop="20230703121600 +0200" channel="HRT 3">
+    <title lang="sl">Pesmica Voda v steklenički</title>
+  </programme>
+  <programme start="20230703121600 +0200" stop="20230703121800 +0200" channel="HRT 3">
+    <title lang="sl">Juhuhu</title>
+  </programme>
+  <programme start="20230703121800 +0200" stop="20230703123300 +0200" channel="HRT 3">
+    <title lang="sl">Andijeve prazgodovinske dogodivščine</title>
+  </programme>
+  <programme start="20230703123300 +0200" stop="20230703125600 +0200" channel="HRT 3">
+    <title lang="sl">Spuži Kvadratnik: Maček Kenny / Jeti Rak</title>
+  </programme>
+  <programme start="20230703125600 +0200" stop="20230703125800 +0200" channel="HRT 3">
+    <title lang="sl">Juhuhu</title>
+  </programme>
+  <programme start="20230703125800 +0200" stop="20230703130000 +0200" channel="HRT 3">
+    <title lang="sl">Juhuhu</title>
+  </programme>
+  <programme start="20230703130000 +0200" stop="20230703133100 +0200" channel="HRT 3">
+    <title lang="sl">Nočne more iz narave</title>
+  </programme>
+  <programme start="20230703133100 +0200" stop="20230703140000 +0200" channel="HRT 3">
+    <title lang="sl">Izjemne dogodivščine Sama Foxa: V grizlijevi pasti</title>
+  </programme>
+  <programme start="20230703140000 +0200" stop="20230703145000 +0200" channel="HRT 3">
+    <title lang="sl">Surova koža</title>
+  </programme>
+  <programme start="20230703145000 +0200" stop="20230703150500 +0200" channel="HRT 3">
+    <title lang="sl">Hrvaška kulturna dediščina: Trakošćan</title>
+  </programme>
+  <programme start="20230703150500 +0200" stop="20230703153500 +0200" channel="HRT 3">
+    <title lang="sl">Kakor ladja</title>
+  </programme>
+  <programme start="20230703153500 +0200" stop="20230703160500 +0200" channel="HRT 3">
+    <title lang="sl">Hrvaško podmorje: Dubrovnik</title>
+  </programme>
+  <programme start="20230703160500 +0200" stop="20230703163100 +0200" channel="HRT 3">
+    <title lang="sl">City Folk 2015: Zagreb</title>
+  </programme>
+  <programme start="20230703163100 +0200" stop="20230703170100 +0200" channel="HRT 3">
+    <title lang="sl">Knjiga ali življenje: Ljudmila Ulicka in Kemal Mujičić Artnam</title>
+  </programme>
+  <programme start="20230703170100 +0200" stop="20230703173200 +0200" channel="HRT 3">
+    <title lang="sl">Svet klasike: Mila Gojsalić - Herojska opera J. Gotovca, 06.05.2023.</title>
+  </programme>
+  <programme start="20230703173200 +0200" stop="20230703180500 +0200" channel="HRT 3">
+    <title lang="sl">Svet jazza: James Morrison</title>
+  </programme>
+  <programme start="20230703180500 +0200" stop="20230703185100 +0200" channel="HRT 3">
+    <title lang="sl">Na vodnih poteh: Grški otoki - Mikos, Naksos, Tinos</title>
+  </programme>
+  <programme start="20230703185100 +0200" stop="20230703200500 +0200" channel="HRT 3">
+    <title lang="sl">V ozračju tamburice - Koncert tamburaškega orkestra HRT in Klezmer tria</title>
+  </programme>
+  <programme start="20230703200500 +0200" stop="20230703210000 +0200" channel="HRT 3">
+    <title lang="sl">Na robu znanosti: Kritičen pogled na GSO</title>
+  </programme>
+  <programme start="20230703210000 +0200" stop="20230703215200 +0200" channel="HRT 3">
+    <title lang="sl">Diego Velázquez ali neolepšan realizem</title>
+  </programme>
+  <programme start="20230703215200 +0200" stop="20230703220000 +0200" channel="HRT 3">
+    <title lang="sl">Tabor Film Festival - kronike</title>
+  </programme>
+  <programme start="20230703220000 +0200" stop="20230703233500 +0200" channel="HRT 3">
+    <title lang="sl">Kaj je Iva posnela 21. oktobra 2003</title>
+  </programme>
+  <programme start="20230703233500 +0200" stop="20230703235500 +0200" channel="HRT 3">
+    <title lang="sl">Simpsonovi</title>
+  </programme>
+  <programme start="20230703235500 +0200" stop="20230704020000 +0200" channel="HRT 3">
+    <title lang="sl">Sončna stran Prisavlja - Amira Medunjanin, Ante Gelo in Zvonimir Šestak ob SO HRT-a pod okriljem Jurice Petra Petrača</title>
+  </programme>
+  <programme start="20230704020000 +0200" stop="20230704021000 +0200" channel="HRT 3">
+    <title lang="sl">Novice iz sveta kulture</title>
+  </programme>
+  <programme start="20230704021000 +0200" stop="20230704024200 +0200" channel="HRT 3">
+    <title lang="sl">Garaža: Cold Snap</title>
+  </programme>
+  <programme start="20230704024200 +0200" stop="20230704035500 +0200" channel="HRT 3">
+    <title lang="sl">V ozračju tamburice - Koncert tamburaškega orkestra HRT in Klezmer tria</title>
+  </programme>
+  <programme start="20230704035500 +0200" stop="20230704041000 +0200" channel="HRT 3">
+    <title lang="sl">Hrvaška kulturna dediščina: Trakošćan</title>
+  </programme>
+  <programme start="20230704041000 +0200" stop="20230704044100 +0200" channel="HRT 3">
+    <title lang="sl">Knjiga ali življenje: Ljudmila Ulicka in Kemal Mujičić Artnam</title>
+  </programme>
+  <programme start="20230704044100 +0200" stop="20230704045200 +0200" channel="HRT 3">
+    <title lang="sl">Novice iz sveta kulture</title>
+  </programme>
+  <programme start="20230704045200 +0200" stop="20230704053700 +0200" channel="HRT 3">
+    <title lang="sl">Moje otroštvo</title>
+  </programme>
+  <programme start="20230704053700 +0200" stop="20230704063500 +0200" channel="HRT 3">
+    <title lang="sl">Moji ljudje</title>
+  </programme>
+  <programme start="20230704063500 +0200" stop="20230704063700 +0200" channel="HRT 3">
+    <title lang="sl">Juhuhu</title>
+  </programme>
+  <programme start="20230704063700 +0200" stop="20230704064900 +0200" channel="HRT 3">
+    <title lang="sl">Risanka</title>
+  </programme>
+  <programme start="20230704064900 +0200" stop="20230704070000 +0200" channel="HRT 3">
+    <title lang="sl">Risanka</title>
+  </programme>
+  <programme start="20230704070000 +0200" stop="20230704070100 +0200" channel="HRT 3">
+    <title lang="sl">Juhuhu</title>
+  </programme>
+  <programme start="20230704070100 +0200" stop="20230704070500 +0200" channel="HRT 3">
+    <title lang="sl">Pesmica Peri zobe</title>
+  </programme>
+  <programme start="20230704070500 +0200" stop="20230704071200 +0200" channel="HRT 3">
+    <title lang="sl">Simon</title>
+  </programme>
+  <programme start="20230704071200 +0200" stop="20230704071900 +0200" channel="HRT 3">
+    <title lang="sl">Jojo in številke: Številka 3</title>
+  </programme>
+  <programme start="20230704071900 +0200" stop="20230704072100 +0200" channel="HRT 3">
+    <title lang="sl">Pesmica sestrica</title>
+  </programme>
+  <programme start="20230704072100 +0200" stop="20230704072800 +0200" channel="HRT 3">
+    <title lang="sl">Pokec</title>
+  </programme>
+  <programme start="20230704072800 +0200" stop="20230704072900 +0200" channel="HRT 3">
+    <title lang="sl">Pocoyo pesmice</title>
+  </programme>
+  <programme start="20230704072900 +0200" stop="20230704073400 +0200" channel="HRT 3">
+    <title lang="sl">Mišo in Robin</title>
+  </programme>
+  <programme start="20230704073400 +0200" stop="20230704073500 +0200" channel="HRT 3">
+    <title lang="sl">Mišo in Robin: Pesmica</title>
+  </programme>
+  <programme start="20230704073500 +0200" stop="20230704073800 +0200" channel="HRT 3">
+    <title lang="sl">Juhuhu</title>
+  </programme>
+  <programme start="20230704073800 +0200" stop="20230704074500 +0200" channel="HRT 3">
+    <title lang="sl">Hu Hu</title>
+  </programme>
+  <programme start="20230704074500 +0200" stop="20230704074600 +0200" channel="HRT 3">
+    <title lang="sl">Hu Hu pesmica: Pabla: Darilo od srca</title>
+  </programme>
+  <programme start="20230704074600 +0200" stop="20230704074900 +0200" channel="HRT 3">
+    <title lang="sl">Juhuhu</title>
+  </programme>
+  <programme start="20230704074900 +0200" stop="20230704075000 +0200" channel="HRT 3">
+    <title lang="sl">Juhuhu</title>
+  </programme>
+  <programme start="20230704075000 +0200" stop="20230704080200 +0200" channel="HRT 3">
+    <title lang="sl">Timi gre</title>
+  </programme>
+  <programme start="20230704080200 +0200" stop="20230704080700 +0200" channel="HRT 3">
+    <title lang="sl">Pujsa Pepa</title>
+  </programme>
+  <programme start="20230704080700 +0200" stop="20230704081200 +0200" channel="HRT 3">
+    <title lang="sl">Abbyjine neverjetne pustolovščine</title>
+  </programme>
+  <programme start="20230704081200 +0200" stop="20230704082400 +0200" channel="HRT 3">
+    <title lang="sl">Telebajski</title>
+  </programme>
+  <programme start="20230704082400 +0200" stop="20230704082500 +0200" channel="HRT 3">
+    <title lang="sl">Pesmica Prsti</title>
+  </programme>
+  <programme start="20230704082500 +0200" stop="20230704082700 +0200" channel="HRT 3">
+    <title lang="sl">Juhuhu</title>
+  </programme>
+  <programme start="20230704082700 +0200" stop="20230704083200 +0200" channel="HRT 3">
+    <title lang="sl">Mali Malabar</title>
+  </programme>
+  <programme start="20230704083200 +0200" stop="20230704084500 +0200" channel="HRT 3">
+    <title lang="sl">Malo kraljestvo Bena in Holly</title>
+  </programme>
+  <programme start="20230704084500 +0200" stop="20230704085600 +0200" channel="HRT 3">
+    <title lang="sl">Messy v deželi Okido</title>
+  </programme>
+  <programme start="20230704085600 +0200" stop="20230704090000 +0200" channel="HRT 3">
+    <title lang="sl">Juhuhu</title>
+  </programme>
+  <programme start="20230704090000 +0200" stop="20230704091100 +0200" channel="HRT 3">
+    <title lang="sl">Ella, Oscar in Hoo</title>
+  </programme>
+  <programme start="20230704091100 +0200" stop="20230704091200 +0200" channel="HRT 3">
+    <title lang="sl">Pesmica Peri zobe</title>
+  </programme>
+  <programme start="20230704091200 +0200" stop="20230704091800 +0200" channel="HRT 3">
+    <title lang="sl">Mišo in Robin</title>
+  </programme>
+  <programme start="20230704091800 +0200" stop="20230704094400 +0200" channel="HRT 3">
+    <title lang="sl">Vlak dinozavrov</title>
+  </programme>
+  <programme start="20230704094400 +0200" stop="20230704094500 +0200" channel="HRT 3">
+    <title lang="sl">Juhuhu</title>
+  </programme>
+  <programme start="20230704094500 +0200" stop="20230704094600 +0200" channel="HRT 3">
+    <title lang="sl">Pesmica sestrica</title>
+  </programme>
+  <programme start="20230704094600 +0200" stop="20230704095300 +0200" channel="HRT 3">
+    <title lang="sl">Hu Hu</title>
+  </programme>
+  <programme start="20230704095300 +0200" stop="20230704100400 +0200" channel="HRT 3">
+    <title lang="sl">Reaktivčki: Park za opice v dolini Jigokudani</title>
+  </programme>
+  <programme start="20230704100400 +0200" stop="20230704100600 +0200" channel="HRT 3">
+    <title lang="sl">Pesmica Prsti</title>
+  </programme>
+  <programme start="20230704100600 +0200" stop="20230704101300 +0200" channel="HRT 3">
+    <title lang="sl">Otok ptic</title>
+  </programme>
+  <programme start="20230704101300 +0200" stop="20230704102400 +0200" channel="HRT 3">
+    <title lang="sl">Topsy in Tim</title>
+  </programme>
+  <programme start="20230704102400 +0200" stop="20230704102500 +0200" channel="HRT 3">
+    <title lang="sl">Juhuhu</title>
+  </programme>
+  <programme start="20230704102500 +0200" stop="20230704102700 +0200" channel="HRT 3">
+    <title lang="sl">Pesmica sestrica</title>
+  </programme>
+  <programme start="20230704102700 +0200" stop="20230704103500 +0200" channel="HRT 3">
+    <title lang="sl">Zgodbe Trullijev</title>
+  </programme>
+  <programme start="20230704103500 +0200" stop="20230704104400 +0200" channel="HRT 3">
+    <title lang="sl">Mogočni mali Bheem</title>
+  </programme>
+  <programme start="20230704104400 +0200" stop="20230704105500 +0200" channel="HRT 3">
+    <title lang="sl">Oli in Luna</title>
+  </programme>
+  <programme start="20230704105500 +0200" stop="20230704110600 +0200" channel="HRT 3">
+    <title lang="sl">Malo kraljestvo Bena in Holly</title>
+  </programme>
+  <programme start="20230704110600 +0200" stop="20230704110700 +0200" channel="HRT 3">
+    <title lang="sl">Juhuhu</title>
+  </programme>
+  <programme start="20230704110700 +0200" stop="20230704111200 +0200" channel="HRT 3">
+    <title lang="sl">Pujsa Pepa</title>
+  </programme>
+  <programme start="20230704111200 +0200" stop="20230704111700 +0200" channel="HRT 3">
+    <title lang="sl">Abbyjine neverjetne pustolovščine</title>
+  </programme>
+  <programme start="20230704111700 +0200" stop="20230704112900 +0200" channel="HRT 3">
+    <title lang="sl">Telebajski</title>
+  </programme>
+  <programme start="20230704112900 +0200" stop="20230704113000 +0200" channel="HRT 3">
+    <title lang="sl">Pesmica Prsti</title>
+  </programme>
+  <programme start="20230704113000 +0200" stop="20230704113500 +0200" channel="HRT 3">
+    <title lang="sl">Simon</title>
+  </programme>
+  <programme start="20230704113500 +0200" stop="20230704114700 +0200" channel="HRT 3">
+    <title lang="sl">Pokec</title>
+  </programme>
+  <programme start="20230704114700 +0200" stop="20230704114900 +0200" channel="HRT 3">
+    <title lang="sl">Pocoyo pesmice</title>
+  </programme>
+  <programme start="20230704114900 +0200" stop="20230704120100 +0200" channel="HRT 3">
+    <title lang="sl">Risanka</title>
+  </programme>
+  <programme start="20230704120100 +0200" stop="20230704121200 +0200" channel="HRT 3">
+    <title lang="sl">Risanka</title>
+  </programme>
+  <programme start="20230704121200 +0200" stop="20230704121300 +0200" channel="HRT 3">
+    <title lang="sl">Juhuhu</title>
+  </programme>
+  <programme start="20230704121300 +0200" stop="20230704123000 +0200" channel="HRT 3">
+    <title lang="sl">Andijeve prazgodovinske dogodivščine</title>
+  </programme>
+  <programme start="20230704123000 +0200" stop="20230704125600 +0200" channel="HRT 3">
+    <title lang="sl">Spuži Kvadratnik: Spuži, odpuščen si!</title>
+  </programme>
+  <programme start="20230704125600 +0200" stop="20230704125700 +0200" channel="HRT 3">
+    <title lang="sl">Juhuhu</title>
+  </programme>
+  <programme start="20230704125700 +0200" stop="20230704130000 +0200" channel="HRT 3">
+    <title lang="sl">Juhuhu</title>
+  </programme>
+  <programme start="20230704130000 +0200" stop="20230704133000 +0200" channel="HRT 3">
+    <title lang="sl">Nočne more iz narave</title>
+  </programme>
+  <programme start="20230704133000 +0200" stop="20230704140000 +0200" channel="HRT 3">
+    <title lang="sl">Izjemne dogodivščine Sama Foxa: Peščeni vihar</title>
+  </programme>
+  <programme start="20230704140000 +0200" stop="20230704145000 +0200" channel="HRT 3">
+    <title lang="sl">Surova koža</title>
+  </programme>
+  <programme start="20230704145000 +0200" stop="20230704150500 +0200" channel="HRT 3">
+    <title lang="sl">Kulturna dediščina</title>
+  </programme>
+  <programme start="20230704150500 +0200" stop="20230704153500 +0200" channel="HRT 3">
+    <title lang="sl">Domača dokumentarna oddaja</title>
+  </programme>
+  <programme start="20230704153500 +0200" stop="20230704160500 +0200" channel="HRT 3">
+    <title lang="sl">Hrvaško podmorje: Korčula</title>
+  </programme>
+  <programme start="20230704160500 +0200" stop="20230704163000 +0200" channel="HRT 3">
+    <title lang="sl">City Folk 2016: Zagreb</title>
+  </programme>
+  <programme start="20230704163000 +0200" stop="20230704170000 +0200" channel="HRT 3">
+    <title lang="sl">Knjiga ali življenje</title>
+  </programme>
+  <programme start="20230704170000 +0200" stop="20230704173000 +0200" channel="HRT 3">
+    <title lang="sl">Svet klasike: Posvetitev pomladi - Kultni balet Igorja Stravinskega, 11.05.2023.</title>
+  </programme>
+  <programme start="20230704173000 +0200" stop="20230704180000 +0200" channel="HRT 3">
+    <title lang="sl">Svet jazza: Mario Bočić in Jazz orkester HRT</title>
+  </programme>
+  <programme start="20230704180000 +0200" stop="20230704182800 +0200" channel="HRT 3">
+    <title lang="sl">Jezero Miyun</title>
+  </programme>
+  <programme start="20230704182800 +0200" stop="20230704185500 +0200" channel="HRT 3">
+    <title lang="sl">Zgodba o fotografiji: Tempelj Baiyun</title>
+  </programme>
+  <programme start="20230704185500 +0200" stop="20230704200500 +0200" channel="HRT 3">
+    <title lang="sl">Čas je za jazz: Michel Portal, Jeff Ballard, Kevin Hays</title>
+  </programme>
+  <programme start="20230704200500 +0200" stop="20230704210000 +0200" channel="HRT 3">
+    <title lang="sl">Animateka</title>
+  </programme>
+  <programme start="20230704210000 +0200" stop="20230704215500 +0200" channel="HRT 3">
+    <title lang="sl">Pablo Picasso in Françoise Gilot: Ženska, ki reče ne</title>
+  </programme>
+  <programme start="20230704215500 +0200" stop="20230704233000 +0200" channel="HRT 3">
+    <title lang="sl">Ko bom mrtev in bled</title>
+  </programme>
+  <programme start="20230704233000 +0200" stop="20230704235000 +0200" channel="HRT 3">
+    <title lang="sl">Simpsonovi</title>
+  </programme>
+  <programme start="20230704235000 +0200" stop="20230705012000 +0200" channel="HRT 3">
+    <title lang="sl">Sončna stran Prisavlja - Koncert skupin Be Sharp Band in Sunnysiders</title>
+  </programme>
+  <programme start="20230705012000 +0200" stop="20230705013000 +0200" channel="HRT 3">
+    <title lang="sl">Novice iz sveta kulture</title>
+  </programme>
+  <programme start="20230705013000 +0200" stop="20230705020000 +0200" channel="HRT 3">
+    <title lang="sl">Garaža: Violate</title>
+  </programme>
+  <programme start="20230705020000 +0200" stop="20230705030500 +0200" channel="HRT 3">
+    <title lang="sl">Čas je za jazz: Michel Portal, Jeff Ballard, Kevin Hays</title>
+  </programme>
+  <programme start="20230705030500 +0200" stop="20230705033500 +0200" channel="HRT 3">
+    <title lang="sl">Svet klasike: Posvetitev pomladi - Kultni balet Igorja Stravinskega, 11.05.2023.</title>
+  </programme>
+  <programme start="20230705033500 +0200" stop="20230705040500 +0200" channel="HRT 3">
+    <title lang="sl">Svet jazza: Mario Bočić in Jazz orkester HRT</title>
+  </programme>
+  <programme start="20230705040500 +0200" stop="20230705042000 +0200" channel="HRT 3">
+    <title lang="sl">Kulturna dediščina</title>
+  </programme>
+  <programme start="20230705042000 +0200" stop="20230705045000 +0200" channel="HRT 3">
+    <title lang="sl">Knjiga ali življenje</title>
+  </programme>
+  <programme start="20230705045000 +0200" stop="20230705050000 +0200" channel="HRT 3">
+    <title lang="sl">Novice iz sveta kulture</title>
+  </programme>
+  <programme start="20230705050000 +0200" stop="20230705063500 +0200" channel="HRT 3">
+    <title lang="sl">Vladarji mesta</title>
+  </programme>
+  <programme start="20230705063500 +0200" stop="20230705063700 +0200" channel="HRT 3">
+    <title lang="sl">Juhuhu</title>
+  </programme>
+  <programme start="20230705063700 +0200" stop="20230705064800 +0200" channel="HRT 3">
+    <title lang="sl">Mali tiger Daniel</title>
+  </programme>
+  <programme start="20230705064800 +0200" stop="20230705070000 +0200" channel="HRT 3">
+    <title lang="sl">Mali tiger Daniel</title>
+  </programme>
+  <programme start="20230705070000 +0200" stop="20230705070100 +0200" channel="HRT 3">
+    <title lang="sl">Juhuhu</title>
+  </programme>
+  <programme start="20230705070100 +0200" stop="20230705070500 +0200" channel="HRT 3">
+    <title lang="sl">Pesmica Peri zobe</title>
+  </programme>
+  <programme start="20230705070500 +0200" stop="20230705071200 +0200" channel="HRT 3">
+    <title lang="sl">Simon</title>
+  </programme>
+  <programme start="20230705071200 +0200" stop="20230705071900 +0200" channel="HRT 3">
+    <title lang="sl">Jojo in številke</title>
+  </programme>
+  <programme start="20230705071900 +0200" stop="20230705072100 +0200" channel="HRT 3">
+    <title lang="sl">Pesmica sestrica</title>
+  </programme>
+  <programme start="20230705072100 +0200" stop="20230705072800 +0200" channel="HRT 3">
+    <title lang="sl">Pokec</title>
+  </programme>
+  <programme start="20230705072800 +0200" stop="20230705072900 +0200" channel="HRT 3">
+    <title lang="sl">Pocoyo pesmice</title>
+  </programme>
+  <programme start="20230705072900 +0200" stop="20230705073400 +0200" channel="HRT 3">
+    <title lang="sl">Mišo in Robin</title>
+  </programme>
+  <programme start="20230705073400 +0200" stop="20230705073500 +0200" channel="HRT 3">
+    <title lang="sl">Mišo in Robin: Pesmica - Zdrava pesem</title>
+  </programme>
+  <programme start="20230705073500 +0200" stop="20230705073800 +0200" channel="HRT 3">
+    <title lang="sl">Juhuhu</title>
+  </programme>
+  <programme start="20230705073800 +0200" stop="20230705074500 +0200" channel="HRT 3">
+    <title lang="sl">Hu Hu</title>
+  </programme>
+  <programme start="20230705074500 +0200" stop="20230705074600 +0200" channel="HRT 3">
+    <title lang="sl">Hu Hu pesmica: Marina: Dovolj plastike</title>
+  </programme>
+  <programme start="20230705074600 +0200" stop="20230705074900 +0200" channel="HRT 3">
+    <title lang="sl">Juhuhu</title>
+  </programme>
+  <programme start="20230705074900 +0200" stop="20230705075000 +0200" channel="HRT 3">
+    <title lang="sl">Juhuhu</title>
+  </programme>
+  <programme start="20230705075000 +0200" stop="20230705080200 +0200" channel="HRT 3">
+    <title lang="sl">Timi gre</title>
+  </programme>
+  <programme start="20230705080200 +0200" stop="20230705080700 +0200" channel="HRT 3">
+    <title lang="sl">Pujsa Pepa</title>
+  </programme>
+  <programme start="20230705080700 +0200" stop="20230705081200 +0200" channel="HRT 3">
+    <title lang="sl">Abbyjine neverjetne pustolovščine</title>
+  </programme>
+  <programme start="20230705081200 +0200" stop="20230705082400 +0200" channel="HRT 3">
+    <title lang="sl">Telebajski</title>
+  </programme>
+  <programme start="20230705082400 +0200" stop="20230705082500 +0200" channel="HRT 3">
+    <title lang="sl">Pesmica Prsti</title>
+  </programme>
+  <programme start="20230705082500 +0200" stop="20230705082700 +0200" channel="HRT 3">
+    <title lang="sl">Juhuhu</title>
+  </programme>
+  <programme start="20230705082700 +0200" stop="20230705083200 +0200" channel="HRT 3">
+    <title lang="sl">Mali Malabar</title>
+  </programme>
+  <programme start="20230705083200 +0200" stop="20230705084500 +0200" channel="HRT 3">
+    <title lang="sl">Malo kraljestvo Bena in Holly</title>
+  </programme>
+  <programme start="20230705084500 +0200" stop="20230705085600 +0200" channel="HRT 3">
+    <title lang="sl">Messy v deželi Okido</title>
+  </programme>
+  <programme start="20230705085600 +0200" stop="20230705090000 +0200" channel="HRT 3">
+    <title lang="sl">Juhuhu</title>
+  </programme>
+  <programme start="20230705090000 +0200" stop="20230705091100 +0200" channel="HRT 3">
+    <title lang="sl">Ella, Oscar in Hoo</title>
+  </programme>
+  <programme start="20230705091100 +0200" stop="20230705091200 +0200" channel="HRT 3">
+    <title lang="sl">Pesmica Peri zobe</title>
+  </programme>
+  <programme start="20230705091200 +0200" stop="20230705091800 +0200" channel="HRT 3">
+    <title lang="sl">Mišo in Robin</title>
+  </programme>
+  <programme start="20230705091800 +0200" stop="20230705094400 +0200" channel="HRT 3">
+    <title lang="sl">Vlak dinozavrov</title>
+  </programme>
+  <programme start="20230705094400 +0200" stop="20230705094500 +0200" channel="HRT 3">
+    <title lang="sl">Juhuhu</title>
+  </programme>
+  <programme start="20230705094500 +0200" stop="20230705094600 +0200" channel="HRT 3">
+    <title lang="sl">Pesmica sestrica</title>
+  </programme>
+  <programme start="20230705094600 +0200" stop="20230705095300 +0200" channel="HRT 3">
+    <title lang="sl">Hu Hu</title>
+  </programme>
+  <programme start="20230705095300 +0200" stop="20230705100400 +0200" channel="HRT 3">
+    <title lang="sl">Reaktivčki</title>
+  </programme>
+  <programme start="20230705100400 +0200" stop="20230705100600 +0200" channel="HRT 3">
+    <title lang="sl">Pesmica Prsti</title>
+  </programme>
+  <programme start="20230705100600 +0200" stop="20230705101300 +0200" channel="HRT 3">
+    <title lang="sl">Otok ptic</title>
+  </programme>
+  <programme start="20230705101300 +0200" stop="20230705102400 +0200" channel="HRT 3">
+    <title lang="sl">Topsy in Tim</title>
+  </programme>
+  <programme start="20230705102400 +0200" stop="20230705102500 +0200" channel="HRT 3">
+    <title lang="sl">Juhuhu</title>
+  </programme>
+  <programme start="20230705102500 +0200" stop="20230705102700 +0200" channel="HRT 3">
+    <title lang="sl">Pesmica sestrica</title>
+  </programme>
+  <programme start="20230705102700 +0200" stop="20230705103500 +0200" channel="HRT 3">
+    <title lang="sl">Zgodbe Trullijev</title>
+  </programme>
+  <programme start="20230705103500 +0200" stop="20230705104400 +0200" channel="HRT 3">
+    <title lang="sl">Mogočni mali Bheem</title>
+  </programme>
+  <programme start="20230705104400 +0200" stop="20230705105500 +0200" channel="HRT 3">
+    <title lang="sl">Oli in Luna</title>
+  </programme>
+  <programme start="20230705105500 +0200" stop="20230705110600 +0200" channel="HRT 3">
+    <title lang="sl">Malo kraljestvo Bena in Holly</title>
+  </programme>
+  <programme start="20230705110600 +0200" stop="20230705110700 +0200" channel="HRT 3">
+    <title lang="sl">Juhuhu</title>
+  </programme>
+  <programme start="20230705110700 +0200" stop="20230705111200 +0200" channel="HRT 3">
+    <title lang="sl">Pujsa Pepa</title>
+  </programme>
+  <programme start="20230705111200 +0200" stop="20230705111700 +0200" channel="HRT 3">
+    <title lang="sl">Abbyjine neverjetne pustolovščine</title>
+  </programme>
+  <programme start="20230705111700 +0200" stop="20230705112900 +0200" channel="HRT 3">
+    <title lang="sl">Telebajski</title>
+  </programme>
+  <programme start="20230705112900 +0200" stop="20230705113000 +0200" channel="HRT 3">
+    <title lang="sl">Pesmica Prsti</title>
+  </programme>
+  <programme start="20230705113000 +0200" stop="20230705113500 +0200" channel="HRT 3">
+    <title lang="sl">Simon</title>
+  </programme>
+  <programme start="20230705113500 +0200" stop="20230705114500 +0200" channel="HRT 3">
+    <title lang="sl">Pokec</title>
+  </programme>
+  <programme start="20230705114500 +0200" stop="20230705114700 +0200" channel="HRT 3">
+    <title lang="sl">Pocoyo pesmice</title>
+  </programme>
+  <programme start="20230705114700 +0200" stop="20230705115800 +0200" channel="HRT 3">
+    <title lang="sl">Mali tiger Daniel</title>
+  </programme>
+  <programme start="20230705115800 +0200" stop="20230705121000 +0200" channel="HRT 3">
+    <title lang="sl">Mali tiger Daniel</title>
+  </programme>
+  <programme start="20230705121000 +0200" stop="20230705121100 +0200" channel="HRT 3">
+    <title lang="sl">Juhuhu</title>
+  </programme>
+  <programme start="20230705121100 +0200" stop="20230705123000 +0200" channel="HRT 3">
+    <title lang="sl">Andijeve prazgodovinske dogodivščine</title>
+  </programme>
+  <programme start="20230705123000 +0200" stop="20230705125600 +0200" channel="HRT 3">
+    <title lang="sl">Spuži Kvadratnik: Izgubljen v Bikinski Bistrici / Inštruktorska omaka</title>
+  </programme>
+  <programme start="20230705125600 +0200" stop="20230705125700 +0200" channel="HRT 3">
+    <title lang="sl">Juhuhu</title>
+  </programme>
+  <programme start="20230705125700 +0200" stop="20230705130000 +0200" channel="HRT 3">
+    <title lang="sl">Juhuhu</title>
+  </programme>
+  <programme start="20230705130000 +0200" stop="20230705133000 +0200" channel="HRT 3">
+    <title lang="sl">Nočne more iz narave</title>
+  </programme>
+  <programme start="20230705133000 +0200" stop="20230705140000 +0200" channel="HRT 3">
+    <title lang="sl">Izjemne dogodivščine Sama Foxa: Med aligatorji</title>
+  </programme>
+  <programme start="20230705140000 +0200" stop="20230705145000 +0200" channel="HRT 3">
+    <title lang="sl">Surova koža</title>
+  </programme>
+  <programme start="20230705145000 +0200" stop="20230705150500 +0200" channel="HRT 3">
+    <title lang="sl">Kulturna dediščina: Koprivnica</title>
+  </programme>
+  <programme start="20230705150500 +0200" stop="20230705153500 +0200" channel="HRT 3">
+    <title lang="sl">Domača dokumentarna oddaja</title>
+  </programme>
+  <programme start="20230705153500 +0200" stop="20230705160500 +0200" channel="HRT 3">
+    <title lang="sl">Hrvaško primorje</title>
+  </programme>
+  <programme start="20230705160500 +0200" stop="20230705163000 +0200" channel="HRT 3">
+    <title lang="sl">EBU multikulturna dokumentarna serija</title>
+  </programme>
+  <programme start="20230705163000 +0200" stop="20230705170000 +0200" channel="HRT 3">
+    <title lang="sl">Knjiga ali življenje</title>
+  </programme>
+  <programme start="20230705170000 +0200" stop="20230705173000 +0200" channel="HRT 3">
+    <title lang="sl">Svet klasike: Vesela vdova - opereta Franca Leharja, 19.05.2023.</title>
+  </programme>
+  <programme start="20230705173000 +0200" stop="20230705180000 +0200" channel="HRT 3">
+    <title lang="sl">Svet jazza: Djangologija</title>
+  </programme>
+  <programme start="20230705180000 +0200" stop="20230705182800 +0200" channel="HRT 3">
+    <title lang="sl">Jezero Miyun</title>
+  </programme>
+  <programme start="20230705182800 +0200" stop="20230705185500 +0200" channel="HRT 3">
+    <title lang="sl">Zgodba o fotografiji: Fotografski par</title>
+  </programme>
+  <programme start="20230705185500 +0200" stop="20230705200500 +0200" channel="HRT 3">
+    <title lang="sl">31. zagrebški glasbeni bienale 2021 - Koncert SO HRT in dirigentka Yalda Zamani</title>
+  </programme>
+  <programme start="20230705200500 +0200" stop="20230705204000 +0200" channel="HRT 3">
+    <title lang="sl">Kaj je klasika</title>
+  </programme>
+  <programme start="20230705204000 +0200" stop="20230705210000 +0200" channel="HRT 3">
+    <title lang="sl">Hrvaški knjižni jezik</title>
+  </programme>
+  <programme start="20230705210000 +0200" stop="20230705215500 +0200" channel="HRT 3">
+    <title lang="sl">Ernest Hemingway, štiri poroke in pogreb</title>
+  </programme>
+  <programme start="20230705215500 +0200" stop="20230705235500 +0200" channel="HRT 3">
+    <title lang="sl">Mali vojaki</title>
+  </programme>
+  <programme start="20230705235500 +0200" stop="20230706001500 +0200" channel="HRT 3">
+    <title lang="sl">Simpsonovi</title>
+  </programme>
+  <programme start="20230706001500 +0200" stop="20230706014000 +0200" channel="HRT 3">
+    <title lang="sl">Sončna stran Prisavlja: Koncert skupine Vatra</title>
+  </programme>
+  <programme start="20230706014000 +0200" stop="20230706015000 +0200" channel="HRT 3">
+    <title lang="sl">Novice iz sveta kulture</title>
+  </programme>
+  <programme start="20230706015000 +0200" stop="20230706022000 +0200" channel="HRT 3">
+    <title lang="sl">Garaža: Boa</title>
+  </programme>
+  <programme start="20230706022000 +0200" stop="20230706034000 +0200" channel="HRT 3">
+    <title lang="sl">31. zagrebški glasbeni bienale 2021 - Koncert SO HRT in dirigentka Yalda Zamani</title>
+  </programme>
+  <programme start="20230706034000 +0200" stop="20230706041000 +0200" channel="HRT 3">
+    <title lang="sl">Svet klasike: Vesela vdova - opereta Franca Leharja, 19.05.2023.</title>
+  </programme>
+  <programme start="20230706041000 +0200" stop="20230706044000 +0200" channel="HRT 3">
+    <title lang="sl">Svet jazza: Djangologija</title>
+  </programme>
+  <programme start="20230706044000 +0200" stop="20230706051000 +0200" channel="HRT 3">
+    <title lang="sl">Knjiga ali življenje</title>
+  </programme>
+  <programme start="20230706051000 +0200" stop="20230706063500 +0200" channel="HRT 3">
+    <title lang="sl">Ko zapiha veter</title>
+  </programme>
+  <programme start="20230706063500 +0200" stop="20230706063700 +0200" channel="HRT 3">
+    <title lang="sl">Juhuhu</title>
+  </programme>
+  <programme start="20230706063700 +0200" stop="20230706064800 +0200" channel="HRT 3">
+    <title lang="sl">Mali tiger Daniel</title>
+  </programme>
+  <programme start="20230706064800 +0200" stop="20230706070000 +0200" channel="HRT 3">
+    <title lang="sl">Mali tiger Daniel</title>
+  </programme>
+  <programme start="20230706070000 +0200" stop="20230706070100 +0200" channel="HRT 3">
+    <title lang="sl">Juhuhu</title>
+  </programme>
+  <programme start="20230706070100 +0200" stop="20230706070500 +0200" channel="HRT 3">
+    <title lang="sl">Pesmica Peri zobe</title>
+  </programme>
+  <programme start="20230706070500 +0200" stop="20230706071200 +0200" channel="HRT 3">
+    <title lang="sl">Simon</title>
+  </programme>
+  <programme start="20230706071200 +0200" stop="20230706071900 +0200" channel="HRT 3">
+    <title lang="sl">Jojo in številke</title>
+  </programme>
+  <programme start="20230706071900 +0200" stop="20230706072100 +0200" channel="HRT 3">
+    <title lang="sl">Pesmica sestrica</title>
+  </programme>
+  <programme start="20230706072100 +0200" stop="20230706072800 +0200" channel="HRT 3">
+    <title lang="sl">Pokec</title>
+  </programme>
+  <programme start="20230706072800 +0200" stop="20230706072900 +0200" channel="HRT 3">
+    <title lang="sl">Pokcove pesmice</title>
+  </programme>
+  <programme start="20230706072900 +0200" stop="20230706073400 +0200" channel="HRT 3">
+    <title lang="sl">Mišo in Robin</title>
+  </programme>
+  <programme start="20230706073400 +0200" stop="20230706073500 +0200" channel="HRT 3">
+    <title lang="sl">Mišo in Robin: Pesmica - Vsi na pot</title>
+  </programme>
+  <programme start="20230706073500 +0200" stop="20230706073800 +0200" channel="HRT 3">
+    <title lang="sl">Juhuhu</title>
+  </programme>
+  <programme start="20230706073800 +0200" stop="20230706074500 +0200" channel="HRT 3">
+    <title lang="sl">Hu Hu</title>
+  </programme>
+  <programme start="20230706074500 +0200" stop="20230706074600 +0200" channel="HRT 3">
+    <title lang="sl">Hu Hu pesmica: Zebrica: Pravila prometa</title>
+  </programme>
+  <programme start="20230706074600 +0200" stop="20230706074900 +0200" channel="HRT 3">
+    <title lang="sl">Juhuhu</title>
+  </programme>
+  <programme start="20230706074900 +0200" stop="20230706075000 +0200" channel="HRT 3">
+    <title lang="sl">Juhuhu</title>
+  </programme>
+  <programme start="20230706075000 +0200" stop="20230706080200 +0200" channel="HRT 3">
+    <title lang="sl">Timi gre</title>
+  </programme>
+  <programme start="20230706080200 +0200" stop="20230706080700 +0200" channel="HRT 3">
+    <title lang="sl">Pujsa Pepa</title>
+  </programme>
+  <programme start="20230706080700 +0200" stop="20230706081200 +0200" channel="HRT 3">
+    <title lang="sl">Abbyjine neverjetne pustolovščine</title>
+  </programme>
+  <programme start="20230706081200 +0200" stop="20230706082400 +0200" channel="HRT 3">
+    <title lang="sl">Telebajski</title>
+  </programme>
+  <programme start="20230706082400 +0200" stop="20230706082500 +0200" channel="HRT 3">
+    <title lang="sl">Pesmica Prsti</title>
+  </programme>
+  <programme start="20230706082500 +0200" stop="20230706082700 +0200" channel="HRT 3">
+    <title lang="sl">Juhuhu</title>
+  </programme>
+  <programme start="20230706082700 +0200" stop="20230706083200 +0200" channel="HRT 3">
+    <title lang="sl">Mali Malabar</title>
+  </programme>
+  <programme start="20230706083200 +0200" stop="20230706084500 +0200" channel="HRT 3">
+    <title lang="sl">Malo kraljestvo Bena in Holly</title>
+  </programme>
+  <programme start="20230706084500 +0200" stop="20230706085600 +0200" channel="HRT 3">
+    <title lang="sl">Messy v deželi Okido</title>
+  </programme>
+  <programme start="20230706085600 +0200" stop="20230706090000 +0200" channel="HRT 3">
+    <title lang="sl">Juhuhu</title>
+  </programme>
+  <programme start="20230706090000 +0200" stop="20230706091100 +0200" channel="HRT 3">
+    <title lang="sl">Ella, Oscar in Hoo</title>
+  </programme>
+  <programme start="20230706091100 +0200" stop="20230706091200 +0200" channel="HRT 3">
+    <title lang="sl">Pesmica Peri zobe</title>
+  </programme>
+  <programme start="20230706091200 +0200" stop="20230706091800 +0200" channel="HRT 3">
+    <title lang="sl">Mišo in Robin</title>
+  </programme>
+  <programme start="20230706091800 +0200" stop="20230706094400 +0200" channel="HRT 3">
+    <title lang="sl">Vlak dinozavrov</title>
+  </programme>
+  <programme start="20230706094400 +0200" stop="20230706094500 +0200" channel="HRT 3">
+    <title lang="sl">Juhuhu</title>
+  </programme>
+  <programme start="20230706094500 +0200" stop="20230706094600 +0200" channel="HRT 3">
+    <title lang="sl">Pesmica sestrica</title>
+  </programme>
+  <programme start="20230706094600 +0200" stop="20230706095300 +0200" channel="HRT 3">
+    <title lang="sl">Hu Hu</title>
+  </programme>
+  <programme start="20230706095300 +0200" stop="20230706100400 +0200" channel="HRT 3">
+    <title lang="sl">Bitz in Bob: Tudi ti zmoreš</title>
+  </programme>
+  <programme start="20230706100400 +0200" stop="20230706100600 +0200" channel="HRT 3">
+    <title lang="sl">Pesmica Prsti</title>
+  </programme>
+  <programme start="20230706100600 +0200" stop="20230706101300 +0200" channel="HRT 3">
+    <title lang="sl">Otok ptic</title>
+  </programme>
+  <programme start="20230706101300 +0200" stop="20230706102400 +0200" channel="HRT 3">
+    <title lang="sl">Topsy in Tim</title>
+  </programme>
+  <programme start="20230706102400 +0200" stop="20230706102500 +0200" channel="HRT 3">
+    <title lang="sl">Juhuhu</title>
+  </programme>
+  <programme start="20230706102500 +0200" stop="20230706102700 +0200" channel="HRT 3">
+    <title lang="sl">Pesmica sestrica</title>
+  </programme>
+  <programme start="20230706102700 +0200" stop="20230706103500 +0200" channel="HRT 3">
+    <title lang="sl">Zgodbe Trullijev</title>
+  </programme>
+  <programme start="20230706103500 +0200" stop="20230706104400 +0200" channel="HRT 3">
+    <title lang="sl">Mogočni mali Bheem</title>
+  </programme>
+  <programme start="20230706104400 +0200" stop="20230706105500 +0200" channel="HRT 3">
+    <title lang="sl">Oli in Luna</title>
+  </programme>
+  <programme start="20230706105500 +0200" stop="20230706110600 +0200" channel="HRT 3">
+    <title lang="sl">Malo kraljestvo Bena in Holly</title>
+  </programme>
+  <programme start="20230706110600 +0200" stop="20230706110700 +0200" channel="HRT 3">
+    <title lang="sl">Juhuhu</title>
+  </programme>
+  <programme start="20230706110700 +0200" stop="20230706111200 +0200" channel="HRT 3">
+    <title lang="sl">Pujsa Pepa</title>
+  </programme>
+  <programme start="20230706111200 +0200" stop="20230706111700 +0200" channel="HRT 3">
+    <title lang="sl">Abbyjine neverjetne pustolovščine</title>
+  </programme>
+  <programme start="20230706111700 +0200" stop="20230706112900 +0200" channel="HRT 3">
+    <title lang="sl">Telebajski</title>
+  </programme>
+  <programme start="20230706112900 +0200" stop="20230706113000 +0200" channel="HRT 3">
+    <title lang="sl">Pesmica Prsti</title>
+  </programme>
+  <programme start="20230706113000 +0200" stop="20230706113500 +0200" channel="HRT 3">
+    <title lang="sl">Simon</title>
+  </programme>
+  <programme start="20230706113500 +0200" stop="20230706114500 +0200" channel="HRT 3">
+    <title lang="sl">Pokec</title>
+  </programme>
+  <programme start="20230706114500 +0200" stop="20230706114700 +0200" channel="HRT 3">
+    <title lang="sl">Pokcove pesmice</title>
+  </programme>
+  <programme start="20230706114700 +0200" stop="20230706115800 +0200" channel="HRT 3">
+    <title lang="sl">Mali tiger Daniel</title>
+  </programme>
+  <programme start="20230706115800 +0200" stop="20230706121000 +0200" channel="HRT 3">
+    <title lang="sl">Mali tiger Daniel</title>
+  </programme>
+  <programme start="20230706121000 +0200" stop="20230706121100 +0200" channel="HRT 3">
+    <title lang="sl">Juhuhu</title>
+  </programme>
+  <programme start="20230706121100 +0200" stop="20230706123000 +0200" channel="HRT 3">
+    <title lang="sl">Andijeve prazgodovinske dogodivščine</title>
+  </programme>
+  <programme start="20230706123000 +0200" stop="20230706125600 +0200" channel="HRT 3">
+    <title lang="sl">Spuži Kvadratnik: Markov zmenek/Poslovni svet</title>
+  </programme>
+  <programme start="20230706125600 +0200" stop="20230706125700 +0200" channel="HRT 3">
+    <title lang="sl">Juhuhu</title>
+  </programme>
+  <programme start="20230706125700 +0200" stop="20230706130000 +0200" channel="HRT 3">
+    <title lang="sl">Juhuhu</title>
+  </programme>
+  <programme start="20230706130000 +0200" stop="20230706133000 +0200" channel="HRT 3">
+    <title lang="sl">Nočne more iz narave</title>
+  </programme>
+  <programme start="20230706133000 +0200" stop="20230706140000 +0200" channel="HRT 3">
+    <title lang="sl">Izjemne dogodivščine Sama Foxa: Strupeni pajek</title>
+  </programme>
+  <programme start="20230706140000 +0200" stop="20230706145000 +0200" channel="HRT 3">
+    <title lang="sl">Surova koža</title>
+  </programme>
+  <programme start="20230706145000 +0200" stop="20230706150500 +0200" channel="HRT 3">
+    <title lang="sl">Kulturna dediščina: Koprivnica</title>
+  </programme>
+  <programme start="20230706150500 +0200" stop="20230706153500 +0200" channel="HRT 3">
+    <title lang="sl">Domača dokumentarna oddaja</title>
+  </programme>
+  <programme start="20230706153500 +0200" stop="20230706160500 +0200" channel="HRT 3">
+    <title lang="sl">Hrvaško podmorje: Sveti Andrija</title>
+  </programme>
+  <programme start="20230706160500 +0200" stop="20230706163000 +0200" channel="HRT 3">
+    <title lang="sl">EBU multikulturna dokumentarna serija</title>
+  </programme>
+  <programme start="20230706163000 +0200" stop="20230706170000 +0200" channel="HRT 3">
+    <title lang="sl">Knjiga ali življenje</title>
+  </programme>
+  <programme start="20230706170000 +0200" stop="20230706173000 +0200" channel="HRT 3">
+    <title lang="sl">Svet klasike: 100 let brez Dore P. Koncerti Festivala Dore Pejačević</title>
+  </programme>
+  <programme start="20230706173000 +0200" stop="20230706180000 +0200" channel="HRT 3">
+    <title lang="sl">Svet jazza: Ivan Bonačić, Dream Aviary</title>
+  </programme>
+  <programme start="20230706180000 +0200" stop="20230706185500 +0200" channel="HRT 3">
+    <title lang="sl">Jezero Miyun</title>
+  </programme>
+  <programme start="20230706185500 +0200" stop="20230706200500 +0200" channel="HRT 3">
+    <title lang="sl">Čas je za jazz: Roads</title>
+  </programme>
+  <programme start="20230706200500 +0200" stop="20230706203500 +0200" channel="HRT 3">
+    <title lang="sl">Izven formata</title>
+  </programme>
+  <programme start="20230706203500 +0200" stop="20230706210000 +0200" channel="HRT 3">
+    <title lang="sl">Sodobniki: Andrija Mutnjaković</title>
+  </programme>
+  <programme start="20230706210000 +0200" stop="20230706223500 +0200" channel="HRT 3">
+    <title lang="sl">Odprtje 63. Glasbenih večerov v Sv.Donatu, Zadar</title>
+  </programme>
+  <programme start="20230703001500 +0200" stop="20230703011500 +0200" channel="Happy TV">
+    <title lang="sl">Usode</title>
+  </programme>
+  <programme start="20230703011500 +0200" stop="20230703030000 +0200" channel="Happy TV">
+    <title lang="sl">Glasba</title>
+  </programme>
+  <programme start="20230703030000 +0200" stop="20230703043000 +0200" channel="Happy TV">
+    <title lang="sl">Po kosilu</title>
+  </programme>
+  <programme start="20230703043000 +0200" stop="20230703054500 +0200" channel="Happy TV">
+    <title lang="sl">Zgodnje jutro</title>
+  </programme>
+  <programme start="20230703054500 +0200" stop="20230703055500 +0200" channel="Happy TV">
+    <title lang="sl">Poročila</title>
+  </programme>
+  <programme start="20230703055500 +0200" stop="20230703060000 +0200" channel="Happy TV">
+    <title lang="sl">Dobro jutro, Srbija</title>
+  </programme>
+  <programme start="20230703060000 +0200" stop="20230703114000 +0200" channel="Happy TV">
+    <title lang="sl">Dobro jutro, Srbija</title>
+  </programme>
+  <programme start="20230703114000 +0200" stop="20230703115500 +0200" channel="Happy TV">
+    <title lang="sl">TV PRODAJA - BIOSTILE</title>
+  </programme>
+  <programme start="20230703115500 +0200" stop="20230703120000 +0200" channel="Happy TV">
+    <title lang="sl">Poročila</title>
+  </programme>
+  <programme start="20230703120000 +0200" stop="20230703133000 +0200" channel="Happy TV">
+    <title lang="sl">Ženitno posredovanje</title>
+  </programme>
+  <programme start="20230703133000 +0200" stop="20230703134500 +0200" channel="Happy TV">
+    <title lang="sl">TV prodaja</title>
+  </programme>
+  <programme start="20230703134500 +0200" stop="20230703143000 +0200" channel="Happy TV">
+    <title lang="sl">Ženitno posredovanje</title>
+  </programme>
+  <programme start="20230703143000 +0200" stop="20230703145000 +0200" channel="Happy TV">
+    <title lang="sl">Telemaster</title>
+  </programme>
+  <programme start="20230703145000 +0200" stop="20230703172000 +0200" channel="Happy TV">
+    <title lang="sl">Po kosilu</title>
+  </programme>
+  <programme start="20230703172000 +0200" stop="20230703182000 +0200" channel="Happy TV">
+    <title lang="sl">Telemaster</title>
+  </programme>
+  <programme start="20230703182000 +0200" stop="20230703185000 +0200" channel="Happy TV">
+    <title lang="sl">Začetna stran</title>
+  </programme>
+  <programme start="20230703185000 +0200" stop="20230703193000 +0200" channel="Happy TV">
+    <title lang="sl">Ženitno posredovanje</title>
+  </programme>
+  <programme start="20230703193000 +0200" stop="20230703195000 +0200" channel="Happy TV">
+    <title lang="sl">Bingo</title>
+  </programme>
+  <programme start="20230703195000 +0200" stop="20230703210000 +0200" channel="Happy TV">
+    <title lang="sl">Aktualni dogodki</title>
+  </programme>
+  <programme start="20230703210000 +0200" stop="20230704000000 +0200" channel="Happy TV">
+    <title lang="sl">Cirilica</title>
+  </programme>
+  <programme start="20230704000000 +0200" stop="20230704005000 +0200" channel="Happy TV">
+    <title lang="sl">Usode</title>
+  </programme>
+  <programme start="20230704005000 +0200" stop="20230704023000 +0200" channel="Happy TV">
+    <title lang="sl">Ženitno posredovanje</title>
+  </programme>
+  <programme start="20230704023000 +0200" stop="20230704043000 +0200" channel="Happy TV">
+    <title lang="sl">Po kosilu</title>
+  </programme>
+  <programme start="20230704043000 +0200" stop="20230704054500 +0200" channel="Happy TV">
+    <title lang="sl">Zgodnje jutro</title>
+  </programme>
+  <programme start="20230704054500 +0200" stop="20230704060000 +0200" channel="Happy TV">
+    <title lang="sl">Poročila</title>
+  </programme>
+  <programme start="20230704060000 +0200" stop="20230704114000 +0200" channel="Happy TV">
+    <title lang="sl">Dobro jutro, Srbija</title>
+  </programme>
+  <programme start="20230704114000 +0200" stop="20230704115500 +0200" channel="Happy TV">
+    <title lang="sl">TV PRODAJA - BIOSTILE</title>
+  </programme>
+  <programme start="20230704115500 +0200" stop="20230704120000 +0200" channel="Happy TV">
+    <title lang="sl">Poročila</title>
+  </programme>
+  <programme start="20230704120000 +0200" stop="20230704133000 +0200" channel="Happy TV">
+    <title lang="sl">Ženitno posredovanje</title>
+  </programme>
+  <programme start="20230704133000 +0200" stop="20230704134500 +0200" channel="Happy TV">
+    <title lang="sl">TV prodaja</title>
+  </programme>
+  <programme start="20230704134500 +0200" stop="20230704143000 +0200" channel="Happy TV">
+    <title lang="sl">Ženitno posredovanje</title>
+  </programme>
+  <programme start="20230704143000 +0200" stop="20230704145000 +0200" channel="Happy TV">
+    <title lang="sl">Telemaster</title>
+  </programme>
+  <programme start="20230704145000 +0200" stop="20230704172000 +0200" channel="Happy TV">
+    <title lang="sl">Po kosilu</title>
+  </programme>
+  <programme start="20230704172000 +0200" stop="20230704182000 +0200" channel="Happy TV">
+    <title lang="sl">Telemaster</title>
+  </programme>
+  <programme start="20230704182000 +0200" stop="20230704185000 +0200" channel="Happy TV">
+    <title lang="sl">Začetna stran</title>
+  </programme>
+  <programme start="20230704185000 +0200" stop="20230704195000 +0200" channel="Happy TV">
+    <title lang="sl">Ženitno posredovanje</title>
+  </programme>
+  <programme start="20230704195000 +0200" stop="20230704213000 +0200" channel="Happy TV">
+    <title lang="sl">Aktualni dogodki</title>
+  </programme>
+  <programme start="20230704213000 +0200" stop="20230704230000 +0200" channel="Happy TV">
+    <title lang="sl">Poroka za milijon evrov</title>
+  </programme>
+  <programme start="20230704230000 +0200" stop="20230705000000 +0200" channel="Happy TV">
+    <title lang="sl">Domača serija</title>
+  </programme>
+  <programme start="20230705000000 +0200" stop="20230705010000 +0200" channel="Happy TV">
+    <title lang="sl">Usode</title>
+  </programme>
+  <programme start="20230705010000 +0200" stop="20230705023000 +0200" channel="Happy TV">
+    <title lang="sl">Ženitno posredovanje</title>
+  </programme>
+  <programme start="20230705023000 +0200" stop="20230705043000 +0200" channel="Happy TV">
+    <title lang="sl">Po kosilu</title>
+  </programme>
+  <programme start="20230705043000 +0200" stop="20230705054500 +0200" channel="Happy TV">
+    <title lang="sl">Zgodnje jutro</title>
+  </programme>
+  <programme start="20230705054500 +0200" stop="20230705060000 +0200" channel="Happy TV">
+    <title lang="sl">Poročila</title>
+  </programme>
+  <programme start="20230705060000 +0200" stop="20230705114000 +0200" channel="Happy TV">
+    <title lang="sl">Dobro jutro, Srbija</title>
+  </programme>
+  <programme start="20230705114000 +0200" stop="20230705115500 +0200" channel="Happy TV">
+    <title lang="sl">TV PRODAJA - BIOSTILE</title>
+  </programme>
+  <programme start="20230705115500 +0200" stop="20230705120000 +0200" channel="Happy TV">
+    <title lang="sl">Poročila</title>
+  </programme>
+  <programme start="20230705120000 +0200" stop="20230705133000 +0200" channel="Happy TV">
+    <title lang="sl">Ženitno posredovanje</title>
+  </programme>
+  <programme start="20230705133000 +0200" stop="20230705134500 +0200" channel="Happy TV">
+    <title lang="sl">TV prodaja</title>
+  </programme>
+  <programme start="20230705134500 +0200" stop="20230705143000 +0200" channel="Happy TV">
+    <title lang="sl">Ženitno posredovanje</title>
+  </programme>
+  <programme start="20230705143000 +0200" stop="20230705145000 +0200" channel="Happy TV">
+    <title lang="sl">Telemaster</title>
+  </programme>
+  <programme start="20230705145000 +0200" stop="20230705172000 +0200" channel="Happy TV">
+    <title lang="sl">Po kosilu</title>
+  </programme>
+  <programme start="20230705172000 +0200" stop="20230705182000 +0200" channel="Happy TV">
+    <title lang="sl">Telemaster</title>
+  </programme>
+  <programme start="20230705182000 +0200" stop="20230705185000 +0200" channel="Happy TV">
+    <title lang="sl">Začetna stran</title>
+  </programme>
+  <programme start="20230705185000 +0200" stop="20230705195000 +0200" channel="Happy TV">
+    <title lang="sl">Ženitno posredovanje</title>
+  </programme>
+  <programme start="20230705195000 +0200" stop="20230705213000 +0200" channel="Happy TV">
+    <title lang="sl">Aktualni dogodki</title>
+  </programme>
+  <programme start="20230705213000 +0200" stop="20230706000000 +0200" channel="Happy TV">
+    <title lang="sl">Noč v gostilni</title>
+  </programme>
+  <programme start="20230706000000 +0200" stop="20230706005000 +0200" channel="Happy TV">
+    <title lang="sl">Usode</title>
+  </programme>
+  <programme start="20230706005000 +0200" stop="20230706023000 +0200" channel="Happy TV">
+    <title lang="sl">Ženitno posredovanje</title>
+  </programme>
+  <programme start="20230706023000 +0200" stop="20230706043000 +0200" channel="Happy TV">
+    <title lang="sl">Po kosilu</title>
+  </programme>
+  <programme start="20230706043000 +0200" stop="20230706054500 +0200" channel="Happy TV">
+    <title lang="sl">Zgodnje jutro</title>
+  </programme>
+  <programme start="20230706054500 +0200" stop="20230706060000 +0200" channel="Happy TV">
+    <title lang="sl">Poročila</title>
+  </programme>
+  <programme start="20230706060000 +0200" stop="20230706114000 +0200" channel="Happy TV">
+    <title lang="sl">Dobro jutro, Srbija</title>
+  </programme>
+  <programme start="20230706114000 +0200" stop="20230706115500 +0200" channel="Happy TV">
+    <title lang="sl">TV PRODAJA - BIOSTILE</title>
+  </programme>
+  <programme start="20230706115500 +0200" stop="20230706120000 +0200" channel="Happy TV">
+    <title lang="sl">Poročila</title>
+  </programme>
+  <programme start="20230706120000 +0200" stop="20230706133000 +0200" channel="Happy TV">
+    <title lang="sl">Ženitno posredovanje</title>
+  </programme>
+  <programme start="20230706133000 +0200" stop="20230706134500 +0200" channel="Happy TV">
+    <title lang="sl">TV prodaja</title>
+  </programme>
+  <programme start="20230706134500 +0200" stop="20230706143000 +0200" channel="Happy TV">
+    <title lang="sl">Ženitno posredovanje</title>
+  </programme>
+  <programme start="20230706143000 +0200" stop="20230706145000 +0200" channel="Happy TV">
+    <title lang="sl">Telemaster</title>
+  </programme>
+  <programme start="20230706145000 +0200" stop="20230706172000 +0200" channel="Happy TV">
+    <title lang="sl">Po kosilu</title>
+  </programme>
+  <programme start="20230706172000 +0200" stop="20230706182000 +0200" channel="Happy TV">
+    <title lang="sl">Telemaster</title>
+  </programme>
+  <programme start="20230706182000 +0200" stop="20230706185000 +0200" channel="Happy TV">
+    <title lang="sl">Začetna stran</title>
+  </programme>
+  <programme start="20230706185000 +0200" stop="20230706195000 +0200" channel="Happy TV">
+    <title lang="sl">Ženitno posredovanje</title>
+  </programme>
+  <programme start="20230706195000 +0200" stop="20230706213000 +0200" channel="Happy TV">
+    <title lang="sl">Aktualni dogodki</title>
+  </programme>
+  <programme start="20230703000000 +0200" stop="20230703002000 +0200" channel="Hayat">
+    <title lang="sl">Peljemo vas v Italijo: Rim</title>
+  </programme>
+  <programme start="20230703002000 +0200" stop="20230703011200 +0200" channel="Hayat">
+    <title lang="sl">Red Bull Cliff Diving World Series 2023 - Boston, USA</title>
+  </programme>
+  <programme start="20230703011200 +0200" stop="20230703013200 +0200" channel="Hayat">
+    <title lang="sl">Novice ob 7h</title>
+  </programme>
+  <programme start="20230703013200 +0200" stop="20230703030600 +0200" channel="Hayat">
+    <title lang="sl">Preiskava tedna</title>
+  </programme>
+  <programme start="20230703030600 +0200" stop="20230703031400 +0200" channel="Hayat">
+    <title lang="sl">Sodobniki</title>
+  </programme>
+  <programme start="20230703031400 +0200" stop="20230703031800 +0200" channel="Hayat">
+    <title lang="sl">Neno Murić - Biću tvoja sjena</title>
+  </programme>
+  <programme start="20230703031800 +0200" stop="20230703032200 +0200" channel="Hayat">
+    <title lang="sl">Neskoh - Ples</title>
+  </programme>
+  <programme start="20230703032200 +0200" stop="20230703032600 +0200" channel="Hayat">
+    <title lang="sl">Nodivo - Kosa plava</title>
+  </programme>
+  <programme start="20230703032600 +0200" stop="20230703032900 +0200" channel="Hayat">
+    <title lang="sl">Bombaj štampa - Samo lagano</title>
+  </programme>
+  <programme start="20230703032900 +0200" stop="20230703033300 +0200" channel="Hayat">
+    <title lang="sl">Plavi Orkestar - Odlazim</title>
+  </programme>
+  <programme start="20230703033300 +0200" stop="20230703033700 +0200" channel="Hayat">
+    <title lang="sl">Crvena jabuka - Grade moj</title>
+  </programme>
+  <programme start="20230703033700 +0200" stop="20230703034100 +0200" channel="Hayat">
+    <title lang="sl">Tropico Band - Misliću na tebe</title>
+  </programme>
+  <programme start="20230703034100 +0200" stop="20230703034400 +0200" channel="Hayat">
+    <title lang="sl">Regina - Zub za zub</title>
+  </programme>
+  <programme start="20230703034400 +0200" stop="20230703034700 +0200" channel="Hayat">
+    <title lang="sl">Tijana Dapčević - To the sky</title>
+  </programme>
+  <programme start="20230703034700 +0200" stop="20230703035000 +0200" channel="Hayat">
+    <title lang="sl">Vlado Podany - Ti si mi bila u svemu naj</title>
+  </programme>
+  <programme start="20230703035000 +0200" stop="20230703035300 +0200" channel="Hayat">
+    <title lang="sl">Aida Mušanović Arsić - Kakav divan dan</title>
+  </programme>
+  <programme start="20230703035300 +0200" stop="20230703035900 +0200" channel="Hayat">
+    <title lang="sl">Tony Cetinski - Čekam te</title>
+  </programme>
+  <programme start="20230703035900 +0200" stop="20230703040200 +0200" channel="Hayat">
+    <title lang="sl">Mirza Soljanin - Tamna strana</title>
+  </programme>
+  <programme start="20230703040200 +0200" stop="20230703040600 +0200" channel="Hayat">
+    <title lang="sl">Adis Skaljo - Oprosti srce</title>
+  </programme>
+  <programme start="20230703040600 +0200" stop="20230703040900 +0200" channel="Hayat">
+    <title lang="sl">Nodivo - Ples</title>
+  </programme>
+  <programme start="20230703040900 +0200" stop="20230703041300 +0200" channel="Hayat">
+    <title lang="sl">Šuki in Baka - Zlopamtilo</title>
+  </programme>
+  <programme start="20230703041300 +0200" stop="20230703041700 +0200" channel="Hayat">
+    <title lang="sl">Hari Mata Hari - Kad jesen zamuti</title>
+  </programme>
+  <programme start="20230703041700 +0200" stop="20230703042100 +0200" channel="Hayat">
+    <title lang="sl">Al' Dino - Čaršija</title>
+  </programme>
+  <programme start="20230703042100 +0200" stop="20230703042400 +0200" channel="Hayat">
+    <title lang="sl">Adis Skaljo - Masala</title>
+  </programme>
+  <programme start="20230703042400 +0200" stop="20230703042900 +0200" channel="Hayat">
+    <title lang="sl">Amel Ćurić - Te zime</title>
+  </programme>
+  <programme start="20230703042900 +0200" stop="20230703043200 +0200" channel="Hayat">
+    <title lang="sl">Amir Kazić Leo - Leđa mi okrećeš</title>
+  </programme>
+  <programme start="20230703043200 +0200" stop="20230703043700 +0200" channel="Hayat">
+    <title lang="sl">Burhan Saban - Satima minutima</title>
+  </programme>
+  <programme start="20230703043700 +0200" stop="20230703044100 +0200" channel="Hayat">
+    <title lang="sl">Armin Muzaferija - Teško vrijeme</title>
+  </programme>
+  <programme start="20230703044100 +0200" stop="20230703044600 +0200" channel="Hayat">
+    <title lang="sl">Denial Ahmetović - Cijeli moj svijet</title>
+  </programme>
+  <programme start="20230703044600 +0200" stop="20230703045100 +0200" channel="Hayat">
+    <title lang="sl">Dino Merlin - Jedan dan, jedna noć</title>
+  </programme>
+  <programme start="20230703045100 +0200" stop="20230703045500 +0200" channel="Hayat">
+    <title lang="sl">Dragana Todorović - Reci mi</title>
+  </programme>
+  <programme start="20230703045500 +0200" stop="20230703045800 +0200" channel="Hayat">
+    <title lang="sl">Edi Herc-Mahalom</title>
+  </programme>
+  <programme start="20230703045800 +0200" stop="20230703050200 +0200" channel="Hayat">
+    <title lang="sl">Eldin Huseinbegović - Jedno</title>
+  </programme>
+  <programme start="20230703050200 +0200" stop="20230703050600 +0200" channel="Hayat">
+    <title lang="sl">Dženan Lončarević - Laufer</title>
+  </programme>
+  <programme start="20230703050600 +0200" stop="20230703051000 +0200" channel="Hayat">
+    <title lang="sl">Jasna Gospic &amp; Tifa - Jedina</title>
+  </programme>
+  <programme start="20230703051000 +0200" stop="20230703051300 +0200" channel="Hayat">
+    <title lang="sl">Fatmir Sulejmani - Gdje mi ljubav spava</title>
+  </programme>
+  <programme start="20230703051300 +0200" stop="20230703051600 +0200" channel="Hayat">
+    <title lang="sl">Goca Trzan - Žena za jednu noc</title>
+  </programme>
+  <programme start="20230703051600 +0200" stop="20230703052000 +0200" channel="Hayat">
+    <title lang="sl">Goran Dizdarević Grk - Nisam za tebe dušo vjeruj mi</title>
+  </programme>
+  <programme start="20230703052000 +0200" stop="20230703052500 +0200" channel="Hayat">
+    <title lang="sl">Hari Mata Hati - Azra</title>
+  </programme>
+  <programme start="20230703052500 +0200" stop="20230703052800 +0200" channel="Hayat">
+    <title lang="sl">Igor Vukojević - Bura</title>
+  </programme>
+  <programme start="20230703052800 +0200" stop="20230703053200 +0200" channel="Hayat">
+    <title lang="sl">Jasna Gospić - Boja maline</title>
+  </programme>
+  <programme start="20230703053200 +0200" stop="20230703053600 +0200" channel="Hayat">
+    <title lang="sl">Kaliopi - Hajde da pjevamo</title>
+  </programme>
+  <programme start="20230703053600 +0200" stop="20230703054000 +0200" channel="Hayat">
+    <title lang="sl">Kice - Ako te nisam ljubio</title>
+  </programme>
+  <programme start="20230703054000 +0200" stop="20230703054300 +0200" channel="Hayat">
+    <title lang="sl">Magla Bend - Samo se noćas pojavi</title>
+  </programme>
+  <programme start="20230703054300 +0200" stop="20230703054700 +0200" channel="Hayat">
+    <title lang="sl">Mejdi Sulejmani - 1984</title>
+  </programme>
+  <programme start="20230703054700 +0200" stop="20230703055000 +0200" channel="Hayat">
+    <title lang="sl">Nodivo - The soul of the south</title>
+  </programme>
+  <programme start="20230703055000 +0200" stop="20230703055400 +0200" channel="Hayat">
+    <title lang="sl">Adi Šoše - Nije lako biti ja</title>
+  </programme>
+  <programme start="20230703055400 +0200" stop="20230703055800 +0200" channel="Hayat">
+    <title lang="sl">Al Dino - Kad me bebo ne voliš</title>
+  </programme>
+  <programme start="20230703055800 +0200" stop="20230703060000 +0200" channel="Hayat">
+    <title lang="sl">Alem Hrbinjić - Moje srce kuca samo za tebe</title>
+  </programme>
+  <programme start="20230703060000 +0200" stop="20230703060600 +0200" channel="Hayat">
+    <title lang="sl">Igor Karača - Bright Earth</title>
+  </programme>
+  <programme start="20230703060600 +0200" stop="20230703061000 +0200" channel="Hayat">
+    <title lang="sl">Slađana MandićŽeljko Samardžić - Male obične stvari</title>
+  </programme>
+  <programme start="20230703061000 +0200" stop="20230703061300 +0200" channel="Hayat">
+    <title lang="sl">Aco Pejović - Šteta Za Nas</title>
+  </programme>
+  <programme start="20230703061300 +0200" stop="20230703061700 +0200" channel="Hayat">
+    <title lang="sl">Adnan Jakupović - Hladna voda</title>
+  </programme>
+  <programme start="20230703061700 +0200" stop="20230703062100 +0200" channel="Hayat">
+    <title lang="sl">Elvira in Hari - Kad odeš ti</title>
+  </programme>
+  <programme start="20230703062100 +0200" stop="20230703062500 +0200" channel="Hayat">
+    <title lang="sl">Amna Aganović - Sunce</title>
+  </programme>
+  <programme start="20230703062500 +0200" stop="20230703070500 +0200" channel="Hayat">
+    <title lang="sl">Dober dan BiH</title>
+  </programme>
+  <programme start="20230703070500 +0200" stop="20230703075100 +0200" channel="Hayat">
+    <title lang="sl">Odprti studio</title>
+  </programme>
+  <programme start="20230703075100 +0200" stop="20230703083700 +0200" channel="Hayat">
+    <title lang="sl">Prepovedano jabolko</title>
+  </programme>
+  <programme start="20230703083700 +0200" stop="20230703084400 +0200" channel="Hayat">
+    <title lang="sl">Labeffective</title>
+  </programme>
+  <programme start="20230703084400 +0200" stop="20230703085900 +0200" channel="Hayat">
+    <title lang="sl">TV izložba</title>
+  </programme>
+  <programme start="20230703085900 +0200" stop="20230703095200 +0200" channel="Hayat">
+    <title lang="sl">Prepovedano jabolko</title>
+  </programme>
+  <programme start="20230703095200 +0200" stop="20230703100700 +0200" channel="Hayat">
+    <title lang="sl">Retro Media</title>
+  </programme>
+  <programme start="20230703100700 +0200" stop="20230703110000 +0200" channel="Hayat">
+    <title lang="sl">Tri Sestre</title>
+  </programme>
+  <programme start="20230703110000 +0200" stop="20230703110400 +0200" channel="Hayat">
+    <title lang="sl">Slađa Mandić - Lude noći</title>
+  </programme>
+  <programme start="20230703110400 +0200" stop="20230703110800 +0200" channel="Hayat">
+    <title lang="sl">Neno Murić - Kafanska</title>
+  </programme>
+  <programme start="20230703110800 +0200" stop="20230703111200 +0200" channel="Hayat">
+    <title lang="sl">Armin Bijedić - Snjegovi</title>
+  </programme>
+  <programme start="20230703111200 +0200" stop="20230703111700 +0200" channel="Hayat">
+    <title lang="sl">Adnan Jakupović - Iznad Bosne</title>
+  </programme>
+  <programme start="20230703111700 +0200" stop="20230703112100 +0200" channel="Hayat">
+    <title lang="sl">Halid Bešlič - Prosule se godine</title>
+  </programme>
+  <programme start="20230703112100 +0200" stop="20230703112700 +0200" channel="Hayat">
+    <title lang="sl">Hanka Paldum - Ljubav svih vremena</title>
+  </programme>
+  <programme start="20230703112700 +0200" stop="20230703114700 +0200" channel="Hayat">
+    <title lang="sl">TV izložba</title>
+  </programme>
+  <programme start="20230703114700 +0200" stop="20230703122900 +0200" channel="Hayat">
+    <title lang="sl">Sweet Lab by Dolcela</title>
+  </programme>
+  <programme start="20230703122900 +0200" stop="20230703123500 +0200" channel="Hayat">
+    <title lang="sl">Minute za zdravje</title>
+  </programme>
+  <programme start="20230703123500 +0200" stop="20230703125000 +0200" channel="Hayat">
+    <title lang="sl">TV izložba</title>
+  </programme>
+  <programme start="20230703125000 +0200" stop="20230703133900 +0200" channel="Hayat">
+    <title lang="sl">Steklena kletka</title>
+  </programme>
+  <programme start="20230703133900 +0200" stop="20230703135400 +0200" channel="Hayat">
+    <title lang="sl">TV izložba</title>
+  </programme>
+  <programme start="20230703135400 +0200" stop="20230703144600 +0200" channel="Hayat">
+    <title lang="sl">Osman</title>
+  </programme>
+  <programme start="20230703144600 +0200" stop="20230703150100 +0200" channel="Hayat">
+    <title lang="sl">TV izložba</title>
+  </programme>
+  <programme start="20230703150100 +0200" stop="20230703150600 +0200" channel="Hayat">
+    <title lang="sl">Tropico Band &amp; Mirza Soljanin - Sarajevo Beograd</title>
+  </programme>
+  <programme start="20230703150600 +0200" stop="20230703151000 +0200" channel="Hayat">
+    <title lang="sl">Adis Skaljo - Masala</title>
+  </programme>
+  <programme start="20230703151000 +0200" stop="20230703151300 +0200" channel="Hayat">
+    <title lang="sl">Dženan Lončarević - Da si moja</title>
+  </programme>
+  <programme start="20230703151300 +0200" stop="20230703151700 +0200" channel="Hayat">
+    <title lang="sl">Adis Skaljo - Za nas</title>
+  </programme>
+  <programme start="20230703151700 +0200" stop="20230703152100 +0200" channel="Hayat">
+    <title lang="sl">Hari Mata Hari - Stara ljubavi</title>
+  </programme>
+  <programme start="20230703152100 +0200" stop="20230703152500 +0200" channel="Hayat">
+    <title lang="sl">Mirza Malkoč - Ne bih ja bio ja</title>
+  </programme>
+  <programme start="20230703152500 +0200" stop="20230703154000 +0200" channel="Hayat">
+    <title lang="sl">TV izložba</title>
+  </programme>
+  <programme start="20230703154000 +0200" stop="20230703162900 +0200" channel="Hayat">
+    <title lang="sl">Planina ljubezni</title>
+  </programme>
+  <programme start="20230703162900 +0200" stop="20230703173900 +0200" channel="Hayat">
+    <title lang="sl">Dober dan BiH</title>
+  </programme>
+  <programme start="20230703173900 +0200" stop="20230703185000 +0200" channel="Hayat">
+    <title lang="sl">Domovina</title>
+  </programme>
+  <programme start="20230703185000 +0200" stop="20230703191300 +0200" channel="Hayat">
+    <title lang="sl">Novice ob 7h</title>
+  </programme>
+  <programme start="20230703191300 +0200" stop="20230703194800 +0200" channel="Hayat">
+    <title lang="sl">7 plus</title>
+  </programme>
+  <programme start="20230703194800 +0200" stop="20230703200000 +0200" channel="Hayat">
+    <title lang="sl">Šport</title>
+  </programme>
+  <programme start="20230703200000 +0200" stop="20230703205100 +0200" channel="Hayat">
+    <title lang="sl">Steklena kletka</title>
+  </programme>
+  <programme start="20230703205100 +0200" stop="20230703205800 +0200" channel="Hayat">
+    <title lang="sl">Osveži leto</title>
+  </programme>
+  <programme start="20230703205800 +0200" stop="20230703215400 +0200" channel="Hayat">
+    <title lang="sl">Osman</title>
+  </programme>
+  <programme start="20230703215400 +0200" stop="20230703224900 +0200" channel="Hayat">
+    <title lang="sl">Tri Sestre</title>
+  </programme>
+  <programme start="20230703224900 +0200" stop="20230703234000 +0200" channel="Hayat">
+    <title lang="sl">Planina ljubezni</title>
+  </programme>
+  <programme start="20230703234000 +0200" stop="20230704004100 +0200" channel="Hayat">
+    <title lang="sl">Domovina</title>
+  </programme>
+  <programme start="20230704004100 +0200" stop="20230704010100 +0200" channel="Hayat">
+    <title lang="sl">Novice ob 7h</title>
+  </programme>
+  <programme start="20230704010100 +0200" stop="20230704013400 +0200" channel="Hayat">
+    <title lang="sl">7 plus</title>
+  </programme>
+  <programme start="20230704013400 +0200" stop="20230704014200 +0200" channel="Hayat">
+    <title lang="sl">Šport</title>
+  </programme>
+  <programme start="20230704014200 +0200" stop="20230704014600 +0200" channel="Hayat">
+    <title lang="sl">Armin Šaković - Mina</title>
+  </programme>
+  <programme start="20230704014600 +0200" stop="20230704015000 +0200" channel="Hayat">
+    <title lang="sl">Denial Ahmetović - Učini nešto</title>
+  </programme>
+  <programme start="20230704015000 +0200" stop="20230704015200 +0200" channel="Hayat">
+    <title lang="sl">Elma Hadžić - Ti ona ja</title>
+  </programme>
+  <programme start="20230704015200 +0200" stop="20230704015500 +0200" channel="Hayat">
+    <title lang="sl">Elvira Rahić - Fobija</title>
+  </programme>
+  <programme start="20230704015500 +0200" stop="20230704015900 +0200" channel="Hayat">
+    <title lang="sl">Adnan Jakupovic in Dino Memić - Drug</title>
+  </programme>
+  <programme start="20230704015900 +0200" stop="20230704020300 +0200" channel="Hayat">
+    <title lang="sl">Halid Bešlić - Malo je malo dana</title>
+  </programme>
+  <programme start="20230704020300 +0200" stop="20230704020700 +0200" channel="Hayat">
+    <title lang="sl">Hanka Paldum - Jedna si jedina</title>
+  </programme>
+  <programme start="20230704020700 +0200" stop="20230704021100 +0200" channel="Hayat">
+    <title lang="sl">Haris Džinović - Još sam neko tvoj</title>
+  </programme>
+  <programme start="20230704021100 +0200" stop="20230704021400 +0200" channel="Hayat">
+    <title lang="sl">Jasmin Burek - Kad kažem ljubav</title>
+  </programme>
+  <programme start="20230704021400 +0200" stop="20230704021800 +0200" channel="Hayat">
+    <title lang="sl">Kemal Hasić - Nikad oči nisu stare</title>
+  </programme>
+  <programme start="20230704021800 +0200" stop="20230704022100 +0200" channel="Hayat">
+    <title lang="sl">Kenan Tucić - Ti dobro znaš</title>
+  </programme>
+  <programme start="20230704022100 +0200" stop="20230704022500 +0200" channel="Hayat">
+    <title lang="sl">Lapsus band - Lomi lomi</title>
+  </programme>
+  <programme start="20230704022500 +0200" stop="20230704022900 +0200" channel="Hayat">
+    <title lang="sl">Denial Ahmetović - Pa pa</title>
+  </programme>
+  <programme start="20230704022900 +0200" stop="20230704023200 +0200" channel="Hayat">
+    <title lang="sl">Mensur Salkić - Usne ničije</title>
+  </programme>
+  <programme start="20230704023200 +0200" stop="20230704023600 +0200" channel="Hayat">
+    <title lang="sl">Šerbo - Ljuta draga na mene</title>
+  </programme>
+  <programme start="20230704023600 +0200" stop="20230704023900 +0200" channel="Hayat">
+    <title lang="sl">Namik Husnić - Lijepa kao Hercegovina</title>
+  </programme>
+  <programme start="20230704023900 +0200" stop="20230704025200 +0200" channel="Hayat">
+    <title lang="sl">Nazif Gljiva - Mix pesmi</title>
+  </programme>
+  <programme start="20230704025200 +0200" stop="20230704025600 +0200" channel="Hayat">
+    <title lang="sl">Nedeljko Bilkić - Krčma u planini</title>
+  </programme>
+  <programme start="20230704025600 +0200" stop="20230704025900 +0200" channel="Hayat">
+    <title lang="sl">Nedžad Imamović - Kiša pada</title>
+  </programme>
+  <programme start="20230704025900 +0200" stop="20230704030200 +0200" channel="Hayat">
+    <title lang="sl">Nedžad Salković - Kad ja podoh na Bembasu</title>
+  </programme>
+  <programme start="20230704030200 +0200" stop="20230704030600 +0200" channel="Hayat">
+    <title lang="sl">Nihad Alibegović - Eto ti on</title>
+  </programme>
+  <programme start="20230704030600 +0200" stop="20230704030900 +0200" channel="Hayat">
+    <title lang="sl">Šaćir Ameti - Dobra duša</title>
+  </programme>
+  <programme start="20230704030900 +0200" stop="20230704031200 +0200" channel="Hayat">
+    <title lang="sl">Jasmin Burek - Ljubim najljepšu</title>
+  </programme>
+  <programme start="20230704031200 +0200" stop="20230704031600 +0200" channel="Hayat">
+    <title lang="sl">Sadik Hasanović – Dio mene</title>
+  </programme>
+  <programme start="20230704031600 +0200" stop="20230704032000 +0200" channel="Hayat">
+    <title lang="sl">Sejo Boy - Žena nevjerna</title>
+  </programme>
+  <programme start="20230704032000 +0200" stop="20230704032400 +0200" channel="Hayat">
+    <title lang="sl">Selma Bajrami - Voli me do bola</title>
+  </programme>
+  <programme start="20230704032400 +0200" stop="20230704032700 +0200" channel="Hayat">
+    <title lang="sl">Semir Cerić Koke - Sve i sad</title>
+  </programme>
+  <programme start="20230704032700 +0200" stop="20230704033100 +0200" channel="Hayat">
+    <title lang="sl">Šerif Konjević - Rano je</title>
+  </programme>
+  <programme start="20230704033100 +0200" stop="20230704033500 +0200" channel="Hayat">
+    <title lang="sl">Slađa Zubčević - Da ne čuje zlo</title>
+  </programme>
+  <programme start="20230704033500 +0200" stop="20230704033900 +0200" channel="Hayat">
+    <title lang="sl">Ruža Efendić - Ako se sretnemo</title>
+  </programme>
+  <programme start="20230704033900 +0200" stop="20230704034200 +0200" channel="Hayat">
+    <title lang="sl">Mirza Malkoč - Zbogom tugo</title>
+  </programme>
+  <programme start="20230704034200 +0200" stop="20230704034700 +0200" channel="Hayat">
+    <title lang="sl">Tifa in Elvira - Baraba</title>
+  </programme>
+  <programme start="20230704034700 +0200" stop="20230704035100 +0200" channel="Hayat">
+    <title lang="sl">Jasna Gospić in Sergej Četković - Da si tu</title>
+  </programme>
+  <programme start="20230704035100 +0200" stop="20230704035500 +0200" channel="Hayat">
+    <title lang="sl">Miligram - Bulevari</title>
+  </programme>
+  <programme start="20230704035500 +0200" stop="20230704035800 +0200" channel="Hayat">
+    <title lang="sl">Babe Barabella - Bježim</title>
+  </programme>
+  <programme start="20230704035800 +0200" stop="20230704040300 +0200" channel="Hayat">
+    <title lang="sl">Željko Joksimović - Možda je to ljubav</title>
+  </programme>
+  <programme start="20230704040300 +0200" stop="20230704040600 +0200" channel="Hayat">
+    <title lang="sl">Zlatan Fazlić Fazla - Četiri mladića idu s Trebevića</title>
+  </programme>
+  <programme start="20230704040600 +0200" stop="20230704040900 +0200" channel="Hayat">
+    <title lang="sl">Tonci &amp; Madre Badessa - Gustan</title>
+  </programme>
+  <programme start="20230704040900 +0200" stop="20230704041400 +0200" channel="Hayat">
+    <title lang="sl">Jasna, Cola, Ismeta, Hari - Trebević opet silazi u grad</title>
+  </programme>
+  <programme start="20230704041400 +0200" stop="20230704041800 +0200" channel="Hayat">
+    <title lang="sl">Amra Daka in Nada Đurevska - Pjesma što nas pamti</title>
+  </programme>
+  <programme start="20230704041800 +0200" stop="20230704042100 +0200" channel="Hayat">
+    <title lang="sl">Berin Buturović - Kad čovjek voli ženu</title>
+  </programme>
+  <programme start="20230704042100 +0200" stop="20230704042500 +0200" channel="Hayat">
+    <title lang="sl">Crvena Jabuka - Pijane noći</title>
+  </programme>
+  <programme start="20230704042500 +0200" stop="20230704042900 +0200" channel="Hayat">
+    <title lang="sl">Crno Vino - Kad srce pocijepam</title>
+  </programme>
+  <programme start="20230704042900 +0200" stop="20230704043300 +0200" channel="Hayat">
+    <title lang="sl">Danijela Martinović - Brodolom</title>
+  </programme>
+  <programme start="20230704043300 +0200" stop="20230704043700 +0200" channel="Hayat">
+    <title lang="sl">Maysia - Appatizer</title>
+  </programme>
+  <programme start="20230704043700 +0200" stop="20230704044300 +0200" channel="Hayat">
+    <title lang="sl">Tony Cetinski - Čekam te</title>
+  </programme>
+  <programme start="20230704044300 +0200" stop="20230704044600 +0200" channel="Hayat">
+    <title lang="sl">Igor Vukojević - Prvi ples</title>
+  </programme>
+  <programme start="20230704044600 +0200" stop="20230704044900 +0200" channel="Hayat">
+    <title lang="sl">Punkt - Utvare</title>
+  </programme>
+  <programme start="20230704044900 +0200" stop="20230704045300 +0200" channel="Hayat">
+    <title lang="sl">Regina - Ti si mi tu</title>
+  </programme>
+  <programme start="20230704045300 +0200" stop="20230704045700 +0200" channel="Hayat">
+    <title lang="sl">Nodivo - Nevidljiva</title>
+  </programme>
+  <programme start="20230704045700 +0200" stop="20230704050100 +0200" channel="Hayat">
+    <title lang="sl">Nermin Puškar - Ljubi me</title>
+  </programme>
+  <programme start="20230704050100 +0200" stop="20230704050700 +0200" channel="Hayat">
+    <title lang="sl">Tinka Milinović - Ja još uvijek gledam</title>
+  </programme>
+  <programme start="20230704050700 +0200" stop="20230704051000 +0200" channel="Hayat">
+    <title lang="sl">Dalal - Instant</title>
+  </programme>
+  <programme start="20230704051000 +0200" stop="20230704051300 +0200" channel="Hayat">
+    <title lang="sl">Adis Škalje - Više te ne čeka</title>
+  </programme>
+  <programme start="20230704051300 +0200" stop="20230704051700 +0200" channel="Hayat">
+    <title lang="sl">Nodivo - Kosa plava</title>
+  </programme>
+  <programme start="20230704051700 +0200" stop="20230704052100 +0200" channel="Hayat">
+    <title lang="sl">Amel Ćurić - Niko</title>
+  </programme>
+  <programme start="20230704052100 +0200" stop="20230704052400 +0200" channel="Hayat">
+    <title lang="sl">Amil Lojo - Više te ne volim</title>
+  </programme>
+  <programme start="20230704052400 +0200" stop="20230704052800 +0200" channel="Hayat">
+    <title lang="sl">Amir Kazić Leo - Natenane</title>
+  </programme>
+  <programme start="20230704052800 +0200" stop="20230704053100 +0200" channel="Hayat">
+    <title lang="sl">Ammara Mistrić - Spoji riječi</title>
+  </programme>
+  <programme start="20230704053100 +0200" stop="20230704053500 +0200" channel="Hayat">
+    <title lang="sl">Armin Muzaferija - Samo ti</title>
+  </programme>
+  <programme start="20230704053500 +0200" stop="20230704053800 +0200" channel="Hayat">
+    <title lang="sl">Latif Moćević - Dobro</title>
+  </programme>
+  <programme start="20230704053800 +0200" stop="20230704054200 +0200" channel="Hayat">
+    <title lang="sl">Eldin Huseinbegović - Oko moje</title>
+  </programme>
+  <programme start="20230704054200 +0200" stop="20230704054600 +0200" channel="Hayat">
+    <title lang="sl">Dunja Fazlić - Ne bih ja</title>
+  </programme>
+  <programme start="20230704054600 +0200" stop="20230704055000 +0200" channel="Hayat">
+    <title lang="sl">Sergej Cetković - Ako te zaboravim</title>
+  </programme>
+  <programme start="20230704055000 +0200" stop="20230704055300 +0200" channel="Hayat">
+    <title lang="sl">Amir Kazić Leo - Još te sanjam</title>
+  </programme>
+  <programme start="20230704055300 +0200" stop="20230704055700 +0200" channel="Hayat">
+    <title lang="sl">Kaliopi - Lokomotiva</title>
+  </programme>
+  <programme start="20230704055700 +0200" stop="20230704065500 +0200" channel="Hayat">
+    <title lang="sl">Al Dino - Krio sam od drugih</title>
+  </programme>
+  <programme start="20230704065500 +0200" stop="20230704075500 +0200" channel="Hayat">
+    <title lang="sl">Dober dan BiH</title>
+  </programme>
+  <programme start="20230704075500 +0200" stop="20230704084000 +0200" channel="Hayat">
+    <title lang="sl">Prepovedano jabolko</title>
+  </programme>
+  <programme start="20230704084000 +0200" stop="20230704084500 +0200" channel="Hayat">
+    <title lang="sl">Labeffective</title>
+  </programme>
+  <programme start="20230704084500 +0200" stop="20230704090000 +0200" channel="Hayat">
+    <title lang="sl">TV izložba</title>
+  </programme>
+  <programme start="20230704090000 +0200" stop="20230704095000 +0200" channel="Hayat">
+    <title lang="sl">Prepovedano jabolko</title>
+  </programme>
+  <programme start="20230704095000 +0200" stop="20230704100500 +0200" channel="Hayat">
+    <title lang="sl">Retro Media</title>
+  </programme>
+  <programme start="20230704100500 +0200" stop="20230704105500 +0200" channel="Hayat">
+    <title lang="sl">Tri Sestre</title>
+  </programme>
+  <programme start="20230704105500 +0200" stop="20230704110000 +0200" channel="Hayat">
+    <title lang="sl">TV izložba</title>
+  </programme>
+  <programme start="20230704110000 +0200" stop="20230704110200 +0200" channel="Hayat">
+    <title lang="sl">Kenan Tucić - Ništa mi nije a sve mi je</title>
+  </programme>
+  <programme start="20230704110200 +0200" stop="20230704110600 +0200" channel="Hayat">
+    <title lang="sl">Almas Smajlović - Bol</title>
+  </programme>
+  <programme start="20230704110600 +0200" stop="20230704111100 +0200" channel="Hayat">
+    <title lang="sl">Zabranjeno pušenje - Ispod radara</title>
+  </programme>
+  <programme start="20230704111100 +0200" stop="20230704111500 +0200" channel="Hayat">
+    <title lang="sl">Bombaj štampa - Samo lagano</title>
+  </programme>
+  <programme start="20230704111500 +0200" stop="20230704111800 +0200" channel="Hayat">
+    <title lang="sl">Konvoj - Ograjisana</title>
+  </programme>
+  <programme start="20230704111800 +0200" stop="20230704112200 +0200" channel="Hayat">
+    <title lang="sl">Emir Frozen Camels - Rekla je volim te</title>
+  </programme>
+  <programme start="20230704112200 +0200" stop="20230704112600 +0200" channel="Hayat">
+    <title lang="sl">Post Rem - Dajem ti</title>
+  </programme>
+  <programme start="20230704112600 +0200" stop="20230704113000 +0200" channel="Hayat">
+    <title lang="sl">Regina - Opraštam ti</title>
+  </programme>
+  <programme start="20230704113000 +0200" stop="20230704123000 +0200" channel="Hayat">
+    <title lang="sl">Domovina</title>
+  </programme>
+  <programme start="20230704123000 +0200" stop="20230704123500 +0200" channel="Hayat">
+    <title lang="sl">Minute za zdravje</title>
+  </programme>
+  <programme start="20230704123500 +0200" stop="20230704125000 +0200" channel="Hayat">
+    <title lang="sl">TV izložba</title>
+  </programme>
+  <programme start="20230704125000 +0200" stop="20230704134500 +0200" channel="Hayat">
+    <title lang="sl">Steklena kletka</title>
+  </programme>
+  <programme start="20230704134500 +0200" stop="20230704140000 +0200" channel="Hayat">
+    <title lang="sl">TV izložba</title>
+  </programme>
+  <programme start="20230704140000 +0200" stop="20230704145000 +0200" channel="Hayat">
+    <title lang="sl">Osman</title>
+  </programme>
+  <programme start="20230704145000 +0200" stop="20230704150000 +0200" channel="Hayat">
+    <title lang="sl">TV izložba</title>
+  </programme>
+  <programme start="20230704150000 +0200" stop="20230704150400 +0200" channel="Hayat">
+    <title lang="sl">Dragana Kajtazović Senkovski - Sevdah da se dogodi</title>
+  </programme>
+  <programme start="20230704150400 +0200" stop="20230704150700 +0200" channel="Hayat">
+    <title lang="sl">Fatmir Sulejmani in Semir Cerić Koke - Nevjerna</title>
+  </programme>
+  <programme start="20230704150700 +0200" stop="20230704151000 +0200" channel="Hayat">
+    <title lang="sl">Adnan Jakupović - Tristo dana</title>
+  </programme>
+  <programme start="20230704151000 +0200" stop="20230704151400 +0200" channel="Hayat">
+    <title lang="sl">Armin Šaković - Dobra strano mog života</title>
+  </programme>
+  <programme start="20230704151400 +0200" stop="20230704151700 +0200" channel="Hayat">
+    <title lang="sl">Elvedina Šehić - Zvijeri</title>
+  </programme>
+  <programme start="20230704151700 +0200" stop="20230704152100 +0200" channel="Hayat">
+    <title lang="sl">Nikolina Kovač i Halid Bešlić - Još si moje sve</title>
+  </programme>
+  <programme start="20230704152100 +0200" stop="20230704152400 +0200" channel="Hayat">
+    <title lang="sl">Elvira Rahić - Fobija</title>
+  </programme>
+  <programme start="20230704152400 +0200" stop="20230704152800 +0200" channel="Hayat">
+    <title lang="sl">Ruža Efendić - Ako se sretnemo</title>
+  </programme>
+  <programme start="20230704152800 +0200" stop="20230704153100 +0200" channel="Hayat">
+    <title lang="sl">Šaćir Ameti - Samo si ostala ti</title>
+  </programme>
+  <programme start="20230704153100 +0200" stop="20230704153300 +0200" channel="Hayat">
+    <title lang="sl">Ramiz Selak - Kada pojaviš se ti</title>
+  </programme>
+  <programme start="20230704153300 +0200" stop="20230704153500 +0200" channel="Hayat">
+    <title lang="sl">Dino Memić – Oni ne znaju</title>
+  </programme>
+  <programme start="20230704153500 +0200" stop="20230704154000 +0200" channel="Hayat">
+    <title lang="sl">TV izložba</title>
+  </programme>
+  <programme start="20230704154000 +0200" stop="20230704163000 +0200" channel="Hayat">
+    <title lang="sl">Planina ljubezni</title>
+  </programme>
+  <programme start="20230704163000 +0200" stop="20230704174000 +0200" channel="Hayat">
+    <title lang="sl">Dober dan BiH</title>
+  </programme>
+  <programme start="20230704174000 +0200" stop="20230704185000 +0200" channel="Hayat">
+    <title lang="sl">Domovina</title>
+  </programme>
+  <programme start="20230704185000 +0200" stop="20230704191000 +0200" channel="Hayat">
+    <title lang="sl">Novice ob 7h</title>
+  </programme>
+  <programme start="20230704191000 +0200" stop="20230704194500 +0200" channel="Hayat">
+    <title lang="sl">7 plus</title>
+  </programme>
+  <programme start="20230704194500 +0200" stop="20230704200000 +0200" channel="Hayat">
+    <title lang="sl">Šport</title>
+  </programme>
+  <programme start="20230704200000 +0200" stop="20230704205000 +0200" channel="Hayat">
+    <title lang="sl">Steklena kletka</title>
+  </programme>
+  <programme start="20230704205000 +0200" stop="20230704205500 +0200" channel="Hayat">
+    <title lang="sl">Osveži leto</title>
+  </programme>
+  <programme start="20230704205500 +0200" stop="20230704215000 +0200" channel="Hayat">
+    <title lang="sl">Osman</title>
+  </programme>
+  <programme start="20230704215000 +0200" stop="20230704224500 +0200" channel="Hayat">
+    <title lang="sl">Tri Sestre</title>
+  </programme>
+  <programme start="20230704224500 +0200" stop="20230704234000 +0200" channel="Hayat">
+    <title lang="sl">Planina ljubezni</title>
+  </programme>
+  <programme start="20230704234000 +0200" stop="20230705004000 +0200" channel="Hayat">
+    <title lang="sl">Domovina</title>
+  </programme>
+  <programme start="20230705004000 +0200" stop="20230705010000 +0200" channel="Hayat">
+    <title lang="sl">Novice ob 7h</title>
+  </programme>
+  <programme start="20230705010000 +0200" stop="20230705013000 +0200" channel="Hayat">
+    <title lang="sl">7 plus</title>
+  </programme>
+  <programme start="20230705013000 +0200" stop="20230705013500 +0200" channel="Hayat">
+    <title lang="sl">Šport</title>
+  </programme>
+  <programme start="20230705013500 +0200" stop="20230705013800 +0200" channel="Hayat">
+    <title lang="sl">Nihad Alibegović - Eto ti on</title>
+  </programme>
+  <programme start="20230705013800 +0200" stop="20230705014200 +0200" channel="Hayat">
+    <title lang="sl">Halid Bešlić - Romanija</title>
+  </programme>
+  <programme start="20230705014200 +0200" stop="20230705014600 +0200" channel="Hayat">
+    <title lang="sl">Nihad Alibegović - Donesi divlje mirise</title>
+  </programme>
+  <programme start="20230705014600 +0200" stop="20230705014900 +0200" channel="Hayat">
+    <title lang="sl">Amir Begović - Manje više</title>
+  </programme>
+  <programme start="20230705014900 +0200" stop="20230705015300 +0200" channel="Hayat">
+    <title lang="sl">Amna Aganović - Sunce</title>
+  </programme>
+  <programme start="20230705015300 +0200" stop="20230705015700 +0200" channel="Hayat">
+    <title lang="sl">Armin Šaković - Mina</title>
+  </programme>
+  <programme start="20230705015700 +0200" stop="20230705020100 +0200" channel="Hayat">
+    <title lang="sl">Nihad Alibegovic - Ti si zvijezda</title>
+  </programme>
+  <programme start="20230705020100 +0200" stop="20230705020500 +0200" channel="Hayat">
+    <title lang="sl">Amra Halebić - Krvare sjećanja</title>
+  </programme>
+  <programme start="20230705020500 +0200" stop="20230705020800 +0200" channel="Hayat">
+    <title lang="sl">Haris Džinović - Godine ti dobro stoje</title>
+  </programme>
+  <programme start="20230705020800 +0200" stop="20230705021100 +0200" channel="Hayat">
+    <title lang="sl">Jasna Gospić i Halid Beslić - Samo jednom</title>
+  </programme>
+  <programme start="20230705021100 +0200" stop="20230705021400 +0200" channel="Hayat">
+    <title lang="sl">Dino Memić - Anđeo bez duše</title>
+  </programme>
+  <programme start="20230705021400 +0200" stop="20230705021800 +0200" channel="Hayat">
+    <title lang="sl">Adnan Jakupović - Hladna voda</title>
+  </programme>
+  <programme start="20230705021800 +0200" stop="20230705022100 +0200" channel="Hayat">
+    <title lang="sl">Adnan Jakupović - Na današnji dan</title>
+  </programme>
+  <programme start="20230705022100 +0200" stop="20230705022500 +0200" channel="Hayat">
+    <title lang="sl">Armin Šaković - Mina</title>
+  </programme>
+  <programme start="20230705022500 +0200" stop="20230705022900 +0200" channel="Hayat">
+    <title lang="sl">Slađa Mandić - Drhtala ginula</title>
+  </programme>
+  <programme start="20230705022900 +0200" stop="20230705023400 +0200" channel="Hayat">
+    <title lang="sl">Armin Bijedić - Snjegovi</title>
+  </programme>
+  <programme start="20230705023400 +0200" stop="20230705023800 +0200" channel="Hayat">
+    <title lang="sl">Asim Brkan - Kako si mi prijatelju</title>
+  </programme>
+  <programme start="20230705023800 +0200" stop="20230705024100 +0200" channel="Hayat">
+    <title lang="sl">Muharem Serbezovski - Da je srce dijamant</title>
+  </programme>
+  <programme start="20230705024100 +0200" stop="20230705024400 +0200" channel="Hayat">
+    <title lang="sl">Alem Kadić - Račun za ljubav</title>
+  </programme>
+  <programme start="20230705024400 +0200" stop="20230705024800 +0200" channel="Hayat">
+    <title lang="sl">Šerif Konjević - Rano je</title>
+  </programme>
+  <programme start="20230705024800 +0200" stop="20230705025200 +0200" channel="Hayat">
+    <title lang="sl">Elvira Rahić - Orkani</title>
+  </programme>
+  <programme start="20230705025200 +0200" stop="20230705025600 +0200" channel="Hayat">
+    <title lang="sl">Jasmin Burek - Nema dana</title>
+  </programme>
+  <programme start="20230705025600 +0200" stop="20230705030000 +0200" channel="Hayat">
+    <title lang="sl">Hanka Paldum - Jedna si jedina</title>
+  </programme>
+  <programme start="20230705030000 +0200" stop="20230705030400 +0200" channel="Hayat">
+    <title lang="sl">Nazif Gljiva - Arijana</title>
+  </programme>
+  <programme start="20230705030400 +0200" stop="20230705030700 +0200" channel="Hayat">
+    <title lang="sl">Anida in Marko - Ljubav prava</title>
+  </programme>
+  <programme start="20230705030700 +0200" stop="20230705031100 +0200" channel="Hayat">
+    <title lang="sl">Isko Jakupović - Tamburaši</title>
+  </programme>
+  <programme start="20230705031100 +0200" stop="20230705031500 +0200" channel="Hayat">
+    <title lang="sl">Dino Bonvivan - Životna</title>
+  </programme>
+  <programme start="20230705031500 +0200" stop="20230705031800 +0200" channel="Hayat">
+    <title lang="sl">Nihad Alibegović - Eto ti on</title>
+  </programme>
+  <programme start="20230705031800 +0200" stop="20230705032200 +0200" channel="Hayat">
+    <title lang="sl">Halid Beslić - Sevdah da se dogodi</title>
+  </programme>
+  <programme start="20230705032200 +0200" stop="20230705032600 +0200" channel="Hayat">
+    <title lang="sl">Gordana Topić i Nenad Popović - Živi život</title>
+  </programme>
+  <programme start="20230705032600 +0200" stop="20230705033000 +0200" channel="Hayat">
+    <title lang="sl">Nihad Alibegović - Donesi divlje mirise</title>
+  </programme>
+  <programme start="20230705033000 +0200" stop="20230705033300 +0200" channel="Hayat">
+    <title lang="sl">Hanka Paldum - Merak</title>
+  </programme>
+  <programme start="20230705033300 +0200" stop="20230705033700 +0200" channel="Hayat">
+    <title lang="sl">Nihad Kantić Sike - Pola grada pola Bosne</title>
+  </programme>
+  <programme start="20230705033700 +0200" stop="20230705034100 +0200" channel="Hayat">
+    <title lang="sl">Osman Hadžić - Sve je daleko</title>
+  </programme>
+  <programme start="20230705034100 +0200" stop="20230705034400 +0200" channel="Hayat">
+    <title lang="sl">Dunja Fazlić in Anel Čorda - Šta smo uradili</title>
+  </programme>
+  <programme start="20230705034400 +0200" stop="20230705034800 +0200" channel="Hayat">
+    <title lang="sl">Plavi orkestar - Kad ti ljubav ime prozove</title>
+  </programme>
+  <programme start="20230705034800 +0200" stop="20230705035200 +0200" channel="Hayat">
+    <title lang="sl">Semir Cerić Koke - Sve i sad</title>
+  </programme>
+  <programme start="20230705035200 +0200" stop="20230705035500 +0200" channel="Hayat">
+    <title lang="sl">Šaćir Ameti - Dobra duša</title>
+  </programme>
+  <programme start="20230705035500 +0200" stop="20230705035900 +0200" channel="Hayat">
+    <title lang="sl">Amel Ćurić - Niko</title>
+  </programme>
+  <programme start="20230705035900 +0200" stop="20230705040400 +0200" channel="Hayat">
+    <title lang="sl">Dr Zo - Povratna</title>
+  </programme>
+  <programme start="20230705040400 +0200" stop="20230705040800 +0200" channel="Hayat">
+    <title lang="sl">Amir Kazić Leo - Krevet od ruža</title>
+  </programme>
+  <programme start="20230705040800 +0200" stop="20230705041200 +0200" channel="Hayat">
+    <title lang="sl">Almir Ajanović - Ako je suđeno</title>
+  </programme>
+  <programme start="20230705041200 +0200" stop="20230705041600 +0200" channel="Hayat">
+    <title lang="sl">Eldin Huseinbegović - Ako odeš, ne zaboravi</title>
+  </programme>
+  <programme start="20230705041600 +0200" stop="20230705042100 +0200" channel="Hayat">
+    <title lang="sl">Latif Moćević - Saputnik</title>
+  </programme>
+  <programme start="20230705042100 +0200" stop="20230705042600 +0200" channel="Hayat">
+    <title lang="sl">Hari Mata Hari – Sreća</title>
+  </programme>
+  <programme start="20230705042600 +0200" stop="20230705043000 +0200" channel="Hayat">
+    <title lang="sl">Zdravko Čolić - Kao moja mati</title>
+  </programme>
+  <programme start="20230705043000 +0200" stop="20230705043300 +0200" channel="Hayat">
+    <title lang="sl">Denial Ahmetović - Diži na noge sve</title>
+  </programme>
+  <programme start="20230705043300 +0200" stop="20230705043700 +0200" channel="Hayat">
+    <title lang="sl">Anida Idrizović - Ironija</title>
+  </programme>
+  <programme start="20230705043700 +0200" stop="20230705044100 +0200" channel="Hayat">
+    <title lang="sl">Sadik Hasanović – Dio mene</title>
+  </programme>
+  <programme start="20230705044100 +0200" stop="20230705044400 +0200" channel="Hayat">
+    <title lang="sl">Dino Memić - Anđeo bez duše</title>
+  </programme>
+  <programme start="20230705044400 +0200" stop="20230705044800 +0200" channel="Hayat">
+    <title lang="sl">Elvira Rahić - Sad ruke gore</title>
+  </programme>
+  <programme start="20230705044800 +0200" stop="20230705045100 +0200" channel="Hayat">
+    <title lang="sl">Adelisa Hodžić - Tetovaža</title>
+  </programme>
+  <programme start="20230705045100 +0200" stop="20230705045500 +0200" channel="Hayat">
+    <title lang="sl">Šerif Konjević - Rano je</title>
+  </programme>
+  <programme start="20230705045500 +0200" stop="20230705045800 +0200" channel="Hayat">
+    <title lang="sl">Armin Šaković - Mina</title>
+  </programme>
+  <programme start="20230705045800 +0200" stop="20230705050200 +0200" channel="Hayat">
+    <title lang="sl">Slađa Mandić - Drhtala ginula</title>
+  </programme>
+  <programme start="20230705050200 +0200" stop="20230705050700 +0200" channel="Hayat">
+    <title lang="sl">Armin Bijedić - Snjegovi</title>
+  </programme>
+  <programme start="20230705050700 +0200" stop="20230705051100 +0200" channel="Hayat">
+    <title lang="sl">Asim Brkan - Imali smo svoje vrijeme</title>
+  </programme>
+  <programme start="20230705051100 +0200" stop="20230705051500 +0200" channel="Hayat">
+    <title lang="sl">Amil Lojo - Više te ne volim</title>
+  </programme>
+  <programme start="20230705051500 +0200" stop="20230705051800 +0200" channel="Hayat">
+    <title lang="sl">Armin Bijedić - Zašto si tu</title>
+  </programme>
+  <programme start="20230705051800 +0200" stop="20230705052100 +0200" channel="Hayat">
+    <title lang="sl">Jasmin Burek - Dukati</title>
+  </programme>
+  <programme start="20230705052100 +0200" stop="20230705052700 +0200" channel="Hayat">
+    <title lang="sl">Hanka Paldum - Ljubav svih vremena</title>
+  </programme>
+  <programme start="20230705052700 +0200" stop="20230705053100 +0200" channel="Hayat">
+    <title lang="sl">Halid Bešlić - Romanija</title>
+  </programme>
+  <programme start="20230705053100 +0200" stop="20230705053500 +0200" channel="Hayat">
+    <title lang="sl">Adnan Jakupović - Mjesece</title>
+  </programme>
+  <programme start="20230705053500 +0200" stop="20230705053900 +0200" channel="Hayat">
+    <title lang="sl">Anida in Marko - Ljubav prava</title>
+  </programme>
+  <programme start="20230705053900 +0200" stop="20230705054300 +0200" channel="Hayat">
+    <title lang="sl">Denial Ahmetović - Učini nešto</title>
+  </programme>
+  <programme start="20230705054300 +0200" stop="20230705054600 +0200" channel="Hayat">
+    <title lang="sl">Slađa Mandić - Lude noći</title>
+  </programme>
+  <programme start="20230705054600 +0200" stop="20230705055000 +0200" channel="Hayat">
+    <title lang="sl">Šaćir Ameti - Sve se vrti oko žena</title>
+  </programme>
+  <programme start="20230705055000 +0200" stop="20230705055300 +0200" channel="Hayat">
+    <title lang="sl">Ruža Efendić in Kemal Hasić - Ne daj me</title>
+  </programme>
+  <programme start="20230705055300 +0200" stop="20230705055700 +0200" channel="Hayat">
+    <title lang="sl">Nikolina Kovač - Kako da te zaboravim</title>
+  </programme>
+  <programme start="20230705055700 +0200" stop="20230705065500 +0200" channel="Hayat">
+    <title lang="sl">Haris Džinović - Pariške kapije</title>
+  </programme>
+  <programme start="20230705065500 +0200" stop="20230705075500 +0200" channel="Hayat">
+    <title lang="sl">Dober dan BiH</title>
+  </programme>
+  <programme start="20230705075500 +0200" stop="20230705084000 +0200" channel="Hayat">
+    <title lang="sl">Prepovedano jabolko</title>
+  </programme>
+  <programme start="20230705084000 +0200" stop="20230705084500 +0200" channel="Hayat">
+    <title lang="sl">Labeffective</title>
+  </programme>
+  <programme start="20230705084500 +0200" stop="20230705090000 +0200" channel="Hayat">
+    <title lang="sl">TV izložba</title>
+  </programme>
+  <programme start="20230705090000 +0200" stop="20230705095000 +0200" channel="Hayat">
+    <title lang="sl">Prepovedano jabolko</title>
+  </programme>
+  <programme start="20230705095000 +0200" stop="20230705100500 +0200" channel="Hayat">
+    <title lang="sl">Retro Media</title>
+  </programme>
+  <programme start="20230705100500 +0200" stop="20230705110500 +0200" channel="Hayat">
+    <title lang="sl">Tri Sestre</title>
+  </programme>
+  <programme start="20230705110500 +0200" stop="20230705112000 +0200" channel="Hayat">
+    <title lang="sl">TV izložba</title>
+  </programme>
+  <programme start="20230705112000 +0200" stop="20230705123000 +0200" channel="Hayat">
+    <title lang="sl">Domovina</title>
+  </programme>
+  <programme start="20230705123000 +0200" stop="20230705123500 +0200" channel="Hayat">
+    <title lang="sl">Minute za zdravje</title>
+  </programme>
+  <programme start="20230705123500 +0200" stop="20230705125000 +0200" channel="Hayat">
+    <title lang="sl">TV izložba</title>
+  </programme>
+  <programme start="20230705125000 +0200" stop="20230705134500 +0200" channel="Hayat">
+    <title lang="sl">Steklena kletka</title>
+  </programme>
+  <programme start="20230705134500 +0200" stop="20230705140000 +0200" channel="Hayat">
+    <title lang="sl">TV izložba</title>
+  </programme>
+  <programme start="20230705140000 +0200" stop="20230705145000 +0200" channel="Hayat">
+    <title lang="sl">Osman</title>
+  </programme>
+  <programme start="20230705145000 +0200" stop="20230705152500 +0200" channel="Hayat">
+    <title lang="sl">TV izložba</title>
+  </programme>
+  <programme start="20230705152500 +0200" stop="20230705154000 +0200" channel="Hayat">
+    <title lang="sl">TV izložba</title>
+  </programme>
+  <programme start="20230705154000 +0200" stop="20230705163000 +0200" channel="Hayat">
+    <title lang="sl">Planina ljubezni</title>
+  </programme>
+  <programme start="20230705163000 +0200" stop="20230705174000 +0200" channel="Hayat">
+    <title lang="sl">Dober dan BiH</title>
+  </programme>
+  <programme start="20230705174000 +0200" stop="20230705185000 +0200" channel="Hayat">
+    <title lang="sl">Domovina</title>
+  </programme>
+  <programme start="20230705185000 +0200" stop="20230705191000 +0200" channel="Hayat">
+    <title lang="sl">Novice ob 7h</title>
+  </programme>
+  <programme start="20230705191000 +0200" stop="20230705194500 +0200" channel="Hayat">
+    <title lang="sl">7 plus</title>
+  </programme>
+  <programme start="20230705194500 +0200" stop="20230705200000 +0200" channel="Hayat">
+    <title lang="sl">Šport</title>
+  </programme>
+  <programme start="20230705200000 +0200" stop="20230705205000 +0200" channel="Hayat">
+    <title lang="sl">Steklena kletka</title>
+  </programme>
+  <programme start="20230705205000 +0200" stop="20230705205500 +0200" channel="Hayat">
+    <title lang="sl">Osveži leto</title>
+  </programme>
+  <programme start="20230705205500 +0200" stop="20230705215000 +0200" channel="Hayat">
+    <title lang="sl">Osman</title>
+  </programme>
+  <programme start="20230705215000 +0200" stop="20230705224500 +0200" channel="Hayat">
+    <title lang="sl">Steklena kletka</title>
+  </programme>
+  <programme start="20230705224500 +0200" stop="20230705234000 +0200" channel="Hayat">
+    <title lang="sl">Planina ljubezni</title>
+  </programme>
+  <programme start="20230705234000 +0200" stop="20230706004000 +0200" channel="Hayat">
+    <title lang="sl">Domovina</title>
+  </programme>
+  <programme start="20230706004000 +0200" stop="20230706010000 +0200" channel="Hayat">
+    <title lang="sl">Novice ob 7h</title>
+  </programme>
+  <programme start="20230706010000 +0200" stop="20230706013000 +0200" channel="Hayat">
+    <title lang="sl">7 plus</title>
+  </programme>
+  <programme start="20230706013000 +0200" stop="20230706065500 +0200" channel="Hayat">
+    <title lang="sl">Šport</title>
+  </programme>
+  <programme start="20230706065500 +0200" stop="20230706075500 +0200" channel="Hayat">
+    <title lang="sl">Dober dan BiH</title>
+  </programme>
+  <programme start="20230706075500 +0200" stop="20230706084000 +0200" channel="Hayat">
+    <title lang="sl">Prepovedano jabolko</title>
+  </programme>
+  <programme start="20230706084000 +0200" stop="20230706084500 +0200" channel="Hayat">
+    <title lang="sl">Labeffective</title>
+  </programme>
+  <programme start="20230706084500 +0200" stop="20230706090000 +0200" channel="Hayat">
+    <title lang="sl">TV izložba</title>
+  </programme>
+  <programme start="20230706090000 +0200" stop="20230706095000 +0200" channel="Hayat">
+    <title lang="sl">Prepovedano jabolko</title>
+  </programme>
+  <programme start="20230706095000 +0200" stop="20230706100500 +0200" channel="Hayat">
+    <title lang="sl">Retro Media</title>
+  </programme>
+  <programme start="20230706100500 +0200" stop="20230706105500 +0200" channel="Hayat">
+    <title lang="sl">Steklena kletka</title>
+  </programme>
+  <programme start="20230706105500 +0200" stop="20230706112000 +0200" channel="Hayat">
+    <title lang="sl">TV izložba</title>
+  </programme>
+  <programme start="20230706112000 +0200" stop="20230706123000 +0200" channel="Hayat">
+    <title lang="sl">Domovina</title>
+  </programme>
+  <programme start="20230706123000 +0200" stop="20230706123500 +0200" channel="Hayat">
+    <title lang="sl">Minute za zdravje</title>
+  </programme>
+  <programme start="20230706123500 +0200" stop="20230706125000 +0200" channel="Hayat">
+    <title lang="sl">TV izložba</title>
+  </programme>
+  <programme start="20230706125000 +0200" stop="20230706134500 +0200" channel="Hayat">
+    <title lang="sl">Steklena kletka</title>
+  </programme>
+  <programme start="20230706134500 +0200" stop="20230706140000 +0200" channel="Hayat">
+    <title lang="sl">TV izložba</title>
+  </programme>
+  <programme start="20230706140000 +0200" stop="20230706152500 +0200" channel="Hayat">
+    <title lang="sl">Osman</title>
+  </programme>
+  <programme start="20230706152500 +0200" stop="20230706154000 +0200" channel="Hayat">
+    <title lang="sl">TV izložba</title>
+  </programme>
+  <programme start="20230706154000 +0200" stop="20230706163000 +0200" channel="Hayat">
+    <title lang="sl">Planina ljubezni</title>
+  </programme>
+  <programme start="20230706163000 +0200" stop="20230706174000 +0200" channel="Hayat">
+    <title lang="sl">Dober dan BiH</title>
+  </programme>
+  <programme start="20230706174000 +0200" stop="20230706185000 +0200" channel="Hayat">
+    <title lang="sl">Domovina</title>
+  </programme>
+  <programme start="20230706185000 +0200" stop="20230706191000 +0200" channel="Hayat">
+    <title lang="sl">Novice ob 7h</title>
+  </programme>
+  <programme start="20230706191000 +0200" stop="20230706194500 +0200" channel="Hayat">
+    <title lang="sl">7 plus</title>
+  </programme>
+  <programme start="20230706194500 +0200" stop="20230706200000 +0200" channel="Hayat">
+    <title lang="sl">Šport</title>
+  </programme>
+  <programme start="20230706200000 +0200" stop="20230706205000 +0200" channel="Hayat">
+    <title lang="sl">Steklena kletka</title>
+  </programme>
+  <programme start="20230706205000 +0200" stop="20230706205500 +0200" channel="Hayat">
+    <title lang="sl">Osveži leto</title>
+  </programme>
+  <programme start="20230706205500 +0200" stop="20230706215000 +0200" channel="Hayat">
+    <title lang="sl">Osman</title>
+  </programme>
+  <programme start="20230706215000 +0200" stop="20230706224500 +0200" channel="Hayat">
+    <title lang="sl">Steklena kletka</title>
+  </programme>
+  <programme start="20230706224500 +0200" stop="20230706234000 +0200" channel="Hayat">
+    <title lang="sl">Planina ljubezni</title>
+  </programme>
+</tv>
