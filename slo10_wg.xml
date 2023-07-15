@@ -42,6 +42,7 @@
   </channel>
   <channel id="Šport TV 3">
     <display-name lang="sl">Šport TV 3</display-name>
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/sporttv3_updated13323124019.png" />
     <url>http://www.siol.net</url>
   </channel>
   <channel id="NickToons">
@@ -1032,8 +1033,11 @@
   <programme start="20230715200000 +0200" stop="20230715220000 +0200" channel="Z1 Televizija">
     <title lang="sl">Glasbena ordinacija</title>
   </programme>
-  <programme start="20230715220000 +0200" stop="20230715223000 +0200" channel="Z1 Televizija">
+  <programme start="20230715220000 +0200" stop="20230715222500 +0200" channel="Z1 Televizija">
     <title lang="sl">Kultura 21</title>
+  </programme>
+  <programme start="20230715222500 +0200" stop="20230715223000 +0200" channel="Z1 Televizija">
+    <title lang="sl">Glasba</title>
   </programme>
   <programme start="20230715223000 +0200" stop="20230715225500 +0200" channel="Z1 Televizija">
     <title lang="sl">Človek in bog</title>
@@ -1062,28 +1066,25 @@
   <programme start="20230716064500 +0200" stop="20230716070000 +0200" channel="Z1 Televizija">
     <title lang="sl">Glasba</title>
   </programme>
-  <programme start="20230716070000 +0200" stop="20230716074500 +0200" channel="Z1 Televizija">
+  <programme start="20230716070000 +0200" stop="20230716075000 +0200" channel="Z1 Televizija">
     <title lang="sl">Ura za zdravje</title>
-  </programme>
-  <programme start="20230716074500 +0200" stop="20230716075000 +0200" channel="Z1 Televizija">
-    <title lang="sl">Napoved programa</title>
   </programme>
   <programme start="20230716075000 +0200" stop="20230716080000 +0200" channel="Z1 Televizija">
     <title lang="sl">Glasbena cona</title>
   </programme>
-  <programme start="20230716080000 +0200" stop="20230716083000 +0200" channel="Z1 Televizija">
+  <programme start="20230716080000 +0200" stop="20230716082500 +0200" channel="Z1 Televizija">
     <title lang="sl">Zvezdniška preobrazba</title>
+  </programme>
+  <programme start="20230716082500 +0200" stop="20230716083000 +0200" channel="Z1 Televizija">
+    <title lang="sl">Napoved programa</title>
   </programme>
   <programme start="20230716083000 +0200" stop="20230716090000 +0200" channel="Z1 Televizija">
     <title lang="sl">Beseda na besedo</title>
   </programme>
-  <programme start="20230716090000 +0200" stop="20230716090500 +0200" channel="Z1 Televizija">
-    <title lang="sl">Napoved programa</title>
-  </programme>
-  <programme start="20230716090500 +0200" stop="20230716092000 +0200" channel="Z1 Televizija">
+  <programme start="20230716090000 +0200" stop="20230716091500 +0200" channel="Z1 Televizija">
     <title lang="sl">Zagrebški leksikon</title>
   </programme>
-  <programme start="20230716092000 +0200" stop="20230716093000 +0200" channel="Z1 Televizija">
+  <programme start="20230716091500 +0200" stop="20230716093000 +0200" channel="Z1 Televizija">
     <title lang="sl">Napoved programa</title>
   </programme>
   <programme start="20230716093000 +0200" stop="20230716100000 +0200" channel="Z1 Televizija">
@@ -1098,29 +1099,26 @@
   <programme start="20230716104500 +0200" stop="20230716110000 +0200" channel="Z1 Televizija">
     <title lang="sl">TV prodaja</title>
   </programme>
-  <programme start="20230716110000 +0200" stop="20230716114500 +0200" channel="Z1 Televizija">
-    <title lang="sl">Glasbena cona</title>
+  <programme start="20230716110000 +0200" stop="20230716113500 +0200" channel="Z1 Televizija">
+    <title lang="sl">Ukrep</title>
   </programme>
-  <programme start="20230716114500 +0200" stop="20230716120000 +0200" channel="Z1 Televizija">
+  <programme start="20230716113500 +0200" stop="20230716114500 +0200" channel="Z1 Televizija">
     <title lang="sl">TV prodaja</title>
   </programme>
-  <programme start="20230716120000 +0200" stop="20230716121500 +0200" channel="Z1 Televizija">
-    <title lang="sl">Glasbena cona</title>
-  </programme>
-  <programme start="20230716121500 +0200" stop="20230716131500 +0200" channel="Z1 Televizija">
-    <title lang="sl">Bujica</title>
-  </programme>
-  <programme start="20230716131500 +0200" stop="20230716135500 +0200" channel="Z1 Televizija">
-    <title lang="sl">Time Out</title>
-  </programme>
-  <programme start="20230716135500 +0200" stop="20230716140000 +0200" channel="Z1 Televizija">
+  <programme start="20230716114500 +0200" stop="20230716120000 +0200" channel="Z1 Televizija">
     <title lang="sl">Napoved programa</title>
   </programme>
-  <programme start="20230716140000 +0200" stop="20230716143000 +0200" channel="Z1 Televizija">
-    <title lang="sl">Branilci danes</title>
+  <programme start="20230716120000 +0200" stop="20230716130000 +0200" channel="Z1 Televizija">
+    <title lang="sl">Bujica</title>
   </programme>
-  <programme start="20230716143000 +0200" stop="20230716150000 +0200" channel="Z1 Televizija">
-    <title lang="sl">Novi Gruntovčani</title>
+  <programme start="20230716130000 +0200" stop="20230716133500 +0200" channel="Z1 Televizija">
+    <title lang="sl">Time Out</title>
+  </programme>
+  <programme start="20230716133500 +0200" stop="20230716140000 +0200" channel="Z1 Televizija">
+    <title lang="sl">Glasbena cona</title>
+  </programme>
+  <programme start="20230716140000 +0200" stop="20230716150000 +0200" channel="Z1 Televizija">
+    <title lang="sl">Svobodni</title>
   </programme>
   <programme start="20230716150000 +0200" stop="20230716151500 +0200" channel="Z1 Televizija">
     <title lang="sl">TV prodaja</title>
@@ -1156,24 +1154,18 @@
     <title lang="sl">TV prodaja</title>
   </programme>
   <programme start="20230716191500 +0200" stop="20230716195500 +0200" channel="Z1 Televizija">
-    <title lang="sl">Koncert</title>
+    <title lang="sl">Glasbena cona</title>
   </programme>
   <programme start="20230716195500 +0200" stop="20230716230500 +0200" channel="Z1 Televizija">
     <title lang="sl">Rubala šov</title>
   </programme>
   <programme start="20230716230500 +0200" stop="20230716233000 +0200" channel="Z1 Televizija">
-    <title lang="sl">Glasbena cona</title>
+    <title lang="sl">Glasba</title>
   </programme>
   <programme start="20230716233000 +0200" stop="20230717020000 +0200" channel="Z1 Televizija">
     <title lang="sl">Zip</title>
   </programme>
-  <programme start="20230717020000 +0200" stop="20230717030500 +0200" channel="Z1 Televizija">
-    <title lang="sl">Izbor iz Jutrograma</title>
-  </programme>
-  <programme start="20230717030500 +0200" stop="20230717033500 +0200" channel="Z1 Televizija">
-    <title lang="sl">Koncert</title>
-  </programme>
-  <programme start="20230717033500 +0200" stop="20230717043000 +0200" channel="Z1 Televizija">
+  <programme start="20230717020000 +0200" stop="20230717043000 +0200" channel="Z1 Televizija">
     <title lang="sl">Glasbena cona</title>
   </programme>
   <programme start="20230717043000 +0200" stop="20230717050000 +0200" channel="Z1 Televizija">
@@ -1185,14 +1177,14 @@
   <programme start="20230717054500 +0200" stop="20230717061500 +0200" channel="Z1 Televizija">
     <title lang="sl">Od njive do mize</title>
   </programme>
-  <programme start="20230717061500 +0200" stop="20230717064000 +0200" channel="Z1 Televizija">
+  <programme start="20230717061500 +0200" stop="20230717063000 +0200" channel="Z1 Televizija">
     <title lang="sl">Poudarek dneva</title>
   </programme>
-  <programme start="20230717064000 +0200" stop="20230717073000 +0200" channel="Z1 Televizija">
-    <title lang="sl">Dokumentarni program</title>
+  <programme start="20230717063000 +0200" stop="20230717073000 +0200" channel="Z1 Televizija">
+    <title lang="sl">Dokumentarni film</title>
   </programme>
   <programme start="20230717073000 +0200" stop="20230717080000 +0200" channel="Z1 Televizija">
-    <title lang="sl">Glasba</title>
+    <title lang="sl">Glasbena cona</title>
   </programme>
   <programme start="20230717080000 +0200" stop="20230717085000 +0200" channel="Z1 Televizija">
     <title lang="sl">Ura za zdravje</title>
@@ -1236,13 +1228,7 @@
   <programme start="20230717124500 +0200" stop="20230717130000 +0200" channel="Z1 Televizija">
     <title lang="sl">TV prodaja</title>
   </programme>
-  <programme start="20230717130000 +0200" stop="20230717131000 +0200" channel="Z1 Televizija">
-    <title lang="sl">TV Blisk</title>
-  </programme>
-  <programme start="20230717131000 +0200" stop="20230717131500 +0200" channel="Z1 Televizija">
-    <title lang="sl">Hitre novice</title>
-  </programme>
-  <programme start="20230717131500 +0200" stop="20230717132000 +0200" channel="Z1 Televizija">
+  <programme start="20230717130000 +0200" stop="20230717132000 +0200" channel="Z1 Televizija">
     <title lang="sl">Glasba</title>
   </programme>
   <programme start="20230717132000 +0200" stop="20230717141500 +0200" channel="Z1 Televizija">
@@ -1251,11 +1237,8 @@
   <programme start="20230717141500 +0200" stop="20230717145000 +0200" channel="Z1 Televizija">
     <title lang="sl">Ukrep</title>
   </programme>
-  <programme start="20230717145000 +0200" stop="20230717145500 +0200" channel="Z1 Televizija">
+  <programme start="20230717145000 +0200" stop="20230717150000 +0200" channel="Z1 Televizija">
     <title lang="sl">Napoved programa</title>
-  </programme>
-  <programme start="20230717145500 +0200" stop="20230717150000 +0200" channel="Z1 Televizija">
-    <title lang="sl">Hitre novice</title>
   </programme>
   <programme start="20230717150000 +0200" stop="20230717163000 +0200" channel="Z1 Televizija">
     <title lang="sl">DemoKroacija</title>
@@ -1302,11 +1285,8 @@
   <programme start="20230717195500 +0200" stop="20230717200500 +0200" channel="Z1 Televizija">
     <title lang="sl">Glasba</title>
   </programme>
-  <programme start="20230717200500 +0200" stop="20230717210500 +0200" channel="Z1 Televizija">
+  <programme start="20230717200500 +0200" stop="20230717211000 +0200" channel="Z1 Televizija">
     <title lang="sl">Bujica</title>
-  </programme>
-  <programme start="20230717210500 +0200" stop="20230717211000 +0200" channel="Z1 Televizija">
-    <title lang="sl">Glasba</title>
   </programme>
   <programme start="20230717211000 +0200" stop="20230717211500 +0200" channel="Z1 Televizija">
     <title lang="sl">Hitre novice</title>
@@ -1380,13 +1360,7 @@
   <programme start="20230718124500 +0200" stop="20230718130000 +0200" channel="Z1 Televizija">
     <title lang="sl">TV prodaja</title>
   </programme>
-  <programme start="20230718130000 +0200" stop="20230718131000 +0200" channel="Z1 Televizija">
-    <title lang="sl">Glasba</title>
-  </programme>
-  <programme start="20230718131000 +0200" stop="20230718131500 +0200" channel="Z1 Televizija">
-    <title lang="sl">Hitre novice</title>
-  </programme>
-  <programme start="20230718131500 +0200" stop="20230718132000 +0200" channel="Z1 Televizija">
+  <programme start="20230718130000 +0200" stop="20230718132000 +0200" channel="Z1 Televizija">
     <title lang="sl">Glasba</title>
   </programme>
   <programme start="20230718132000 +0200" stop="20230718141500 +0200" channel="Z1 Televizija">
@@ -1440,11 +1414,8 @@
   <programme start="20230718195500 +0200" stop="20230718200000 +0200" channel="Z1 Televizija">
     <title lang="sl">Glasba</title>
   </programme>
-  <programme start="20230718200000 +0200" stop="20230718210000 +0200" channel="Z1 Televizija">
+  <programme start="20230718200000 +0200" stop="20230718211000 +0200" channel="Z1 Televizija">
     <title lang="sl">Rendezvous z Ratkom Martinovićem</title>
-  </programme>
-  <programme start="20230718210000 +0200" stop="20230718211000 +0200" channel="Z1 Televizija">
-    <title lang="sl">Glasba</title>
   </programme>
   <programme start="20230718211000 +0200" stop="20230718211500 +0200" channel="Z1 Televizija">
     <title lang="sl">Hitre novice</title>
@@ -2858,6 +2829,222 @@
   </programme>
   <programme start="20230718210000 +0200" stop="20230718230000 +0200" channel="Šport TV 2">
     <title lang="sl">Nogomet (M): Freiburg - Borussia Dortmund, Bundesliga</title>
+  </programme>
+  <programme start="20230715001500 +0200" stop="20230715004500 +0200" channel="Šport TV 3">
+    <title lang="sl">FIA Karting European Championship: Zaragoza, vrhunci</title>
+  </programme>
+  <programme start="20230715004500 +0200" stop="20230715014500 +0200" channel="Šport TV 3">
+    <title lang="sl">Tenis na mivki (Ž): Diaz/Miiller - Chow/Marchezini, Brasilia Classic, polfinale</title>
+  </programme>
+  <programme start="20230715014500 +0200" stop="20230715030000 +0200" channel="Šport TV 3">
+    <title lang="sl">Tenis na mivki (Ž): Cimatti/Fernandez Palos - Daina/Nobile, Brasilia Classic, polfinale</title>
+  </programme>
+  <programme start="20230715030000 +0200" stop="20230715050000 +0200" channel="Šport TV 3">
+    <title lang="sl">Nogomet (M): Heidenheim - St. Pauli, 2. Bundesliga</title>
+  </programme>
+  <programme start="20230715050000 +0200" stop="20230715060000 +0200" channel="Šport TV 3">
+    <title lang="sl">Motokros: MX2, VN Lomboka, 1. dirka</title>
+  </programme>
+  <programme start="20230715060000 +0200" stop="20230715070000 +0200" channel="Šport TV 3">
+    <title lang="sl">Motokros: MX2, VN Lomboka, 2. dirka</title>
+  </programme>
+  <programme start="20230715070000 +0200" stop="20230715073000 +0200" channel="Šport TV 3">
+    <title lang="sl">Svet ekstremnih športov</title>
+  </programme>
+  <programme start="20230715073000 +0200" stop="20230715093000 +0200" channel="Šport TV 3">
+    <title lang="sl">Nogomet (M): Sparta Rotterdam - Twente, Eredivisie</title>
+  </programme>
+  <programme start="20230715093000 +0200" stop="20230715110000 +0200" channel="Šport TV 3">
+    <title lang="sl">Extreme E: Sardinija, druge kvalifikacije</title>
+  </programme>
+  <programme start="20230715110000 +0200" stop="20230715130000 +0200" channel="Šport TV 3">
+    <title lang="sl">Hokej (M): Olimpija - VSV, ICE Hockey League</title>
+  </programme>
+  <programme start="20230715130000 +0200" stop="20230715150000 +0200" channel="Šport TV 3">
+    <title lang="sl">Extreme E: Sardinija, prva dirka</title>
+  </programme>
+  <programme start="20230715150000 +0200" stop="20230715160000 +0200" channel="Šport TV 3">
+    <title lang="sl">Motokros: MXGP, VN Lomboka, 1. dirka</title>
+  </programme>
+  <programme start="20230715160000 +0200" stop="20230715170000 +0200" channel="Šport TV 3">
+    <title lang="sl">Motokros: MXGP, VN Lomboka, 2. dirka</title>
+  </programme>
+  <programme start="20230715170000 +0200" stop="20230715180000 +0200" channel="Šport TV 3">
+    <title lang="sl">Tenis na mivki (Ž): Diaz/Miiller - Chow/Marchezini, Brasilia Classic, polfinale</title>
+  </programme>
+  <programme start="20230715180000 +0200" stop="20230715191500 +0200" channel="Šport TV 3">
+    <title lang="sl">Tenis na mivki (Ž): Cimatti/Fernandez Palos - Daina/Nobile, Brasilia Classic, polfinale</title>
+  </programme>
+  <programme start="20230715191500 +0200" stop="20230715193000 +0200" channel="Šport TV 3">
+    <title lang="sl">Pungart Metlika: Reportaža</title>
+  </programme>
+  <programme start="20230715193000 +0200" stop="20230715213000 +0200" channel="Šport TV 3">
+    <title lang="sl">Extreme E: Sardinija, druga dirka</title>
+  </programme>
+  <programme start="20230715213000 +0200" stop="20230715230000 +0200" channel="Šport TV 3">
+    <title lang="sl">Tenis na mivki (Ž): Diaz/Miiller - Daina/Nobile, Brasilia Classic, finale</title>
+  </programme>
+  <programme start="20230715230000 +0200" stop="20230716004500 +0200" channel="Šport TV 3">
+    <title lang="sl">Tenis na mivki (M): Baran/Burmakin - Gianotti/Spoto, Brasilia Classic, finale</title>
+  </programme>
+  <programme start="20230716004500 +0200" stop="20230716011500 +0200" channel="Šport TV 3">
+    <title lang="sl">Svet ekstremnih športov</title>
+  </programme>
+  <programme start="20230716011500 +0200" stop="20230716030000 +0200" channel="Šport TV 3">
+    <title lang="sl">Nogomet (M): Darmstadt - Kaiserslautern, 2. Bundesliga</title>
+  </programme>
+  <programme start="20230716030000 +0200" stop="20230716050000 +0200" channel="Šport TV 3">
+    <title lang="sl">Nogomet (M): Karlsruher - Eintracht Braunschweig, 2. Bundesliga</title>
+  </programme>
+  <programme start="20230716050000 +0200" stop="20230716070000 +0200" channel="Šport TV 3">
+    <title lang="sl">Nogomet (M): Hamburger SV - Hannover, 2. Bundesliga</title>
+  </programme>
+  <programme start="20230716070000 +0200" stop="20230716073000 +0200" channel="Šport TV 3">
+    <title lang="sl">FIA Karting European Championship: Zaragoza, vrhunci</title>
+  </programme>
+  <programme start="20230716073000 +0200" stop="20230716093000 +0200" channel="Šport TV 3">
+    <title lang="sl">Nogomet (M): PSV - AZ Alkmaar, Eredivisie</title>
+  </programme>
+  <programme start="20230716093000 +0200" stop="20230716110000 +0200" channel="Šport TV 3">
+    <title lang="sl">Extreme E: Sardinija, prve kvalifikacije</title>
+  </programme>
+  <programme start="20230716110000 +0200" stop="20230716130000 +0200" channel="Šport TV 3">
+    <title lang="sl">Hokej (M): Olimpija - Linz, ICE Hockey League</title>
+  </programme>
+  <programme start="20230716130000 +0200" stop="20230716150000 +0200" channel="Šport TV 3">
+    <title lang="sl">Extreme E: Sardinija, druga dirka</title>
+  </programme>
+  <programme start="20230716150000 +0200" stop="20230716151500 +0200" channel="Šport TV 3">
+    <title lang="sl">Idealna linija</title>
+  </programme>
+  <programme start="20230716151500 +0200" stop="20230716164500 +0200" channel="Šport TV 3">
+    <title lang="sl">Tenis na mivki (Ž): Diaz/Miiller - Daina/Nobile, Brasilia Classic, finale</title>
+  </programme>
+  <programme start="20230716164500 +0200" stop="20230716183000 +0200" channel="Šport TV 3">
+    <title lang="sl">Tenis na mivki (M): Baran/Burmakin - Gianotti/Spoto, Brasilia Classic, finale</title>
+  </programme>
+  <programme start="20230716183000 +0200" stop="20230716194500 +0200" channel="Šport TV 3">
+    <title lang="sl">Streljanje (Ž): Trap, ISSF Svetovni pokal Lonato</title>
+  </programme>
+  <programme start="20230716194500 +0200" stop="20230716210000 +0200" channel="Šport TV 3">
+    <title lang="sl">Streljanje (M): Trap, ISSF Svetovni pokal Lonato</title>
+  </programme>
+  <programme start="20230716210000 +0200" stop="20230716220000 +0200" channel="Šport TV 3">
+    <title lang="sl">Motokros: MXGP, VN Češke, 1. dirka</title>
+  </programme>
+  <programme start="20230716220000 +0200" stop="20230716230000 +0200" channel="Šport TV 3">
+    <title lang="sl">Motokros: MXGP, VN Češke, 2. dirka</title>
+  </programme>
+  <programme start="20230716230000 +0200" stop="20230717000000 +0200" channel="Šport TV 3">
+    <title lang="sl">Motokros: MX2, VN Češke, 1. dirka</title>
+  </programme>
+  <programme start="20230717000000 +0200" stop="20230717010000 +0200" channel="Šport TV 3">
+    <title lang="sl">Motokros: MX2, VN Češke, 2. dirka</title>
+  </programme>
+  <programme start="20230717010000 +0200" stop="20230717024500 +0200" channel="Šport TV 3">
+    <title lang="sl">Tenis na mivki (M): Cappelletti/Ramos Viera - Baran/Burmakin, Brasilia Classic, polfinale</title>
+  </programme>
+  <programme start="20230717024500 +0200" stop="20230717040000 +0200" channel="Šport TV 3">
+    <title lang="sl">Tenis na mivki (M): Gonzaga/Galeazzi - Gianotti/Spoto, Brasilia Classic, polfinale</title>
+  </programme>
+  <programme start="20230717040000 +0200" stop="20230717043000 +0200" channel="Šport TV 3">
+    <title lang="sl">Akcija</title>
+  </programme>
+  <programme start="20230717043000 +0200" stop="20230717050000 +0200" channel="Šport TV 3">
+    <title lang="sl">Svet ekstremnih športov</title>
+  </programme>
+  <programme start="20230717050000 +0200" stop="20230717070000 +0200" channel="Šport TV 3">
+    <title lang="sl">Nogomet (M): Arminia Bielefeld - Fortuna Düsseldorf, 2. Bundesliga</title>
+  </programme>
+  <programme start="20230717070000 +0200" stop="20230717073000 +0200" channel="Šport TV 3">
+    <title lang="sl">FIA Pure Motorsport</title>
+  </programme>
+  <programme start="20230717073000 +0200" stop="20230717093000 +0200" channel="Šport TV 3">
+    <title lang="sl">Nogomet (M): Utrecht - Feyenoord, Eredivisie</title>
+  </programme>
+  <programme start="20230717093000 +0200" stop="20230717110000 +0200" channel="Šport TV 3">
+    <title lang="sl">Košarka (M): Ilirija - Šenčur, Liga Nova KBM</title>
+  </programme>
+  <programme start="20230717110000 +0200" stop="20230717130000 +0200" channel="Šport TV 3">
+    <title lang="sl">Hokej (M): Olimpija - Asiago, ICE Hockey League</title>
+  </programme>
+  <programme start="20230717130000 +0200" stop="20230717150000 +0200" channel="Šport TV 3">
+    <title lang="sl">Nogomet (M): Heidenheim - Darmstadt, 2. Bundesliga</title>
+  </programme>
+  <programme start="20230717150000 +0200" stop="20230717160000 +0200" channel="Šport TV 3">
+    <title lang="sl">Motokros: MX2, VN Češke, 1. dirka</title>
+  </programme>
+  <programme start="20230717160000 +0200" stop="20230717170000 +0200" channel="Šport TV 3">
+    <title lang="sl">Motokros: MX2, VN Češke, 2. dirka</title>
+  </programme>
+  <programme start="20230717170000 +0200" stop="20230717180000 +0200" channel="Šport TV 3">
+    <title lang="sl">Motokros: MXGP, VN Češke, 1. dirka</title>
+  </programme>
+  <programme start="20230717180000 +0200" stop="20230717190000 +0200" channel="Šport TV 3">
+    <title lang="sl">Motokros: MXGP, VN Češke, 2. dirka</title>
+  </programme>
+  <programme start="20230717190000 +0200" stop="20230717201500 +0200" channel="Šport TV 3">
+    <title lang="sl">Streljanje (Ž): Trap, ISSF Svetovni pokal Lonato</title>
+  </programme>
+  <programme start="20230717201500 +0200" stop="20230717213000 +0200" channel="Šport TV 3">
+    <title lang="sl">Streljanje (M): Trap, ISSF Svetovni pokal Lonato</title>
+  </programme>
+  <programme start="20230717213000 +0200" stop="20230717230000 +0200" channel="Šport TV 3">
+    <title lang="sl">Tenis na mivki (Ž): Diaz/Miiller - Daina/Nobile, Brasilia Classic, finale</title>
+  </programme>
+  <programme start="20230717230000 +0200" stop="20230718004500 +0200" channel="Šport TV 3">
+    <title lang="sl">Tenis na mivki (M): Baran/Burmakin - Gianotti/Spoto, Brasilia Classic, finale</title>
+  </programme>
+  <programme start="20230718004500 +0200" stop="20230718014500 +0200" channel="Šport TV 3">
+    <title lang="sl">Extreme E: Sardinija, vrhunci prvega dne</title>
+  </programme>
+  <programme start="20230718014500 +0200" stop="20230718024500 +0200" channel="Šport TV 3">
+    <title lang="sl">Extreme E: Sardinija, vrhunci drugega dne</title>
+  </programme>
+  <programme start="20230718024500 +0200" stop="20230718034500 +0200" channel="Šport TV 3">
+    <title lang="sl">Tenis na mivki (Ž): Diaz/Miiller - Chow/Marchezini, Brasilia Classic, polfinale</title>
+  </programme>
+  <programme start="20230718034500 +0200" stop="20230718050000 +0200" channel="Šport TV 3">
+    <title lang="sl">Tenis na mivki (Ž): Cimatti/Fernandez Palos - Daina/Nobile, Brasilia Classic, polfinale</title>
+  </programme>
+  <programme start="20230718050000 +0200" stop="20230718070000 +0200" channel="Šport TV 3">
+    <title lang="sl">Nogomet (M): Greuther Furth - Karlsruher, 2. Bundesliga</title>
+  </programme>
+  <programme start="20230718070000 +0200" stop="20230718073000 +0200" channel="Šport TV 3">
+    <title lang="sl">Svet ekstremnih športov</title>
+  </programme>
+  <programme start="20230718073000 +0200" stop="20230718093000 +0200" channel="Šport TV 3">
+    <title lang="sl">Nogomet (M): Waalwijk - Feyenoord, Eredivisie</title>
+  </programme>
+  <programme start="20230718093000 +0200" stop="20230718110000 +0200" channel="Šport TV 3">
+    <title lang="sl">Košarka (M): Šenčur - Šentjur, Liga Nova KBM</title>
+  </programme>
+  <programme start="20230718110000 +0200" stop="20230718130000 +0200" channel="Šport TV 3">
+    <title lang="sl">Hokej (M): Olimpija - KAC, ICE Hockey League</title>
+  </programme>
+  <programme start="20230718130000 +0200" stop="20230718144500 +0200" channel="Šport TV 3">
+    <title lang="sl">Nogomet (M): Regensburg - Darmstadt, 2. Bundesliga</title>
+  </programme>
+  <programme start="20230718144500 +0200" stop="20230718154500 +0200" channel="Šport TV 3">
+    <title lang="sl">Tenis na mivki (Ž): Diaz/Miiller - Chow/Marchezini, Brasilia Classic, polfinale</title>
+  </programme>
+  <programme start="20230718154500 +0200" stop="20230718170000 +0200" channel="Šport TV 3">
+    <title lang="sl">Tenis na mivki (Ž): Cimatti/Fernandez Palos - Daina/Nobile, Brasilia Classic, polfinale</title>
+  </programme>
+  <programme start="20230718170000 +0200" stop="20230718180000 +0200" channel="Šport TV 3">
+    <title lang="sl">Motokros: MXGP, VN Češke, 1. dirka</title>
+  </programme>
+  <programme start="20230718180000 +0200" stop="20230718190000 +0200" channel="Šport TV 3">
+    <title lang="sl">Motokros: MXGP, VN Češke, 2. dirka</title>
+  </programme>
+  <programme start="20230718190000 +0200" stop="20230718193000 +0200" channel="Šport TV 3">
+    <title lang="sl">FIA Pure Motorsport</title>
+  </programme>
+  <programme start="20230718193000 +0200" stop="20230718213000 +0200" channel="Šport TV 3">
+    <title lang="sl">Hokej (M): Rittner Buam - Jesenice, Alpska liga, polfinale, druga tekma</title>
+  </programme>
+  <programme start="20230718213000 +0200" stop="20230718231500 +0200" channel="Šport TV 3">
+    <title lang="sl">Nogomet (M): Ajax - AZ Alkmaar, Eredivisie</title>
   </programme>
   <programme start="20230715001500 +0200" stop="20230715004000 +0200" channel="NickToons">
     <title lang="sl">Carja kruha: Racmana natakarja / Zamenjava</title>
@@ -4404,8 +4591,11 @@
   <programme start="20230718113500 +0200" stop="20230718120000 +0200" channel="Nick Jr">
     <title lang="sl">Barbapapa in družina: Barbabright ima skrivnost / Super duper kul</title>
   </programme>
-  <programme start="20230718120000 +0200" stop="20230718125500 +0200" channel="Nick Jr">
+  <programme start="20230718120000 +0200" stop="20230718122500 +0200" channel="Nick Jr">
     <title lang="sl">Sinjemorski Santiago: Otok Chickcharneyev / Izgubljeno dekle v kanuju</title>
+  </programme>
+  <programme start="20230718122500 +0200" stop="20230718125500 +0200" channel="Nick Jr">
+    <title lang="sl">Sinjemorski Santiago: Časovna kapsula / Kolc juha</title>
   </programme>
   <programme start="20230718125500 +0200" stop="20230718132000 +0200" channel="Nick Jr">
     <title lang="sl">Tačke na patrulji: Kužki rešijo dojenčka Humdingerja / Kužki rešijo pinjato</title>
