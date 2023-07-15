@@ -67,6 +67,7 @@
   </channel>
   <channel id="Discovery ID Xtra">
     <display-name lang="sl">Discovery ID Xtra</display-name>
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/discidx_updated25919150558.png" />
     <url>http://www.siol.net</url>
   </channel>
   <channel id="Discovery Science">
@@ -80,6 +81,7 @@
   </channel>
   <channel id="Disney Channel">
     <display-name lang="sl">Disney Channel</display-name>
+    <icon src="https://vimg.siol.tv/sioltv/logo2/150x80/disney_updated25919165452.png" />
     <url>http://www.siol.net</url>
   </channel>
   <channel id="Disney XD">
@@ -209,7 +211,13 @@
   <programme start="20230716054500 +0200" stop="20230716060000 +0200" channel="CNN">
     <title lang="sl">Azijski trgi</title>
   </programme>
-  <programme start="20230716060000 +0200" stop="20230716073000 +0200" channel="CNN">
+  <programme start="20230716060000 +0200" stop="20230716063000 +0200" channel="CNN">
+    <title lang="sl">Novinarska pisarna z Michaelom Holmesom</title>
+  </programme>
+  <programme start="20230716063000 +0200" stop="20230716070000 +0200" channel="CNN">
+    <title lang="sl">JCVB shows</title>
+  </programme>
+  <programme start="20230716070000 +0200" stop="20230716073000 +0200" channel="CNN">
     <title lang="sl">Novinarska pisarna z Michaelom Holmesom</title>
   </programme>
   <programme start="20230716073000 +0200" stop="20230716080000 +0200" channel="CNN">
@@ -3842,6 +3850,303 @@
   <programme start="20230718230000 +0200" stop="20230718235100 +0200" channel="Da Vinci Learning">
     <title lang="sl">Čista prehrana, umazana resnica</title>
   </programme>
+  <programme start="20230715000000 +0200" stop="20230715003000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Peklenski zmenki: Privoli ali umri</title>
+  </programme>
+  <programme start="20230715003000 +0200" stop="20230715010000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Peklenski zmenki: iUmor</title>
+  </programme>
+  <programme start="20230715010000 +0200" stop="20230715020000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Pandorina skrinjica: Sejanje zla: Poroka s smrtjo</title>
+  </programme>
+  <programme start="20230715020000 +0200" stop="20230715030000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Poročeni z zlom: Od obsedenca z nadzorom do morilca</title>
+  </programme>
+  <programme start="20230715030000 +0200" stop="20230715040000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Izginuli: Nov začetek</title>
+  </programme>
+  <programme start="20230715040000 +0200" stop="20230715050000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Ko misliš, da nekoga dobro poznaš: Ubijalska zbirka</title>
+  </programme>
+  <programme start="20230715050000 +0200" stop="20230715060000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Ko misliš, da nekoga dobro poznaš: Zaseda na zahvalni dan</title>
+  </programme>
+  <programme start="20230715060000 +0200" stop="20230715070000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Morilski starši: Umor v predmestju</title>
+  </programme>
+  <programme start="20230715070000 +0200" stop="20230715080000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Morilski starši: Družinski pokol</title>
+  </programme>
+  <programme start="20230715080000 +0200" stop="20230715090000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Tu živi zlo: Sence smrti: Resnica, laž in odrešenje</title>
+  </programme>
+  <programme start="20230715090000 +0200" stop="20230715100000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Tu živi zlo: Sence smrti: Našli smo Bonnie</title>
+  </programme>
+  <programme start="20230715100000 +0200" stop="20230715110000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Senca dvoma: Vojaške zadeve</title>
+  </programme>
+  <programme start="20230715110000 +0200" stop="20230715120000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Senca dvoma: Novinka v mestu</title>
+  </programme>
+  <programme start="20230715120000 +0200" stop="20230715130000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Soba za zasliševanje: Pogrešane ženske iz San Luis Obispa</title>
+  </programme>
+  <programme start="20230715130000 +0200" stop="20230715140000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Soba za zasliševanje: Morilska ekipa</title>
+  </programme>
+  <programme start="20230715140000 +0200" stop="20230715150000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Obsodba: Usodno zaupanje</title>
+  </programme>
+  <programme start="20230715150000 +0200" stop="20230715160000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Obsodba: Umor brez trupla</title>
+  </programme>
+  <programme start="20230715160000 +0200" stop="20230715170000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Ameriške pošasti</title>
+  </programme>
+  <programme start="20230715170000 +0200" stop="20230715180000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Ameriške pošasti</title>
+  </programme>
+  <programme start="20230715180000 +0200" stop="20230715190000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Dokler naju smrt ne loči: Ne streljaj!</title>
+  </programme>
+  <programme start="20230715190000 +0200" stop="20230715200000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Dokler naju smrt ne loči: Tragičen preobrat</title>
+  </programme>
+  <programme start="20230715200000 +0200" stop="20230715210000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Dva plitva grobova: Nikar se ne izpostavljaj</title>
+  </programme>
+  <programme start="20230715210000 +0200" stop="20230715230000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">ID in skrivnost umora Rebecce Zahau</title>
+  </programme>
+  <programme start="20230715230000 +0200" stop="20230716003000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Tu živi zlo: Umori na maturantski večer</title>
+  </programme>
+  <programme start="20230716003000 +0200" stop="20230716010000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Jaz, zlo: Lov na ljudi</title>
+  </programme>
+  <programme start="20230716010000 +0200" stop="20230716020000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Hudič je spregovoril: Osvobodi me</title>
+  </programme>
+  <programme start="20230716020000 +0200" stop="20230716030000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Hudič je spregovoril: Brez milosti</title>
+  </programme>
+  <programme start="20230716030000 +0200" stop="20230716040000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Senca dvoma: Umor ali samomor?</title>
+  </programme>
+  <programme start="20230716040000 +0200" stop="20230716050000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Senca dvoma: Odvetnik, plesalka in morilec</title>
+  </programme>
+  <programme start="20230716050000 +0200" stop="20230716060000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Soba za zasliševanje: Pogrešane ženske iz San Luis Obispa</title>
+  </programme>
+  <programme start="20230716060000 +0200" stop="20230716070000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Zaznamovani: Rekviem za umor</title>
+  </programme>
+  <programme start="20230716070000 +0200" stop="20230716080000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Zaznamovani: Brez izhoda</title>
+  </programme>
+  <programme start="20230716080000 +0200" stop="20230716090000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Popoln umor: Umor milijonarja</title>
+  </programme>
+  <programme start="20230716090000 +0200" stop="20230716100000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Popoln umor: Dragi očka</title>
+  </programme>
+  <programme start="20230716100000 +0200" stop="20230716110000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Umor v osrčju države: Umor je neprijeten</title>
+  </programme>
+  <programme start="20230716110000 +0200" stop="20230716120000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Umor v osrčju države: Umor v zakotju</title>
+  </programme>
+  <programme start="20230716120000 +0200" stop="20230716130000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Grozljivi umori v majhnih krajih: Pregloboko vpleten</title>
+  </programme>
+  <programme start="20230716130000 +0200" stop="20230716133000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Umori v domačem kraju: Lokalne skrivnosti: Usodna družina in južnjaški zalezovalec</title>
+  </programme>
+  <programme start="20230716133000 +0200" stop="20230716140000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Umori v domačem kraju: Lokalne skrivnosti: Pogrešana učiteljica in zalezovalec na kolidžu</title>
+  </programme>
+  <programme start="20230716140000 +0200" stop="20230716150000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Smrtonosne skrivnosti: Puščavska skrivnost</title>
+  </programme>
+  <programme start="20230716150000 +0200" stop="20230716160000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Smrtonosne skrivnosti: Materine skrivnosti</title>
+  </programme>
+  <programme start="20230716160000 +0200" stop="20230716170000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Še zmeraj skrivnost: Ni mu bilo treba umreti</title>
+  </programme>
+  <programme start="20230716170000 +0200" stop="20230716180000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Še zmeraj skrivnost: V njenem lastnem domu</title>
+  </programme>
+  <programme start="20230716180000 +0200" stop="20230716190000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Obsedenost: Mračna poželenja: Obsedeni mojster</title>
+  </programme>
+  <programme start="20230716190000 +0200" stop="20230716200000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Obsedenost: Mračna poželenja: Najstnica in starejši moški</title>
+  </programme>
+  <programme start="20230716200000 +0200" stop="20230716210000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Resnična smrt v raju: Tanzanija: ustreljen z neba</title>
+  </programme>
+  <programme start="20230716210000 +0200" stop="20230716220000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Drew Peterson: policijski morilec soprog?</title>
+  </programme>
+  <programme start="20230716220000 +0200" stop="20230716230000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Drew Peterson: policijski morilec soprog?</title>
+  </programme>
+  <programme start="20230716230000 +0200" stop="20230717000000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Še zmeraj skrivnost: Kaj vedo drevesa?</title>
+  </programme>
+  <programme start="20230717000000 +0200" stop="20230717010000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Še zmeraj skrivnost: Otroci in trpljenje</title>
+  </programme>
+  <programme start="20230717010000 +0200" stop="20230717020000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Ko misliš, da nekoga dobro poznaš: Izberi svoj strup</title>
+  </programme>
+  <programme start="20230717020000 +0200" stop="20230717030000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Ko misliš, da nekoga dobro poznaš: Skrivnostni umor v Mainu</title>
+  </programme>
+  <programme start="20230717030000 +0200" stop="20230717040000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Soba za zasliševanje: Morilska ekipa</title>
+  </programme>
+  <programme start="20230717040000 +0200" stop="20230717050000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Umor v osrčju države</title>
+  </programme>
+  <programme start="20230717050000 +0200" stop="20230717060000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Umor v osrčju države</title>
+  </programme>
+  <programme start="20230717060000 +0200" stop="20230717063000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Kdo za vraga je moj zakonec?: Babica ljubi denar</title>
+  </programme>
+  <programme start="20230717063000 +0200" stop="20230717070000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Kdo za vraga je moj zakonec?: Afera za eno noč</title>
+  </programme>
+  <programme start="20230717070000 +0200" stop="20230717073000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Kdo za vraga je moj zakonec?: Orožje v meni</title>
+  </programme>
+  <programme start="20230717073000 +0200" stop="20230717080000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Kdo za vraga je moj zakonec?: Stavim na ljubezen</title>
+  </programme>
+  <programme start="20230717080000 +0200" stop="20230717090000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Utemeljen dvom: Dosjeji bivših</title>
+  </programme>
+  <programme start="20230717090000 +0200" stop="20230717100000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Utemeljen dvom: Samo premožni moški</title>
+  </programme>
+  <programme start="20230717100000 +0200" stop="20230717110000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Izginuli: Nov začetek</title>
+  </programme>
+  <programme start="20230717110000 +0200" stop="20230717120000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Izginuli: Izginotje pred poletom</title>
+  </programme>
+  <programme start="20230717120000 +0200" stop="20230717130000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Senca smrti: Skrivnost</title>
+  </programme>
+  <programme start="20230717130000 +0200" stop="20230717140000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Senca smrti: Zaprisega</title>
+  </programme>
+  <programme start="20230717140000 +0200" stop="20230717150000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Senca dvoma: Na pravem mestu ob nepravem času</title>
+  </programme>
+  <programme start="20230717150000 +0200" stop="20230717160000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Senca dvoma: Umor v velikem mestu</title>
+  </programme>
+  <programme start="20230717160000 +0200" stop="20230717170000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Dokler naju smrt ne loči</title>
+  </programme>
+  <programme start="20230717170000 +0200" stop="20230717180000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Dokler naju smrt ne loči: Medtem ko si spal</title>
+  </programme>
+  <programme start="20230717180000 +0200" stop="20230717190000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Živim nočno moro</title>
+  </programme>
+  <programme start="20230717190000 +0200" stop="20230717200000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Živim nočno moro</title>
+  </programme>
+  <programme start="20230717200000 +0200" stop="20230717210000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Tu živi zlo: Moj brat je ustvaril zgodovino</title>
+  </programme>
+  <programme start="20230717210000 +0200" stop="20230717213000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Viralni posnetki zločinov: Kdo je izpustil pse?</title>
+  </programme>
+  <programme start="20230717213000 +0200" stop="20230717220000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Viralni posnetki zločinov: Preko mojega trupla!</title>
+  </programme>
+  <programme start="20230717220000 +0200" stop="20230717230000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Mladoletnica pod krinko: Srečanje s pošastjo</title>
+  </programme>
+  <programme start="20230717230000 +0200" stop="20230718000000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Telesne kamere</title>
+  </programme>
+  <programme start="20230718000000 +0200" stop="20230718010000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Skoraj mi je uspelo: Ustreljen nad delikateso</title>
+  </programme>
+  <programme start="20230718010000 +0200" stop="20230718020000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Skoraj bi mi uspelo: Bremenijo me obtožbe</title>
+  </programme>
+  <programme start="20230718020000 +0200" stop="20230718030000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Mladoletnica pod krinko: Srečanje s pošastjo</title>
+  </programme>
+  <programme start="20230718030000 +0200" stop="20230718040000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Živim nočno moro</title>
+  </programme>
+  <programme start="20230718040000 +0200" stop="20230718050000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Senca smrti: Skrivnost</title>
+  </programme>
+  <programme start="20230718050000 +0200" stop="20230718060000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Senca smrti: Zaprisega</title>
+  </programme>
+  <programme start="20230718060000 +0200" stop="20230718070000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Senca dvoma: Na pravem mestu ob nepravem času</title>
+  </programme>
+  <programme start="20230718070000 +0200" stop="20230718080000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Senca dvoma: Umor v velikem mestu</title>
+  </programme>
+  <programme start="20230718080000 +0200" stop="20230718090000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Dokler naju smrt ne loči</title>
+  </programme>
+  <programme start="20230718090000 +0200" stop="20230718100000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Dokler naju smrt ne loči: Medtem ko si spal</title>
+  </programme>
+  <programme start="20230718100000 +0200" stop="20230718110000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Živim nočno moro</title>
+  </programme>
+  <programme start="20230718110000 +0200" stop="20230718120000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Živim nočno moro</title>
+  </programme>
+  <programme start="20230718120000 +0200" stop="20230718130000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Tu živi zlo: Sence smrti: Oproščam ti</title>
+  </programme>
+  <programme start="20230718130000 +0200" stop="20230718140000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Tu živi zlo: Sence smrti: Izgubljena cesta</title>
+  </programme>
+  <programme start="20230718140000 +0200" stop="20230718150000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Soba za zasliševanje: Samomor ali umor?</title>
+  </programme>
+  <programme start="20230718150000 +0200" stop="20230718160000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Soba za zasliševanje: Trupla v pepelu</title>
+  </programme>
+  <programme start="20230718160000 +0200" stop="20230718170000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Na lovu z Johnom Walshem: Mater in otrok</title>
+  </programme>
+  <programme start="20230718170000 +0200" stop="20230718180000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Na lovu z Johnom Walshem: Osebna misija</title>
+  </programme>
+  <programme start="20230718180000 +0200" stop="20230718190000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Ameriške pošasti</title>
+  </programme>
+  <programme start="20230718190000 +0200" stop="20230718200000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Ameriške pošasti</title>
+  </programme>
+  <programme start="20230718200000 +0200" stop="20230718210000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Tu živi zlo: Moraš pobegniti</title>
+  </programme>
+  <programme start="20230718210000 +0200" stop="20230718220000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Tu živi zlo: Sence smrti: Na materinem vrtu</title>
+  </programme>
+  <programme start="20230718220000 +0200" stop="20230718230000 +0200" channel="Discovery ID Xtra">
+    <title lang="sl">Mladoletnica pod krinko: Srečanje s pošastjo</title>
+  </programme>
   <programme start="20230715000000 +0200" stop="20230715010000 +0200" channel="Discovery TLC">
     <title lang="sl">Odstranjevalka mozoljev: Boleče življenje</title>
   </programme>
@@ -4105,5 +4410,722 @@
   </programme>
   <programme start="20230718220000 +0200" stop="20230718230000 +0200" channel="Discovery TLC">
     <title lang="sl">Sestre žene: Konec je</title>
+  </programme>
+  <programme start="20230715001500 +0200" stop="20230715004000 +0200" channel="Disney Channel">
+    <title lang="sl">Skrivnosti Žveplenovega izvira</title>
+  </programme>
+  <programme start="20230715004000 +0200" stop="20230715010500 +0200" channel="Disney Channel">
+    <title lang="sl">Poskusni zajčki: Specialna enota</title>
+  </programme>
+  <programme start="20230715010500 +0200" stop="20230715013000 +0200" channel="Disney Channel">
+    <title lang="sl">Potegavščine</title>
+  </programme>
+  <programme start="20230715013000 +0200" stop="20230715015500 +0200" channel="Disney Channel">
+    <title lang="sl">Potegavščine</title>
+  </programme>
+  <programme start="20230715015500 +0200" stop="20230715022000 +0200" channel="Disney Channel">
+    <title lang="sl">Vikingška šola</title>
+  </programme>
+  <programme start="20230715022000 +0200" stop="20230715024500 +0200" channel="Disney Channel">
+    <title lang="sl">Vikingška šola</title>
+  </programme>
+  <programme start="20230715024500 +0200" stop="20230715031000 +0200" channel="Disney Channel">
+    <title lang="sl">Potegavščine</title>
+  </programme>
+  <programme start="20230715031000 +0200" stop="20230715033500 +0200" channel="Disney Channel">
+    <title lang="sl">Potegavščine</title>
+  </programme>
+  <programme start="20230715033500 +0200" stop="20230715040000 +0200" channel="Disney Channel">
+    <title lang="sl">Potegavščine</title>
+  </programme>
+  <programme start="20230715040000 +0200" stop="20230715042500 +0200" channel="Disney Channel">
+    <title lang="sl">Vikingška šola</title>
+  </programme>
+  <programme start="20230715042500 +0200" stop="20230715045000 +0200" channel="Disney Channel">
+    <title lang="sl">Vikingška šola</title>
+  </programme>
+  <programme start="20230715045000 +0200" stop="20230715050000 +0200" channel="Disney Channel">
+    <title lang="sl">Potomci: Hudobni svet</title>
+  </programme>
+  <programme start="20230715050000 +0200" stop="20230715052500 +0200" channel="Disney Channel">
+    <title lang="sl">Vikingška šola</title>
+  </programme>
+  <programme start="20230715052500 +0200" stop="20230715055000 +0200" channel="Disney Channel">
+    <title lang="sl">Vikingška šola</title>
+  </programme>
+  <programme start="20230715055000 +0200" stop="20230715055500 +0200" channel="Disney Channel">
+    <title lang="sl">Potomci: Hudobni svet</title>
+  </programme>
+  <programme start="20230715055500 +0200" stop="20230715062000 +0200" channel="Disney Channel">
+    <title lang="sl">Hiša sov</title>
+  </programme>
+  <programme start="20230715062000 +0200" stop="20230715064500 +0200" channel="Disney Channel">
+    <title lang="sl">Hiša sov</title>
+  </programme>
+  <programme start="20230715064500 +0200" stop="20230715071000 +0200" channel="Disney Channel">
+    <title lang="sl">Hiša sov</title>
+  </programme>
+  <programme start="20230715071000 +0200" stop="20230715073500 +0200" channel="Disney Channel">
+    <title lang="sl">Hiša sov</title>
+  </programme>
+  <programme start="20230715073500 +0200" stop="20230715080000 +0200" channel="Disney Channel">
+    <title lang="sl">Poskusni zajčki</title>
+  </programme>
+  <programme start="20230715080000 +0200" stop="20230715082500 +0200" channel="Disney Channel">
+    <title lang="sl">Poskusni zajčki</title>
+  </programme>
+  <programme start="20230715082500 +0200" stop="20230715085000 +0200" channel="Disney Channel">
+    <title lang="sl">Poskusni zajčki</title>
+  </programme>
+  <programme start="20230715085000 +0200" stop="20230715091500 +0200" channel="Disney Channel">
+    <title lang="sl">Poskusni zajčki</title>
+  </programme>
+  <programme start="20230715091500 +0200" stop="20230715094000 +0200" channel="Disney Channel">
+    <title lang="sl">Poskusni zajčki</title>
+  </programme>
+  <programme start="20230715094000 +0200" stop="20230715110500 +0200" channel="Disney Channel">
+    <title lang="sl">Zombiji 2</title>
+  </programme>
+  <programme start="20230715110500 +0200" stop="20230715111000 +0200" channel="Disney Channel">
+    <title lang="sl">Zombiji: Addisonina pošastna skrivnost</title>
+  </programme>
+  <programme start="20230715111000 +0200" stop="20230715111500 +0200" channel="Disney Channel">
+    <title lang="sl">Zombiji: Addisonina pošastna skrivnost</title>
+  </programme>
+  <programme start="20230715111500 +0200" stop="20230715112000 +0200" channel="Disney Channel">
+    <title lang="sl">Zombiji: Addisonina pošastna skrivnost</title>
+  </programme>
+  <programme start="20230715112000 +0200" stop="20230715114500 +0200" channel="Disney Channel">
+    <title lang="sl">Veliko mesto, Greens</title>
+  </programme>
+  <programme start="20230715114500 +0200" stop="20230715121000 +0200" channel="Disney Channel">
+    <title lang="sl">Veliko mesto, Greens</title>
+  </programme>
+  <programme start="20230715121000 +0200" stop="20230715123500 +0200" channel="Disney Channel">
+    <title lang="sl">Veliko mesto, Greens</title>
+  </programme>
+  <programme start="20230715123500 +0200" stop="20230715130000 +0200" channel="Disney Channel">
+    <title lang="sl">Veliko mesto, Greens</title>
+  </programme>
+  <programme start="20230715130000 +0200" stop="20230715132500 +0200" channel="Disney Channel">
+    <title lang="sl">Veliko mesto, Greens</title>
+  </programme>
+  <programme start="20230715132500 +0200" stop="20230715135000 +0200" channel="Disney Channel">
+    <title lang="sl">Veliko mesto, Greens</title>
+  </programme>
+  <programme start="20230715135000 +0200" stop="20230715141500 +0200" channel="Disney Channel">
+    <title lang="sl">Veliko mesto, Greens</title>
+  </programme>
+  <programme start="20230715141500 +0200" stop="20230715144000 +0200" channel="Disney Channel">
+    <title lang="sl">Veliko mesto, Greens</title>
+  </programme>
+  <programme start="20230715144000 +0200" stop="20230715144500 +0200" channel="Disney Channel">
+    <title lang="sl">Potomci: Hudobni svet</title>
+  </programme>
+  <programme start="20230715144500 +0200" stop="20230715151000 +0200" channel="Disney Channel">
+    <title lang="sl">Poskusni zajčki: Specialna enota</title>
+  </programme>
+  <programme start="20230715151000 +0200" stop="20230715153500 +0200" channel="Disney Channel">
+    <title lang="sl">Poskusni zajčki: Specialna enota</title>
+  </programme>
+  <programme start="20230715153500 +0200" stop="20230715160000 +0200" channel="Disney Channel">
+    <title lang="sl">Poskusni zajčki: Specialna enota</title>
+  </programme>
+  <programme start="20230715160000 +0200" stop="20230715162500 +0200" channel="Disney Channel">
+    <title lang="sl">Poskusni zajčki: Specialna enota</title>
+  </programme>
+  <programme start="20230715162500 +0200" stop="20230715165000 +0200" channel="Disney Channel">
+    <title lang="sl">Veliko mesto, Greens</title>
+  </programme>
+  <programme start="20230715165000 +0200" stop="20230715171500 +0200" channel="Disney Channel">
+    <title lang="sl">Veliko mesto, Greens</title>
+  </programme>
+  <programme start="20230715171500 +0200" stop="20230715174000 +0200" channel="Disney Channel">
+    <title lang="sl">Veliko mesto, Greens</title>
+  </programme>
+  <programme start="20230715174000 +0200" stop="20230715180500 +0200" channel="Disney Channel">
+    <title lang="sl">Veliko mesto, Greens</title>
+  </programme>
+  <programme start="20230715180500 +0200" stop="20230715183000 +0200" channel="Disney Channel">
+    <title lang="sl">Kamp Kikiwaka</title>
+  </programme>
+  <programme start="20230715183000 +0200" stop="20230715185500 +0200" channel="Disney Channel">
+    <title lang="sl">Kamp Kikiwaka</title>
+  </programme>
+  <programme start="20230715185500 +0200" stop="20230715192000 +0200" channel="Disney Channel">
+    <title lang="sl">Zlobneži mesta Valley View</title>
+  </programme>
+  <programme start="20230715192000 +0200" stop="20230715194500 +0200" channel="Disney Channel">
+    <title lang="sl">Zlobneži mesta Valley View</title>
+  </programme>
+  <programme start="20230715194500 +0200" stop="20230715201000 +0200" channel="Disney Channel">
+    <title lang="sl">Zlobneži mesta Valley View</title>
+  </programme>
+  <programme start="20230715201000 +0200" stop="20230715203500 +0200" channel="Disney Channel">
+    <title lang="sl">Zlobneži mesta Valley View</title>
+  </programme>
+  <programme start="20230715203500 +0200" stop="20230715210000 +0200" channel="Disney Channel">
+    <title lang="sl">Gabby Duran in varovanci</title>
+  </programme>
+  <programme start="20230715210000 +0200" stop="20230715212500 +0200" channel="Disney Channel">
+    <title lang="sl">Gabby Duran in varovanci</title>
+  </programme>
+  <programme start="20230715212500 +0200" stop="20230715215000 +0200" channel="Disney Channel">
+    <title lang="sl">Gabby Duran in varovanci</title>
+  </programme>
+  <programme start="20230715215000 +0200" stop="20230715221000 +0200" channel="Disney Channel">
+    <title lang="sl">Potegavščine</title>
+  </programme>
+  <programme start="20230715221000 +0200" stop="20230715223500 +0200" channel="Disney Channel">
+    <title lang="sl">Potegavščine</title>
+  </programme>
+  <programme start="20230715223500 +0200" stop="20230715230000 +0200" channel="Disney Channel">
+    <title lang="sl">Potegavščine</title>
+  </programme>
+  <programme start="20230715230000 +0200" stop="20230715232500 +0200" channel="Disney Channel">
+    <title lang="sl">Potegavščine</title>
+  </programme>
+  <programme start="20230715232500 +0200" stop="20230715235000 +0200" channel="Disney Channel">
+    <title lang="sl">Potegavščine</title>
+  </programme>
+  <programme start="20230715235000 +0200" stop="20230716001500 +0200" channel="Disney Channel">
+    <title lang="sl">Poskusni zajčki</title>
+  </programme>
+  <programme start="20230716001500 +0200" stop="20230716004000 +0200" channel="Disney Channel">
+    <title lang="sl">Poskusni zajčki</title>
+  </programme>
+  <programme start="20230716004000 +0200" stop="20230716010500 +0200" channel="Disney Channel">
+    <title lang="sl">Poskusni zajčki</title>
+  </programme>
+  <programme start="20230716010500 +0200" stop="20230716013000 +0200" channel="Disney Channel">
+    <title lang="sl">Potegavščine</title>
+  </programme>
+  <programme start="20230716013000 +0200" stop="20230716015500 +0200" channel="Disney Channel">
+    <title lang="sl">Potegavščine</title>
+  </programme>
+  <programme start="20230716015500 +0200" stop="20230716022000 +0200" channel="Disney Channel">
+    <title lang="sl">Vikingška šola</title>
+  </programme>
+  <programme start="20230716022000 +0200" stop="20230716024500 +0200" channel="Disney Channel">
+    <title lang="sl">Potegavščine</title>
+  </programme>
+  <programme start="20230716024500 +0200" stop="20230716031000 +0200" channel="Disney Channel">
+    <title lang="sl">Potegavščine</title>
+  </programme>
+  <programme start="20230716031000 +0200" stop="20230716033500 +0200" channel="Disney Channel">
+    <title lang="sl">Potegavščine</title>
+  </programme>
+  <programme start="20230716033500 +0200" stop="20230716040000 +0200" channel="Disney Channel">
+    <title lang="sl">Potegavščine</title>
+  </programme>
+  <programme start="20230716040000 +0200" stop="20230716042500 +0200" channel="Disney Channel">
+    <title lang="sl">Vikingška šola</title>
+  </programme>
+  <programme start="20230716042500 +0200" stop="20230716045000 +0200" channel="Disney Channel">
+    <title lang="sl">Vikingška šola</title>
+  </programme>
+  <programme start="20230716045000 +0200" stop="20230716050000 +0200" channel="Disney Channel">
+    <title lang="sl">Potomci: Hudobni svet</title>
+  </programme>
+  <programme start="20230716050000 +0200" stop="20230716052500 +0200" channel="Disney Channel">
+    <title lang="sl">Vikingška šola</title>
+  </programme>
+  <programme start="20230716052500 +0200" stop="20230716055000 +0200" channel="Disney Channel">
+    <title lang="sl">Vikingška šola</title>
+  </programme>
+  <programme start="20230716055000 +0200" stop="20230716055500 +0200" channel="Disney Channel">
+    <title lang="sl">Potomci: Hudobni svet</title>
+  </programme>
+  <programme start="20230716055500 +0200" stop="20230716062000 +0200" channel="Disney Channel">
+    <title lang="sl">Hiša sov</title>
+  </programme>
+  <programme start="20230716062000 +0200" stop="20230716064500 +0200" channel="Disney Channel">
+    <title lang="sl">Hiša sov</title>
+  </programme>
+  <programme start="20230716064500 +0200" stop="20230716071000 +0200" channel="Disney Channel">
+    <title lang="sl">Hiša sov</title>
+  </programme>
+  <programme start="20230716071000 +0200" stop="20230716073500 +0200" channel="Disney Channel">
+    <title lang="sl">Hiša sov</title>
+  </programme>
+  <programme start="20230716073500 +0200" stop="20230716080000 +0200" channel="Disney Channel">
+    <title lang="sl">Poskusni zajčki</title>
+  </programme>
+  <programme start="20230716080000 +0200" stop="20230716082500 +0200" channel="Disney Channel">
+    <title lang="sl">Poskusni zajčki</title>
+  </programme>
+  <programme start="20230716082500 +0200" stop="20230716085000 +0200" channel="Disney Channel">
+    <title lang="sl">Poskusni zajčki</title>
+  </programme>
+  <programme start="20230716085000 +0200" stop="20230716091500 +0200" channel="Disney Channel">
+    <title lang="sl">Poskusni zajčki</title>
+  </programme>
+  <programme start="20230716091500 +0200" stop="20230716094000 +0200" channel="Disney Channel">
+    <title lang="sl">Poskusni zajčki</title>
+  </programme>
+  <programme start="20230716094000 +0200" stop="20230716100500 +0200" channel="Disney Channel">
+    <title lang="sl">Poskusni zajčki: Specialna enota</title>
+  </programme>
+  <programme start="20230716100500 +0200" stop="20230716103000 +0200" channel="Disney Channel">
+    <title lang="sl">Poskusni zajčki: Specialna enota</title>
+  </programme>
+  <programme start="20230716103000 +0200" stop="20230716105500 +0200" channel="Disney Channel">
+    <title lang="sl">Poskusni zajčki: Specialna enota</title>
+  </programme>
+  <programme start="20230716105500 +0200" stop="20230716112000 +0200" channel="Disney Channel">
+    <title lang="sl">Poskusni zajčki: Specialna enota</title>
+  </programme>
+  <programme start="20230716112000 +0200" stop="20230716114500 +0200" channel="Disney Channel">
+    <title lang="sl">Veliko mesto, Greens</title>
+  </programme>
+  <programme start="20230716114500 +0200" stop="20230716121000 +0200" channel="Disney Channel">
+    <title lang="sl">Veliko mesto, Greens</title>
+  </programme>
+  <programme start="20230716121000 +0200" stop="20230716123500 +0200" channel="Disney Channel">
+    <title lang="sl">Veliko mesto, Greens</title>
+  </programme>
+  <programme start="20230716123500 +0200" stop="20230716130000 +0200" channel="Disney Channel">
+    <title lang="sl">Veliko mesto, Greens</title>
+  </programme>
+  <programme start="20230716130000 +0200" stop="20230716132500 +0200" channel="Disney Channel">
+    <title lang="sl">Veliko mesto, Greens</title>
+  </programme>
+  <programme start="20230716132500 +0200" stop="20230716135000 +0200" channel="Disney Channel">
+    <title lang="sl">Veliko mesto, Greens</title>
+  </programme>
+  <programme start="20230716135000 +0200" stop="20230716141500 +0200" channel="Disney Channel">
+    <title lang="sl">Veliko mesto, Greens</title>
+  </programme>
+  <programme start="20230716141500 +0200" stop="20230716144000 +0200" channel="Disney Channel">
+    <title lang="sl">Veliko mesto, Greens</title>
+  </programme>
+  <programme start="20230716144000 +0200" stop="20230716144500 +0200" channel="Disney Channel">
+    <title lang="sl">Potomci: Hudobni svet</title>
+  </programme>
+  <programme start="20230716144500 +0200" stop="20230716161000 +0200" channel="Disney Channel">
+    <title lang="sl">Zombiji 2</title>
+  </programme>
+  <programme start="20230716161000 +0200" stop="20230716161500 +0200" channel="Disney Channel">
+    <title lang="sl">Zombiji: Addisonina pošastna skrivnost</title>
+  </programme>
+  <programme start="20230716161500 +0200" stop="20230716162000 +0200" channel="Disney Channel">
+    <title lang="sl">Zombiji: Addisonina pošastna skrivnost</title>
+  </programme>
+  <programme start="20230716162000 +0200" stop="20230716162500 +0200" channel="Disney Channel">
+    <title lang="sl">Zombiji: Addisonina pošastna skrivnost</title>
+  </programme>
+  <programme start="20230716162500 +0200" stop="20230716165000 +0200" channel="Disney Channel">
+    <title lang="sl">Veliko mesto, Greens</title>
+  </programme>
+  <programme start="20230716165000 +0200" stop="20230716171500 +0200" channel="Disney Channel">
+    <title lang="sl">Veliko mesto, Greens</title>
+  </programme>
+  <programme start="20230716171500 +0200" stop="20230716174000 +0200" channel="Disney Channel">
+    <title lang="sl">Veliko mesto, Greens</title>
+  </programme>
+  <programme start="20230716174000 +0200" stop="20230716180500 +0200" channel="Disney Channel">
+    <title lang="sl">Veliko mesto, Greens</title>
+  </programme>
+  <programme start="20230716180500 +0200" stop="20230716183000 +0200" channel="Disney Channel">
+    <title lang="sl">Kamp Kikiwaka</title>
+  </programme>
+  <programme start="20230716183000 +0200" stop="20230716185500 +0200" channel="Disney Channel">
+    <title lang="sl">Kamp Kikiwaka</title>
+  </programme>
+  <programme start="20230716185500 +0200" stop="20230716192000 +0200" channel="Disney Channel">
+    <title lang="sl">Zlobneži mesta Valley View</title>
+  </programme>
+  <programme start="20230716192000 +0200" stop="20230716194500 +0200" channel="Disney Channel">
+    <title lang="sl">Zlobneži mesta Valley View</title>
+  </programme>
+  <programme start="20230716194500 +0200" stop="20230716201000 +0200" channel="Disney Channel">
+    <title lang="sl">Zlobneži mesta Valley View</title>
+  </programme>
+  <programme start="20230716201000 +0200" stop="20230716203500 +0200" channel="Disney Channel">
+    <title lang="sl">Zlobneži mesta Valley View</title>
+  </programme>
+  <programme start="20230716203500 +0200" stop="20230716210000 +0200" channel="Disney Channel">
+    <title lang="sl">Gabby Duran in varovanci</title>
+  </programme>
+  <programme start="20230716210000 +0200" stop="20230716212500 +0200" channel="Disney Channel">
+    <title lang="sl">Gabby Duran in varovanci</title>
+  </programme>
+  <programme start="20230716212500 +0200" stop="20230716215000 +0200" channel="Disney Channel">
+    <title lang="sl">Gabby Duran in varovanci</title>
+  </programme>
+  <programme start="20230716215000 +0200" stop="20230716221000 +0200" channel="Disney Channel">
+    <title lang="sl">Potegavščine</title>
+  </programme>
+  <programme start="20230716221000 +0200" stop="20230716223500 +0200" channel="Disney Channel">
+    <title lang="sl">Potegavščine</title>
+  </programme>
+  <programme start="20230716223500 +0200" stop="20230716230000 +0200" channel="Disney Channel">
+    <title lang="sl">Potegavščine</title>
+  </programme>
+  <programme start="20230716230000 +0200" stop="20230716232500 +0200" channel="Disney Channel">
+    <title lang="sl">Potegavščine</title>
+  </programme>
+  <programme start="20230716232500 +0200" stop="20230716235000 +0200" channel="Disney Channel">
+    <title lang="sl">Potegavščine</title>
+  </programme>
+  <programme start="20230716235000 +0200" stop="20230717001500 +0200" channel="Disney Channel">
+    <title lang="sl">Poskusni zajčki</title>
+  </programme>
+  <programme start="20230717001500 +0200" stop="20230717004000 +0200" channel="Disney Channel">
+    <title lang="sl">Poskusni zajčki</title>
+  </programme>
+  <programme start="20230717004000 +0200" stop="20230717010500 +0200" channel="Disney Channel">
+    <title lang="sl">Poskusni zajčki</title>
+  </programme>
+  <programme start="20230717010500 +0200" stop="20230717013000 +0200" channel="Disney Channel">
+    <title lang="sl">Potegavščine</title>
+  </programme>
+  <programme start="20230717013000 +0200" stop="20230717015500 +0200" channel="Disney Channel">
+    <title lang="sl">Potegavščine</title>
+  </programme>
+  <programme start="20230717015500 +0200" stop="20230717022000 +0200" channel="Disney Channel">
+    <title lang="sl">Vikingška šola</title>
+  </programme>
+  <programme start="20230717022000 +0200" stop="20230717024500 +0200" channel="Disney Channel">
+    <title lang="sl">Potegavščine</title>
+  </programme>
+  <programme start="20230717024500 +0200" stop="20230717031000 +0200" channel="Disney Channel">
+    <title lang="sl">Potegavščine</title>
+  </programme>
+  <programme start="20230717031000 +0200" stop="20230717033500 +0200" channel="Disney Channel">
+    <title lang="sl">Potegavščine</title>
+  </programme>
+  <programme start="20230717033500 +0200" stop="20230717040000 +0200" channel="Disney Channel">
+    <title lang="sl">Potegavščine</title>
+  </programme>
+  <programme start="20230717040000 +0200" stop="20230717042500 +0200" channel="Disney Channel">
+    <title lang="sl">Vikingška šola</title>
+  </programme>
+  <programme start="20230717042500 +0200" stop="20230717045000 +0200" channel="Disney Channel">
+    <title lang="sl">Vikingška šola</title>
+  </programme>
+  <programme start="20230717045000 +0200" stop="20230717050000 +0200" channel="Disney Channel">
+    <title lang="sl">Potomci: Hudobni svet</title>
+  </programme>
+  <programme start="20230717050000 +0200" stop="20230717052500 +0200" channel="Disney Channel">
+    <title lang="sl">Vikingška šola</title>
+  </programme>
+  <programme start="20230717052500 +0200" stop="20230717055100 +0200" channel="Disney Channel">
+    <title lang="sl">Vikingška šola</title>
+  </programme>
+  <programme start="20230717055100 +0200" stop="20230717061500 +0200" channel="Disney Channel">
+    <title lang="sl">Hrček in Metka</title>
+  </programme>
+  <programme start="20230717061500 +0200" stop="20230717064000 +0200" channel="Disney Channel">
+    <title lang="sl">Hrček in Metka</title>
+  </programme>
+  <programme start="20230717064000 +0200" stop="20230717070500 +0200" channel="Disney Channel">
+    <title lang="sl">Hiša sov</title>
+  </programme>
+  <programme start="20230717070500 +0200" stop="20230717073000 +0200" channel="Disney Channel">
+    <title lang="sl">Hiša sov</title>
+  </programme>
+  <programme start="20230717073000 +0200" stop="20230717075500 +0200" channel="Disney Channel">
+    <title lang="sl">Zgodbe Ladybug in Cat Noir</title>
+  </programme>
+  <programme start="20230717075500 +0200" stop="20230717082000 +0200" channel="Disney Channel">
+    <title lang="sl">Zgodbe Ladybug in Cat Noir</title>
+  </programme>
+  <programme start="20230717082000 +0200" stop="20230717084500 +0200" channel="Disney Channel">
+    <title lang="sl">Poskusni zajčki</title>
+  </programme>
+  <programme start="20230717084500 +0200" stop="20230717091000 +0200" channel="Disney Channel">
+    <title lang="sl">Poskusni zajčki</title>
+  </programme>
+  <programme start="20230717091000 +0200" stop="20230717093500 +0200" channel="Disney Channel">
+    <title lang="sl">Gabby Duran in varovanci</title>
+  </programme>
+  <programme start="20230717093500 +0200" stop="20230717100000 +0200" channel="Disney Channel">
+    <title lang="sl">Gabby Duran in varovanci</title>
+  </programme>
+  <programme start="20230717100000 +0200" stop="20230717100500 +0200" channel="Disney Channel">
+    <title lang="sl">Potomci: Hudobni svet</title>
+  </programme>
+  <programme start="20230717100500 +0200" stop="20230717103000 +0200" channel="Disney Channel">
+    <title lang="sl">Zgodbe Ladybug in Cat Noir</title>
+  </programme>
+  <programme start="20230717103000 +0200" stop="20230717105500 +0200" channel="Disney Channel">
+    <title lang="sl">Zgodbe Ladybug in Cat Noir</title>
+  </programme>
+  <programme start="20230717105500 +0200" stop="20230717112000 +0200" channel="Disney Channel">
+    <title lang="sl">Duh in Molly McGee</title>
+  </programme>
+  <programme start="20230717112000 +0200" stop="20230717114500 +0200" channel="Disney Channel">
+    <title lang="sl">Hrček in Metka</title>
+  </programme>
+  <programme start="20230717114500 +0200" stop="20230717121000 +0200" channel="Disney Channel">
+    <title lang="sl">Veliko mesto, Greens</title>
+  </programme>
+  <programme start="20230717121000 +0200" stop="20230717123500 +0200" channel="Disney Channel">
+    <title lang="sl">Hrček in Metka</title>
+  </programme>
+  <programme start="20230717123500 +0200" stop="20230717130000 +0200" channel="Disney Channel">
+    <title lang="sl">Hrček in Metka</title>
+  </programme>
+  <programme start="20230717130000 +0200" stop="20230717132500 +0200" channel="Disney Channel">
+    <title lang="sl">Zlobneži mesta Valley View</title>
+  </programme>
+  <programme start="20230717132500 +0200" stop="20230717135000 +0200" channel="Disney Channel">
+    <title lang="sl">Zlobneži mesta Valley View</title>
+  </programme>
+  <programme start="20230717135000 +0200" stop="20230717141500 +0200" channel="Disney Channel">
+    <title lang="sl">Zgodbe Ladybug in Cat Noir</title>
+  </programme>
+  <programme start="20230717141500 +0200" stop="20230717144000 +0200" channel="Disney Channel">
+    <title lang="sl">Zgodbe Ladybug in Cat Noir</title>
+  </programme>
+  <programme start="20230717144000 +0200" stop="20230717150500 +0200" channel="Disney Channel">
+    <title lang="sl">Hrček in Metka</title>
+  </programme>
+  <programme start="20230717150500 +0200" stop="20230717153000 +0200" channel="Disney Channel">
+    <title lang="sl">Hrček in Metka</title>
+  </programme>
+  <programme start="20230717153000 +0200" stop="20230717155500 +0200" channel="Disney Channel">
+    <title lang="sl">Poskusni zajčki: Specialna enota</title>
+  </programme>
+  <programme start="20230717155500 +0200" stop="20230717160000 +0200" channel="Disney Channel">
+    <title lang="sl">Potomci: Hudobni svet</title>
+  </programme>
+  <programme start="20230717160000 +0200" stop="20230717162500 +0200" channel="Disney Channel">
+    <title lang="sl">Veliko mesto, Greens</title>
+  </programme>
+  <programme start="20230717162500 +0200" stop="20230717165000 +0200" channel="Disney Channel">
+    <title lang="sl">Veliko mesto, Greens</title>
+  </programme>
+  <programme start="20230717165000 +0200" stop="20230717171500 +0200" channel="Disney Channel">
+    <title lang="sl">Zlobneži mesta Valley View</title>
+  </programme>
+  <programme start="20230717171500 +0200" stop="20230717174100 +0200" channel="Disney Channel">
+    <title lang="sl">Zlobneži mesta Valley View</title>
+  </programme>
+  <programme start="20230717174100 +0200" stop="20230717180600 +0200" channel="Disney Channel">
+    <title lang="sl">Poskusni zajčki</title>
+  </programme>
+  <programme start="20230717180600 +0200" stop="20230717183000 +0200" channel="Disney Channel">
+    <title lang="sl">Poskusni zajčki</title>
+  </programme>
+  <programme start="20230717183000 +0200" stop="20230717185500 +0200" channel="Disney Channel">
+    <title lang="sl">Poskusni zajčki</title>
+  </programme>
+  <programme start="20230717185500 +0200" stop="20230717192000 +0200" channel="Disney Channel">
+    <title lang="sl">Gabby Duran in varovanci</title>
+  </programme>
+  <programme start="20230717192000 +0200" stop="20230717194500 +0200" channel="Disney Channel">
+    <title lang="sl">Gabby Duran in varovanci</title>
+  </programme>
+  <programme start="20230717194500 +0200" stop="20230717201000 +0200" channel="Disney Channel">
+    <title lang="sl">Kamp Kikiwaka</title>
+  </programme>
+  <programme start="20230717201000 +0200" stop="20230717203500 +0200" channel="Disney Channel">
+    <title lang="sl">Zgodbe Ladybug in Cat Noir</title>
+  </programme>
+  <programme start="20230717203500 +0200" stop="20230717210000 +0200" channel="Disney Channel">
+    <title lang="sl">Zgodbe Ladybug in Cat Noir</title>
+  </programme>
+  <programme start="20230717210000 +0200" stop="20230717212500 +0200" channel="Disney Channel">
+    <title lang="sl">Poskusni zajčki: Specialna enota</title>
+  </programme>
+  <programme start="20230717212500 +0200" stop="20230717215000 +0200" channel="Disney Channel">
+    <title lang="sl">Poskusni zajčki: Specialna enota</title>
+  </programme>
+  <programme start="20230717215000 +0200" stop="20230717221000 +0200" channel="Disney Channel">
+    <title lang="sl">Veliko mesto, Greens</title>
+  </programme>
+  <programme start="20230717221000 +0200" stop="20230717223500 +0200" channel="Disney Channel">
+    <title lang="sl">Veliko mesto, Greens</title>
+  </programme>
+  <programme start="20230717223500 +0200" stop="20230717230000 +0200" channel="Disney Channel">
+    <title lang="sl">Kamp Kikiwaka</title>
+  </programme>
+  <programme start="20230717230000 +0200" stop="20230717232500 +0200" channel="Disney Channel">
+    <title lang="sl">Hiša sov</title>
+  </programme>
+  <programme start="20230717232500 +0200" stop="20230717235000 +0200" channel="Disney Channel">
+    <title lang="sl">Hiša sov</title>
+  </programme>
+  <programme start="20230717235000 +0200" stop="20230718001500 +0200" channel="Disney Channel">
+    <title lang="sl">Skrivnosti Žveplenovega izvira</title>
+  </programme>
+  <programme start="20230718001500 +0200" stop="20230718004000 +0200" channel="Disney Channel">
+    <title lang="sl">Skrivnosti Žveplenovega izvira</title>
+  </programme>
+  <programme start="20230718004000 +0200" stop="20230718010500 +0200" channel="Disney Channel">
+    <title lang="sl">Poskusni zajčki: Specialna enota</title>
+  </programme>
+  <programme start="20230718010500 +0200" stop="20230718013000 +0200" channel="Disney Channel">
+    <title lang="sl">Potegavščine</title>
+  </programme>
+  <programme start="20230718013000 +0200" stop="20230718015500 +0200" channel="Disney Channel">
+    <title lang="sl">Potegavščine</title>
+  </programme>
+  <programme start="20230718015500 +0200" stop="20230718022000 +0200" channel="Disney Channel">
+    <title lang="sl">Vikingška šola</title>
+  </programme>
+  <programme start="20230718022000 +0200" stop="20230718024500 +0200" channel="Disney Channel">
+    <title lang="sl">Vikingška šola</title>
+  </programme>
+  <programme start="20230718024500 +0200" stop="20230718031000 +0200" channel="Disney Channel">
+    <title lang="sl">Veliko mesto, Greens</title>
+  </programme>
+  <programme start="20230718031000 +0200" stop="20230718033500 +0200" channel="Disney Channel">
+    <title lang="sl">Potegavščine</title>
+  </programme>
+  <programme start="20230718033500 +0200" stop="20230718040000 +0200" channel="Disney Channel">
+    <title lang="sl">Potegavščine</title>
+  </programme>
+  <programme start="20230718040000 +0200" stop="20230718042500 +0200" channel="Disney Channel">
+    <title lang="sl">Vikingška šola</title>
+  </programme>
+  <programme start="20230718042500 +0200" stop="20230718045000 +0200" channel="Disney Channel">
+    <title lang="sl">Vikingška šola</title>
+  </programme>
+  <programme start="20230718045000 +0200" stop="20230718050000 +0200" channel="Disney Channel">
+    <title lang="sl">Potomci: Hudobni svet</title>
+  </programme>
+  <programme start="20230718050000 +0200" stop="20230718052500 +0200" channel="Disney Channel">
+    <title lang="sl">Vikingška šola</title>
+  </programme>
+  <programme start="20230718052500 +0200" stop="20230718055100 +0200" channel="Disney Channel">
+    <title lang="sl">Vikingška šola</title>
+  </programme>
+  <programme start="20230718055100 +0200" stop="20230718061500 +0200" channel="Disney Channel">
+    <title lang="sl">Hrček in Metka</title>
+  </programme>
+  <programme start="20230718061500 +0200" stop="20230718064000 +0200" channel="Disney Channel">
+    <title lang="sl">Hrček in Metka</title>
+  </programme>
+  <programme start="20230718064000 +0200" stop="20230718070500 +0200" channel="Disney Channel">
+    <title lang="sl">Hiša sov</title>
+  </programme>
+  <programme start="20230718070500 +0200" stop="20230718073000 +0200" channel="Disney Channel">
+    <title lang="sl">Hiša sov</title>
+  </programme>
+  <programme start="20230718073000 +0200" stop="20230718075500 +0200" channel="Disney Channel">
+    <title lang="sl">Zgodbe Ladybug in Cat Noir</title>
+  </programme>
+  <programme start="20230718075500 +0200" stop="20230718082000 +0200" channel="Disney Channel">
+    <title lang="sl">Zgodbe Ladybug in Cat Noir</title>
+  </programme>
+  <programme start="20230718082000 +0200" stop="20230718084500 +0200" channel="Disney Channel">
+    <title lang="sl">Poskusni zajčki</title>
+  </programme>
+  <programme start="20230718084500 +0200" stop="20230718091000 +0200" channel="Disney Channel">
+    <title lang="sl">Poskusni zajčki</title>
+  </programme>
+  <programme start="20230718091000 +0200" stop="20230718093500 +0200" channel="Disney Channel">
+    <title lang="sl">Gabby Duran in varovanci</title>
+  </programme>
+  <programme start="20230718093500 +0200" stop="20230718100000 +0200" channel="Disney Channel">
+    <title lang="sl">Gabby Duran in varovanci</title>
+  </programme>
+  <programme start="20230718100000 +0200" stop="20230718100500 +0200" channel="Disney Channel">
+    <title lang="sl">Potomci: Hudobni svet</title>
+  </programme>
+  <programme start="20230718100500 +0200" stop="20230718103000 +0200" channel="Disney Channel">
+    <title lang="sl">Zgodbe Ladybug in Cat Noir</title>
+  </programme>
+  <programme start="20230718103000 +0200" stop="20230718105500 +0200" channel="Disney Channel">
+    <title lang="sl">Zgodbe Ladybug in Cat Noir</title>
+  </programme>
+  <programme start="20230718105500 +0200" stop="20230718112000 +0200" channel="Disney Channel">
+    <title lang="sl">Duh in Molly McGee</title>
+  </programme>
+  <programme start="20230718112000 +0200" stop="20230718114500 +0200" channel="Disney Channel">
+    <title lang="sl">Hrček in Metka</title>
+  </programme>
+  <programme start="20230718114500 +0200" stop="20230718121000 +0200" channel="Disney Channel">
+    <title lang="sl">Veliko mesto, Greens</title>
+  </programme>
+  <programme start="20230718121000 +0200" stop="20230718123500 +0200" channel="Disney Channel">
+    <title lang="sl">Hrček in Metka</title>
+  </programme>
+  <programme start="20230718123500 +0200" stop="20230718130000 +0200" channel="Disney Channel">
+    <title lang="sl">Hrček in Metka</title>
+  </programme>
+  <programme start="20230718130000 +0200" stop="20230718132500 +0200" channel="Disney Channel">
+    <title lang="sl">Zlobneži mesta Valley View</title>
+  </programme>
+  <programme start="20230718132500 +0200" stop="20230718135000 +0200" channel="Disney Channel">
+    <title lang="sl">Zlobneži mesta Valley View</title>
+  </programme>
+  <programme start="20230718135000 +0200" stop="20230718141500 +0200" channel="Disney Channel">
+    <title lang="sl">Zgodbe Ladybug in Cat Noir</title>
+  </programme>
+  <programme start="20230718141500 +0200" stop="20230718144000 +0200" channel="Disney Channel">
+    <title lang="sl">Zgodbe Ladybug in Cat Noir</title>
+  </programme>
+  <programme start="20230718144000 +0200" stop="20230718150500 +0200" channel="Disney Channel">
+    <title lang="sl">Hrček in Metka</title>
+  </programme>
+  <programme start="20230718150500 +0200" stop="20230718153000 +0200" channel="Disney Channel">
+    <title lang="sl">Hrček in Metka</title>
+  </programme>
+  <programme start="20230718153000 +0200" stop="20230718155500 +0200" channel="Disney Channel">
+    <title lang="sl">Poskusni zajčki: Specialna enota</title>
+  </programme>
+  <programme start="20230718155500 +0200" stop="20230718160000 +0200" channel="Disney Channel">
+    <title lang="sl">Potomci: Hudobni svet</title>
+  </programme>
+  <programme start="20230718160000 +0200" stop="20230718162500 +0200" channel="Disney Channel">
+    <title lang="sl">Veliko mesto, Greens</title>
+  </programme>
+  <programme start="20230718162500 +0200" stop="20230718165000 +0200" channel="Disney Channel">
+    <title lang="sl">Veliko mesto, Greens</title>
+  </programme>
+  <programme start="20230718165000 +0200" stop="20230718171500 +0200" channel="Disney Channel">
+    <title lang="sl">Zlobneži mesta Valley View</title>
+  </programme>
+  <programme start="20230718171500 +0200" stop="20230718174100 +0200" channel="Disney Channel">
+    <title lang="sl">Zlobneži mesta Valley View</title>
+  </programme>
+  <programme start="20230718174100 +0200" stop="20230718180600 +0200" channel="Disney Channel">
+    <title lang="sl">Poskusni zajčki</title>
+  </programme>
+  <programme start="20230718180600 +0200" stop="20230718183000 +0200" channel="Disney Channel">
+    <title lang="sl">Poskusni zajčki</title>
+  </programme>
+  <programme start="20230718183000 +0200" stop="20230718185500 +0200" channel="Disney Channel">
+    <title lang="sl">Poskusni zajčki</title>
+  </programme>
+  <programme start="20230718185500 +0200" stop="20230718192000 +0200" channel="Disney Channel">
+    <title lang="sl">Gabby Duran in varovanci</title>
+  </programme>
+  <programme start="20230718192000 +0200" stop="20230718194500 +0200" channel="Disney Channel">
+    <title lang="sl">Gabby Duran in varovanci</title>
+  </programme>
+  <programme start="20230718194500 +0200" stop="20230718201000 +0200" channel="Disney Channel">
+    <title lang="sl">Kamp Kikiwaka</title>
+  </programme>
+  <programme start="20230718201000 +0200" stop="20230718203500 +0200" channel="Disney Channel">
+    <title lang="sl">Zgodbe Ladybug in Cat Noir</title>
+  </programme>
+  <programme start="20230718203500 +0200" stop="20230718210000 +0200" channel="Disney Channel">
+    <title lang="sl">Zgodbe Ladybug in Cat Noir</title>
+  </programme>
+  <programme start="20230718210000 +0200" stop="20230718212500 +0200" channel="Disney Channel">
+    <title lang="sl">Poskusni zajčki: Specialna enota</title>
+  </programme>
+  <programme start="20230718212500 +0200" stop="20230718215000 +0200" channel="Disney Channel">
+    <title lang="sl">Poskusni zajčki: Specialna enota</title>
+  </programme>
+  <programme start="20230718215000 +0200" stop="20230718221000 +0200" channel="Disney Channel">
+    <title lang="sl">Veliko mesto, Greens</title>
+  </programme>
+  <programme start="20230718221000 +0200" stop="20230718223500 +0200" channel="Disney Channel">
+    <title lang="sl">Veliko mesto, Greens</title>
+  </programme>
+  <programme start="20230718223500 +0200" stop="20230718230000 +0200" channel="Disney Channel">
+    <title lang="sl">Kamp Kikiwaka</title>
+  </programme>
+  <programme start="20230718230000 +0200" stop="20230718232500 +0200" channel="Disney Channel">
+    <title lang="sl">Hiša sov</title>
+  </programme>
+  <programme start="20230718232500 +0200" stop="20230718235000 +0200" channel="Disney Channel">
+    <title lang="sl">Hiša sov</title>
   </programme>
 </tv>
