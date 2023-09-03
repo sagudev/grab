@@ -44,16 +44,11 @@ jobs:
         source ./scripts/multi.sh
         install_xmltv
         tv_grab_si --output "grab_${{ matrix.ch }}.xml" --config-file "./ch/set${{ matrix.ch }}.conf"
-    - name: Commit files
-      run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git remote add origin2 https://${{ secrets.GH_TOKEN }}@github.com/sagudev/grab.git
-        git add --all && (git commit -m "Grab set${{ matrix.ch }}" || echo "No changes to commit")
-        until (git pull --rebase && git push origin2 HEAD:master)
-        do
-          echo "Try again"
-        done
+    - name: Upload result
+      uses: actions/upload-artifact@v3
+      with:
+        name: grab
+        path: "grab_${{ matrix.ch }}.xml"
   grab_wg:
     needs: split
     strategy:
@@ -66,16 +61,11 @@ jobs:
         ref: master
     - name: Run grabber
       run: docker run --rm -v "${PWD}/ch/"${{ matrix.ch }}".xml:/config/WebGrab++.config.xml" -v "${PWD}:/data" synker/webgraboneshot:latest
-    - name: Commit files
-      run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git remote add origin2 https://${{ secrets.GH_TOKEN }}@github.com/sagudev/grab.git
-        git add --all && (git commit -m "wg ${{ matrix.ch }}" || echo "No changes to commit")
-        until (git pull --rebase && git push origin2 HEAD:master)
-        do
-          echo "Try again"
-        done
+    - name: Upload result
+      uses: actions/upload-artifact@v3
+      with:
+        name: wg
+        path: "${{ matrix.ch }}.xml"
   pack:
     needs: [grab, grab_wg]
     runs-on: ubuntu-latest
@@ -83,6 +73,8 @@ jobs:
     - uses: actions/checkout@v2
       with:
         ref: master
+    - name: Download all
+      uses: actions/download-artifact@v2
     - name: Merge
       run: |
         source ./scripts/multi.sh
@@ -99,7 +91,7 @@ jobs:
         git add .
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git commit -m "Push" -a || true
+        git commit -m "Deploy" -a || true
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
