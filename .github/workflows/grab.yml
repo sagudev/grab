@@ -73,7 +73,7 @@ jobs:
         with:
           ref: master
       - name: Run grabber
-        run: docker run --rm -v "${PWD}/ch/"${{ matrix.ch }}".xml:/config/WebGrab++.config.xml" -v "${PWD}:/data" lscr.io/linuxserver/webgrabplus:latest
+        run: docker run --rm -v "${PWD}/ch/"${{ matrix.ch }}".xml:/config/WebGrab++.config.xml" -v "${PWD}:/data" synker/webgraboneshot:latest
       - name: Upload result
         uses: actions/upload-artifact@v3
         with:
