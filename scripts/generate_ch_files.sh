@@ -15,8 +15,8 @@ rm tmp.xml
 FILES=.
 for f in ./*
 do
-   echo "Editing file $f"
-   echo '<?xml version="1.0" encoding="UTF-8"?>
+  echo "Editing file $f"
+  echo '<?xml version="1.0" encoding="UTF-8"?>
     <settings>
     <filename>/data/'"$f"'_wg.xml</filename>
     <mode>m</mode>
@@ -25,8 +25,8 @@ do
     <logging>on</logging>
     <retry time-out="15">1</retry>
     <timespan>7</timespan>
-    <update>i</update>' | cat - "$f" > temp && mv temp "$f.xml"
-    rm "$f"
+  <update>i</update>' | cat - "$f" > temp && mv temp "$f.xml"
+  rm "$f"
   echo '</settings>' >> "$f.xml"
   xmllint "$f.xml" --format --output "$f.xml"
 done

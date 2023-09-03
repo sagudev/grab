@@ -2,32 +2,32 @@ name: CI
 
 on:
   push:
-    branches: [ master ]
+    branches: [master]
   workflow_dispatch:
   schedule:
     # 4:02 everyday
-    - cron:  '2 2,16 * * *'
+    - cron: "2 2,16 * * *"
 
 jobs:
   split:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-    - name: Gen ch files
-      run: |
-        source ./scripts/multi.sh
-        install_xmltv
-        ./scripts/generate_ch_files.sh
-    - name: Commit files
-      run: |
-        git add .
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git commit -m "Update ch files" -a || true
-    - name: Push changes
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/checkout@v2
+      - name: Gen ch files
+        run: |
+          source ./scripts/multi.sh
+          install_xmltv
+          ./scripts/generate_ch_files.sh
+      - name: Commit files
+        run: |
+          git add .
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git commit -m "Update ch files" -a || true
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
   grab:
     timeout-minutes: 300
     needs: split
@@ -36,66 +36,79 @@ jobs:
         ch: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-      with:
-        ref: master
-    - name: Run grabber
-      run: |
-        source ./scripts/multi.sh
-        install_xmltv
-        tv_grab_si --output "grab_${{ matrix.ch }}.xml" --config-file "./ch/set${{ matrix.ch }}.conf"
-    - name: Upload result
-      uses: actions/upload-artifact@v3
-      with:
-        name: grab
-        path: "grab_${{ matrix.ch }}.xml"
+      - uses: actions/checkout@v2
+        with:
+          ref: master
+      - name: Run grabber
+        run: |
+          source ./scripts/multi.sh
+          install_xmltv
+          tv_grab_si --output "grab_${{ matrix.ch }}.xml" --config-file "./ch/set${{ matrix.ch }}.conf"
+      - name: Upload result
+        uses: actions/upload-artifact@v3
+        with:
+          name: grab
+          path: "grab_${{ matrix.ch }}.xml"
   grab_wg:
     needs: split
     strategy:
       matrix:
-        ch: [slo00, slo01, slo02, slo03, slo04, slo05, slo06, slo07, slo08, slo09, slo10]
+        ch:
+          [
+            slo00,
+            slo01,
+            slo02,
+            slo03,
+            slo04,
+            slo05,
+            slo06,
+            slo07,
+            slo08,
+            slo09,
+            slo10,
+          ]
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-      with:
-        ref: master
-    - name: Run grabber
-      run: docker run --rm -v "${PWD}/ch/"${{ matrix.ch }}".xml:/config/WebGrab++.config.xml" -v "${PWD}:/data" synker/webgraboneshot:latest
-    - name: Upload result
-      uses: actions/upload-artifact@v3
-      with:
-        name: wg
-        path: "${{ matrix.ch }}.xml"
+      - uses: actions/checkout@v2
+        with:
+          ref: master
+      - name: Run grabber
+        run: docker run --rm -v "${PWD}/ch/"${{ matrix.ch }}".xml:/config/WebGrab++.config.xml" -v "${PWD}:/data" lscr.io/linuxserver/webgrabplus:latest
+      - name: Upload result
+        uses: actions/upload-artifact@v3
+        with:
+          name: wg
+          path: "${{ matrix.ch }}_wg.xml"
   pack:
     needs: [grab, grab_wg]
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-      with:
-        ref: master
-    - name: Download all
-      uses: actions/download-artifact@v2
-    - name: Merge
-      run: |
-        source ./scripts/multi.sh
-        install_xmltv
-        ./scripts/merge.sh
-        merge
-        clr
-    - name: Pack
-      run: |
-        tar zcvf epg_wg.tar.gz epg_wg.xmltv && zip -r epg_wg.zip epg_wg.xmltv
-        tar zcvf epg.tar.gz epg.xmltv && zip -r epg.zip epg.xmltv
-    - name: Commit files
-      run: |
-        git add .
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git commit -m "Deploy" -a || true
-    - name: Push changes
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-    #- name: Deploy to gh-pages 
+      - uses: actions/checkout@v2
+        with:
+          ref: master
+      - name: Download all
+        uses: actions/download-artifact@v2
+      - name: Merge
+        run: |
+          source ./scripts/multi.sh
+          install_xmltv
+          ./scripts/merge.sh
+          merge
+          clr
+      - name: Pack
+        run: |
+          tar zcvf epg_wg.tar.gz epg_wg.xmltv && zip -r epg_wg.zip epg_wg.xmltv
+          tar zcvf epg.tar.gz epg.xmltv && zip -r epg.zip epg.xmltv
+      - name: Commit files
+        run: |
+          git add .
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git commit -m "Deploy" -a || true
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+    #- name: Deploy to gh-pages
     #  run: |
     #    curl -X POST https://api.github.com/repos/sagudev/grab/pages/builds -H "Accept: application/vnd.github.mister-fantastic-preview+json" -u sagudev:${{ secrets.GH_TOKEN }}
