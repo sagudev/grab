@@ -88,12 +88,11 @@ jobs:
           ref: master
       - name: Download all
         uses: actions/download-artifact@v2
-      - name: Merge
+      - name: Merge #merge
         run: |
           source ./scripts/multi.sh
           install_xmltv
           ./scripts/merge.sh
-          merge
           clr
       - name: Pack
         run: |
