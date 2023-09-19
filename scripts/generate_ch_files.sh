@@ -33,6 +33,7 @@ done
 
 # v2
 echo "none" | tv_grab_si --configure
+sort -o tv_grab_si.conf tv_grab_si.conf
 cp  ~/.xmltv/tv_grab_si.conf set1.conf
 cp  ~/.xmltv/tv_grab_si.conf set2.conf
 cp  ~/.xmltv/tv_grab_si.conf set3.conf

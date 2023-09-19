@@ -98,16 +98,17 @@ jobs:
         run: |
           tar zcvf epg_wg.tar.gz epg_wg.xmltv && zip -r epg_wg.zip epg_wg.xmltv
           tar zcvf epg.tar.gz epg.xmltv && zip -r epg.zip epg.xmltv
-      - name: Commit files
-        run: |
-          git add .
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git commit -m "Deploy" -a || true
-      - name: Push changes
-        uses: ad-m/github-push-action@master
+      - name: Update Nightly Release
+        uses: andelf/nightly-release@main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-    #- name: Deploy to gh-pages
-    #  run: |
-    #    curl -X POST https://api.github.com/repos/sagudev/grab/pages/builds -H "Accept: application/vnd.github.mister-fantastic-preview+json" -u sagudev:${{ secrets.GH_TOKEN }}
+          tag_name: nightly
+          name: "Spored $$"
+          prerelease: true
+          body: "TODO"
+          files: |
+            ./*.xmltv
+            ./*.gz
+            ./*.zip
+            README
