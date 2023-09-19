@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   schedule:
     # 4:02 everyday
-    - cron: "2 2,16 * * *"
+    - cron: "2 2 * * *"
 
 jobs:
   split:
@@ -36,7 +36,7 @@ jobs:
         ch: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           ref: master
       - name: Run grabber
@@ -69,7 +69,7 @@ jobs:
           ]
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           ref: master
       - name: Run grabber
@@ -83,9 +83,12 @@ jobs:
     needs: [grab, grab_wg]
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           ref: master
+      - name: Get current date
+        id: date
+        run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
       - name: Download all
         uses: actions/download-artifact@v2
       - name: Merge #merge
@@ -103,10 +106,24 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          tag_name: nightly
-          name: "Spored $$"
+          tag_name: latest
+          name: "Najnovejši Spored"
           prerelease: true
-          body: "TODO"
+          body: "Dnevno generiran spored"
+          files: |
+            ./*.xmltv
+            ./*.gz
+            ./*.zip
+            README
+      - name: Update Nightly Release
+        uses: andelf/nightly-release@main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: ${{ steps.date.outputs.date }}
+          name: "Spored ${{ steps.date.outputs.date }}"
+          prerelease: true
+          body: "Generiran ${{ steps.date.outputs.date }}"
           files: |
             ./*.xmltv
             ./*.gz
