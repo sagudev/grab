@@ -99,8 +99,8 @@ jobs:
           clr
       - name: Pack
         run: |
-          tar zcvf epg_wg.tar.gz epg_wg.xmltv && zip -r epg_wg.zip epg_wg.xmltv
-          tar zcvf epg.tar.gz epg.xmltv && zip -r epg.zip epg.xmltv
+          zip -r epg_wg.zip epg_wg.xmltv
+          zip -r epg.zip epg.xmltv && gzip epg.xmltv
       - name: Update Nightly Release
         uses: andelf/nightly-release@main
         env:
