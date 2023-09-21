@@ -26,8 +26,8 @@ echo "wg merge done!"
 for filename in grab/grab_*.xml
 do
   # Move firs one
-  if [[ "$filename" = "grab_1.xml" ]]; then
-    mv -f "grab_1.xml" "epg.xmltv"
+  if [[ "$filename" == *"grab_1.xml"* ]]; then
+    mv -f "$filename" "epg.xmltv"
     continue
   fi
   echo -e "merge ${filename}"
