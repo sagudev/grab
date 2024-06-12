@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+  <filename>/data/./slo01_wg.xml</filename>
+  <mode>m</mode>
+  <proxy>automatic</proxy>
+  <user-agent>Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; yie9)</user-agent>
+  <logging>on</logging>
+  <retry time-out="15">1</retry>
+  <timespan>7</timespan>
+  <update>i</update>
+  <channel update="i" site="siol.net" site_id="cnn" xmltv_id="CNN">CNN</channel>
+  <channel update="i" site="siol.net" site_id="cartoon" xmltv_id="Cartoon / TCM">Cartoon / TCM</channel>
+  <channel update="i" site="siol.net" site_id="russia1" xmltv_id="Channel One Russia">Channel One Russia</channel>
+  <channel update="i" site="siol.net" site_id="cinestaraction" xmltv_id="CineStar TV Action &amp; Thriller">CineStar TV Action &amp; Thriller</channel>
+  <channel update="i" site="siol.net" site_id="cinestarpr1" xmltv_id="CineStar TV Premiere 1">CineStar TV Premiere 1</channel>
+  <channel update="i" site="siol.net" site_id="cinestarpr2" xmltv_id="CineStar TV Premiere 2">CineStar TV Premiere 2</channel>
+  <channel update="i" site="siol.net" site_id="cinemax1" xmltv_id="Cinemax">Cinemax</channel>
+  <channel update="i" site="siol.net" site_id="cinemax2" xmltv_id="Cinemax 2">Cinemax 2</channel>
+  <channel update="i" site="siol.net" site_id="cinestartv" xmltv_id="Cinestar">Cinestar</channel>
+  <channel update="i" site="siol.net" site_id="comedycentral" xmltv_id="Comedy central">Comedy central</channel>
+  <channel update="i" site="siol.net" site_id="dtx" xmltv_id="DTX">DTX</channel>
+  <channel update="i" site="siol.net" site_id="davincilear" xmltv_id="Da Vinci Learning">Da Vinci Learning</channel>
+  <channel update="i" site="siol.net" site_id="discovery" xmltv_id="Discovery Channel">Discovery Channel</channel>
+  <channel update="i" site="siol.net" site_id="discoveryhd" xmltv_id="Discovery HD Showcase">Discovery HD Showcase</channel>
+  <channel update="i" site="siol.net" site_id="discidx" xmltv_id="Discovery ID Xtra">Discovery ID Xtra</channel>
+  <channel update="i" site="siol.net" site_id="discsci" xmltv_id="Discovery Science">Discovery Science</channel>
+  <channel update="i" site="siol.net" site_id="disctlc" xmltv_id="Discovery TLC">Discovery TLC</channel>
+  <channel update="i" site="siol.net" site_id="disney" xmltv_id="Disney Channel">Disney Channel</channel>
+  <channel update="i" site="siol.net" site_id="jetix" xmltv_id="Disney XD">Disney XD</channel>
+</settings>

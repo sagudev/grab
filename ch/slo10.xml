@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+  <filename>/data/./slo10_wg.xml</filename>
+  <mode>m</mode>
+  <proxy>automatic</proxy>
+  <user-agent>Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; yie9)</user-agent>
+  <logging>on</logging>
+  <retry time-out="15">1</retry>
+  <timespan>7</timespan>
+  <update>i</update>
+  <channel update="i" site="siol.net" site_id="vianature" xmltv_id="Viasat Nature">Viasat Nature</channel>
+  <channel update="i" site="siol.net" site_id="vikom" xmltv_id="Vikom">Vikom</channel>
+  <channel update="i" site="siol.net" site_id="woman" xmltv_id="Woman">Woman</channel>
+  <channel update="i" site="siol.net" site_id="z1" xmltv_id="Z1 Televizija">Z1 Televizija</channel>
+  <channel update="i" site="siol.net" site_id="zdf" xmltv_id="ZDF">ZDF</channel>
+  <channel update="i" site="siol.net" site_id="zdrava" xmltv_id="Zdrava TV">Zdrava TV</channel>
+  <channel update="i" site="siol.net" site_id="sporttv" xmltv_id="Šport TV 1">Šport TV 1</channel>
+  <channel update="i" site="siol.net" site_id="sporttv2" xmltv_id="Šport TV 2">Šport TV 2</channel>
+  <channel update="i" site="siol.net" site_id="sporttv3" xmltv_id="Šport TV 3">Šport TV 3</channel>
+  <channel update="c" site="siol.net" site_id="nicktoons" xmltv_id="NickToons">NickToons</channel>
+  <channel update="c" site="siol.net" site_id="nickjr1" xmltv_id="Nick Jr">Nick Jr.</channel>
+</settings>
