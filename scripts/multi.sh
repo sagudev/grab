@@ -66,7 +66,7 @@ function install_xmltv() {
   #cd $GITHUB_WORKSPACE
   #export PATH="/tmp/xmltv/bin:$PATH"
   # download src
-  git clone https://github.com/sagudev/xmltv.git
+  git clone -b si https://github.com/sagudev/xmltv.git
   cd xmltv
   
   # build and install
