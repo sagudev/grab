@@ -90,7 +90,7 @@ jobs:
         id: date
         run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
       - name: Download all
-        uses: actions/download-artifact@v2
+        uses: actions/download-artifact@v4.1.7
       - name: Merge #merge
         run: |
           source ./scripts/multi.sh
