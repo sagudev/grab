@@ -44,13 +44,13 @@ cp  ~/.xmltv/tv_grab_si.conf set7.conf
 cp  ~/.xmltv/tv_grab_si.conf set8.conf
 cp  ~/.xmltv/tv_grab_si.conf set9.conf
 cp  ~/.xmltv/tv_grab_si.conf set10.conf
-sed -i -e '1,25{s/!/=/}' set1.conf
-sed -i -e '26,50{s/!/=/}' set2.conf
-sed -i -e '51,75{s/!/=/}' set3.conf
-sed -i -e '76,100{s/!/=/}' set4.conf
-sed -i -e '101,125{s/!/=/}' set5.conf
-sed -i -e '126,150{s/!/=/}' set6.conf
-sed -i -e '151,175{s/!/=/}' set7.conf
-sed -i -e '176,200{s/!/=/}' set8.conf
-sed -i -e '201,225{s/!/=/}' set9.conf
-sed -i -e '226,300{s/!/=/}' set10.conf
+awk -i inplace 'NR % 10 == 0' set1.conf
+awk -i inplace 'NR % 10 == 1' set2.conf
+awk -i inplace 'NR % 10 == 2' set3.conf
+awk -i inplace 'NR % 10 == 3' set4.conf
+awk -i inplace 'NR % 10 == 4' set5.conf
+awk -i inplace 'NR % 10 == 5' set6.conf
+awk -i inplace 'NR % 10 == 6' set7.conf
+awk -i inplace 'NR % 10 == 7' set8.conf
+awk -i inplace 'NR % 10 == 8' set9.conf
+awk -i inplace 'NR % 10 == 9' set10.conf
